@@ -1,0 +1,62 @@
+window.MEPP_EVENTS = [
+  {
+    "id": "opening-phase",
+    "label": "Opening Phase",
+    "dateSpan": "January 20, 1989-July 31, 1990",
+    "chapter": "Madrid-Multilateral Track",
+    "summary": "Early administration positioning, Baker's regional approach, Israeli leadership contacts, and pre-Kuwait-crisis Arab diplomacy.",
+    "compilerFocus": "Establish the policy baseline before the Gulf crisis changed the regional bargaining environment.",
+    "records": 62,
+    "publicStatements": 87
+  },
+  {
+    "id": "gulf-war-linkage",
+    "label": "Gulf War Linkage",
+    "dateSpan": "August 1, 1990-March 31, 1991",
+    "chapter": "Egypt-Arab Regional Track",
+    "summary": "Kuwait crisis coalition diplomacy, Israeli restraint during Iraqi missile attacks, and Arab-state leverage for postwar diplomacy.",
+    "compilerFocus": "Separate Gulf War operational material from records that shaped the later peace-process opening.",
+    "records": 51,
+    "publicStatements": 95
+  },
+  {
+    "id": "road-to-madrid",
+    "label": "Road to Madrid",
+    "dateSpan": "April 1-October 29, 1991",
+    "chapter": "Madrid-Multilateral Track",
+    "summary": "Postwar shuttle diplomacy and negotiations over attendance, delegation formulas, letters of assurance, and conference terms.",
+    "compilerFocus": "Track who authorized compromises and how the Palestinian/Jordanian and Syria/Lebanon tracks were framed.",
+    "records": 22,
+    "publicStatements": 57
+  },
+  {
+    "id": "madrid-conference",
+    "label": "Madrid Conference",
+    "dateSpan": "October 30-November 3, 1991",
+    "chapter": "Madrid-Multilateral Track",
+    "summary": "The opening conference and surrounding high-level bilateral meetings with Israel, Egypt, Jordan, Syria, and other actors.",
+    "compilerFocus": "Prioritize exact date/time sequence, participant verification, and conference-adjacent bilateral conversations.",
+    "records": 6,
+    "publicStatements": 3
+  },
+  {
+    "id": "post-madrid",
+    "label": "Post-Madrid Tracks",
+    "dateSpan": "November 4, 1991-June 22, 1992",
+    "chapter": "Israel Track",
+    "summary": "Bilateral rounds, multilateral working groups, settlement and loan-guarantee disputes, and Israeli election-period diplomacy.",
+    "compilerFocus": "Connect public pressure, private assurances, and declassification status for loan guarantees and settlements.",
+    "records": 10,
+    "publicStatements": 34
+  },
+  {
+    "id": "israeli-transition",
+    "label": "Israeli Transition",
+    "dateSpan": "June 23, 1992-January 20, 1993",
+    "chapter": "Israel Track",
+    "summary": "Rabin government's arrival, late Bush administration peace-process moves, and transition issues handed to the Clinton team.",
+    "compilerFocus": "Mark records that belong in the Bush volume versus later Oslo-era files.",
+    "records": 14,
+    "publicStatements": 36
+  }
+];

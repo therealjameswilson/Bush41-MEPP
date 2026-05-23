@@ -1,0 +1,272 @@
+window.MEPP_PERSONS = [
+  {
+    "name": "George H.W. Bush",
+    "role": "President of the United States",
+    "country": "United States",
+    "aliases": [
+      "George H.W. Bush",
+      "President Bush",
+      "the President",
+      "Bush"
+    ],
+    "chapter": "Madrid-Multilateral Track",
+    "compilerUse": "Decision-maker for Madrid, loan guarantees, coalition diplomacy, and Israeli restraint questions.",
+    "recordHits": 165,
+    "publicStatementHits": 312,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "Yitzhak Shamir",
+    "role": "Prime Minister of Israel",
+    "country": "Israel",
+    "aliases": [
+      "Yitzhak Shamir",
+      "Shamir"
+    ],
+    "chapter": "Israel Track",
+    "compilerUse": "Central Israeli counterpart through Madrid and loan-guarantee disputes.",
+    "recordHits": 36,
+    "publicStatementHits": 30,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "Hosni Mubarak",
+    "role": "President of Egypt",
+    "country": "Egypt",
+    "aliases": [
+      "Hosni Mubarak",
+      "Mubarak"
+    ],
+    "chapter": "Egypt-Arab Regional Track",
+    "compilerUse": "Egyptian mediation, Arab-state positioning, and postwar peace-process support.",
+    "recordHits": 46,
+    "publicStatementHits": 4,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "King Hussein",
+    "role": "King of Jordan",
+    "country": "Jordan",
+    "aliases": [
+      "King Hussein",
+      "Hussein of Jordan"
+    ],
+    "chapter": "Palestinian-Jordanian Track",
+    "compilerUse": "Jordanian-Palestinian delegation formula, Madrid positioning, and regional diplomacy.",
+    "recordHits": 25,
+    "publicStatementHits": 4,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "Yasir Arafat",
+    "role": "Chairman of the Palestine Liberation Organization",
+    "country": "Palestinians",
+    "aliases": [
+      "Yasir Arafat",
+      "Arafat",
+      "PLO"
+    ],
+    "chapter": "Palestinian-Jordanian Track",
+    "compilerUse": "Indirect diplomatic channel and PLO recognition constraints.",
+    "recordHits": 22,
+    "publicStatementHits": 6,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "Hafez al-Assad",
+    "role": "President of Syria",
+    "country": "Syria",
+    "aliases": [
+      "Hafez Assad",
+      "Hafez al-Assad",
+      "Assad"
+    ],
+    "chapter": "Syria-Lebanon Track",
+    "compilerUse": "Syria track, Lebanon implications, Madrid participation, and coalition diplomacy.",
+    "recordHits": 21,
+    "publicStatementHits": 6,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "King Fahd",
+    "role": "King of Saudi Arabia",
+    "country": "Saudi Arabia",
+    "aliases": [
+      "King Fahd",
+      "Fahd"
+    ],
+    "chapter": "Egypt-Arab Regional Track",
+    "compilerUse": "Saudi support, Gulf War linkage, and Arab coalition setting for the peace process.",
+    "recordHits": 22,
+    "publicStatementHits": 2,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "Javier Perez de Cuellar",
+    "role": "Secretary-General of the United Nations",
+    "country": "United Nations",
+    "aliases": [
+      "Perez de Cuellar",
+      "Javier Perez de Cuellar"
+    ],
+    "chapter": "Madrid-Multilateral Track",
+    "compilerUse": "UN reference point for Arab-Israeli diplomacy and regional settlement language.",
+    "recordHits": 16,
+    "publicStatementHits": 4,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "Yitzhak Rabin",
+    "role": "Prime Minister of Israel from July 1992",
+    "country": "Israel",
+    "aliases": [
+      "Yitzhak Rabin",
+      "Rabin"
+    ],
+    "chapter": "Israel Track",
+    "compilerUse": "Late-volume transition point and handoff to the Oslo-era policy record.",
+    "recordHits": 12,
+    "publicStatementHits": 6,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "Moshe Arens",
+    "role": "Foreign Minister and Defense Minister of Israel",
+    "country": "Israel",
+    "aliases": [
+      "Moshe Arens",
+      "Arens"
+    ],
+    "chapter": "Israel Track",
+    "compilerUse": "Israeli security and diplomatic channel in early Bush administration contacts.",
+    "recordHits": 11,
+    "publicStatementHits": 2,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "Shimon Peres",
+    "role": "Israeli Labor leader and former Prime Minister",
+    "country": "Israel",
+    "aliases": [
+      "Shimon Peres",
+      "Peres"
+    ],
+    "chapter": "Israel Track",
+    "compilerUse": "Opposition and later government context for Israeli political transition.",
+    "recordHits": 8,
+    "publicStatementHits": 4,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "James A. Baker III",
+    "role": "Secretary of State",
+    "country": "United States",
+    "aliases": [
+      "James A. Baker",
+      "Baker"
+    ],
+    "chapter": "Madrid-Multilateral Track",
+    "compilerUse": "Primary shuttle-diplomacy actor; essential bridge to State Department files and meeting memoranda.",
+    "recordHits": 8,
+    "publicStatementHits": 3,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "Amre Mousa",
+    "role": "Foreign Minister of Egypt",
+    "country": "Egypt",
+    "aliases": [
+      "Amre Mousa",
+      "Mousa"
+    ],
+    "chapter": "Egypt-Arab Regional Track",
+    "compilerUse": "Foreign-minister channel around Madrid and Arab diplomatic coordination.",
+    "recordHits": 1,
+    "publicStatementHits": 0,
+    "sourceTypes": [
+      "Presidential conversations",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "Dennis Ross",
+    "role": "Director, Policy Planning Staff; Middle East peace adviser",
+    "country": "United States",
+    "aliases": [
+      "Dennis Ross",
+      "Ross"
+    ],
+    "chapter": "Madrid-Multilateral Track",
+    "compilerUse": "Likely source-file target for negotiation strategy, invitations, and bilateral track memoranda.",
+    "recordHits": 0,
+    "publicStatementHits": 1,
+    "sourceTypes": [
+      "Public Papers",
+      "Compiler lead"
+    ]
+  },
+  {
+    "name": "Brent Scowcroft",
+    "role": "Assistant to the President for National Security Affairs",
+    "country": "United States",
+    "aliases": [
+      "Brent Scowcroft",
+      "Scowcroft"
+    ],
+    "chapter": "Madrid-Multilateral Track",
+    "compilerUse": "NSC process, presidential briefing, and declassification trail anchor.",
+    "recordHits": 0,
+    "publicStatementHits": 0,
+    "sourceTypes": [
+      "Compiler lead"
+    ]
+  }
+];

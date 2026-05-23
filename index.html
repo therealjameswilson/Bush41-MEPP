@@ -1,0 +1,391 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>FRUS 1989-1992 Volume XIV MEPP Assist</title>
+    <meta
+      name="description"
+      content="A compiler-facing research workbench for Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Israeli Dispute."
+    />
+    <link rel="icon" href="data:," />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <a class="brand" href="#top" aria-label="Bush41 MEPP FRUS assist home">
+        <span class="brand-mark">41</span>
+        <span>Bush41-MEPP</span>
+      </a>
+      <nav aria-label="Primary navigation">
+        <a href="#workbench">Workbench</a>
+        <a href="#chapters">Chapters</a>
+        <a href="#records">Records</a>
+        <a href="#events">Events</a>
+        <a href="#persons">Persons</a>
+        <a href="#statements">Statements</a>
+        <a href="#source-leads">Sources</a>
+        <a href="#gaps">Gaps</a>
+        <a href="#review">Review</a>
+        <a href="#ingest">Ingest</a>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero" aria-labelledby="hero-title">
+        <div class="hero-copy">
+          <p class="kicker">FRUS 1989-1992, Volume XIV</p>
+          <h1 id="hero-title">Arab-Israeli Dispute Compiler Assist</h1>
+          <p class="lede">
+            A static research workbench for the Bush administration Middle East peace process file:
+            declassified presidential memoranda and telephone conversations, Public Papers references,
+            people, events, source leads, gap tracking, review state, and exportable finding aids for
+            the compiler of <em>Foreign Relations of the United States, 1989-1992, Volume XIV,
+            Arab-Israeli Dispute</em>.
+          </p>
+          <div class="hero-actions" aria-label="Primary actions">
+            <a class="button primary" href="#workbench">Open Workbench</a>
+            <a class="button secondary" href="https://history.state.gov/historicaldocuments/frus1989-92v14" rel="noreferrer">FRUS Volume</a>
+            <a class="button secondary" href="#gaps">Gap Register</a>
+          </div>
+        </div>
+        <aside class="brief visual-brief" aria-label="Archive scope">
+          <img
+            class="archive-map"
+            src="assets/mepp-archive-map.svg"
+            alt="Stylized Eastern Mediterranean archive map for the Middle East peace process source base"
+          />
+          <p class="brief-label">Working Scope</p>
+          <dl>
+            <div>
+              <dt>FRUS Volume</dt>
+              <dd>1989-1992, XIV</dd>
+            </div>
+            <div>
+              <dt>Subject</dt>
+              <dd>Arab-Israeli Dispute</dd>
+            </div>
+            <div>
+              <dt>Site Shortname</dt>
+              <dd>MEPP</dd>
+            </div>
+            <div>
+              <dt>Arrangement</dt>
+              <dd>Tracks, chronology, source trail</dd>
+            </div>
+          </dl>
+        </aside>
+      </section>
+
+      <section class="stats" aria-label="Archive summary">
+        <div>
+          <span id="total-records">0</span>
+          <p>presidential conversations</p>
+        </div>
+        <div>
+          <span id="total-pdfs">0</span>
+          <p>direct NARA PDFs</p>
+        </div>
+        <div>
+          <span id="total-statements">0</span>
+          <p>Public Papers references</p>
+        </div>
+        <div>
+          <span id="total-persons">0</span>
+          <p>people in front-matter list</p>
+        </div>
+        <div>
+          <span id="total-gaps">0</span>
+          <p>compiler gaps</p>
+        </div>
+        <div>
+          <span id="total-reviewed">0</span>
+          <p>locally reviewed records</p>
+        </div>
+      </section>
+
+      <section class="section workbench" id="workbench" aria-labelledby="workbench-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Compiler Workbench</p>
+            <h2 id="workbench-title">Triage the MEPP Chronology</h2>
+          </div>
+          <p class="section-note">
+            Built for source-note control, selection triage, PDF verification, public/private chronology,
+            and gap-first research planning.
+          </p>
+        </div>
+
+        <div class="control-grid" role="search" aria-label="Filter presidential records">
+          <label>
+            Search records
+            <input id="filter-search" type="search" placeholder="Shamir, Madrid, loan guarantees, Jordan, NAID..." />
+          </label>
+          <label>
+            Track
+            <select id="filter-chapter">
+              <option value="">All tracks</option>
+            </select>
+          </label>
+          <label>
+            Type
+            <select id="filter-type">
+              <option value="">All types</option>
+            </select>
+          </label>
+          <label>
+            Year
+            <select id="filter-year">
+              <option value="">All years</option>
+            </select>
+          </label>
+          <label>
+            Source series
+            <select id="filter-source">
+              <option value="">All source series</option>
+            </select>
+          </label>
+          <label>
+            Selection value
+            <select id="filter-value">
+              <option value="">All values</option>
+              <option value="Anchor">Anchor</option>
+              <option value="High">High</option>
+              <option value="Context">Context</option>
+            </select>
+          </label>
+          <label>
+            Review state
+            <select id="filter-review">
+              <option value="">All records</option>
+              <option value="open">Open review</option>
+              <option value="reviewed">Reviewed locally</option>
+            </select>
+          </label>
+          <label>
+            Sort
+            <select id="sort-records">
+              <option value="chapter-date">Track chronology</option>
+              <option value="date">Single chronology</option>
+              <option value="value">Selection value</option>
+              <option value="source">Source series</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="workbench-actions">
+          <p id="filtered-count">Showing 0 of 0 records.</p>
+          <div>
+            <button id="reset-filters" type="button">Reset</button>
+            <button id="export-csv" type="button">Export visible CSV</button>
+          </div>
+        </div>
+
+        <div class="compiler-guidance" aria-label="FRUS compiler checks">
+          <article>
+            <h3>Selection Standard</h3>
+            <p>Prioritize records that document presidential decisions, negotiating formulas, letters of assurance, regional pressure, or high-level bilateral tracks.</p>
+          </article>
+          <article>
+            <h3>Source Note Prep</h3>
+            <p>Use the draft note as a starting point. Verify the scan for place, time, classification, drafting, distribution, participants, attachments, and excisions.</p>
+          </article>
+          <article>
+            <h3>Gap Discipline</h3>
+            <p>Treat presidential records as endpoints. State Department, NSC staff, and subject files are required to reconstruct the policy chain.</p>
+          </article>
+        </div>
+      </section>
+
+      <section class="section" id="chapters" aria-labelledby="chapters-title">
+        <div class="section-heading">
+          <p class="kicker">Chapter Plan</p>
+          <h2 id="chapters-title">Working Track Arrangement</h2>
+        </div>
+        <div id="chapter-grid" class="chapter-grid" aria-live="polite"></div>
+      </section>
+
+      <section class="section records-section" id="records" aria-labelledby="records-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Document Corpus</p>
+            <h2 id="records-title">Presidential Conversations</h2>
+          </div>
+          <a class="section-link" href="https://catalog.archives.gov/id/321498039" rel="noreferrer">NARA Memcon series</a>
+        </div>
+        <div id="records-root" class="record-list" aria-live="polite">
+          <p class="loading">Loading presidential records...</p>
+        </div>
+      </section>
+
+      <section class="section" id="events" aria-labelledby="events-title">
+        <div class="section-heading">
+          <p class="kicker">Chronology</p>
+          <h2 id="events-title">Event Dossiers</h2>
+        </div>
+        <div id="events-root" class="timeline" aria-live="polite"></div>
+      </section>
+
+      <section class="section" id="persons" aria-labelledby="persons-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Editorial Front Matter</p>
+            <h2 id="persons-title">Persons</h2>
+          </div>
+          <button id="export-persons-csv" type="button" class="small-button">Export persons CSV</button>
+        </div>
+        <div class="mini-tools">
+          <label>
+            Search persons
+            <input id="person-search" type="search" placeholder="Baker, Shamir, Jordan..." />
+          </label>
+          <label>
+            Track
+            <select id="person-chapter">
+              <option value="">All tracks</option>
+            </select>
+          </label>
+          <p id="person-count" class="result-summary">0 persons</p>
+        </div>
+        <div id="persons-root" class="person-grid" aria-live="polite"></div>
+      </section>
+
+      <section class="section statement-section" id="statements" aria-labelledby="statements-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Public Chronology</p>
+            <h2 id="statements-title">Public Papers References</h2>
+          </div>
+          <button id="export-statements-csv" type="button" class="small-button">Export statements CSV</button>
+        </div>
+        <div class="control-grid compact-grid" role="search" aria-label="Filter public statements">
+          <label>
+            Search statements
+            <input id="statement-search" type="search" placeholder="Madrid, Arafat, settlements, press conference..." />
+          </label>
+          <label>
+            Track
+            <select id="statement-chapter">
+              <option value="">All tracks</option>
+            </select>
+          </label>
+          <label>
+            Year
+            <select id="statement-year">
+              <option value="">All years</option>
+            </select>
+          </label>
+          <label>
+            Relevance
+            <select id="statement-relevance">
+              <option value="">All relevance levels</option>
+            </select>
+          </label>
+          <label>
+            Sort
+            <select id="sort-statements">
+              <option value="date">Date</option>
+              <option value="chapter-date">Track chronology</option>
+              <option value="relevance">Relevance</option>
+            </select>
+          </label>
+        </div>
+        <div class="workbench-actions">
+          <p id="statement-count">Showing 0 of 0 references.</p>
+          <button id="reset-statements" type="button">Reset public filters</button>
+        </div>
+        <div id="statements-root" class="statement-list" aria-live="polite"></div>
+      </section>
+
+      <section class="section" id="source-leads" aria-labelledby="source-leads-title">
+        <div class="section-heading">
+          <p class="kicker">Research Lanes</p>
+          <h2 id="source-leads-title">Source Series and Next Harvests</h2>
+        </div>
+        <div id="source-leads-root" class="source-grid" aria-live="polite"></div>
+      </section>
+
+      <section class="section gap-section" id="gaps" aria-labelledby="gaps-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Compiler Risk</p>
+            <h2 id="gaps-title">Gap Register</h2>
+          </div>
+          <button id="export-gaps-csv" type="button" class="small-button">Export gaps CSV</button>
+        </div>
+        <div class="mini-tools">
+          <label>
+            Search gaps
+            <input id="gap-search" type="search" placeholder="State files, Palestinians, source notes..." />
+          </label>
+          <label>
+            Priority
+            <select id="gap-priority">
+              <option value="">All priorities</option>
+            </select>
+          </label>
+          <label>
+            Category
+            <select id="gap-category">
+              <option value="">All categories</option>
+            </select>
+          </label>
+          <p id="gap-count" class="result-summary">0 gaps</p>
+        </div>
+        <div id="gaps-root" class="gap-list" aria-live="polite"></div>
+      </section>
+
+      <section class="section review-section" id="review" aria-labelledby="review-title">
+        <div class="section-heading">
+          <p class="kicker">Local Review</p>
+          <h2 id="review-title">Review Queue</h2>
+        </div>
+        <div class="review-grid">
+          <article>
+            <h3>Open Anchor and High-Value Records</h3>
+            <p id="open-review-count">0 records need local review.</p>
+          </article>
+          <article>
+            <h3>Reviewed Locally</h3>
+            <p id="reviewed-list-summary">0 records marked reviewed in this browser.</p>
+          </article>
+        </div>
+        <div id="review-root" class="review-list" aria-live="polite"></div>
+      </section>
+
+      <section class="section" id="ingest" aria-labelledby="ingest-title">
+        <div class="section-heading">
+          <p class="kicker">Reproducibility</p>
+          <h2 id="ingest-title">Ingest and Verification Trail</h2>
+        </div>
+        <div class="ingest-grid">
+          <article>
+            <h3>Record Harvest</h3>
+            <p><code>node scripts/harvest-presidential-conversations.js</code> queries the Presidential Memcon and Telcon Files, filters to unrestricted item-level PDFs, dedupes by NAID, and writes <code>data/records.json</code>.</p>
+          </article>
+          <article>
+            <h3>Public Papers Harvest</h3>
+            <p><code>node scripts/harvest-public-statements.js</code> downloads official GovInfo Public Papers PDFs, extracts page-level text, promotes MEPP-relevant entries, and writes <code>data/public-statements.json</code>.</p>
+          </article>
+          <article>
+            <h3>Supporting Data</h3>
+            <p><code>node scripts/build-supporting-data.js</code> rebuilds persons, event dossiers, source leads, and compiler gaps from the harvested corpora and curated compiler targets.</p>
+          </article>
+          <article>
+            <h3>Source Anchors</h3>
+            <p>Primary anchors: the <a href="https://history.state.gov/historicaldocuments/frus1989-92v14" rel="noreferrer">FRUS Volume XIV page</a>, NARA Catalog, GovInfo Public Papers, and George H.W. Bush Library declassified PDFs.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <script src="data/records.js"></script>
+    <script src="data/public-statements.js"></script>
+    <script src="data/persons.js"></script>
+    <script src="data/events.js"></script>
+    <script src="data/compiler-gaps.js"></script>
+    <script src="data/source-leads.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
+

@@ -1,0 +1,111 @@
+window.MEPP_SOURCE_LEADS = [
+  {
+    "id": "presidential-memcon-files",
+    "title": "Presidential Memcon Files",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "naid": "321498039",
+    "status": "Harvested",
+    "chapter": "All chapters",
+    "whyItMatters": "Core high-level conversation set for Bush meetings with Israeli, Arab, UN, and regional leaders.",
+    "searchTerms": [
+      "Shamir",
+      "Rabin",
+      "Mubarak",
+      "King Hussein",
+      "Assad",
+      "Madrid",
+      "Arab-Israeli"
+    ],
+    "url": "https://catalog.archives.gov/id/321498039"
+  },
+  {
+    "id": "presidential-telcon-files",
+    "title": "Presidential Telcon Files",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "naid": "321498139",
+    "status": "Harvested",
+    "chapter": "All chapters",
+    "whyItMatters": "Essential for Israeli restraint, Gulf War calls, Madrid follow-up, loan guarantees, and late-transition diplomacy.",
+    "searchTerms": [
+      "Shamir",
+      "Mubarak",
+      "King Hussein",
+      "Rabin",
+      "Israel",
+      "peace process"
+    ],
+    "url": "https://catalog.archives.gov/id/321498139"
+  },
+  {
+    "id": "nsc-staff-files",
+    "title": "NSC staff and country files",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "naid": "",
+    "status": "Scout next",
+    "chapter": "All chapters",
+    "whyItMatters": "Likely to hold decision memos, talking points, interagency edits, and files for Israel, Jordan, Syria, Lebanon, Palestinians, and regional peace-process strategy.",
+    "searchTerms": [
+      "Middle East peace",
+      "Arab-Israeli",
+      "Dennis Ross",
+      "Aaron Miller",
+      "Madrid",
+      "settlements"
+    ],
+    "url": "https://catalog.archives.gov/search"
+  },
+  {
+    "id": "state-department-lot-files",
+    "title": "Department of State lot files and NEA records",
+    "repository": "Department of State / Office of the Historian source base",
+    "naid": "",
+    "status": "Compiler target",
+    "chapter": "All chapters",
+    "whyItMatters": "Presidential files show endpoints; State files should show the negotiation machinery behind Baker's shuttle diplomacy and bilateral rounds.",
+    "searchTerms": [
+      "Baker",
+      "Ross",
+      "NEA",
+      "Madrid",
+      "letters of assurance",
+      "bilateral negotiations"
+    ],
+    "url": "https://history.state.gov/historicaldocuments/frus1989-92v14"
+  },
+  {
+    "id": "public-papers",
+    "title": "Public Papers of the Presidents",
+    "repository": "GovInfo",
+    "naid": "",
+    "status": "Harvested",
+    "chapter": "All chapters",
+    "whyItMatters": "Public framing, press conferences, remarks, and statements help align private documents with the visible diplomatic chronology.",
+    "searchTerms": [
+      "Middle East peace",
+      "Madrid",
+      "Israel",
+      "Palestinian",
+      "loan guarantees"
+    ],
+    "url": "https://www.govinfo.gov/app/collection/ppp/president-41_Bush,%20George%20H.%20W."
+  },
+  {
+    "id": "whorm-country-files",
+    "title": "WHORM country and subject files",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "naid": "",
+    "status": "Scout next",
+    "chapter": "All chapters",
+    "whyItMatters": "Useful for congressional/public pressure, loan guarantees, settlements, correspondence, and country-code cross-references.",
+    "searchTerms": [
+      "CO074",
+      "CO082",
+      "Israel",
+      "Jordan",
+      "Palestinian",
+      "loan guarantees",
+      "settlements"
+    ],
+    "url": "https://catalog.archives.gov/search"
+  }
+];

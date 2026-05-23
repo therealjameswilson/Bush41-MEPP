@@ -1,0 +1,20426 @@
+window.MEPP_PUBLIC_STATEMENTS = [
+  {
+    "id": "public-paper-PPP-1989-book1-0227-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-f",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With Foreign Minister Moshe Arens of Israel",
+    "date": "1989-03-13",
+    "dateText": "March 13, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 5
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        },
+        {
+          "label": "Arens",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Arens",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Shamir, Arens",
+    "printedPageStart": 227,
+    "printedPageEnd": 227,
+    "pageRange": "p. 227",
+    "pdfPageStart": 245,
+    "pdfPageEnd": 245,
+    "citation": "Public Papers: Bush, 1989, vol. I, p. 227.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, p. 227.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=245",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0232-remarks-to-members-of-the-anti-defamation-league-of-b-nai-b-rith",
+    "title": "Remarks to Members of the Anti-Defamation League of B'nai B'rith",
+    "date": "1989-03-14",
+    "dateText": "March 14, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 6
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        },
+        {
+          "label": "Arens",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Arens",
+    "printedPageStart": 232,
+    "printedPageEnd": 233,
+    "pageRange": "pp. 232-233",
+    "pdfPageStart": 250,
+    "pdfPageEnd": 251,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 232-233.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 232-233.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=250",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0374-remarks-following-discussions-with-prime-minister-yitzhak-shamir-of-isra",
+    "title": "Remarks Following Discussions With Prime Minister Yitzhak Shamir of Israel",
+    "date": "1989-04-06",
+    "dateText": "April 6, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 19
+        },
+        {
+          "label": "Shamir",
+          "count": 4
+        },
+        {
+          "label": "Settlements",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 10
+        },
+        {
+          "label": "PLO",
+          "count": 2
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 3
+        },
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 3
+        },
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 2
+        },
+        {
+          "label": "Arab-Israeli",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Shamir, Settlements",
+    "printedPageStart": 374,
+    "printedPageEnd": 376,
+    "pageRange": "pp. 374-376",
+    "pdfPageStart": 392,
+    "pdfPageEnd": 394,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 374-376.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 374-376.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=392",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0379-toasts-at-a-dinner-honoring-prime-minister-yitzhak-shamir-of-israel",
+    "title": "Toasts at a Dinner Honoring Prime Minister Yitzhak Shamir of Israel",
+    "date": "1989-04-06",
+    "dateText": "April 6, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 14
+        },
+        {
+          "label": "Shamir",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 5
+        },
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Shamir",
+    "printedPageStart": 379,
+    "printedPageEnd": 381,
+    "pageRange": "pp. 379-381",
+    "pdfPageStart": 397,
+    "pdfPageEnd": 399,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 379-381.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 379-381.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=397",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0508-continuation-of-william-andreas-brown-as-the-united-states-ambassador-to",
+    "title": "Continuation of William Andreas Brown as the United States Ambassador to Israel",
+    "date": "1989-05-02",
+    "dateText": "May 2, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 5
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel",
+    "printedPageStart": 508,
+    "printedPageEnd": 509,
+    "pageRange": "pp. 508-509",
+    "pdfPageStart": 534,
+    "pdfPageEnd": 535,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 508-509.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 508-509.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=534",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0596-message-to-the-congress-reporting-on-the-national-emergency-with-respect",
+    "title": "Message to the Congress Reporting on the National Emergency With Respect to Iran",
+    "date": "1989-05-23",
+    "dateText": "May 23, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 6
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Settlements",
+    "printedPageStart": 596,
+    "printedPageEnd": 598,
+    "pageRange": "pp. 596-598",
+    "pdfPageStart": 622,
+    "pdfPageEnd": 624,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 596-598.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 596-598.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=622",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0600-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-d",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With Defense Minister Yitzhak Rabin of Israel",
+    "date": "1989-05-24",
+    "dateText": "May 24, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 8
+        },
+        {
+          "label": "Rabin",
+          "count": 4
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Rabin",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Rabin, Settlements",
+    "printedPageStart": 600,
+    "printedPageEnd": 600,
+    "pageRange": "p. 600",
+    "pdfPageStart": 626,
+    "pdfPageEnd": 626,
+    "citation": "Public Papers: Bush, 1989, vol. I, p. 600.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, p. 600.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=626",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0771-statement-on-signing-the-puyallup-tribe-of-indians-settlement-act-of-198",
+    "title": "Statement on Signing the Puyallup Tribe of Indians Settlement Act of 1989",
+    "date": "1989-06-21",
+    "dateText": "June 21, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 10
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Settlements",
+    "printedPageStart": 771,
+    "printedPageEnd": 772,
+    "pageRange": "pp. 771-772",
+    "pdfPageStart": 797,
+    "pdfPageEnd": 798,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 771-772.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 771-772.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=797",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-0948-interview-with-members-of-the-white-house-press-corps",
+    "title": "Interview With Members of the White House Press Corps",
+    "date": "1989-07-13",
+    "dateText": "July 13, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 5
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Settlements",
+    "printedPageStart": 948,
+    "printedPageEnd": 954,
+    "pageRange": "pp. 948-954",
+    "pdfPageStart": 82,
+    "pdfPageEnd": 88,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 948-954.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 948-954.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=82",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1408-the-president-s-news-conference-in-san-jose-costa-rica",
+    "title": "The President's News Conference in San Jose, Costa Rica",
+    "date": "1989-10-28",
+    "dateText": "October 28, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 9
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel",
+    "printedPageStart": 1408,
+    "printedPageEnd": 1415,
+    "pageRange": "pp. 1408-1415",
+    "pdfPageStart": 550,
+    "pdfPageEnd": 557,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1408-1415.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1408-1415.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=550",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1521-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-p",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With Prime Minister Yitzhak Shamir of Israel",
+    "date": "1989-11-15",
+    "dateText": "November 15, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 9
+        },
+        {
+          "label": "Shamir",
+          "count": 4
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Shamir",
+    "printedPageStart": 1521,
+    "printedPageEnd": 1522,
+    "pageRange": "pp. 1521-1522",
+    "pdfPageStart": 663,
+    "pdfPageEnd": 664,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1521-1522.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1521-1522.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=663",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0002-statement-on-the-tentative-settlement-of-the-labor-dispute-between-the-u",
+    "title": "Statement on the Tentative Settlement of the Labor Dispute Between the United Mine Workers and the Pittston Corporation",
+    "date": "1990-01-01",
+    "dateText": "January 1, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Settlements",
+    "printedPageStart": 2,
+    "printedPageEnd": 2,
+    "pageRange": "p. 2",
+    "pdfPageStart": 20,
+    "pdfPageEnd": 20,
+    "citation": "Public Papers: Bush, 1990, vol. I, p. 2.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, p. 2.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=20",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0207-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-02-12",
+    "dateText": "February 12, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        },
+        {
+          "label": "Peres",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Peres",
+    "printedPageStart": 207,
+    "printedPageEnd": 216,
+    "pageRange": "pp. 207-216",
+    "pdfPageStart": 225,
+    "pdfPageEnd": 234,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 207-216.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 207-216.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=225",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0259-statement-by-press-secretary-fitzwater-on-the-president-s-telephone-conv",
+    "title": "Statement by Press Secretary Fitzwater on the President's Telephone Conversation With Prime Minister Yitzhak Shamir of Israel",
+    "date": "1990-02-22",
+    "dateText": "February 22, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 7
+        },
+        {
+          "label": "Shamir",
+          "count": 3
+        },
+        {
+          "label": "Settlements",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Shamir, Settlements",
+    "printedPageStart": 259,
+    "printedPageEnd": 259,
+    "pageRange": "p. 259",
+    "pdfPageStart": 277,
+    "pdfPageEnd": 277,
+    "citation": "Public Papers: Bush, 1990, vol. I, p. 259.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, p. 259.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=277",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0311-the-president-s-news-conference-following-discussions-with-prime-ministe",
+    "title": "The President's News Conference Following Discussions With Prime Minister Toshiki Kaifu of Japan in Palm Springs, California",
+    "date": "1990-03-03",
+    "dateText": "March 3, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 12
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 4
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 4
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 4
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir",
+    "printedPageStart": 311,
+    "printedPageEnd": 317,
+    "pageRange": "pp. 311-317",
+    "pdfPageStart": 329,
+    "pdfPageEnd": 335,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 311-317.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 311-317.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=329",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0319-statement-by-press-secretary-fitzwater-on-president-bush-s-telephone-con",
+    "title": "Statement by Press Secretary Fitzwater on President Bush's Telephone Conversation With Seymour Reich of the Conference of Presidents of American Jewish Organizations",
+    "date": "1990-03-05",
+    "dateText": "March 5, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        },
+        {
+          "label": "Jerusalem",
+          "count": 2
+        },
+        {
+          "label": "Settlements",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Jerusalem, Settlements",
+    "printedPageStart": 319,
+    "printedPageEnd": 320,
+    "pageRange": "pp. 319-320",
+    "pdfPageStart": 337,
+    "pdfPageEnd": 338,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 319-320.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 319-320.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=337",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0349-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-03-13",
+    "dateText": "March 13, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        },
+        {
+          "label": "Peres",
+          "count": 1
+        },
+        {
+          "label": "Jerusalem",
+          "count": 1
+        },
+        {
+          "label": "Settlements",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Peres, Jerusalem, Settlements",
+    "printedPageStart": 349,
+    "printedPageEnd": 359,
+    "pageRange": "pp. 349-359",
+    "pdfPageStart": 367,
+    "pdfPageEnd": 377,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 349-359.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 349-359.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=367",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0372-remarks-and-a-question-and-answer-session-at-a-white-house-briefing-for-",
+    "title": "Remarks and a Question-and-Answer Session at a White House Briefing for the Board of Directors of the National Newspaper Association",
+    "date": "1990-03-15",
+    "dateText": "March 15, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        },
+        {
+          "label": "Peres",
+          "count": 1
+        },
+        {
+          "label": "Jerusalem",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Peres, Jerusalem",
+    "printedPageStart": 372,
+    "printedPageEnd": 377,
+    "pageRange": "pp. 372-377",
+    "pdfPageStart": 390,
+    "pdfPageEnd": 395,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 372-377.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 372-377.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=390",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0467-remarks-and-a-question-and-answer-session-with-members-of-the-american-s",
+    "title": "Remarks and a Question-and-Answer Session With Members of the American Society of Newspaper Editors",
+    "date": "1990-04-06",
+    "dateText": "April 6, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 6
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "PLO",
+          "count": 3
+        },
+        {
+          "label": "Arafat",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir",
+    "printedPageStart": 467,
+    "printedPageEnd": 474,
+    "pageRange": "pp. 467-474",
+    "pdfPageStart": 485,
+    "pdfPageEnd": 492,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 467-474.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 467-474.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=485",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0523-news-conference-of-president-bush-and-president-frangois-mitterrand-of-f",
+    "title": "News Conference of President Bush and President Frangois Mitterrand of France in Key Largo, Florida",
+    "date": "1990-04-19",
+    "dateText": "April 19, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        },
+        {
+          "label": "Settlements",
+          "count": 4
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "PLO",
+          "count": 1
+        },
+        {
+          "label": "Arafat",
+          "count": 2
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 4
+        },
+        {
+          "label": "Lebanon",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 4
+        },
+        {
+          "label": "Morocco",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Settlements",
+    "printedPageStart": 523,
+    "printedPageEnd": 529,
+    "pageRange": "pp. 523-529",
+    "pdfPageStart": 549,
+    "pdfPageEnd": 555,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 523-529.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 523-529.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=549",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0621-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-m",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With Mayor Teddy Kollek of Jerusalem",
+    "date": "1990-05-03",
+    "dateText": "May 3, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Jerusalem",
+          "count": 4
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Jerusalem",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Jerusalem, Settlements",
+    "printedPageStart": 621,
+    "printedPageEnd": 621,
+    "pageRange": "p. 621",
+    "pdfPageStart": 647,
+    "pdfPageEnd": 647,
+    "citation": "Public Papers: Bush, 1990, vol. I, p. 621.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, p. 621.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=647",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0658-message-to-the-congress-reporting-on-the-national-emergency-with-respect",
+    "title": "Message to the Congress Reporting on the National Emergency With Respect to Iran",
+    "date": "1990-05-14",
+    "dateText": "May 14, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 6
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Settlements",
+    "printedPageStart": 658,
+    "printedPageEnd": 660,
+    "pageRange": "pp. 658-660",
+    "pdfPageStart": 684,
+    "pdfPageEnd": 686,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 658-660.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 658-660.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=684",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0747-soviet-united-states-joint-statement-on-the-establishment-of-a-soviet-un",
+    "title": "Soviet-United States Joint Statement on the Establishment of a Soviet-United States International Park in the Region of the Bering Strait",
+    "date": "1990-06-01",
+    "dateText": "June 1, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 5
+        },
+        {
+          "label": "Peres",
+          "count": 1
+        },
+        {
+          "label": "Settlements",
+          "count": 8
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Assad",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Peres, Settlements",
+    "printedPageStart": 747,
+    "printedPageEnd": 767,
+    "pageRange": "pp. 747-767",
+    "pdfPageStart": 773,
+    "pdfPageEnd": 793,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 747-767.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 747-767.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=773",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0795-exchange-with-reporters-aboard-air-force-one",
+    "title": "Exchange With Reporters Aboard Air Force One",
+    "date": "1990-06-08",
+    "dateText": "June 8, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 6
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "PLO",
+          "count": 3
+        },
+        {
+          "label": "Arafat",
+          "count": 3
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir",
+    "printedPageStart": 795,
+    "printedPageEnd": 803,
+    "pageRange": "pp. 795-803",
+    "pdfPageStart": 821,
+    "pdfPageEnd": 829,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 795-803.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 795-803.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=821",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0880-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-06-29",
+    "dateText": "June 29, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Shamir",
+          "count": 5
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 3
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir",
+    "printedPageStart": 880,
+    "printedPageEnd": 890,
+    "pageRange": "pp. 880-890",
+    "pdfPageStart": 906,
+    "pdfPageEnd": 916,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 880-890.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 880-890.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=906",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1175-letter-to-congressional-leaders-reporting-on-the-cyprus-conflict",
+    "title": "Letter to Congressional Leaders Reporting on the Cyprus Conflict",
+    "date": "1990-08-30",
+    "dateText": "August 30, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 5
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Settlements",
+    "printedPageStart": 1175,
+    "printedPageEnd": 1177,
+    "pageRange": "pp. 1175-1177",
+    "pdfPageStart": 233,
+    "pdfPageEnd": 235,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1175-1177.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1175-1177.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=233",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1225-statement-by-press-secretary-fitzwater-on-the-treaty-on-the-final-settle",
+    "title": "Statement by Press Secretary Fitzwater on the Treaty on the Final Settlement With Respect to Germany",
+    "date": "1990-09-12",
+    "dateText": "September 12, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Settlements",
+    "printedPageStart": 1225,
+    "printedPageEnd": 1225,
+    "pageRange": "p. 1225",
+    "pdfPageStart": 283,
+    "pdfPageEnd": 283,
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1225.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1225.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=283",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1334-statement-by-press-secretary-fitzwater-on-united-states-emergency-milita",
+    "title": "Statement by Press Secretary Fitzwater on United States Emergency Military Assistance for Israel",
+    "date": "1990-10-01",
+    "dateText": "October 1, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 6
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel",
+    "printedPageStart": 1334,
+    "printedPageEnd": 1334,
+    "pageRange": "p. 1334",
+    "pdfPageStart": 392,
+    "pdfPageEnd": 392,
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1334.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1334.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=392",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1376-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-10-09",
+    "dateText": "October 9, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 6
+        },
+        {
+          "label": "Jerusalem",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 3
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Jerusalem",
+    "printedPageStart": 1376,
+    "printedPageEnd": 1385,
+    "pageRange": "pp. 1376-1385",
+    "pdfPageStart": 434,
+    "pdfPageEnd": 443,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1376-1385.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1376-1385.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=434",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1450-exchange-with-reporters-following-a-fundraising-reception-for-congressio",
+    "title": "Exchange With Reporters Following a Fundraising Reception for Congressional Candidate Gary Franks in Waterbury, Connecticut",
+    "date": "1990-10-23",
+    "dateText": "October 23, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 4
+        },
+        {
+          "label": "Jerusalem",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Jerusalem",
+    "printedPageStart": 1450,
+    "printedPageEnd": 1452,
+    "pageRange": "pp. 1450-1452",
+    "pdfPageStart": 516,
+    "pdfPageEnd": 518,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1450-1452.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1450-1452.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=516",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1705-letter-to-congressional-leaders-reporting-on-the-national-emergency-with",
+    "title": "Letter to Congressional Leaders Reporting on the National Emergency With Respect to Iran",
+    "date": "1990-11-29",
+    "dateText": "November 29, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 13
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Settlements",
+    "printedPageStart": 1705,
+    "printedPageEnd": 1708,
+    "pageRange": "pp. 1705-1708",
+    "pdfPageStart": 771,
+    "pdfPageEnd": 774,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1705-1708.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1705-1708.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=771",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1804-the-president-s-news-conference-with-regional-reporters",
+    "title": "The President's News Conference With Regional Reporters",
+    "date": "1990-12-18",
+    "dateText": "December 18, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 7
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 7
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir",
+    "printedPageStart": 1804,
+    "printedPageEnd": 1811,
+    "pageRange": "pp. 1804-1811",
+    "pdfPageStart": 870,
+    "pdfPageEnd": 877,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1804-1811.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1804-1811.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=870",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0047-statement-by-press-secretary-fitzwater-confirming-iraqi-missile-attacks-",
+    "title": "Statement by Press Secretary Fitzwater Confirming Iraqi Missile Attacks on Israel and Saudi Arabia",
+    "date": "1991-01-17",
+    "dateText": "January 17, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel",
+    "printedPageStart": 47,
+    "printedPageEnd": 47,
+    "pageRange": "p. 47",
+    "pdfPageStart": 59,
+    "pdfPageEnd": 59,
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 47.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 47.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=59",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0047-statement-by-press-secretary-fitzwater-on-united-states-response-to-iraq",
+    "title": "Statement by Press Secretary Fitzwater on United States Response to Iraqi Missile Attacks on Israel",
+    "date": "1991-01-17",
+    "dateText": "January 17, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 5
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Shamir",
+    "printedPageStart": 47,
+    "printedPageEnd": 47,
+    "pageRange": "p. 47",
+    "pdfPageStart": 59,
+    "pdfPageEnd": 59,
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 47.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 47.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=59",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0047-the-president-s-news-conference-on-the-persian-gulf-conflict",
+    "title": "The President's News Conference on the Persian Gulf Conflict",
+    "date": "1991-01-18",
+    "dateText": "January 18, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 25
+        },
+        {
+          "label": "Shamir",
+          "count": 4
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 6
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir",
+    "printedPageStart": 47,
+    "printedPageEnd": 52,
+    "pageRange": "pp. 47-52",
+    "pdfPageStart": 59,
+    "pdfPageEnd": 64,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 47-52.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 47-52.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=59",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0117-remarks-and-a-question-and-answer-session-at-a-meeting-of-the-economic-c",
+    "title": "Remarks and a Question-and-Answer Session at a Meeting of the Economic Club in New York, New York",
+    "date": "1991-02-06",
+    "dateText": "February 6, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 4
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 6
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir",
+    "printedPageStart": 117,
+    "printedPageEnd": 127,
+    "pageRange": "pp. 117-127",
+    "pdfPageStart": 129,
+    "pdfPageEnd": 139,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 117-127.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 117-127.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=129",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0151-statement-by-press-secretary-fitzwater-on-statements-made-by-ambassador-",
+    "title": "Statement by Press Secretary Fitzwater on Statements Made by Ambassador Zalman Shoval of Israel",
+    "date": "1991-02-15",
+    "dateText": "February 15, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 6
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Shamir",
+    "printedPageStart": 151,
+    "printedPageEnd": 151,
+    "pageRange": "p. 151",
+    "pdfPageStart": 163,
+    "pdfPageEnd": 163,
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 151.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 151.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=163",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0218-address-before-a-joint-session-of-the-congress-on-the-cessation-of-the-p",
+    "title": "Address Before a Joint Session of the Congress on the Cessation of the Persian Gulf Conflict",
+    "date": "1991-03-06",
+    "dateText": "March 6, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 6
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 2
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        },
+        {
+          "label": "Arab states",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Arab-Israeli",
+          "count": 2
+        },
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel",
+    "printedPageStart": 218,
+    "printedPageEnd": 223,
+    "pageRange": "pp. 218-223",
+    "pdfPageStart": 230,
+    "pdfPageEnd": 235,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 218-223.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 218-223.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=230",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0281-remarks-at-the-presentation-ceremony-for-the-elie-wiesel-foundation-huma",
+    "title": "Remarks at the Presentation Ceremony for the Elie Wiesel Foundation Humanitarian Award and an Exchange With Reporters",
+    "date": "1991-03-18",
+    "dateText": "March 18, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 15
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        },
+        {
+          "label": "Jerusalem",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Jerusalem",
+    "printedPageStart": 281,
+    "printedPageEnd": 284,
+    "pageRange": "pp. 281-284",
+    "pdfPageStart": 293,
+    "pdfPageEnd": 296,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 281-284.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 281-284.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=293",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0544-remarks-announcing-the-reappointment-of-general-colin-l-powell-as-chairm",
+    "title": "Remarks Announcing the Reappointment of General Colin L. Powell as Chairman of the Joint Chiefs of Staff and a News Conference",
+    "date": "1991-05-23",
+    "dateText": "May 23, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 8
+        },
+        {
+          "label": "Settlements",
+          "count": 7
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Settlements",
+    "printedPageStart": 544,
+    "printedPageEnd": 548,
+    "pageRange": "pp. 544-548",
+    "pdfPageStart": 556,
+    "pdfPageEnd": 560,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 544-548.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 544-548.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=556",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0552-remarks-on-fast-track-legislation-and-a-question-and-answer-session-with",
+    "title": "Remarks on Fast Track Legislation and a Question-and-Answer Session With Reporters",
+    "date": "1991-05-23",
+    "dateText": "May 23, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        },
+        {
+          "label": "Shamir",
+          "count": 5
+        },
+        {
+          "label": "Settlements",
+          "count": 5
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Settlements, Loan guarantees",
+    "printedPageStart": 552,
+    "printedPageEnd": 555,
+    "pageRange": "pp. 552-555",
+    "pdfPageStart": 564,
+    "pdfPageEnd": 567,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 552-555.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 552-555.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=564",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0557-statement-by-press-secretary-fitzwater-on-the-airlift-of-ethiopian-jews-",
+    "title": "Statement by Press Secretary Fitzwater on the Airlift of Ethiopian Jews to Israel",
+    "date": "1991-05-24",
+    "dateText": "May 24, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 6
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Shamir",
+    "printedPageStart": 557,
+    "printedPageEnd": 558,
+    "pageRange": "pp. 557-558",
+    "pdfPageStart": 569,
+    "pdfPageEnd": 570,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 557-558.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 557-558.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=569",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0584-letter-to-congressional-leaders-reporting-on-the-national-emergency-with",
+    "title": "Letter to Congressional Leaders Reporting on the National Emergency With Respect to Iran",
+    "date": "1991-05-30",
+    "dateText": "May 30, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 5
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Settlements",
+    "printedPageStart": 584,
+    "printedPageEnd": 586,
+    "pageRange": "pp. 584-586",
+    "pdfPageStart": 596,
+    "pdfPageEnd": 598,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 584-586.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 584-586.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=596",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0677-remarks-at-the-simon-wiesenthal-center-dinner-in-los-angeles-california",
+    "title": "Remarks at the Simon Wiesenthal Center Dinner in Los Angeles, California",
+    "date": "1991-06-16",
+    "dateText": "June 16, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 11
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel",
+    "printedPageStart": 677,
+    "printedPageEnd": 680,
+    "pageRange": "pp. 677-680",
+    "pdfPageStart": 689,
+    "pdfPageEnd": 692,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 677-680.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 677-680.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=689",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0801-the-president-s-news-conference-in-kennebunkport-maine",
+    "title": "The President's News Conference in Kennebunkport, Maine",
+    "date": "1991-07-01",
+    "dateText": "July 1, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 7
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        },
+        {
+          "label": "Settlements",
+          "count": 6
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 4
+        },
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Settlements",
+    "printedPageStart": 801,
+    "printedPageEnd": 812,
+    "pageRange": "pp. 801-812",
+    "pdfPageStart": 19,
+    "pdfPageEnd": 30,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 801-812.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 801-812.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=19",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0831-interview-with-foreign-journalists",
+    "title": "Interview With Foreign Journalists",
+    "date": "1991-07-08",
+    "dateText": "July 8, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 4
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Settlements",
+    "printedPageStart": 831,
+    "printedPageEnd": 838,
+    "pageRange": "pp. 831-838",
+    "pdfPageStart": 49,
+    "pdfPageEnd": 56,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 831-838.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 831-838.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=49",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0942-exchange-with-reporters-in-istanbul-turkey",
+    "title": "Exchange With Reporters in Istanbul, Turkey",
+    "date": "1991-07-21",
+    "dateText": "July 21, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 4
+        },
+        {
+          "label": "Shamir",
+          "count": 3
+        },
+        {
+          "label": "Settlements",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "PLO",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Settlements",
+    "printedPageStart": 942,
+    "printedPageEnd": 943,
+    "pageRange": "pp. 942-943",
+    "pdfPageStart": 160,
+    "pdfPageEnd": 161,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 942-943.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 942-943.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=160",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0958-remarks-at-the-antiochian-orthodox-christian-church-annual-convention-in",
+    "title": "Remarks at the Antiochian Orthodox Christian Church Annual Convention in Arlington, Virginia",
+    "date": "1991-07-25",
+    "dateText": "July 25, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 4
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        },
+        {
+          "label": "Jordan",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 4
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        },
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Settlements",
+    "printedPageStart": 958,
+    "printedPageEnd": 960,
+    "pageRange": "pp. 958-960",
+    "pdfPageStart": 176,
+    "pdfPageEnd": 178,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 958-960.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 958-960.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=176",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0991-the-president-s-news-conference-with-president-mikhail-gorbachev-of-the-",
+    "title": "The President's News Conference With President Mikhail Gorbachev of the Soviet Union in Moscow",
+    "date": "1991-07-31",
+    "dateText": "July 31, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 5
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Settlements",
+    "printedPageStart": 991,
+    "printedPageEnd": 1000,
+    "pageRange": "pp. 991-1000",
+    "pdfPageStart": 209,
+    "pdfPageEnd": 218,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 991-1000.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 991-1000.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=209",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1002-nomination-of-william-caldwell-harrop-to-be-united-states-ambassador-to-",
+    "title": "Nomination of William Caldwell Harrop To Be United States Ambassador to Israel",
+    "date": "1991-07-31",
+    "dateText": "July 31, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel",
+    "printedPageStart": 1002,
+    "printedPageEnd": 1002,
+    "pageRange": "p. 1002",
+    "pdfPageStart": 220,
+    "pdfPageEnd": 220,
+    "citation": "Public Papers: Bush, 1991, vol. II, p. 1002.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, p. 1002.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=220",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1034-exchange-with-reporters-in-kennebunkport-maine-following-the-release-of-",
+    "title": "Exchange With Reporters in Kennebunkport, Maine, Following the Release of American Hostage Edward Tracy",
+    "date": "1991-08-11",
+    "dateText": "August 11, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 10
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        },
+        {
+          "label": "PLO",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 4
+        },
+        {
+          "label": "Lebanon",
+          "count": 4
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 3
+        },
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel",
+    "printedPageStart": 1034,
+    "printedPageEnd": 1037,
+    "pageRange": "pp. 1034-1037",
+    "pdfPageStart": 252,
+    "pdfPageEnd": 255,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1034-1037.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1034-1037.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=252",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1037-exchange-with-reporters-in-kennebunkport-maine-on-the-middle-east-hostag",
+    "title": "Exchange With Reporters in Kennebunkport, Maine, on the Middle East Hostage Situation",
+    "date": "1991-08-13",
+    "dateText": "August 13, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 6
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel",
+    "printedPageStart": 1037,
+    "printedPageEnd": 1039,
+    "pageRange": "pp. 1037-1039",
+    "pdfPageStart": 255,
+    "pdfPageEnd": 257,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1037-1039.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1037-1039.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=255",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1120-exchange-with-reporters-prior-to-a-meeting-with-secretary-of-state-baker",
+    "title": "Exchange With Reporters Prior to a Meeting With Secretary of State Baker",
+    "date": "1991-09-06",
+    "dateText": "September 6, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 9
+        },
+        {
+          "label": "Shamir",
+          "count": 3
+        },
+        {
+          "label": "Settlements",
+          "count": 3
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Settlements, Loan guarantees",
+    "printedPageStart": 1120,
+    "printedPageEnd": 1122,
+    "pageRange": "pp. 1120-1122",
+    "pdfPageStart": 338,
+    "pdfPageEnd": 340,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1120-1122.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1120-1122.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=338",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1129-exchange-with-reporters-prior-to-a-meeting-with-congressional-leaders",
+    "title": "Exchange With Reporters Prior to a Meeting With Congressional Leaders",
+    "date": "1991-09-11",
+    "dateText": "September 11, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 7
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Loan guarantees",
+    "printedPageStart": 1129,
+    "printedPageEnd": 1131,
+    "pageRange": "pp. 1129-1131",
+    "pdfPageStart": 347,
+    "pdfPageEnd": 349,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1129-1131.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1129-1131.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=347",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1139-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1991-09-12",
+    "dateText": "September 12, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 26
+        },
+        {
+          "label": "Jerusalem",
+          "count": 2
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 5
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 11
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Jerusalem, Settlements, Loan guarantees",
+    "printedPageStart": 1139,
+    "printedPageEnd": 1144,
+    "pageRange": "pp. 1139-1144",
+    "pdfPageStart": 357,
+    "pdfPageEnd": 362,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1139-1144.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1139-1144.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=357",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1151-letter-to-congressional-leaders-reporting-on-the-cyprus-conflict",
+    "title": "Letter to Congressional Leaders Reporting on the Cyprus Conflict",
+    "date": "1991-09-12",
+    "dateText": "September 12, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 9
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Settlements",
+    "printedPageStart": 1151,
+    "printedPageEnd": 1152,
+    "pageRange": "pp. 1151-1152",
+    "pdfPageStart": 369,
+    "pdfPageEnd": 370,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1151-1152.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1151-1152.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=369",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1158-the-president-s-news-conference-with-chancellor-helmut-kohl-of-germany",
+    "title": "The President's News Conference With Chancellor Helmut Kohl of Germany",
+    "date": "1991-09-16",
+    "dateText": "September 16, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 9
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        },
+        {
+          "label": "Settlements",
+          "count": 3
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        },
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Settlements, Loan guarantees",
+    "printedPageStart": 1158,
+    "printedPageEnd": 1163,
+    "pageRange": "pp. 1158-1163",
+    "pdfPageStart": 376,
+    "pdfPageEnd": 381,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1158-1163.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1158-1163.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=376",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1263-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1991-10-04",
+    "dateText": "October 4, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Settlements, Loan guarantees",
+    "printedPageStart": 1263,
+    "printedPageEnd": 1270,
+    "pageRange": "pp. 1263-1270",
+    "pdfPageStart": 481,
+    "pdfPageEnd": 488,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1263-1270.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1263-1270.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=481",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1328-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1991-10-25",
+    "dateText": "October 25, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        },
+        {
+          "label": "Settlements",
+          "count": 4
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        },
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 4
+        },
+        {
+          "label": "Middle East peace",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Settlements",
+    "printedPageStart": 1328,
+    "printedPageEnd": 1336,
+    "pageRange": "pp. 1328-1336",
+    "pdfPageStart": 554,
+    "pdfPageEnd": 562,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1328-1336.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1328-1336.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=554",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1617-exchange-with-reporters-prior-to-meeting-with-foreign-minister-david-lev",
+    "title": "Exchange With Reporters Prior to Meeting With Foreign Minister David Levi of Israel",
+    "date": "1991-12-17",
+    "dateText": "December 17, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Shamir",
+    "printedPageStart": 1617,
+    "printedPageEnd": 1618,
+    "pageRange": "pp. 1617-1618",
+    "pdfPageStart": 843,
+    "pdfPageEnd": 844,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1617-1618.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1617-1618.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=843",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1631-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-f",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With Foreign Minister David Levi of Israel",
+    "date": "1991-12-17",
+    "dateText": "December 17, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel",
+    "printedPageStart": 1631,
+    "printedPageEnd": 1631,
+    "pageRange": "p. 1631",
+    "pdfPageStart": 857,
+    "pdfPageEnd": 857,
+    "citation": "Public Papers: Bush, 1991, vol. II, p. 1631.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, p. 1631.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=857",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1639-the-president-s-news-conference-with-foreign-correspondents",
+    "title": "The President's News Conference With Foreign Correspondents",
+    "date": "1991-12-19",
+    "dateText": "December 19, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 9
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        },
+        {
+          "label": "Settlements",
+          "count": 7
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 2
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 2
+        },
+        {
+          "label": "Middle East peace",
+          "count": 4
+        },
+        {
+          "label": "Peace process",
+          "count": 4
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Shamir, Settlements, Loan guarantees",
+    "printedPageStart": 1639,
+    "printedPageEnd": 1648,
+    "pageRange": "pp. 1639-1648",
+    "pdfPageStart": 865,
+    "pdfPageEnd": 874,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1639-1648.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1639-1648.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=865",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0306-exchange-with-reporters-aboard-air-force-one",
+    "title": "Exchange With Reporters Aboard Air Force One",
+    "date": "1992-02-25",
+    "dateText": "February 25, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Settlements, Loan guarantees",
+    "printedPageStart": 306,
+    "printedPageEnd": 308,
+    "pageRange": "pp. 306-308",
+    "pdfPageStart": 318,
+    "pdfPageEnd": 320,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 306-308.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 306-308.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=318",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0405-statement-on-the-death-of-menachem-begin-of-israel-and-an-exchange-with-",
+    "title": "Statement on the Death of Menachem Begin of Israel and an Exchange With Reporters",
+    "date": "1992-03-09",
+    "dateText": "March 9, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 5
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Loan guarantees",
+    "printedPageStart": 405,
+    "printedPageEnd": 406,
+    "pageRange": "pp. 405-406",
+    "pdfPageStart": 417,
+    "pdfPageEnd": 418,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 405-406.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 405-406.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=417",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0466-remarks-at-a-st-patrick-s-day-ceremony-and-an-exchange-with-reporters",
+    "title": "Remarks at a St. Patrick's Day Ceremony and an Exchange With Reporters",
+    "date": "1992-03-17",
+    "dateText": "March 17, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 5
+        },
+        {
+          "label": "Settlements",
+          "count": 3
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Settlements, Loan guarantees",
+    "printedPageStart": 466,
+    "printedPageEnd": 469,
+    "pageRange": "pp. 466-469",
+    "pdfPageStart": 478,
+    "pdfPageEnd": 481,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 466-469.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 466-469.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=478",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0710-letter-to-congressional-leaders-reporting-on-the-cyprus-conflict",
+    "title": "Letter to Congressional Leaders Reporting on the Cyprus Conflict",
+    "date": "1992-05-06",
+    "dateText": "May 6, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 5
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Settlements",
+    "printedPageStart": 710,
+    "printedPageEnd": 711,
+    "pageRange": "pp. 710-711",
+    "pdfPageStart": 722,
+    "pdfPageEnd": 723,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 710-711.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 710-711.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=722",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-1111-statement-by-press-secretary-fitzwater-on-the-president-s-telephone-conv",
+    "title": "Statement by Press Secretary Fitzwater on the President's Telephone Conversation With Prime Minister Yitzhak Rabin of Israel",
+    "date": "1992-07-13",
+    "dateText": "July 13, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 4
+        },
+        {
+          "label": "Rabin",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Rabin",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Rabin",
+    "printedPageStart": 1111,
+    "printedPageEnd": 1111,
+    "pageRange": "p. 1111",
+    "pdfPageStart": 1123,
+    "pdfPageEnd": 1123,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 1111.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 1111.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=1123",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-1119-the-president-s-news-conference-in-pinedale-wyoming",
+    "title": "The President's News Conference in Pinedale, Wyoming",
+    "date": "1992-07-16",
+    "dateText": "July 16, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 4
+        },
+        {
+          "label": "Settlements",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Settlements",
+    "printedPageStart": 1119,
+    "printedPageEnd": 1124,
+    "pageRange": "pp. 1119-1124",
+    "pdfPageStart": 1131,
+    "pdfPageEnd": 1136,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1119-1124.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1119-1124.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=1131",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1330-remarks-on-the-arrival-of-prime-minister-yitzhak-rabin-of-israel-in-kenn",
+    "title": "Remarks on the Arrival of Prime Minister Yitzhak Rabin of Israel in Kennebunkport",
+    "date": "1992-08-10",
+    "dateText": "August 10, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 5
+        },
+        {
+          "label": "Rabin",
+          "count": 3
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Rabin",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Rabin, Loan guarantees",
+    "printedPageStart": 1330,
+    "printedPageEnd": 1331,
+    "pageRange": "pp. 1330-1331",
+    "pdfPageStart": 52,
+    "pdfPageEnd": 53,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1330-1331.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1330-1331.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=52",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1331-the-president-s-news-conference-with-prime-minister-yitzhak-rabin-of-isr",
+    "title": "The President's News Conference With Prime Minister Yitzhak Rabin of Israel in Kennebunkport",
+    "date": "1992-08-11",
+    "dateText": "August 11, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 51
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        },
+        {
+          "label": "Rabin",
+          "count": 12
+        },
+        {
+          "label": "Jerusalem",
+          "count": 4
+        },
+        {
+          "label": "Settlements",
+          "count": 7
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 6
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 7
+        },
+        {
+          "label": "Jordan",
+          "count": 4
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 2
+        },
+        {
+          "label": "Lebanon",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 3
+        },
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Rabin",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Shamir, Rabin, Jerusalem, Settlements, Loan guarantees",
+    "printedPageStart": 1331,
+    "printedPageEnd": 1338,
+    "pageRange": "pp. 1331-1338",
+    "pdfPageStart": 53,
+    "pdfPageEnd": 60,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1331-1338.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1331-1338.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=53",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1501-remarks-and-a-question-and-answer-session-at-the-b-nai-b-rith-internatio",
+    "title": "Remarks and a Question-and-Answer Session at the B'nai B'rith International Convention",
+    "date": "1992-09-08",
+    "dateText": "September 8, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 47
+        },
+        {
+          "label": "Rabin",
+          "count": 4
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        },
+        {
+          "label": "Loan guarantees",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 4
+        },
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 2
+        },
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 2
+        },
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Arab-Israeli",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Rabin, Settlements, Loan guarantees",
+    "printedPageStart": 1501,
+    "printedPageEnd": 1508,
+    "pageRange": "pp. 1501-1508",
+    "pdfPageStart": 223,
+    "pdfPageEnd": 230,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1501-1508.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1501-1508.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=223",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1671-statement-by-press-secretary-fitzwater-on-military-cooperation-with-isra",
+    "title": "Statement by Press Secretary Fitzwater on Military Cooperation With Israel",
+    "date": "1992-09-26",
+    "dateText": "September 26, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 12
+        },
+        {
+          "label": "Rabin",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Rabin",
+    "printedPageStart": 1671,
+    "printedPageEnd": 1671,
+    "pageRange": "p. 1671",
+    "pdfPageStart": 393,
+    "pdfPageEnd": 393,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 1671.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 1671.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=393",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-2079-question-and-answer-session-in-grand-rapids",
+    "title": "Question-and-Answer Session in Grand Rapids",
+    "date": "1992-10-29",
+    "dateText": "October 29, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 5
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 3
+        },
+        {
+          "label": "Assad",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 2
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Israel, Settlements",
+    "printedPageStart": 2079,
+    "printedPageEnd": 2090,
+    "pageRange": "pp. 2079-2090",
+    "pdfPageStart": 801,
+    "pdfPageEnd": 812,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2079-2090.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2079-2090.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=801",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-2166-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-p",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With President Chaim Herzog of Israel",
+    "date": "1992-11-16",
+    "dateText": "November 16, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 1,
+      "name": "Israel Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 4
+        },
+        {
+          "label": "Herzog",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Herzog",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Israel, Herzog",
+    "printedPageStart": 2166,
+    "printedPageEnd": 2167,
+    "pageRange": "pp. 2166-2167",
+    "pdfPageStart": 888,
+    "pdfPageEnd": 889,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2166-2167.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2166-2167.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=888",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0021-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1989-01-27",
+    "dateText": "January 27, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "PLO",
+          "count": 3
+        },
+        {
+          "label": "Arafat",
+          "count": 4
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; PLO, Arafat",
+    "printedPageStart": 21,
+    "printedPageEnd": 32,
+    "pageRange": "pp. 21-32",
+    "pdfPageStart": 39,
+    "pdfPageEnd": 50,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 21-32.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 21-32.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=39",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0381-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1989-04-07",
+    "dateText": "April 7, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        },
+        {
+          "label": "Shamir",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "PLO",
+          "count": 2
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 3
+        },
+        {
+          "label": "Jordan",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; PLO, West Bank/Gaza, Jordan",
+    "printedPageStart": 381,
+    "printedPageEnd": 386,
+    "pageRange": "pp. 381-386",
+    "pdfPageStart": 399,
+    "pdfPageEnd": 404,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 381-386.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 381-386.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=399",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0442-white-house-fact-sheet-on-maternal-and-child-health-care-proposals",
+    "title": "White House Fact Sheet on Maternal and Child Health Care Proposals",
+    "date": "1989-04-18",
+    "dateText": "April 18, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Fact sheet",
+    "publicVoice": "White House statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        },
+        {
+          "label": "Settlements",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 2
+        },
+        {
+          "label": "Jordan",
+          "count": 9
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Arab-Israeli",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Palestinians, West Bank/Gaza, Jordan",
+    "printedPageStart": 442,
+    "printedPageEnd": 446,
+    "pageRange": "pp. 442-446",
+    "pdfPageStart": 460,
+    "pdfPageEnd": 472,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 442-446.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 442-446.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=460",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0447-toasts-at-a-state-dinner-honoring-king-hussein-i-of-jordan",
+    "title": "Toasts at a State Dinner Honoring King Hussein I of Jordan",
+    "date": "1989-04-19",
+    "dateText": "April 19, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        },
+        {
+          "label": "Jordan",
+          "count": 12
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; West Bank/Gaza, Jordan",
+    "printedPageStart": 447,
+    "printedPageEnd": 449,
+    "pageRange": "pp. 447-449",
+    "pdfPageStart": 473,
+    "pdfPageEnd": 475,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 447-449.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 447-449.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=473",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1376-appointment-of-five-members-of-the-president-s-advisory-committee-on-the",
+    "title": "Appointment of Five Members of the President's Advisory Committee on the Points of Light Initiative Foundation",
+    "date": "1989-10-23",
+    "dateText": "October 23, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 5
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Jordan",
+    "printedPageStart": 1376,
+    "printedPageEnd": 1378,
+    "pageRange": "pp. 1376-1378",
+    "pdfPageStart": 518,
+    "pdfPageEnd": 520,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1376-1378.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1376-1378.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=518",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0702-statement-by-press-secretary-fitzwater-on-the-killing-of-palestinian-lab",
+    "title": "Statement by Press Secretary Fitzwater on the Killing of Palestinian Laborers in the Israeli-Occupied Gaza Strip",
+    "date": "1990-05-22",
+    "dateText": "May 22, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 7
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 5
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Palestinians, West Bank/Gaza",
+    "printedPageStart": 702,
+    "printedPageEnd": 702,
+    "pageRange": "p. 702",
+    "pdfPageStart": 728,
+    "pdfPageEnd": 728,
+    "citation": "Public Papers: Bush, 1990, vol. I, p. 702.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, p. 702.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=728",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0719-nomination-of-roger-gran-harrison-to-be-united-states-ambassador-to-jord",
+    "title": "Nomination of Roger Gran Harrison To Be United States Ambassador to Jordan",
+    "date": "1990-05-24",
+    "dateText": "May 24, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 3
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Jordan",
+    "printedPageStart": 719,
+    "printedPageEnd": 720,
+    "pageRange": "pp. 719-720",
+    "pdfPageStart": 745,
+    "pdfPageEnd": 746,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 719-720.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 719-720.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=745",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0837-remarks-at-the-great-outdoors-award-dinner",
+    "title": "Remarks at the Great Outdoors Award Dinner",
+    "date": "1990-06-19",
+    "dateText": "June 19, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 17
+        },
+        {
+          "label": "Shamir",
+          "count": 4
+        },
+        {
+          "label": "Settlements",
+          "count": 5
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 9
+        },
+        {
+          "label": "PLO",
+          "count": 32
+        },
+        {
+          "label": "Arafat",
+          "count": 3
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 3
+        },
+        {
+          "label": "Arab states",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "Peace process",
+          "count": 8
+        },
+        {
+          "label": "Arab-Israeli",
+          "count": 2
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Palestinians, PLO, Arafat, West Bank/Gaza",
+    "printedPageStart": 837,
+    "printedPageEnd": 850,
+    "pageRange": "pp. 837-850",
+    "pdfPageStart": 863,
+    "pdfPageEnd": 876,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 837-850.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 837-850.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=863",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-0967-the-president-s-news-conference-following-the-north-atlantic-treaty-orga",
+    "title": "The President's News Conference Following the North Atlantic Treaty Organization Summit in London, United Kingdom",
+    "date": "1990-07-06",
+    "dateText": "July 6, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        },
+        {
+          "label": "PLO",
+          "count": 4
+        },
+        {
+          "label": "Arafat",
+          "count": 2
+        },
+        {
+          "label": "Jordan",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "Peace process",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Palestinians, PLO, Arafat, Jordan",
+    "printedPageStart": 967,
+    "printedPageEnd": 975,
+    "pageRange": "pp. 967-975",
+    "pdfPageStart": 25,
+    "pdfPageEnd": 33,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 967-975.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 967-975.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=25",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1130-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-08-14",
+    "dateText": "August 14, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 15
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 5
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Jordan",
+    "printedPageStart": 1130,
+    "printedPageEnd": 1137,
+    "pageRange": "pp. 1130-1137",
+    "pdfPageStart": 188,
+    "pdfPageEnd": 195,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1130-1137.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1130-1137.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=188",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1140-the-president-s-news-conference-on-the-persian-gulf-crisis",
+    "title": "The President's News Conference on the Persian Gulf Crisis",
+    "date": "1990-08-16",
+    "dateText": "August 16, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 13
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 6
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Jordan",
+    "printedPageStart": 1140,
+    "printedPageEnd": 1143,
+    "pageRange": "pp. 1140-1143",
+    "pdfPageStart": 198,
+    "pdfPageEnd": 201,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1140-1143.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1140-1143.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=198",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0116-exchange-with-reporters-aboard-air-force-one-on-the-persian-gulf-conflic",
+    "title": "Exchange With Reporters Aboard Air Force One on the Persian Gulf Conflict",
+    "date": "1991-02-06",
+    "dateText": "February 6, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 7
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Jordan",
+    "printedPageStart": 116,
+    "printedPageEnd": 117,
+    "pageRange": "pp. 116-117",
+    "pdfPageStart": 128,
+    "pdfPageEnd": 129,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 116-117.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 116-117.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=128",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0127-exchange-with-reporters-on-the-persian-gulf-conflict",
+    "title": "Exchange With Reporters on the Persian Gulf Conflict",
+    "date": "1991-02-08",
+    "dateText": "February 8, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 5
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Jordan",
+    "printedPageStart": 127,
+    "printedPageEnd": 128,
+    "pageRange": "pp. 127-128",
+    "pdfPageStart": 139,
+    "pdfPageEnd": 140,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 127-128.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 127-128.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=139",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0197-the-president-s-news-conference-on-the-persian-gulf-conflict",
+    "title": "The President's News Conference on the Persian Gulf Conflict",
+    "date": "1991-03-01",
+    "dateText": "March 1, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 2
+        },
+        {
+          "label": "Jordan",
+          "count": 12
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Arab-Israeli",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Palestinians, Jordan",
+    "printedPageStart": 197,
+    "printedPageEnd": 205,
+    "pageRange": "pp. 197-205",
+    "pdfPageStart": 209,
+    "pdfPageEnd": 217,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 197-205.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 197-205.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=209",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0257-the-president-s-news-conference-with-prime-minister-brian-mulroney-of-ca",
+    "title": "The President's News Conference With Prime Minister Brian Mulroney of Canada in Ottawa",
+    "date": "1991-03-13",
+    "dateText": "March 13, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 13
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 7
+        },
+        {
+          "label": "PLO",
+          "count": 7
+        },
+        {
+          "label": "Arafat",
+          "count": 3
+        },
+        {
+          "label": "Jordan",
+          "count": 7
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 2
+        },
+        {
+          "label": "Lebanon",
+          "count": 4
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        },
+        {
+          "label": "Arab states",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        },
+        {
+          "label": "Land for peace",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Palestinians, PLO, Arafat, Jordan",
+    "printedPageStart": 257,
+    "printedPageEnd": 265,
+    "pageRange": "pp. 257-265",
+    "pdfPageStart": 269,
+    "pdfPageEnd": 277,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 257-265.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 257-265.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=269",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0265-the-president-s-news-conference-with-president-francois-mitterrand-of-fr",
+    "title": "The President's News Conference With President Francois ¸ Mitterrand of France in Martinique, French West Indies",
+    "date": "1991-03-14",
+    "dateText": "March 14, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 18
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 10
+        },
+        {
+          "label": "PLO",
+          "count": 6
+        },
+        {
+          "label": "Arafat",
+          "count": 7
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        },
+        {
+          "label": "Jordan",
+          "count": 3
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 6
+        },
+        {
+          "label": "Assad",
+          "count": 3
+        },
+        {
+          "label": "Lebanon",
+          "count": 13
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Palestinians, PLO, Arafat, West Bank/Gaza, Jordan",
+    "printedPageStart": 265,
+    "printedPageEnd": 274,
+    "pageRange": "pp. 265-274",
+    "pdfPageStart": 277,
+    "pdfPageEnd": 286,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 265-274.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 265-274.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=277",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0334-the-president-s-news-conference-with-secretary-of-state-james-a-baker-ii",
+    "title": "The President's News Conference With Secretary of State James A. Baker III in Houston, Texas",
+    "date": "1991-04-06",
+    "dateText": "April 6, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 5
+        },
+        {
+          "label": "Jerusalem",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 2
+        },
+        {
+          "label": "Jordan",
+          "count": 7
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 2
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 4
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        },
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Palestinians, Jordan",
+    "printedPageStart": 334,
+    "printedPageEnd": 339,
+    "pageRange": "pp. 334-339",
+    "pdfPageStart": 346,
+    "pdfPageEnd": 351,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 334-339.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 334-339.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=346",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0915-nomination-of-marshall-jordan-breger-to-be-solicitor-for-the-department-",
+    "title": "Nomination of Marshall Jordan Breger To Be Solicitor for the Department of Labor",
+    "date": "1991-07-17",
+    "dateText": "July 17, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 3
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Jordan",
+    "printedPageStart": 915,
+    "printedPageEnd": 915,
+    "pageRange": "p. 915",
+    "pdfPageStart": 133,
+    "pdfPageEnd": 133,
+    "citation": "Public Papers: Bush, 1991, vol. II, p. 915.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, p. 915.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=133",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1349-statement-by-press-secretary-fitzwater-condemning-terrorism-on-the-west-",
+    "title": "Statement by Press Secretary Fitzwater Condemning Terrorism on the West Bank",
+    "date": "1991-10-28",
+    "dateText": "October 28, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "West Bank/Gaza",
+          "count": 3
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; West Bank/Gaza",
+    "printedPageStart": 1349,
+    "printedPageEnd": 1349,
+    "pageRange": "p. 1349",
+    "pdfPageStart": 575,
+    "pdfPageEnd": 575,
+    "citation": "Public Papers: Bush, 1991, vol. II, p. 1349.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, p. 1349.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=575",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0432-remarks-prior-to-discussions-with-king-hussein-of-jordan",
+    "title": "Remarks Prior to Discussions With King Hussein of Jordan",
+    "date": "1992-03-12",
+    "dateText": "March 12, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 6
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Jordan",
+    "printedPageStart": 432,
+    "printedPageEnd": 432,
+    "pageRange": "p. 432",
+    "pdfPageStart": 444,
+    "pdfPageEnd": 444,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 432.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 432.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=444",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0432-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-k",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With King Hussein of Jordan",
+    "date": "1992-03-12",
+    "dateText": "March 12, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 14
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Jordan",
+    "printedPageStart": 432,
+    "printedPageEnd": 433,
+    "pageRange": "pp. 432-433",
+    "pdfPageStart": 444,
+    "pdfPageEnd": 445,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 432-433.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 432-433.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=444",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-1024-designation-of-marshall-jordan-breger-as-acting-assistant-secretary-of-l",
+    "title": "Designation of Marshall Jordan Breger as Acting Assistant Secretary of Labor",
+    "date": "1992-06-26",
+    "dateText": "June 26, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 3
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Jordan",
+    "printedPageStart": 1024,
+    "printedPageEnd": 1024,
+    "pageRange": "p. 1024",
+    "pdfPageStart": 1036,
+    "pdfPageEnd": 1036,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 1024.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 1024.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=1036",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-2196-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-k",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With King Hussein of Jordan",
+    "date": "1992-12-16",
+    "dateText": "December 16, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 2,
+      "name": "Palestinian-Jordanian Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 5
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Jordan",
+    "printedPageStart": 2196,
+    "printedPageEnd": 2196,
+    "pageRange": "p. 2196",
+    "pdfPageStart": 918,
+    "pdfPageEnd": 918,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 2196.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 2196.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=918",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0441-statement-by-press-secretary-fitzwater-on-the-situation-in-lebanon",
+    "title": "Statement by Press Secretary Fitzwater on the Situation in Lebanon",
+    "date": "1989-04-18",
+    "dateText": "April 18, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 4
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Syria, Lebanon",
+    "printedPageStart": 441,
+    "printedPageEnd": 442,
+    "pageRange": "pp. 441-442",
+    "pdfPageStart": 459,
+    "pdfPageEnd": 460,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 441-442.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 441-442.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=459",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0449-interview-with-members-of-the-white-house-press-corps",
+    "title": "Interview With Members of the White House Press Corps",
+    "date": "1989-04-20",
+    "dateText": "April 20, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 4
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 6
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Lebanon",
+    "printedPageStart": 449,
+    "printedPageEnd": 454,
+    "pageRange": "pp. 449-454",
+    "pdfPageStart": 475,
+    "pdfPageEnd": 480,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 449-454.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 449-454.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=475",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0463-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-on-the",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting on the Situation in Lebanon",
+    "date": "1989-04-21",
+    "dateText": "April 21, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 8
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Lebanon",
+    "printedPageStart": 463,
+    "printedPageEnd": 464,
+    "pageRange": "pp. 463-464",
+    "pdfPageStart": 489,
+    "pdfPageEnd": 490,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 463-464.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 463-464.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=489",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0585-the-president-s-news-conference-with-president-mitterrand-of-france",
+    "title": "The President's News Conference With President Mitterrand of France",
+    "date": "1989-05-21",
+    "dateText": "May 21, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 8
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Lebanon",
+    "printedPageStart": 585,
+    "printedPageEnd": 590,
+    "pageRange": "pp. 585-590",
+    "pdfPageStart": 611,
+    "pdfPageEnd": 616,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 585-590.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 585-590.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=611",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1046-statement-by-press-secretary-fitzwater-on-the-hostage-situation-in-leban",
+    "title": "Statement by Press Secretary Fitzwater on the Hostage Situation in Lebanon",
+    "date": "1989-07-31",
+    "dateText": "July 31, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Lebanon",
+    "printedPageStart": 1046,
+    "printedPageEnd": 1046,
+    "pageRange": "p. 1046",
+    "pdfPageStart": 180,
+    "pdfPageEnd": 180,
+    "citation": "Public Papers: Bush, 1989, vol. II, p. 1046.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, p. 1046.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=180",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1050-question-and-answer-session-with-reporters-on-the-hostage-situation-in-l",
+    "title": "Question-and-Answer Session With Reporters on the Hostage Situation in Lebanon",
+    "date": "1989-08-02",
+    "dateText": "August 2, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Lebanon",
+    "printedPageStart": 1050,
+    "printedPageEnd": 1051,
+    "pageRange": "pp. 1050-1051",
+    "pdfPageStart": 184,
+    "pdfPageEnd": 185,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1050-1051.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1050-1051.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=184",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1078-statement-on-the-american-hostages-in-lebanon",
+    "title": "Statement on the American Hostages in Lebanon",
+    "date": "1989-08-10",
+    "dateText": "August 10, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Lebanon",
+    "printedPageStart": 1078,
+    "printedPageEnd": 1078,
+    "pageRange": "p. 1078",
+    "pdfPageStart": 212,
+    "pdfPageEnd": 212,
+    "citation": "Public Papers: Bush, 1989, vol. II, p. 1078.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, p. 1078.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=212",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1082-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1989-08-15",
+    "dateText": "August 15, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "West Bank/Gaza",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 10
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Syria, Lebanon",
+    "printedPageStart": 1082,
+    "printedPageEnd": 1089,
+    "pageRange": "pp. 1082-1089",
+    "pdfPageStart": 216,
+    "pdfPageEnd": 223,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1082-1089.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1082-1089.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=216",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1096-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1989-08-23",
+    "dateText": "August 23, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 6
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Lebanon",
+    "printedPageStart": 1096,
+    "printedPageEnd": 1105,
+    "pageRange": "pp. 1096-1105",
+    "pdfPageStart": 230,
+    "pdfPageEnd": 239,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1096-1105.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1096-1105.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=230",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1375-statement-by-press-secretary-fitzwater-on-the-agreement-for-national-rec",
+    "title": "Statement by Press Secretary Fitzwater on the Agreement for National Reconciliation in Lebanon",
+    "date": "1989-10-23",
+    "dateText": "October 23, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 8
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Lebanon",
+    "printedPageStart": 1375,
+    "printedPageEnd": 1376,
+    "pageRange": "pp. 1375-1376",
+    "pdfPageStart": 517,
+    "pdfPageEnd": 518,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1375-1376.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1375-1376.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=517",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1465-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1989-11-07",
+    "dateText": "November 7, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 8
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Syria, Lebanon",
+    "printedPageStart": 1465,
+    "printedPageEnd": 1475,
+    "pageRange": "pp. 1465-1475",
+    "pdfPageStart": 607,
+    "pdfPageEnd": 617,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1465-1475.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1465-1475.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=607",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1625-remarks-of-the-president-and-soviet-chairman-mikhail-gorbachev-and-a-que",
+    "title": "Remarks of the President and Soviet Chairman Mikhail Gorbachev and a Question-and-Answer Session With Reporters in Malta",
+    "date": "1989-12-03",
+    "dateText": "December 3, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 11
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Lebanon",
+    "printedPageStart": 1625,
+    "printedPageEnd": 1635,
+    "pageRange": "pp. 1625-1635",
+    "pdfPageStart": 767,
+    "pdfPageEnd": 777,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1625-1635.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1625-1635.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=767",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1706-joint-news-conference-following-discussions-with-french-president-mitter",
+    "title": "Joint News Conference Following Discussions With French President Mitterrand in St. Martin, French West Indies",
+    "date": "1989-12-16",
+    "dateText": "December 16, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 3
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 11
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Lebanon",
+    "printedPageStart": 1706,
+    "printedPageEnd": 1715,
+    "pageRange": "pp. 1706-1715",
+    "pdfPageStart": 848,
+    "pdfPageEnd": 857,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1706-1715.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1706-1715.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=848",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0541-remarks-on-the-release-of-former-hostage-robert-polhill-and-an-exchange-",
+    "title": "Remarks on the Release of Former Hostage Robert Polhill and an Exchange With Reporters",
+    "date": "1990-04-22",
+    "dateText": "April 22, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 4
+        },
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Syria, Lebanon",
+    "printedPageStart": 541,
+    "printedPageEnd": 543,
+    "pageRange": "pp. 541-543",
+    "pdfPageStart": 567,
+    "pdfPageEnd": 569,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 541-543.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 541-543.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=567",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0592-remarks-and-an-exchange-with-reporters-prior-to-a-meeting-with-former-ho",
+    "title": "Remarks and an Exchange With Reporters Prior to a Meeting With Former Hostage Robert Polhill",
+    "date": "1990-04-30",
+    "dateText": "April 30, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 7
+        },
+        {
+          "label": "Lebanon",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Syria, Lebanon",
+    "printedPageStart": 592,
+    "printedPageEnd": 595,
+    "pageRange": "pp. 592-595",
+    "pdfPageStart": 618,
+    "pdfPageEnd": 621,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 592-595.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 592-595.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=618",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0608-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-05-03",
+    "dateText": "May 3, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 6
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Syria, Lebanon",
+    "printedPageStart": 608,
+    "printedPageEnd": 617,
+    "pageRange": "pp. 608-617",
+    "pdfPageStart": 634,
+    "pdfPageEnd": 643,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 608-617.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 608-617.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=634",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1057-nomination-of-ryan-clark-crocker-to-be-united-states-ambassador-to-leban",
+    "title": "Nomination of Ryan Clark Crocker To Be United States Ambassador to Lebanon",
+    "date": "1990-07-24",
+    "dateText": "July 24, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 4
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Lebanon",
+    "printedPageStart": 1057,
+    "printedPageEnd": 1057,
+    "pageRange": "p. 1057",
+    "pdfPageStart": 115,
+    "pdfPageEnd": 115,
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1057.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1057.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=115",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1274-remarks-and-a-question-and-answer-session-at-a-white-house-briefing-for-",
+    "title": "Remarks and a Question-and-Answer Session at a White House Briefing for Representatives of the Arab-American Community",
+    "date": "1990-09-24",
+    "dateText": "September 24, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 4
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 2
+        },
+        {
+          "label": "Jordan",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 7
+        },
+        {
+          "label": "Assad",
+          "count": 2
+        },
+        {
+          "label": "Lebanon",
+          "count": 7
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        },
+        {
+          "label": "Morocco",
+          "count": 1
+        },
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "Arab-Israeli",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 6
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Syria, Assad, Lebanon",
+    "printedPageStart": 1274,
+    "printedPageEnd": 1280,
+    "pageRange": "pp. 1274-1280",
+    "pdfPageStart": 332,
+    "pdfPageEnd": 338,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1274-1280.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1274-1280.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=332",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1322-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-in-new",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting in New York City With Prime Minister Salim al-Huss of Lebanon",
+    "date": "1990-09-29",
+    "dateText": "September 29, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 8
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Syria, Lebanon",
+    "printedPageStart": 1322,
+    "printedPageEnd": 1323,
+    "pageRange": "pp. 1322-1323",
+    "pdfPageStart": 380,
+    "pdfPageEnd": 381,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1322-1323.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1322-1323.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=380",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1334-statement-by-press-secretary-fitzwater-on-the-release-of-shiite-moslem-p",
+    "title": "Statement by Press Secretary Fitzwater on the Release of Shiite Moslem Prisoners in Lebanon",
+    "date": "1990-10-01",
+    "dateText": "October 1, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 4
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Lebanon",
+    "printedPageStart": 1334,
+    "printedPageEnd": 1335,
+    "pageRange": "pp. 1334-1335",
+    "pdfPageStart": 392,
+    "pdfPageEnd": 393,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1334-1335.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1334-1335.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=392",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1481-statement-by-press-secretary-fitzwater-on-lebanon",
+    "title": "Statement by Press Secretary Fitzwater on Lebanon",
+    "date": "1990-10-27",
+    "dateText": "October 27, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 7
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Syria, Lebanon",
+    "printedPageStart": 1481,
+    "printedPageEnd": 1482,
+    "pageRange": "pp. 1481-1482",
+    "pdfPageStart": 547,
+    "pdfPageEnd": 548,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1481-1482.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1481-1482.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=547",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1683-exchange-with-reporters-in-geneva-switzerland-prior-to-a-meeting-with-pr",
+    "title": "Exchange With Reporters in Geneva, Switzerland, Prior to a Meeting With President Hafiz al-Assad of Syria",
+    "date": "1990-11-23",
+    "dateText": "November 23, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 2
+        },
+        {
+          "label": "Assad",
+          "count": 7
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Assad",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Syria, Assad",
+    "printedPageStart": 1683,
+    "printedPageEnd": 1683,
+    "pageRange": "p. 1683",
+    "pdfPageStart": 749,
+    "pdfPageEnd": 749,
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1683.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1683.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=749",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1683-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-",
+    "title": "Statement by Press Secretary Fitzwater on President Bush's Meeting With President Hafiz al-Assad of Syria",
+    "date": "1990-11-23",
+    "dateText": "November 23, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 4
+        },
+        {
+          "label": "Assad",
+          "count": 4
+        },
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Assad",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Syria, Assad, Lebanon",
+    "printedPageStart": 1683,
+    "printedPageEnd": 1684,
+    "pageRange": "pp. 1683-1684",
+    "pdfPageStart": 749,
+    "pdfPageEnd": 750,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1683-1684.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1683-1684.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=749",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0503-remarks-announcing-the-nomination-of-robert-m-gates-to-be-director-of-th",
+    "title": "Remarks Announcing the Nomination of Robert M. Gates To Be Director of the Central Intelligence Agency and a News Conference",
+    "date": "1991-05-14",
+    "dateText": "May 14, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        },
+        {
+          "label": "Jordan",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 2
+        },
+        {
+          "label": "Assad",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Syria, Assad",
+    "printedPageStart": 503,
+    "printedPageEnd": 506,
+    "pageRange": "pp. 503-506",
+    "pdfPageStart": 515,
+    "pdfPageEnd": 518,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 503-506.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 503-506.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=515",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0643-nomination-of-christopher-w-s-ross-to-be-united-states-ambassador-to-syr",
+    "title": "Nomination of Christopher W.S. Ross To Be United States Ambassador to Syria",
+    "date": "1991-06-12",
+    "dateText": "June 12, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 3
+        },
+        {
+          "label": "Lebanon",
+          "count": 2
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Morocco",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Syria, Lebanon",
+    "printedPageStart": 643,
+    "printedPageEnd": 643,
+    "pageRange": "p. 643",
+    "pdfPageStart": 655,
+    "pdfPageEnd": 655,
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 643.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 643.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=655",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0888-exchange-with-reporters-in-london-united-kingdom",
+    "title": "Exchange With Reporters in London, United Kingdom",
+    "date": "1991-07-15",
+    "dateText": "July 15, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 5
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 4
+        },
+        {
+          "label": "Assad",
+          "count": 4
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Syria, Assad",
+    "printedPageStart": 888,
+    "printedPageEnd": 890,
+    "pageRange": "pp. 888-890",
+    "pdfPageStart": 106,
+    "pdfPageEnd": 108,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 888-890.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 888-890.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=106",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1491-interviews-with-nbc-owned-and-operated-television-stations",
+    "title": "Interviews With NBC Owned and Operated Television Stations",
+    "date": "1991-11-20",
+    "dateText": "November 20, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 6
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Syria",
+    "printedPageStart": 1491,
+    "printedPageEnd": 1500,
+    "pageRange": "pp. 1491-1500",
+    "pdfPageStart": 717,
+    "pdfPageEnd": 726,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1491-1500.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1491-1500.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=717",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1546-statement-on-the-release-of-american-hostages-in-lebanon",
+    "title": "Statement on the Release of American Hostages in Lebanon",
+    "date": "1991-12-04",
+    "dateText": "December 4, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 4
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Syria, Lebanon",
+    "printedPageStart": 1546,
+    "printedPageEnd": 1547,
+    "pageRange": "pp. 1546-1547",
+    "pdfPageStart": 772,
+    "pdfPageEnd": 773,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1546-1547.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1546-1547.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=772",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0648-statement-by-press-secretary-fitzwater-on-syria-s-lifting-of-restriction",
+    "title": "Statement by Press Secretary Fitzwater on Syria's Lifting of Restrictions on Syrian Jews",
+    "date": "1992-04-27",
+    "dateText": "April 27, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 18
+        },
+        {
+          "label": "Assad",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 2
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Syria, Assad",
+    "printedPageStart": 648,
+    "printedPageEnd": 649,
+    "pageRange": "pp. 648-649",
+    "pdfPageStart": 660,
+    "pdfPageEnd": 661,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 648-649.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 648-649.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=660",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0939-letter-to-congressional-leaders-on-trade-with-syria",
+    "title": "Letter to Congressional Leaders on Trade With Syria",
+    "date": "1992-06-15",
+    "dateText": "June 15, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 5
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Syria",
+    "printedPageStart": 939,
+    "printedPageEnd": 940,
+    "pageRange": "pp. 939-940",
+    "pdfPageStart": 951,
+    "pdfPageEnd": 952,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 939-940.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 939-940.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=951",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1365-presidential-determination-no-92-41-memorandum-on-resumption-of-foreign-",
+    "title": "Presidential Determination No. 92-41-Memorandum on Resumption of Foreign Air Cargo Service to Lebanon",
+    "date": "1992-08-17",
+    "dateText": "August 17, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Memorandum/determination",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 6
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Lebanon",
+    "printedPageStart": 1365,
+    "printedPageEnd": 1365,
+    "pageRange": "p. 1365",
+    "pdfPageStart": 87,
+    "pdfPageEnd": 87,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 1365.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 1365.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=87",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1577-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-l",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With Lebanese-American Leaders",
+    "date": "1992-09-16",
+    "dateText": "September 16, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 10
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Lebanon",
+    "printedPageStart": 1577,
+    "printedPageEnd": 1578,
+    "pageRange": "pp. 1577-1578",
+    "pdfPageStart": 299,
+    "pdfPageEnd": 300,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1577-1578.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1577-1578.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=299",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-2198-remarks-prior-to-discussions-with-ambassador-mowaffak-aloaf-of-the-syria",
+    "title": "Remarks Prior to Discussions With Ambassador Mowaffak Aloaf of the Syrian Peace Delegation",
+    "date": "1992-12-17",
+    "dateText": "December 17, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 2
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 7
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Syria",
+    "printedPageStart": 2198,
+    "printedPageEnd": 2199,
+    "pageRange": "pp. 2198-2199",
+    "pdfPageStart": 920,
+    "pdfPageEnd": 921,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2198-2199.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2198-2199.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=920",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-2198-remarks-prior-to-discussions-with-ambassador-souheil-chammas-of-the-leba",
+    "title": "Remarks Prior to Discussions With Ambassador Souheil Chammas of the Lebanese Peace Delegation",
+    "date": "1992-12-17",
+    "dateText": "December 17, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 3,
+      "name": "Syria-Lebanon Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 6
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Lebanon",
+    "printedPageStart": 2198,
+    "printedPageEnd": 2198,
+    "pageRange": "p. 2198",
+    "pdfPageStart": 920,
+    "pdfPageEnd": 920,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 2198.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 2198.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=920",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0328-remarks-and-a-question-and-answer-session-with-high-school-students-from",
+    "title": "Remarks and a Question-and-Answer Session With High School Students From the Close Up Foundation",
+    "date": "1989-03-29",
+    "dateText": "March 29, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 5
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt",
+    "printedPageStart": 328,
+    "printedPageEnd": 334,
+    "pageRange": "pp. 328-334",
+    "pdfPageStart": 346,
+    "pdfPageEnd": 352,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 328-334.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 328-334.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=346",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0348-remarks-following-discussions-with-president-mohammed-hosni-mubarak-of-e",
+    "title": "Remarks Following Discussions With President Mohammed Hosni Mubarak of Egypt",
+    "date": "1989-04-03",
+    "dateText": "April 3, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 6
+        },
+        {
+          "label": "Settlements",
+          "count": 5
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 4
+        },
+        {
+          "label": "PLO",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 2
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 25
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 4
+        },
+        {
+          "label": "Arab-Israeli",
+          "count": 1
+        },
+        {
+          "label": "Land for peace",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Egypt",
+    "printedPageStart": 348,
+    "printedPageEnd": 350,
+    "pageRange": "pp. 348-350",
+    "pdfPageStart": 366,
+    "pdfPageEnd": 368,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 348-350.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 348-350.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=366",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0360-toasts-at-a-state-dinner-honoring-president-mohammed-hosni-mubarak-of-eg",
+    "title": "Toasts at a State Dinner Honoring President Mohammed Hosni Mubarak of Egypt",
+    "date": "1989-04-04",
+    "dateText": "April 4, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 16
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Egypt",
+    "printedPageStart": 360,
+    "printedPageEnd": 362,
+    "pageRange": "pp. 360-362",
+    "pdfPageStart": 378,
+    "pdfPageEnd": 380,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 360-362.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 360-362.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=378",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0413-letter-to-the-speaker-of-the-house-of-representatives-and-the-chairman-o",
+    "title": "Letter to the Speaker of the House of Representatives and the Chairman of the Senate Foreign Relations Committee on the Continuation of Arms Sales to Saudi Arabia",
+    "date": "1989-04-12",
+    "dateText": "April 12, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 413,
+    "printedPageEnd": 414,
+    "pageRange": "pp. 413-414",
+    "pdfPageStart": 431,
+    "pdfPageEnd": 432,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 413-414.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 413-414.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=431",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0414-presidential-determination-no-89-13-arms-sales-to-saudi-arabia",
+    "title": "Presidential Determination No. 89-13-Arms Sales to Saudi Arabia",
+    "date": "1989-04-12",
+    "dateText": "April 12, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Memorandum/determination",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 414,
+    "printedPageEnd": 414,
+    "pageRange": "p. 414",
+    "pdfPageStart": 432,
+    "pdfPageEnd": 432,
+    "citation": "Public Papers: Bush, 1989, vol. I, p. 414.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, p. 414.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=432",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0414-white-house-statement-on-arms-sales-to-saudi-arabia",
+    "title": "White House Statement on Arms Sales to Saudi Arabia",
+    "date": "1989-04-13",
+    "dateText": "April 13, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 8
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 414,
+    "printedPageEnd": 415,
+    "pageRange": "pp. 414-415",
+    "pdfPageStart": 432,
+    "pdfPageEnd": 433,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 414-415.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 414-415.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=432",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0661-continuation-of-michael-ussery-as-united-states-ambassador-to-morocco",
+    "title": "Continuation of Michael Ussery as United States Ambassador to Morocco",
+    "date": "1989-06-01",
+    "dateText": "June 1, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Morocco",
+          "count": 4
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Morocco",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Morocco",
+    "printedPageStart": 661,
+    "printedPageEnd": 662,
+    "pageRange": "pp. 661-662",
+    "pdfPageStart": 687,
+    "pdfPageEnd": 688,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 661-662.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 661-662.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=687",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0726-white-house-statement-on-the-president-s-meeting-with-foreign-minister-s",
+    "title": "White House Statement on the President's Meeting With Foreign Minister Sa'ud al-Faysal Al Sa'ud of Saudi Arabia",
+    "date": "1989-06-14",
+    "dateText": "June 14, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 7
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 4
+        },
+        {
+          "label": "Morocco",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia, Morocco",
+    "printedPageStart": 726,
+    "printedPageEnd": 727,
+    "pageRange": "pp. 726-727",
+    "pdfPageStart": 752,
+    "pdfPageEnd": 753,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 726-727.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 726-727.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=752",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0728-exchange-with-reporters-following-discussions-with-foreign-minister-sa-u",
+    "title": "Exchange With Reporters Following Discussions With Foreign Minister Sa'ud al-Faysal Al Sa'ud of Saudi Arabia",
+    "date": "1989-06-14",
+    "dateText": "June 14, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 728,
+    "printedPageEnd": 728,
+    "pageRange": "p. 728",
+    "pdfPageStart": 754,
+    "pdfPageEnd": 754,
+    "citation": "Public Papers: Bush, 1989, vol. I, p. 728.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, p. 728.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=754",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0732-nomination-of-chas-w-freeman-jr-to-be-united-states-ambassador-to-saudi-",
+    "title": "Nomination of Chas. W. Freeman, Jr., To Be United States Ambassador to Saudi Arabia",
+    "date": "1989-06-14",
+    "dateText": "June 14, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 732,
+    "printedPageEnd": 732,
+    "pageRange": "p. 732",
+    "pdfPageStart": 758,
+    "pdfPageEnd": 758,
+    "citation": "Public Papers: Bush, 1989, vol. I, p. 732.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, p. 732.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=758",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0762-continuation-of-frank-g-wisner-as-united-states-ambassador-to-egypt",
+    "title": "Continuation of Frank G. Wisner as United States Ambassador to Egypt",
+    "date": "1989-06-20",
+    "dateText": "June 20, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 4
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Egypt",
+    "printedPageStart": 762,
+    "printedPageEnd": 763,
+    "pageRange": "pp. 762-763",
+    "pdfPageStart": 788,
+    "pdfPageEnd": 789,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 762-763.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 762-763.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=788",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-0983-white-house-statement-on-the-state-visit-of-king-fahd-bin-abd-al-aziz-al",
+    "title": "White House Statement on the State Visit of King Fahd bin 'Abd al- 'Aziz Al Sa'ud of Saudi Arabia",
+    "date": "1989-07-18",
+    "dateText": "July 18, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 2
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 6
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 983,
+    "printedPageEnd": 983,
+    "pageRange": "p. 983",
+    "pdfPageStart": 117,
+    "pdfPageEnd": 117,
+    "citation": "Public Papers: Bush, 1989, vol. II, p. 983.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, p. 983.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=117",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-0962-statement-by-press-secretary-fitzwater-on-the-deaths-of-moslem-pilgrims-",
+    "title": "Statement by Press Secretary Fitzwater on the Deaths of Moslem Pilgrims in Mecca, Saudi Arabia",
+    "date": "1990-07-03",
+    "dateText": "July 3, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 962,
+    "printedPageEnd": 962,
+    "pageRange": "p. 962",
+    "pdfPageStart": 20,
+    "pdfPageEnd": 20,
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 962.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 962.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=20",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1085-remarks-and-a-question-and-answer-session-with-reporters-in-aspen-colora",
+    "title": "Remarks and a Question-and-Answer Session With Reporters in Aspen, Colorado, Following a Meeting With Prime Minister Margaret Thatcher of the United Kingdom",
+    "date": "1990-08-02",
+    "dateText": "August 2, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 3
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 4
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        },
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 7
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia, Arab states",
+    "printedPageStart": 1085,
+    "printedPageEnd": 1088,
+    "pageRange": "pp. 1085-1088",
+    "pdfPageStart": 143,
+    "pdfPageEnd": 146,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1085-1088.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1085-1088.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=143",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1089-statement-by-press-secretary-fitzwater-on-the-president-s-telephone-conv",
+    "title": "Statement by Press Secretary Fitzwater on the President's Telephone Conversation With King Fahd bin 'Abd al-'Aziz Al Sa'ud of Saudi Arabia",
+    "date": "1990-08-02",
+    "dateText": "August 2, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 6
+        },
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia, Arab states",
+    "printedPageStart": 1089,
+    "printedPageEnd": 1089,
+    "pageRange": "p. 1089",
+    "pdfPageStart": 147,
+    "pdfPageEnd": 147,
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1089.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1089.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=147",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1097-remarks-and-an-exchange-with-reporters-on-the-iraqi-invasion-of-kuwait",
+    "title": "Remarks and an Exchange With Reporters on the Iraqi Invasion of Kuwait",
+    "date": "1990-08-03",
+    "dateText": "August 3, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 13
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Saudi Arabia",
+    "printedPageStart": 1097,
+    "printedPageEnd": 1100,
+    "pageRange": "pp. 1097-1100",
+    "pdfPageStart": 155,
+    "pdfPageEnd": 158,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1097-1100.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1097-1100.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=155",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1107-address-to-the-nation-announcing-the-deployment-of-united-states-armed-f",
+    "title": "Address to the Nation Announcing the Deployment of United States Armed Forces to Saudi Arabia",
+    "date": "1990-08-08",
+    "dateText": "August 8, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 16
+        },
+        {
+          "label": "Morocco",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Egypt, Saudi Arabia, Morocco",
+    "printedPageStart": 1107,
+    "printedPageEnd": 1109,
+    "pageRange": "pp. 1107-1109",
+    "pdfPageStart": 165,
+    "pdfPageEnd": 167,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1107-1109.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1107-1109.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=165",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1109-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-08-08",
+    "dateText": "August 8, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 3
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 23
+        },
+        {
+          "label": "Morocco",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia, Morocco",
+    "printedPageStart": 1109,
+    "printedPageEnd": 1115,
+    "pageRange": "pp. 1109-1115",
+    "pdfPageStart": 167,
+    "pdfPageEnd": 173,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1109-1115.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1109-1115.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=167",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1116-letter-to-congressional-leaders-on-the-deployment-of-united-states-armed",
+    "title": "Letter to Congressional Leaders on the Deployment of United States Armed Forces to Saudi Arabia and the Middle East",
+    "date": "1990-08-09",
+    "dateText": "August 9, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 9
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 1116,
+    "printedPageEnd": 1117,
+    "pageRange": "pp. 1116-1117",
+    "pdfPageStart": 174,
+    "pdfPageEnd": 175,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1116-1117.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1116-1117.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=174",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1119-exchange-with-reporters-aboard-air-force-one-on-the-persian-gulf-crisis",
+    "title": "Exchange With Reporters Aboard Air Force One on the Persian Gulf Crisis",
+    "date": "1990-08-10",
+    "dateText": "August 10, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 9
+        },
+        {
+          "label": "Arab states",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia, Arab states",
+    "printedPageStart": 1119,
+    "printedPageEnd": 1123,
+    "pageRange": "pp. 1119-1123",
+    "pdfPageStart": 177,
+    "pdfPageEnd": 181,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1119-1123.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1119-1123.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=177",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1123-excerpts-of-a-statement-by-press-secretary-fitzwater-on-the-persian-gulf",
+    "title": "Excerpts of a Statement by Press Secretary Fitzwater on the Persian Gulf Crisis",
+    "date": "1990-08-11",
+    "dateText": "August 11, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "White House statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 3
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia",
+    "printedPageStart": 1123,
+    "printedPageEnd": 1124,
+    "pageRange": "pp. 1123-1124",
+    "pdfPageStart": 181,
+    "pdfPageEnd": 182,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1123-1124.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1123-1124.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=181",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1124-remarks-and-an-exchange-with-reporters-on-the-persian-gulf-crisis",
+    "title": "Remarks and an Exchange With Reporters on the Persian Gulf Crisis",
+    "date": "1990-08-11",
+    "dateText": "August 11, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 8
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 5
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 10
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia",
+    "printedPageStart": 1124,
+    "printedPageEnd": 1128,
+    "pageRange": "pp. 1124-1128",
+    "pdfPageStart": 182,
+    "pdfPageEnd": 186,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1124-1128.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1124-1128.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=182",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1138-remarks-to-department-of-defense-employees",
+    "title": "Remarks to Department of Defense Employees",
+    "date": "1990-08-15",
+    "dateText": "August 15, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 4
+        },
+        {
+          "label": "Morocco",
+          "count": 1
+        },
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia, Morocco, Arab states",
+    "printedPageStart": 1138,
+    "printedPageEnd": 1140,
+    "pageRange": "pp. 1138-1140",
+    "pdfPageStart": 196,
+    "pdfPageEnd": 198,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1138-1140.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1138-1140.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=196",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1147-remarks-at-the-annual-conference-of-the-veterans-of-foreign-wars-in-balt",
+    "title": "Remarks at the Annual Conference of the Veterans of Foreign Wars in Baltimore, Maryland",
+    "date": "1990-08-20",
+    "dateText": "August 20, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 7
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Saudi Arabia",
+    "printedPageStart": 1147,
+    "printedPageEnd": 1151,
+    "pageRange": "pp. 1147-1151",
+    "pdfPageStart": 205,
+    "pdfPageEnd": 209,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1147-1151.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1147-1151.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=205",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1172-remarks-at-a-white-house-briefing-for-members-of-congress-on-the-persian",
+    "title": "Remarks at a White House Briefing for Members of Congress on the Persian Gulf Crisis",
+    "date": "1990-08-28",
+    "dateText": "August 28, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 7
+        },
+        {
+          "label": "Morocco",
+          "count": 1
+        },
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia, Morocco, Arab states",
+    "printedPageStart": 1172,
+    "printedPageEnd": 1174,
+    "pageRange": "pp. 1172-1174",
+    "pdfPageStart": 230,
+    "pdfPageEnd": 232,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1172-1174.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1172-1174.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=230",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1177-the-president-s-news-conference-on-the-persian-gulf-crisis",
+    "title": "The President's News Conference on the Persian Gulf Crisis",
+    "date": "1990-08-30",
+    "dateText": "August 30, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 6
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 7
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 7
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia",
+    "printedPageStart": 1177,
+    "printedPageEnd": 1183,
+    "pageRange": "pp. 1177-1183",
+    "pdfPageStart": 235,
+    "pdfPageEnd": 241,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1177-1183.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1177-1183.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=235",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1218-address-before-a-joint-session-of-the-congress-on-the-persian-gulf-crisi",
+    "title": "Address Before a Joint Session of the Congress on the Persian Gulf Crisis and the Federal Budget Deficit",
+    "date": "1990-09-11",
+    "dateText": "September 11, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 6
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 6
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia",
+    "printedPageStart": 1218,
+    "printedPageEnd": 1223,
+    "pageRange": "pp. 1218-1223",
+    "pdfPageStart": 276,
+    "pdfPageEnd": 281,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1218-1223.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1218-1223.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=276",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1235-remarks-on-the-persian-gulf-crisis-and-an-exchange-with-reporters",
+    "title": "Remarks on the Persian Gulf Crisis and an Exchange With Reporters",
+    "date": "1990-09-14",
+    "dateText": "September 14, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 5
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Saudi Arabia",
+    "printedPageStart": 1235,
+    "printedPageEnd": 1239,
+    "pageRange": "pp. 1235-1239",
+    "pdfPageStart": 293,
+    "pdfPageEnd": 297,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1235-1239.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1235-1239.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=293",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1240-remarks-and-a-question-and-answer-session-with-members-of-the-regional-n",
+    "title": "Remarks and a Question-and-Answer Session With Members of the Regional News Media",
+    "date": "1990-09-17",
+    "dateText": "September 17, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 5
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Saudi Arabia",
+    "printedPageStart": 1240,
+    "printedPageEnd": 1248,
+    "pageRange": "pp. 1240-1248",
+    "pdfPageStart": 298,
+    "pdfPageEnd": 306,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1240-1248.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1240-1248.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=298",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1264-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-09-21",
+    "dateText": "September 21, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 4
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 4
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia",
+    "printedPageStart": 1264,
+    "printedPageEnd": 1269,
+    "pageRange": "pp. 1264-1269",
+    "pdfPageStart": 322,
+    "pdfPageEnd": 327,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1264-1269.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1264-1269.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=322",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1269-statement-by-deputy-press-secretary-popadiuk-on-united-states-military-a",
+    "title": "Statement by Deputy Press Secretary Popadiuk on United States Military Assistance to Saudi Arabia",
+    "date": "1990-09-21",
+    "dateText": "September 21, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 10
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 1269,
+    "printedPageEnd": 1270,
+    "pageRange": "pp. 1269-1270",
+    "pdfPageStart": 327,
+    "pdfPageEnd": 328,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1269-1270.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1269-1270.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=327",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1387-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-f",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With Foreign Minister Sa'ud al-Faysal Al Sa'ud of Saudi Arabia",
+    "date": "1990-10-09",
+    "dateText": "October 9, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Jerusalem",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 5
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 1387,
+    "printedPageEnd": 1387,
+    "pageRange": "p. 1387",
+    "pdfPageStart": 445,
+    "pdfPageEnd": 445,
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1387.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1387.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=445",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1404-statement-by-press-secretary-fitzwater-on-president-bush-s-telephone-con",
+    "title": "Statement by Press Secretary Fitzwater on President Bush's Telephone Conversation With President Mohammed Hosni Mubarak of Egypt",
+    "date": "1990-10-12",
+    "dateText": "October 12, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 6
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Egypt",
+    "printedPageStart": 1404,
+    "printedPageEnd": 1404,
+    "pageRange": "p. 1404",
+    "pdfPageStart": 462,
+    "pdfPageEnd": 462,
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1404.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1404.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=462",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1472-remarks-on-the-federal-budget-agreement-and-an-exchange-with-reporters-i",
+    "title": "Remarks on the Federal Budget Agreement and an Exchange With Reporters in Honolulu, Hawaii",
+    "date": "1990-10-27",
+    "dateText": "October 27, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 3
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia",
+    "printedPageStart": 1472,
+    "printedPageEnd": 1478,
+    "pageRange": "pp. 1472-1478",
+    "pdfPageStart": 538,
+    "pdfPageEnd": 544,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1472-1478.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1472-1478.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=538",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1580-the-president-s-news-conference-on-the-persian-gulf-crisis",
+    "title": "The President's News Conference on the Persian Gulf Crisis",
+    "date": "1990-11-08",
+    "dateText": "November 8, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 6
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 6
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 6
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia",
+    "printedPageStart": 1580,
+    "printedPageEnd": 1585,
+    "pageRange": "pp. 1580-1585",
+    "pdfPageStart": 646,
+    "pdfPageEnd": 651,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1580-1585.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1580-1585.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=646",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1621-memorandum-on-the-egyptian-military-debt",
+    "title": "Memorandum on the Egyptian Military Debt",
+    "date": "1990-11-16",
+    "dateText": "November 16, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Memorandum/determination",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Egypt",
+    "printedPageStart": 1621,
+    "printedPageEnd": 1621,
+    "pageRange": "p. 1621",
+    "pdfPageStart": 687,
+    "pdfPageEnd": 687,
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1621.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1621.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=687",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1661-remarks-and-a-question-and-answer-session-with-reporters-in-jeddah-saudi",
+    "title": "Remarks and a Question-and-Answer Session With Reporters in Jeddah, Saudi Arabia, Following Discussions With Amir Jabir al- Ahmad al-Jabir Al Sabah of Kuwait",
+    "date": "1990-11-21",
+    "dateText": "November 21, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Assad",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 1661,
+    "printedPageEnd": 1664,
+    "pageRange": "pp. 1661-1664",
+    "pdfPageStart": 727,
+    "pdfPageEnd": 730,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1661-1664.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1661-1664.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=727",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1666-remarks-to-the-military-airlift-command-in-dhahran-saudi-arabia",
+    "title": "Remarks to the Military Airlift Command in Dhahran, Saudi Arabia",
+    "date": "1990-11-22",
+    "dateText": "November 22, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 1666,
+    "printedPageEnd": 1668,
+    "pageRange": "pp. 1666-1668",
+    "pdfPageStart": 732,
+    "pdfPageEnd": 734,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1666-1668.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1666-1668.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=732",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1668-remarks-to-united-states-army-troops-near-dhahran-saudi-arabia",
+    "title": "Remarks to United States Army Troops Near Dhahran, Saudi Arabia",
+    "date": "1990-11-22",
+    "dateText": "November 22, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 1668,
+    "printedPageEnd": 1670,
+    "pageRange": "pp. 1668-1670",
+    "pdfPageStart": 734,
+    "pdfPageEnd": 736,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1668-1670.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1668-1670.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=734",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1671-remarks-to-allied-armed-forces-near-dhahran-saudi-arabia",
+    "title": "Remarks to Allied Armed Forces Near Dhahran, Saudi Arabia",
+    "date": "1990-11-22",
+    "dateText": "November 22, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 1671,
+    "printedPageEnd": 1675,
+    "pageRange": "pp. 1671-1675",
+    "pdfPageStart": 737,
+    "pdfPageEnd": 741,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1671-1675.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1671-1675.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=737",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1675-exchange-with-reporters-near-dhahran-saudi-arabia",
+    "title": "Exchange With Reporters Near Dhahran, Saudi Arabia",
+    "date": "1990-11-22",
+    "dateText": "November 22, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 1675,
+    "printedPageEnd": 1676,
+    "pageRange": "pp. 1675-1676",
+    "pdfPageStart": 741,
+    "pdfPageEnd": 742,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1675-1676.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1675-1676.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=741",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1676-remarks-and-a-question-and-answer-session-with-reporters-following-discu",
+    "title": "Remarks and a Question-and-Answer Session With Reporters Following Discussions With President Mohammed Hosni Mubarak in Cairo, Egypt",
+    "date": "1990-11-23",
+    "dateText": "November 23, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 7
+        },
+        {
+          "label": "Shamir",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 6
+        },
+        {
+          "label": "Assad",
+          "count": 14
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 41
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 6
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Egypt, Saudi Arabia",
+    "printedPageStart": 1676,
+    "printedPageEnd": 1683,
+    "pageRange": "pp. 1676-1683",
+    "pdfPageStart": 742,
+    "pdfPageEnd": 749,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1676-1683.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1676-1683.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=742",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1822-presidential-determination-no-91-10-memorandum-on-the-cancellation-of-eg",
+    "title": "Presidential Determination No. 91-10-Memorandum on the Cancellation of Egyptian Military Debt",
+    "date": "1990-12-27",
+    "dateText": "December 27, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Memorandum/determination",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 7
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Egypt",
+    "printedPageStart": 1822,
+    "printedPageEnd": 1823,
+    "pageRange": "pp. 1822-1823",
+    "pdfPageStart": 888,
+    "pdfPageEnd": 889,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1822-1823.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1822-1823.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=888",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1823-letter-to-congressional-leaders-on-the-cancellation-of-egyptian-military",
+    "title": "Letter to Congressional Leaders on the Cancellation of Egyptian Military Debt",
+    "date": "1990-12-27",
+    "dateText": "December 27, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 4
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Egypt",
+    "printedPageStart": 1823,
+    "printedPageEnd": 1823,
+    "pageRange": "p. 1823",
+    "pdfPageStart": 889,
+    "pdfPageEnd": 889,
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1823.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1823.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=889",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0073-remarks-prior-to-discussions-with-foreign-minister-ahmed-esmat-abdel-meg",
+    "title": "Remarks Prior to Discussions With Foreign Minister Ahmed Esmat Abdel Meguid of Egypt",
+    "date": "1991-01-29",
+    "dateText": "January 29, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 8
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Egypt",
+    "printedPageStart": 73,
+    "printedPageEnd": 73,
+    "pageRange": "p. 73",
+    "pdfPageStart": 85,
+    "pdfPageEnd": 85,
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 73.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 73.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=85",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0074-address-before-a-joint-session-of-the-congress-on-the-state-of-the-union",
+    "title": "Address Before a Joint Session of the Congress on the State of the Union",
+    "date": "1991-01-29",
+    "dateText": "January 29, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 3
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 5
+        },
+        {
+          "label": "Morocco",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia, Morocco",
+    "printedPageStart": 74,
+    "printedPageEnd": 80,
+    "pageRange": "pp. 74-80",
+    "pdfPageStart": 86,
+    "pdfPageEnd": 92,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 74-80.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 74-80.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=86",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0190-remarks-and-an-exchange-with-reporters-prior-to-discussions-with-ambassa",
+    "title": "Remarks and an Exchange With Reporters Prior to Discussions With Ambassador Nasir Al-Sabah of Kuwait",
+    "date": "1991-02-28",
+    "dateText": "February 28, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 5
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Saudi Arabia",
+    "printedPageStart": 190,
+    "printedPageEnd": 192,
+    "pageRange": "pp. 190-192",
+    "pdfPageStart": 202,
+    "pdfPageEnd": 204,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 190-192.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 190-192.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=202",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0192-remarks-and-an-exchange-with-reporters-prior-to-discussions-with-prince-",
+    "title": "Remarks and an Exchange With Reporters Prior to Discussions with Prince Bandar bin Sultan of Saudi Arabia",
+    "date": "1991-02-28",
+    "dateText": "February 28, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 8
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 192,
+    "printedPageEnd": 194,
+    "pageRange": "pp. 192-194",
+    "pdfPageStart": 204,
+    "pdfPageEnd": 206,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 192-194.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 192-194.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=204",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0231-interview-with-middle-eastern-journalists",
+    "title": "Interview With Middle Eastern Journalists",
+    "date": "1991-03-08",
+    "dateText": "March 8, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 14
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 4
+        },
+        {
+          "label": "PLO",
+          "count": 5
+        },
+        {
+          "label": "Arafat",
+          "count": 1
+        },
+        {
+          "label": "Jordan",
+          "count": 12
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 9
+        },
+        {
+          "label": "Lebanon",
+          "count": 10
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 17
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 13
+        },
+        {
+          "label": "Morocco",
+          "count": 8
+        },
+        {
+          "label": "Arab states",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Egypt, Saudi Arabia, Morocco, Arab states",
+    "printedPageStart": 231,
+    "printedPageEnd": 242,
+    "pageRange": "pp. 231-242",
+    "pdfPageStart": 243,
+    "pdfPageEnd": 254,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 231-242.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 231-242.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=243",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0421-remarks-following-discussions-with-president-hassan-gouled-aptidon-of-dj",
+    "title": "Remarks Following Discussions With President Hassan Gouled Aptidon of Djibouti and an Exchange With Reporters",
+    "date": "1991-04-24",
+    "dateText": "April 24, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Morocco",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Morocco",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Morocco",
+    "printedPageStart": 421,
+    "printedPageEnd": 423,
+    "pageRange": "pp. 421-423",
+    "pdfPageStart": 433,
+    "pdfPageEnd": 435,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 421-423.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 421-423.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=433",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0423-statement-by-press-secretary-fitzwater-on-president-bush-s-meeting-with-",
+    "title": "Statement by Press Secretary Fitzwater on President Bush's Meeting With President Hassan Gouled Aptidon of Djibouti",
+    "date": "1991-04-24",
+    "dateText": "April 24, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Morocco",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Morocco",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Morocco",
+    "printedPageStart": 423,
+    "printedPageEnd": 423,
+    "pageRange": "p. 423",
+    "pdfPageStart": 435,
+    "pdfPageEnd": 435,
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 423.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 423.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=435",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0495-nomination-of-robert-h-pelletreau-jr-to-be-united-states-ambassador-to-e",
+    "title": "Nomination of Robert H. Pelletreau, Jr., To Be United States Ambassador to Egypt",
+    "date": "1991-05-09",
+    "dateText": "May 9, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Egypt",
+    "printedPageStart": 495,
+    "printedPageEnd": 495,
+    "pageRange": "p. 495",
+    "pdfPageStart": 507,
+    "pdfPageEnd": 507,
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 495.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 495.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=507",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1216-remarks-at-the-welcoming-ceremony-for-king-hassan-ii-of-morocco",
+    "title": "Remarks at the Welcoming Ceremony for King Hassan II of Morocco",
+    "date": "1991-09-26",
+    "dateText": "September 26, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        },
+        {
+          "label": "Morocco",
+          "count": 13
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Morocco",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia, Morocco",
+    "printedPageStart": 1216,
+    "printedPageEnd": 1218,
+    "pageRange": "pp. 1216-1218",
+    "pdfPageStart": 434,
+    "pdfPageEnd": 436,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1216-1218.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1216-1218.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=434",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1218-remarks-at-the-state-dinner-for-king-hassan-ii-of-morocco",
+    "title": "Remarks at the State Dinner for King Hassan II of Morocco",
+    "date": "1991-09-26",
+    "dateText": "September 26, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        },
+        {
+          "label": "Morocco",
+          "count": 9
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Morocco",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia, Morocco",
+    "printedPageStart": 1218,
+    "printedPageEnd": 1219,
+    "pageRange": "pp. 1218-1219",
+    "pdfPageStart": 436,
+    "pdfPageEnd": 437,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1218-1219.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1218-1219.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=436",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0887-nomination-of-john-frank-bookout-jr-to-be-united-states-ambassador-to-sa",
+    "title": "Nomination of John Frank Bookout, Jr., To Be United States Ambassador to Saudi Arabia",
+    "date": "1992-06-03",
+    "dateText": "June 3, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 4,
+      "name": "Egypt-Arab Regional Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Title anchor; Saudi Arabia",
+    "printedPageStart": 887,
+    "printedPageEnd": 887,
+    "pageRange": "p. 887",
+    "pdfPageStart": 899,
+    "pdfPageEnd": 899,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 887.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 887.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=899",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0046-nomination-of-morris-berthold-abram-to-be-united-states-representative-t",
+    "title": "Nomination of Morris Berthold Abram To Be United States Representative to the European Office of the United Nations",
+    "date": "1989-02-02",
+    "dateText": "February 2, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 46,
+    "printedPageEnd": 46,
+    "pageRange": "p. 46",
+    "pdfPageStart": 64,
+    "pdfPageEnd": 64,
+    "citation": "Public Papers: Bush, 1989, vol. I, p. 46.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, p. 46.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=64",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0151-statement-on-the-united-nations-human-rights-commission-report-on-cuba",
+    "title": "Statement on the United Nations Human Rights Commission Report on Cuba",
+    "date": "1989-02-27",
+    "dateText": "February 27, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 151,
+    "printedPageEnd": 152,
+    "pageRange": "pp. 151-152",
+    "pdfPageStart": 169,
+    "pdfPageEnd": 170,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 151-152.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 151-152.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=169",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0163-letter-to-the-speaker-of-the-house-of-representatives-and-the-chairman-o",
+    "title": "Letter to the Speaker of the House of Representatives and the Chairman of the Senate Foreign Relations Committee Reporting on the Cyprus Conflict",
+    "date": "1989-03-01",
+    "dateText": "March 1, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 4
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 163,
+    "printedPageEnd": 165,
+    "pageRange": "pp. 163-165",
+    "pdfPageStart": 181,
+    "pdfPageEnd": 183,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 163-165.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 163-165.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=181",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0268-remarks-at-the-swearing-in-ceremony-for-thomas-r-pickering-as-united-sta",
+    "title": "Remarks at the Swearing-in Ceremony for Thomas R. Pickering as United States Representative to the United Nations",
+    "date": "1989-03-20",
+    "dateText": "March 20, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 268,
+    "printedPageEnd": 270,
+    "pageRange": "pp. 268-270",
+    "pdfPageStart": 286,
+    "pdfPageEnd": 288,
+    "citation": "Public Papers: Bush, 1989, vol. I, pp. 268-270.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, pp. 268-270.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=286",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0449-letter-to-the-speaker-of-the-house-of-representatives-and-the-president-",
+    "title": "Letter to the Speaker of the House of Representatives and the President of the Senate Transmitting the Report on Activities of United Nations Member Countries",
+    "date": "1989-04-20",
+    "dateText": "April 20, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 449,
+    "printedPageEnd": 449,
+    "pageRange": "p. 449",
+    "pdfPageStart": 475,
+    "pdfPageEnd": 475,
+    "citation": "Public Papers: Bush, 1989, vol. I, p. 449.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, p. 449.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=475",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0755-message-to-the-senate-transmitting-the-united-nations-convention-against",
+    "title": "Message to the Senate Transmitting the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances",
+    "date": "1989-06-19",
+    "dateText": "June 19, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 755,
+    "printedPageEnd": 755,
+    "pageRange": "p. 755",
+    "pdfPageStart": 781,
+    "pdfPageEnd": 781,
+    "citation": "Public Papers: Bush, 1989, vol. I, p. 755.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, p. 755.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=781",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book1-0804-nomination-of-alexander-fletcher-watson-to-be-deputy-united-states-repre",
+    "title": "Nomination of Alexander Fletcher Watson To Be Deputy United States Representative to the United Nations",
+    "date": "1989-06-26",
+    "dateText": "June 26, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Madrid, United Nations",
+    "printedPageStart": 804,
+    "printedPageEnd": 804,
+    "pageRange": "p. 804",
+    "pdfPageStart": 830,
+    "pdfPageEnd": 830,
+    "citation": "Public Papers: Bush, 1989, vol. I, p. 804.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. I, p. 804.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf#page=830",
+    "source": {
+      "packageId": "PPP-1989-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. I",
+      "shortName": "Public Papers: Bush, 1989, vol. I",
+      "dateSpan": "January 20-June 30, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book1/pdf/PPP-1989-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-0910-nomination-of-milton-james-wilkinson-to-be-deputy-united-states-represen",
+    "title": "Nomination of Milton James Wilkinson To Be Deputy United States Representative to the United Nations Security Council",
+    "date": "1989-07-07",
+    "dateText": "July 7, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 910,
+    "printedPageEnd": 910,
+    "pageRange": "p. 910",
+    "pdfPageStart": 44,
+    "pdfPageEnd": 44,
+    "citation": "Public Papers: Bush, 1989, vol. II, p. 910.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, p. 910.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=44",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-0961-paris-economic-summit-economic-declaration",
+    "title": "Paris Economic Summit: Economic Declaration",
+    "date": "1989-07-16",
+    "dateText": "July 16, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 10
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 961,
+    "printedPageEnd": 969,
+    "pageRange": "pp. 961-969",
+    "pdfPageStart": 95,
+    "pdfPageEnd": 103,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 961-969.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 961-969.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=95",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1045-appointment-of-juliette-c-mclennan-as-the-united-states-representative-t",
+    "title": "Appointment of Juliette C. McLennan as the United States Representative to the Commission on the Status of Women of the Economic and Social Council of the United Nations",
+    "date": "1989-07-31",
+    "dateText": "July 31, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1045,
+    "printedPageEnd": 1046,
+    "pageRange": "pp. 1045-1046",
+    "pdfPageStart": 179,
+    "pdfPageEnd": 180,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1045-1046.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1045-1046.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=179",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1047-nomination-of-jonathan-moore-to-be-an-alternate-united-states-representa",
+    "title": "Nomination of Jonathan Moore To Be an Alternate United States Representative to the United Nations",
+    "date": "1989-08-01",
+    "dateText": "August 1, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1047,
+    "printedPageEnd": 1047,
+    "pageRange": "p. 1047",
+    "pdfPageStart": 181,
+    "pdfPageEnd": 181,
+    "citation": "Public Papers: Bush, 1989, vol. II, p. 1047.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, p. 1047.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=181",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1247-remarks-to-the-staff-of-the-united-states-mission-to-the-united-nations-",
+    "title": "Remarks to the Staff of the United States Mission to the United Nations in New York, New York",
+    "date": "1989-09-25",
+    "dateText": "September 25, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1247,
+    "printedPageEnd": 1248,
+    "pageRange": "pp. 1247-1248",
+    "pdfPageStart": 381,
+    "pdfPageEnd": 382,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1247-1248.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1247-1248.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=381",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1989-book2-1248-address-to-the-44th-session-of-the-united-nations-general-assembly-in-ne",
+    "title": "Address to the 44th Session of the United Nations General Assembly in New York, New York",
+    "date": "1989-09-25",
+    "dateText": "September 25, 1989",
+    "year": "1989",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 15
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1248,
+    "printedPageEnd": 1252,
+    "pageRange": "pp. 1248-1252",
+    "pdfPageStart": 382,
+    "pdfPageEnd": 386,
+    "citation": "Public Papers: Bush, 1989, vol. II, pp. 1248-1252.",
+    "sourceNote": "Public Papers: Bush, 1989, vol. II, pp. 1248-1252.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf#page=382",
+    "source": {
+      "packageId": "PPP-1989-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1989, vol. II",
+      "shortName": "Public Papers: Bush, 1989, vol. II",
+      "dateSpan": "July 1-December 31, 1989",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1989-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1989-book2/pdf/PPP-1989-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0200-nomination-of-jonathan-moore-to-be-the-united-states-representative-at-t",
+    "title": "Nomination of Jonathan Moore To Be the United States Representative at the Economic and Social Council of the United Nations",
+    "date": "1990-02-09",
+    "dateText": "February 9, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 200,
+    "printedPageEnd": 201,
+    "pageRange": "pp. 200-201",
+    "pdfPageStart": 218,
+    "pdfPageEnd": 219,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 200-201.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 200-201.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=218",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0201-nomination-of-shirin-raziuddin-tahir-kheli-to-be-alternate-united-states",
+    "title": "Nomination of Shirin Raziuddin Tahir-Kheli To Be Alternate United States Representative for Special Political Affairs at the United Nations",
+    "date": "1990-02-09",
+    "dateText": "February 9, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 201,
+    "printedPageEnd": 201,
+    "pageRange": "p. 201",
+    "pdfPageStart": 219,
+    "pdfPageEnd": 219,
+    "citation": "Public Papers: Bush, 1990, vol. I, p. 201.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, p. 201.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=219",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0216-remarks-on-signing-the-united-nations-convention-against-illegal-traffic",
+    "title": "Remarks on Signing the United Nations Convention Against Illegal Traffic in Narcotic Drugs and Psychotropic Substances",
+    "date": "1990-02-13",
+    "dateText": "February 13, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 216,
+    "printedPageEnd": 217,
+    "pageRange": "pp. 216-217",
+    "pdfPageStart": 234,
+    "pdfPageEnd": 235,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 216-217.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 216-217.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=234",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0217-statement-on-signing-the-united-nations-convention-against-illegal-traff",
+    "title": "Statement on Signing the United Nations Convention Against Illegal Traffic in Narcotic Drugs and Psychotropic Substances",
+    "date": "1990-02-13",
+    "dateText": "February 13, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 217,
+    "printedPageEnd": 217,
+    "pageRange": "p. 217",
+    "pdfPageStart": 235,
+    "pdfPageEnd": 235,
+    "citation": "Public Papers: Bush, 1990, vol. I, p. 217.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, p. 217.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=235",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0222-declaration-of-cartagena",
+    "title": "Declaration of Cartagena",
+    "date": "1990-02-15",
+    "dateText": "February 15, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 2
+        },
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Madrid, United Nations",
+    "printedPageStart": 222,
+    "printedPageEnd": 228,
+    "pageRange": "pp. 222-228",
+    "pdfPageStart": 240,
+    "pdfPageEnd": 246,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 222-228.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 222-228.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=240",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0365-appointment-of-peter-b-teeley-as-united-states-representative-on-the-exe",
+    "title": "Appointment of Peter B. Teeley as United States Representative on the Executive Board of the United Nations Children's Fund",
+    "date": "1990-03-14",
+    "dateText": "March 14, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 365,
+    "printedPageEnd": 365,
+    "pageRange": "p. 365",
+    "pdfPageStart": 383,
+    "pdfPageEnd": 383,
+    "citation": "Public Papers: Bush, 1990, vol. I, p. 365.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, p. 365.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=383",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0487-appointment-of-mrs-potter-stewart-as-alternate-united-states-representat",
+    "title": "Appointment of Mrs. Potter Stewart as Alternate United States Representative on the Executive Board of the United Nations Children's Fund",
+    "date": "1990-04-11",
+    "dateText": "April 11, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 487,
+    "printedPageEnd": 487,
+    "pageRange": "p. 487",
+    "pdfPageStart": 505,
+    "pdfPageEnd": 505,
+    "citation": "Public Papers: Bush, 1990, vol. I, p. 487.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, p. 487.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=505",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0767-letter-to-congressional-leaders-on-the-waiver-of-requirements-for-most-f",
+    "title": "Letter to Congressional Leaders on the Waiver of Requirements for Most-Favored-Nation Trade Status for Czechoslovakia",
+    "date": "1990-06-03",
+    "dateText": "June 3, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 6
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 767,
+    "printedPageEnd": 775,
+    "pageRange": "pp. 767-775",
+    "pdfPageStart": 793,
+    "pdfPageEnd": 801,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 767-775.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 767-775.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=793",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0897-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-t",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With Thorvald Stoltenberg, United Nations High Commissioner for Refugees",
+    "date": "1990-06-26",
+    "dateText": "June 26, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": null,
+    "printedPageEnd": 872,
+    "pageRange": "",
+    "pdfPageStart": 897,
+    "pdfPageEnd": 898,
+    "citation": "Public Papers: Bush, 1990, vol. I, .",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, .",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=897",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book1-0891-statement-on-signing-a-bill-calling-upon-the-united-nations-to-repeal-ge",
+    "title": "Statement on Signing a Bill Calling Upon the United Nations to Repeal General Assembly Resolution 3379",
+    "date": "1990-06-29",
+    "dateText": "June 29, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Peace process, United Nations",
+    "printedPageStart": 891,
+    "printedPageEnd": 892,
+    "pageRange": "pp. 891-892",
+    "pdfPageStart": 917,
+    "pdfPageEnd": 918,
+    "citation": "Public Papers: Bush, 1990, vol. I, pp. 891-892.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. I, pp. 891-892.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf#page=917",
+    "source": {
+      "packageId": "PPP-1990-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. I",
+      "shortName": "Public Papers: Bush, 1990, vol. I",
+      "dateSpan": "January 1-June 30, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book1/pdf/PPP-1990-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1117-letter-to-congressional-leaders-on-additional-economic-measures-taken-wi",
+    "title": "Letter to Congressional Leaders on Additional Economic Measures Taken With Respect to Iraq and Kuwait",
+    "date": "1990-08-09",
+    "dateText": "August 9, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1117,
+    "printedPageEnd": 1118,
+    "pageRange": "pp. 1117-1118",
+    "pdfPageStart": 175,
+    "pdfPageEnd": 176,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1117-1118.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1117-1118.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=175",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1157-the-president-s-news-conference-on-the-persian-gulf-crisis",
+    "title": "The President's News Conference on the Persian Gulf Crisis",
+    "date": "1990-08-22",
+    "dateText": "August 22, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 6
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 5
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 8
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1157,
+    "printedPageEnd": 1163,
+    "pageRange": "pp. 1157-1163",
+    "pdfPageStart": 215,
+    "pdfPageEnd": 221,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1157-1163.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1157-1163.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=215",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1164-statement-by-press-secretary-fitzwater-on-united-nations-authorization-o",
+    "title": "Statement by Press Secretary Fitzwater on United Nations Authorization of Enforcement of Economic Sanctions Against Iraq",
+    "date": "1990-08-25",
+    "dateText": "August 25, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1164,
+    "printedPageEnd": 1165,
+    "pageRange": "pp. 1164-1165",
+    "pdfPageStart": 222,
+    "pdfPageEnd": 223,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1164-1165.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1164-1165.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=222",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1165-excerpt-of-a-statement-by-press-secretary-fitzwater-on-soviet-president-",
+    "title": "Excerpt of a Statement by Press Secretary Fitzwater on Soviet President Mikhail Gorbachev's Endorsement of United Nations Economic Sanctions Against Iraq",
+    "date": "1990-08-25",
+    "dateText": "August 25, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1165,
+    "printedPageEnd": 1165,
+    "pageRange": "p. 1165",
+    "pdfPageStart": 223,
+    "pdfPageEnd": 223,
+    "citation": "Public Papers: Bush, 1990, vol. II, p. 1165.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, p. 1165.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=223",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1166-remarks-and-a-question-and-answer-session-with-reporters-in-kennebunkpor",
+    "title": "Remarks and a Question-and-Answer Session With Reporters in Kennebunkport, Maine, Following a Meeting With Prime Minister Brian Mulroney of Canada",
+    "date": "1990-08-27",
+    "dateText": "August 27, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 17
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1166,
+    "printedPageEnd": 1172,
+    "pageRange": "pp. 1166-1172",
+    "pdfPageStart": 224,
+    "pdfPageEnd": 230,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1166-1172.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1166-1172.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=224",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1183-remarks-announcing-the-upcoming-meeting-with-president-mikhail-gorbachev",
+    "title": "Remarks Announcing the Upcoming Meeting With President Mikhail Gorbachev of the Soviet Union and an Exchange With Reporters in Kennebunkport, Maine",
+    "date": "1990-09-01",
+    "dateText": "September 1, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1183,
+    "printedPageEnd": 1186,
+    "pageRange": "pp. 1183-1186",
+    "pdfPageStart": 241,
+    "pdfPageEnd": 244,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1183-1186.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1183-1186.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=241",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1204-joint-news-conference-of-president-bush-and-soviet-president-mikhail-gor",
+    "title": "Joint News Conference of President Bush and Soviet President Mikhail Gorbachev in Helsinki, Finland",
+    "date": "1990-09-09",
+    "dateText": "September 9, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 3
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        },
+        {
+          "label": "Morocco",
+          "count": 1
+        },
+        {
+          "label": "Arab states",
+          "count": 5
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "United Nations",
+          "count": 15
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Middle East peace, United Nations",
+    "printedPageStart": 1204,
+    "printedPageEnd": 1213,
+    "pageRange": "pp. 1204-1213",
+    "pdfPageStart": 262,
+    "pdfPageEnd": 271,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1204-1213.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1204-1213.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=262",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1323-remarks-at-the-opening-ceremony-of-the-united-nations-world-summit-for-c",
+    "title": "Remarks at the Opening Ceremony of the United Nations World Summit for Children in New York City",
+    "date": "1990-09-30",
+    "dateText": "September 30, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1323,
+    "printedPageEnd": 1325,
+    "pageRange": "pp. 1323-1325",
+    "pdfPageStart": 381,
+    "pdfPageEnd": 383,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1323-1325.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1323-1325.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=381",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1330-address-before-the-45th-session-of-the-united-nations-general-assembly-i",
+    "title": "Address Before the 45th Session of the United Nations General Assembly in New York, New York",
+    "date": "1990-10-01",
+    "dateText": "October 1, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 23
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1330,
+    "printedPageEnd": 1334,
+    "pageRange": "pp. 1330-1334",
+    "pdfPageStart": 388,
+    "pdfPageEnd": 392,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1330-1334.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1330-1334.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=388",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1335-remarks-on-signing-a-resolution-providing-funding-for-continued-governme",
+    "title": "Remarks on Signing a Resolution Providing Funding for Continued Government Operation and a Question-and-Answer Session With Reporters in New York, New York",
+    "date": "1990-10-01",
+    "dateText": "October 1, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Arab-Israeli",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Arab-Israeli, United Nations",
+    "printedPageStart": 1335,
+    "printedPageEnd": 1341,
+    "pageRange": "pp. 1335-1341",
+    "pdfPageStart": 393,
+    "pdfPageEnd": 399,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1335-1341.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1335-1341.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=393",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1506-remarks-at-a-republican-party-fundraising-breakfast-in-burlington-massac",
+    "title": "Remarks at a Republican Party Fundraising Breakfast in Burlington, Massachusetts",
+    "date": "1990-11-01",
+    "dateText": "November 1, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1506,
+    "printedPageEnd": 1510,
+    "pageRange": "pp. 1506-1510",
+    "pdfPageStart": 572,
+    "pdfPageEnd": 576,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1506-1510.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1506-1510.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=572",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1510-remarks-at-a-republican-campaign-rally-in-mashpee-massachusetts",
+    "title": "Remarks at a Republican Campaign Rally in Mashpee, Massachusetts",
+    "date": "1990-11-01",
+    "dateText": "November 1, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1510,
+    "printedPageEnd": 1514,
+    "pageRange": "pp. 1510-1514",
+    "pdfPageStart": 576,
+    "pdfPageEnd": 580,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1510-1514.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1510-1514.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=576",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1514-the-president-s-news-conference-in-orlando-florida",
+    "title": "The President's News Conference in Orlando, Florida",
+    "date": "1990-11-01",
+    "dateText": "November 1, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 6
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 10
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1514,
+    "printedPageEnd": 1521,
+    "pageRange": "pp. 1514-1521",
+    "pdfPageStart": 580,
+    "pdfPageEnd": 587,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1514-1521.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1514-1521.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=580",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1636-remarks-and-an-exchange-with-reporters-following-discussions-with-prime-",
+    "title": "Remarks and an Exchange With Reporters Following Discussions With Prime Minister Margaret Thatcher of the United Kingdom in Paris, France",
+    "date": "1990-11-19",
+    "dateText": "November 19, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1636,
+    "printedPageEnd": 1640,
+    "pageRange": "pp. 1636-1640",
+    "pdfPageStart": 702,
+    "pdfPageEnd": 706,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1636-1640.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1636-1640.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=702",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1652-text-of-the-charter-of-paris-for-a-new-europe",
+    "title": "Text of the Charter of Paris for a New Europe",
+    "date": "1990-11-21",
+    "dateText": "November 21, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 4
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 10
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1652,
+    "printedPageEnd": 1660,
+    "pageRange": "pp. 1652-1660",
+    "pdfPageStart": 718,
+    "pdfPageEnd": 726,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1652-1660.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1652-1660.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=718",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1718-statement-on-the-united-nations-security-council-resolution-authorizing-",
+    "title": "Statement on the United Nations Security Council Resolution Authorizing the Use of Force Against Iraq",
+    "date": "1990-11-29",
+    "dateText": "November 29, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1718,
+    "printedPageEnd": 1719,
+    "pageRange": "pp. 1718-1719",
+    "pdfPageStart": 784,
+    "pdfPageEnd": 785,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1718-1719.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1718-1719.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=784",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1719-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1990-11-30",
+    "dateText": "November 30, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 18
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1719,
+    "printedPageEnd": 1727,
+    "pageRange": "pp. 1719-1727",
+    "pdfPageStart": 785,
+    "pdfPageEnd": 793,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1719-1727.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1719-1727.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=785",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1759-question-and-answer-session-with-reporters-in-santiago-chile",
+    "title": "Question-and-Answer Session With Reporters in Santiago, Chile",
+    "date": "1990-12-06",
+    "dateText": "December 6, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 4
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        },
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Middle East peace, Peace process, United Nations",
+    "printedPageStart": 1759,
+    "printedPageEnd": 1764,
+    "pageRange": "pp. 1759-1764",
+    "pdfPageStart": 825,
+    "pdfPageEnd": 830,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1759-1764.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1759-1764.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=825",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1795-remarks-on-the-nomination-of-the-secretary-of-labor-and-the-persian-gulf",
+    "title": "Remarks on the Nomination of the Secretary of Labor and the Persian Gulf Crisis and a Question-and-Answer Session With Reporters",
+    "date": "1990-12-14",
+    "dateText": "December 14, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 11
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1795,
+    "printedPageEnd": 1798,
+    "pageRange": "pp. 1795-1798",
+    "pdfPageStart": 861,
+    "pdfPageEnd": 864,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1795-1798.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1795-1798.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=861",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1990-book2-1801-remarks-and-a-question-and-answer-session-with-reporters-following-discu",
+    "title": "Remarks and a Question-and-Answer Session With Reporters Following Discussions With Allies on the Persian Gulf Crisis",
+    "date": "1990-12-17",
+    "dateText": "December 17, 1990",
+    "year": "1990",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 12
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1801,
+    "printedPageEnd": 1803,
+    "pageRange": "pp. 1801-1803",
+    "pdfPageStart": 867,
+    "pdfPageEnd": 869,
+    "citation": "Public Papers: Bush, 1990, vol. II, pp. 1801-1803.",
+    "sourceNote": "Public Papers: Bush, 1990, vol. II, pp. 1801-1803.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf#page=867",
+    "source": {
+      "packageId": "PPP-1990-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1990, vol. II",
+      "shortName": "Public Papers: Bush, 1990, vol. II",
+      "dateSpan": "July 1-December 31, 1990",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1990-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1990-book2/pdf/PPP-1990-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0006-remarks-on-the-united-states-discussions-with-iraq-and-a-question-and-an",
+    "title": "Remarks on the United States Discussions With Iraq and a Question-and-Answer Session With Reporters",
+    "date": "1991-01-04",
+    "dateText": "January 4, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 5
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Arab-Israeli",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 11
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Arab-Israeli, United Nations",
+    "printedPageStart": 6,
+    "printedPageEnd": 10,
+    "pageRange": "pp. 6-10",
+    "pdfPageStart": 18,
+    "pdfPageEnd": 22,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 6-10.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 6-10.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=18",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0016-exchange-with-reporters-on-the-persian-gulf-crisis",
+    "title": "Exchange With Reporters on the Persian Gulf Crisis",
+    "date": "1991-01-09",
+    "dateText": "January 9, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 7
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 16,
+    "printedPageEnd": 17,
+    "pageRange": "pp. 16-17",
+    "pdfPageStart": 28,
+    "pdfPageEnd": 29,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 16-17.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 16-17.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=28",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0017-the-president-s-news-conference-on-the-persian-gulf-crisis",
+    "title": "The President's News Conference on the Persian Gulf Crisis",
+    "date": "1991-01-09",
+    "dateText": "January 9, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 4
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        },
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 3
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 15
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 17,
+    "printedPageEnd": 24,
+    "pageRange": "pp. 17-24",
+    "pdfPageStart": 29,
+    "pdfPageEnd": 36,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 17-24.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 17-24.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=29",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0027-statement-by-press-secretary-fitzwater-on-the-president-s-conversation-w",
+    "title": "Statement by Press Secretary Fitzwater on the President's Conversation With United Nations Secretary-General Javier Perez de Cuellar Concerning the Persian Gulf Crisis",
+    "date": "1991-01-10",
+    "dateText": "January 10, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 6
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 27,
+    "printedPageEnd": 27,
+    "pageRange": "p. 27",
+    "pdfPageStart": 39,
+    "pdfPageEnd": 39,
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 27.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 27.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=39",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0031-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1991-01-12",
+    "dateText": "January 12, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 14
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 31,
+    "printedPageEnd": 36,
+    "pageRange": "pp. 31-36",
+    "pdfPageStart": 43,
+    "pdfPageEnd": 48,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 31-36.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 31-36.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=43",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0038-remarks-on-soviet-military-intervention-in-lithuania-and-a-question-and-",
+    "title": "Remarks on Soviet Military Intervention in Lithuania and a Question-and-Answer Session With Reporters",
+    "date": "1991-01-13",
+    "dateText": "January 13, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 38,
+    "printedPageEnd": 40,
+    "pageRange": "pp. 38-40",
+    "pdfPageStart": 50,
+    "pdfPageEnd": 52,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 38-40.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 38-40.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=50",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0042-address-to-the-nation-announcing-allied-military-action-in-the-persian-g",
+    "title": "Address to the Nation Announcing Allied Military Action in the Persian Gulf",
+    "date": "1991-01-16",
+    "dateText": "January 16, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 9
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 42,
+    "printedPageEnd": 45,
+    "pageRange": "pp. 42-45",
+    "pdfPageStart": 54,
+    "pdfPageEnd": 57,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 42-45.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 42-45.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=54",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0103-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1991-02-05",
+    "dateText": "February 5, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 2
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 4
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 103,
+    "printedPageEnd": 111,
+    "pageRange": "pp. 103-111",
+    "pdfPageStart": 115,
+    "pdfPageEnd": 123,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 103-111.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 103-111.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=115",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0131-letter-to-congressional-leaders-reporting-on-the-national-emergency-with",
+    "title": "Letter to Congressional Leaders Reporting on the National Emergency With Respect to Iraq",
+    "date": "1991-02-11",
+    "dateText": "February 11, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 7
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 131,
+    "printedPageEnd": 134,
+    "pageRange": "pp. 131-134",
+    "pdfPageStart": 143,
+    "pdfPageEnd": 146,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 131-134.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 131-134.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=143",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0143-appointment-of-john-kenneth-blackwell-as-united-states-representative-on",
+    "title": "Appointment of John Kenneth Blackwell as United States Representative on the United Nations Commission on Human Rights",
+    "date": "1991-02-14",
+    "dateText": "February 14, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 143,
+    "printedPageEnd": 144,
+    "pageRange": "pp. 143-144",
+    "pdfPageStart": 155,
+    "pdfPageEnd": 156,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 143-144.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 143-144.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=155",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0274-the-president-s-news-conference-with-prime-minister-john-major-of-the-un",
+    "title": "The President's News Conference With Prime Minister John Major of the United Kingdom in Hamilton, Bermuda",
+    "date": "1991-03-16",
+    "dateText": "March 16, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 7
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 274,
+    "printedPageEnd": 279,
+    "pageRange": "pp. 274-279",
+    "pdfPageStart": 286,
+    "pdfPageEnd": 291,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 274-279.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 274-279.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=286",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0290-message-to-the-congress-transmitting-a-report-on-united-states-governmen",
+    "title": "Message to the Congress Transmitting a Report on United States Government Activities in the United Nations",
+    "date": "1991-03-19",
+    "dateText": "March 19, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 290,
+    "printedPageEnd": 291,
+    "pageRange": "pp. 290-291",
+    "pdfPageStart": 302,
+    "pdfPageEnd": 303,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 290-291.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 290-291.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=302",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0323-statement-on-the-united-nations-persian-gulf-cease-fire-resolution",
+    "title": "Statement on the United Nations Persian Gulf Cease-Fire Resolution",
+    "date": "1991-04-03",
+    "dateText": "April 3, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 323,
+    "printedPageEnd": 324,
+    "pageRange": "pp. 323-324",
+    "pdfPageStart": 335,
+    "pdfPageEnd": 336,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 323-324.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 323-324.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=335",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0378-remarks-on-assistance-for-iraqi-refugees-and-a-news-conference",
+    "title": "Remarks on Assistance for Iraqi Refugees and a News Conference",
+    "date": "1991-04-16",
+    "dateText": "April 16, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 15
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 378,
+    "printedPageEnd": 385,
+    "pageRange": "pp. 378-385",
+    "pdfPageStart": 390,
+    "pdfPageEnd": 397,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 378-385.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 378-385.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=390",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0432-remarks-at-an-arbor-day-tree-planting-ceremony-and-an-exchange-with-repo",
+    "title": "Remarks at an Arbor Day Tree-Planting Ceremony and an Exchange With Reporters",
+    "date": "1991-04-26",
+    "dateText": "April 26, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        },
+        {
+          "label": "Shamir",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Middle East peace, Peace process, United Nations",
+    "printedPageStart": 432,
+    "printedPageEnd": 435,
+    "pageRange": "pp. 432-435",
+    "pdfPageStart": 444,
+    "pdfPageEnd": 447,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 432-435.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 432-435.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=444",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0491-exchange-with-reporters-prior-to-discussions-with-secretary-general-javi",
+    "title": "Exchange With Reporters Prior to Discussions With Secretary- General Javier Perez de Cuellar de la Guerra of the United Nations",
+    "date": "1991-05-09",
+    "dateText": "May 9, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 491,
+    "printedPageEnd": 491,
+    "pageRange": "p. 491",
+    "pdfPageStart": 503,
+    "pdfPageEnd": 503,
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 491.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 491.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=503",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0491-remarks-following-discussions-with-secretary-general-javier-perez-de-cue",
+    "title": "Remarks Following Discussions With Secretary-General Javier Perez de Cuellar de la Guerra of the United Nations",
+    "date": "1991-05-09",
+    "dateText": "May 9, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 12
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 491,
+    "printedPageEnd": 494,
+    "pageRange": "pp. 491-494",
+    "pdfPageStart": 503,
+    "pdfPageEnd": 506,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 491-494.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 491-494.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=503",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0519-remarks-and-an-exchange-with-reporters-following-a-meeting-with-secretar",
+    "title": "Remarks and an Exchange With Reporters Following a Meeting With Secretary of State James A. Baker III on Middle East Peace Talks",
+    "date": "1991-05-17",
+    "dateText": "May 17, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 4
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "Land for peace",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Middle East peace, Land for peace, United Nations",
+    "printedPageStart": 519,
+    "printedPageEnd": 520,
+    "pageRange": "pp. 519-520",
+    "pdfPageStart": 531,
+    "pdfPageEnd": 532,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 519-520.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 519-520.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=531",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0715-exchange-with-reporters-prior-to-a-meeting-with-sadako-ogata-united-nati",
+    "title": "Exchange With Reporters Prior to a Meeting With Sadako Ogata, United Nations High Commissioner for Refugees",
+    "date": "1991-06-24",
+    "dateText": "June 24, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 715,
+    "printedPageEnd": 716,
+    "pageRange": "pp. 715-716",
+    "pdfPageStart": 727,
+    "pdfPageEnd": 728,
+    "citation": "Public Papers: Bush, 1991, vol. I, pp. 715-716.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, pp. 715-716.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=727",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book1-0716-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-s",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting With Sadako Ogata, United Nations High Commissioner for Refugees",
+    "date": "1991-06-24",
+    "dateText": "June 24, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 716,
+    "printedPageEnd": 716,
+    "pageRange": "p. 716",
+    "pdfPageStart": 728,
+    "pdfPageEnd": 728,
+    "citation": "Public Papers: Bush, 1991, vol. I, p. 716.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. I, p. 716.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf#page=728",
+    "source": {
+      "packageId": "PPP-1991-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. I",
+      "shortName": "Public Papers: Bush, 1991, vol. I",
+      "dateSpan": "January 1-June 30, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book1/pdf/PPP-1991-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0812-remarks-at-the-welcoming-ceremony-for-president-roh-tae-woo-of-the-repub",
+    "title": "Remarks at the Welcoming Ceremony for President Roh Tae Woo of the Republic of Korea",
+    "date": "1991-07-02",
+    "dateText": "July 2, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 812,
+    "printedPageEnd": 814,
+    "pageRange": "pp. 812-814",
+    "pdfPageStart": 30,
+    "pdfPageEnd": 32,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 812-814.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 812-814.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=30",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0882-the-president-s-news-conference-with-president-frangois-mitterrand-of-fr",
+    "title": "The President's News Conference With President Frangois Mitterrand of France in Rambouillet",
+    "date": "1991-07-14",
+    "dateText": "July 14, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 3
+        },
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Middle East peace, Peace process, United Nations",
+    "printedPageStart": 882,
+    "printedPageEnd": 886,
+    "pageRange": "pp. 882-886",
+    "pdfPageStart": 100,
+    "pdfPageEnd": 104,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 882-886.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 882-886.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=100",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0887-statement-by-press-secretary-fitzwater-on-middle-east-peace-talks",
+    "title": "Statement by Press Secretary Fitzwater on Middle East Peace Talks",
+    "date": "1991-07-15",
+    "dateText": "July 15, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 2
+        },
+        {
+          "label": "Assad",
+          "count": 2
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Middle East peace",
+    "printedPageStart": 887,
+    "printedPageEnd": 888,
+    "pageRange": "pp. 887-888",
+    "pdfPageStart": 105,
+    "pdfPageEnd": 106,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 887-888.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 887-888.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=105",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0890-london-economic-summit-declaration-on-conventional-arms-transfers-and-nu",
+    "title": "London Economic Summit Declaration on Conventional Arms Transfers and Nuclear, Biological, and Chemical Weapons Proliferation",
+    "date": "1991-07-16",
+    "dateText": "July 16, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 890,
+    "printedPageEnd": 893,
+    "pageRange": "pp. 890-893",
+    "pdfPageStart": 108,
+    "pdfPageEnd": 111,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 890-893.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 890-893.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=108",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0893-london-economic-summit-political-declaration-strengthening-the-internati",
+    "title": "London Economic Summit Political Declaration: Strengthening the International Order",
+    "date": "1991-07-16",
+    "dateText": "July 16, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        },
+        {
+          "label": "Settlements",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 2
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 7
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Peace process, United Nations",
+    "printedPageStart": 893,
+    "printedPageEnd": 896,
+    "pageRange": "pp. 893-896",
+    "pdfPageStart": 111,
+    "pdfPageEnd": 114,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 893-896.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 893-896.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=111",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0896-letter-to-congressional-leaders-on-iraq-s-compliance-with-united-nations",
+    "title": "Letter to Congressional Leaders on Iraq's Compliance With United Nations Security Council Resolutions",
+    "date": "1991-07-16",
+    "dateText": "July 16, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 896,
+    "printedPageEnd": 897,
+    "pageRange": "pp. 896-897",
+    "pdfPageStart": 114,
+    "pdfPageEnd": 115,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 896-897.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 896-897.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=114",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0907-the-president-s-news-conference-in-london-united-kingdom",
+    "title": "The President's News Conference in London, United Kingdom",
+    "date": "1991-07-17",
+    "dateText": "July 17, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Assad",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        },
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Middle East peace, Peace process, United Nations",
+    "printedPageStart": 907,
+    "printedPageEnd": 915,
+    "pageRange": "pp. 907-915",
+    "pdfPageStart": 125,
+    "pdfPageEnd": 133,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 907-915.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 907-915.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=125",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-0933-the-president-s-news-conference-with-president-turgut-ozal-of-turkey-in-",
+    "title": "The President's News Conference With President Turgut Ozal of Turkey in Ankara",
+    "date": "1991-07-20",
+    "dateText": "July 20, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        },
+        {
+          "label": "Settlements",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        },
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Middle East peace, Peace process, United Nations",
+    "printedPageStart": 933,
+    "printedPageEnd": 939,
+    "pageRange": "pp. 933-939",
+    "pdfPageStart": 151,
+    "pdfPageEnd": 157,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 933-939.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 933-939.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=151",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1010-remarks-on-the-middle-east-peace-talks-in-kiev-soviet-union",
+    "title": "Remarks on the Middle East Peace Talks in Kiev, Soviet Union",
+    "date": "1991-08-01",
+    "dateText": "August 1, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Shamir",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Middle East peace",
+    "printedPageStart": 1010,
+    "printedPageEnd": 1011,
+    "pageRange": "pp. 1010-1011",
+    "pdfPageStart": 228,
+    "pdfPageEnd": 229,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1010-1011.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1010-1011.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=228",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1013-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1991-08-02",
+    "dateText": "August 2, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        },
+        {
+          "label": "Jerusalem",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 3
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 3
+        },
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Middle East peace, United Nations",
+    "printedPageStart": 1013,
+    "printedPageEnd": 1021,
+    "pageRange": "pp. 1013-1021",
+    "pdfPageStart": 231,
+    "pdfPageEnd": 239,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1013-1021.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1013-1021.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=231",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1164-letter-to-congressional-leaders-reporting-on-iraq-s-compliance-with-unit",
+    "title": "Letter to Congressional Leaders Reporting on Iraq's Compliance With United Nations Security Council Resolutions",
+    "date": "1991-09-16",
+    "dateText": "September 16, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1164,
+    "printedPageEnd": 1165,
+    "pageRange": "pp. 1164-1165",
+    "pdfPageStart": 382,
+    "pdfPageEnd": 383,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1164-1165.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1164-1165.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=382",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1199-address-to-the-46th-session-of-the-united-nations-general-assembly-in-ne",
+    "title": "Address to the 46th Session of the United Nations General Assembly in New York, New York",
+    "date": "1991-09-23",
+    "dateText": "September 23, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        },
+        {
+          "label": "Settlements",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 15
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1199,
+    "printedPageEnd": 1203,
+    "pageRange": "pp. 1199-1203",
+    "pdfPageStart": 417,
+    "pdfPageEnd": 421,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1199-1203.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1199-1203.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=417",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1203-remarks-at-a-luncheon-hosted-by-united-nations-secretary-general-javier-",
+    "title": "Remarks at a Luncheon Hosted by United Nations Secretary- General Javier Perez de Cuellar in New York City",
+    "date": "1991-09-23",
+    "dateText": "September 23, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 9
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1203,
+    "printedPageEnd": 1205,
+    "pageRange": "pp. 1203-1205",
+    "pdfPageStart": 421,
+    "pdfPageEnd": 423,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1203-1205.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1203-1205.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=421",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1206-exchange-with-reporters-in-new-york-city",
+    "title": "Exchange With Reporters in New York City",
+    "date": "1991-09-24",
+    "dateText": "September 24, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 4
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1206,
+    "printedPageEnd": 1207,
+    "pageRange": "pp. 1206-1207",
+    "pdfPageStart": 424,
+    "pdfPageEnd": 425,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1206-1207.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1206-1207.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=424",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1308-statement-on-the-middle-east-peace-conference",
+    "title": "Statement on the Middle East Peace Conference",
+    "date": "1991-10-18",
+    "dateText": "October 18, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 3
+        },
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 1
+        },
+        {
+          "label": "Middle East peace",
+          "count": 3
+        },
+        {
+          "label": "Arab-Israeli",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Madrid, Middle East peace, Arab-Israeli",
+    "printedPageStart": 1308,
+    "printedPageEnd": 1308,
+    "pageRange": "p. 1308",
+    "pdfPageStart": 534,
+    "pdfPageEnd": 534,
+    "citation": "Public Papers: Bush, 1991, vol. II, p. 1308.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, p. 1308.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=534",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1316-statement-by-press-secretary-fitzwater-on-the-middle-east-peace-conferen",
+    "title": "Statement by Press Secretary Fitzwater on the Middle East Peace Conference",
+    "date": "1991-10-23",
+    "dateText": "October 23, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 1
+        },
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "Arab-Israeli",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Madrid, Middle East peace, Arab-Israeli",
+    "printedPageStart": 1316,
+    "printedPageEnd": 1316,
+    "pageRange": "p. 1316",
+    "pdfPageStart": 542,
+    "pdfPageEnd": 542,
+    "citation": "Public Papers: Bush, 1991, vol. II, p. 1316.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, p. 1316.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=542",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1352-the-president-s-news-conference-with-president-mikhail-gorbachev-of-the-",
+    "title": "The President's News Conference With President Mikhail Gorbachev of the Soviet Union in Madrid, Spain",
+    "date": "1991-10-29",
+    "dateText": "October 29, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        },
+        {
+          "label": "Settlements",
+          "count": 4
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 2
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 5
+        },
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Madrid, Middle East peace",
+    "printedPageStart": 1352,
+    "printedPageEnd": 1358,
+    "pageRange": "pp. 1352-1358",
+    "pdfPageStart": 578,
+    "pdfPageEnd": 584,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1352-1358.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1352-1358.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=578",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1358-the-president-s-news-conference-with-prime-minister-felipe-gonzalez-of-s",
+    "title": "The President's News Conference With Prime Minister Felipe Gonzalez of Spain in Madrid",
+    "date": "1991-10-29",
+    "dateText": "October 29, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "West Bank/Gaza",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 3
+        },
+        {
+          "label": "Middle East peace",
+          "count": 3
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 6
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Madrid, Middle East peace, Peace process, United Nations",
+    "printedPageStart": 1358,
+    "printedPageEnd": 1361,
+    "pageRange": "pp. 1358-1361",
+    "pdfPageStart": 584,
+    "pdfPageEnd": 587,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1358-1361.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1358-1361.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=584",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1362-remarks-at-the-opening-session-of-the-middle-east-peace-conference-in-ma",
+    "title": "Remarks at the Opening Session of the Middle East Peace Conference in Madrid, Spain",
+    "date": "1991-10-30",
+    "dateText": "October 30, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 11
+        },
+        {
+          "label": "Settlements",
+          "count": 3
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 7
+        },
+        {
+          "label": "Jordan",
+          "count": 2
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Egypt",
+          "count": 1
+        },
+        {
+          "label": "Arab states",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 6
+        },
+        {
+          "label": "Middle East peace",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 1
+        },
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Madrid, Middle East peace",
+    "printedPageStart": 1362,
+    "printedPageEnd": 1365,
+    "pageRange": "pp. 1362-1365",
+    "pdfPageStart": 588,
+    "pdfPageEnd": 591,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1362-1365.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1362-1365.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=588",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1373-remarks-at-the-bush-quayle-fundraising-dinner-in-houston-texas",
+    "title": "Remarks at the Bush-Quayle Fundraising Dinner in Houston, Texas",
+    "date": "1991-10-31",
+    "dateText": "October 31, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 4
+        },
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Madrid, Middle East peace",
+    "printedPageStart": 1373,
+    "printedPageEnd": 1379,
+    "pageRange": "pp. 1373-1379",
+    "pdfPageStart": 599,
+    "pdfPageEnd": 605,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1373-1379.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1373-1379.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=599",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1392-remarks-at-the-bush-quayle-fundraising-dinner-in-dallas-texas",
+    "title": "Remarks at the Bush-Quayle Fundraising Dinner in Dallas, Texas",
+    "date": "1991-11-01",
+    "dateText": "November 1, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 6
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Madrid",
+    "printedPageStart": 1392,
+    "printedPageEnd": 1398,
+    "pageRange": "pp. 1392-1398",
+    "pdfPageStart": 618,
+    "pdfPageEnd": 624,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1392-1398.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1392-1398.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=618",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1478-letter-to-congressional-leaders-on-iraq-s-compliance-with-united-nations",
+    "title": "Letter to Congressional Leaders on Iraq's Compliance With United Nations Security Council Resolutions",
+    "date": "1991-11-15",
+    "dateText": "November 15, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1478,
+    "printedPageEnd": 1480,
+    "pageRange": "pp. 1478-1480",
+    "pdfPageStart": 704,
+    "pdfPageEnd": 706,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1478-1480.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1478-1480.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=704",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1547-remarks-prior-to-a-meeting-with-united-nations-secretary-general-elect-b",
+    "title": "Remarks Prior to a Meeting With United Nations Secretary-General- Elect Boutros Boutros-Ghali",
+    "date": "1991-12-05",
+    "dateText": "December 5, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1547,
+    "printedPageEnd": 1547,
+    "pageRange": "p. 1547",
+    "pdfPageStart": 773,
+    "pdfPageEnd": 773,
+    "citation": "Public Papers: Bush, 1991, vol. II, p. 1547.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, p. 1547.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=773",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1598-exchange-with-reporters-prior-to-a-meeting-with-united-nations-officials",
+    "title": "Exchange With Reporters Prior to a Meeting With United Nations Officials and Former American Hostages",
+    "date": "1991-12-12",
+    "dateText": "December 12, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1598,
+    "printedPageEnd": 1599,
+    "pageRange": "pp. 1598-1599",
+    "pdfPageStart": 824,
+    "pdfPageEnd": 825,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1598-1599.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1598-1599.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=824",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1599-remarks-on-presenting-the-medal-of-freedom-and-the-presidential-award-fo",
+    "title": "Remarks on Presenting the Medal of Freedom and the Presidential Award for Exceptional Service to United Nations Officials",
+    "date": "1991-12-12",
+    "dateText": "December 12, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 3
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 14
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1599,
+    "printedPageEnd": 1602,
+    "pageRange": "pp. 1599-1602",
+    "pdfPageStart": 825,
+    "pdfPageEnd": 828,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1599-1602.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1599-1602.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=825",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1991-book2-1616-statement-by-press-secretary-fitzwater-on-the-revocation-of-resolution-3",
+    "title": "Statement by Press Secretary Fitzwater on the Revocation of Resolution 3379 by the United Nations General Assembly",
+    "date": "1991-12-16",
+    "dateText": "December 16, 1991",
+    "year": "1991",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        },
+        {
+          "label": "Shamir",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Madrid, United Nations",
+    "printedPageStart": 1616,
+    "printedPageEnd": 1617,
+    "pageRange": "pp. 1616-1617",
+    "pdfPageStart": 842,
+    "pdfPageEnd": 843,
+    "citation": "Public Papers: Bush, 1991, vol. II, pp. 1616-1617.",
+    "sourceNote": "Public Papers: Bush, 1991, vol. II, pp. 1616-1617.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf#page=842",
+    "source": {
+      "packageId": "PPP-1991-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1991, vol. II",
+      "shortName": "Public Papers: Bush, 1991, vol. II",
+      "dateSpan": "July 1-December 31, 1991",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1991-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1991-book2/pdf/PPP-1991-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0084-letter-to-congressional-leaders-reporting-on-iraq-s-compliance-with-unit",
+    "title": "Letter to Congressional Leaders Reporting on Iraq's Compliance With United Nations Security Council Resolutions",
+    "date": "1992-01-14",
+    "dateText": "January 14, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 84,
+    "printedPageEnd": 86,
+    "pageRange": "pp. 84-86",
+    "pdfPageStart": 96,
+    "pdfPageEnd": 98,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 84-86.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 84-86.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=96",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0175-remarks-to-the-united-nations-security-council-in-new-york-city",
+    "title": "Remarks to the United Nations Security Council in New York City",
+    "date": "1992-01-31",
+    "dateText": "January 31, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Morocco",
+          "count": 2
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 11
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 175,
+    "printedPageEnd": 177,
+    "pageRange": "pp. 175-177",
+    "pdfPageStart": 187,
+    "pdfPageEnd": 189,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 175-177.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 175-177.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=187",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0194-message-to-the-congress-transmitting-a-report-on-united-states-governmen",
+    "title": "Message to the Congress Transmitting a Report on United States Government Activities in the United Nations",
+    "date": "1992-02-03",
+    "dateText": "February 3, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 194,
+    "printedPageEnd": 195,
+    "pageRange": "pp. 194-195",
+    "pdfPageStart": 206,
+    "pdfPageEnd": 207,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 194-195.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 194-195.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=206",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0219-memorandum-on-payments-to-the-united-nations",
+    "title": "Memorandum on Payments to the United Nations",
+    "date": "1992-02-10",
+    "dateText": "February 10, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Memorandum/determination",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 219,
+    "printedPageEnd": 220,
+    "pageRange": "pp. 219-220",
+    "pdfPageStart": 231,
+    "pdfPageEnd": 232,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 219-220.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 219-220.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=231",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0301-nomination-of-edward-joseph-perkins-to-be-united-states-representative-t",
+    "title": "Nomination of Edward Joseph Perkins To Be United States Representative to the United Nations",
+    "date": "1992-02-24",
+    "dateText": "February 24, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 301,
+    "printedPageEnd": 302,
+    "pageRange": "pp. 301-302",
+    "pdfPageStart": 313,
+    "pdfPageEnd": 314,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 301-302.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 301-302.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=313",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0334-declaration-of-san-antonio",
+    "title": "Declaration of San Antonio",
+    "date": "1992-02-27",
+    "dateText": "February 27, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 9
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 334,
+    "printedPageEnd": 344,
+    "pageRange": "pp. 334-344",
+    "pdfPageStart": 346,
+    "pdfPageEnd": 356,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 334-344.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 334-344.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=346",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0461-letter-to-congressional-leaders-on-iraq-s-compliance-with-united-nations",
+    "title": "Letter to Congressional Leaders on Iraq's Compliance With United Nations Security Council Resolutions",
+    "date": "1992-03-16",
+    "dateText": "March 16, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 8
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 461,
+    "printedPageEnd": 463,
+    "pageRange": "pp. 461-463",
+    "pdfPageStart": 473,
+    "pdfPageEnd": 475,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 461-463.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 461-463.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=473",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0752-remarks-and-an-exchange-with-reporters-prior-to-discussions-with-united-",
+    "title": "Remarks and an Exchange With Reporters Prior to Discussions With United Nations Secretary-General Boutros Boutros-Ghali",
+    "date": "1992-05-12",
+    "dateText": "May 12, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 752,
+    "printedPageEnd": 753,
+    "pageRange": "pp. 752-753",
+    "pdfPageStart": 764,
+    "pdfPageEnd": 765,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 752-753.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 752-753.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=764",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0753-statement-by-press-secretary-fitzwater-on-the-president-s-meeting-with-u",
+    "title": "Statement by Press Secretary Fitzwater on the President's Meeting with United Nations Secretary-General Boutros Boutros-Ghali",
+    "date": "1992-05-12",
+    "dateText": "May 12, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 753,
+    "printedPageEnd": 754,
+    "pageRange": "pp. 753-754",
+    "pdfPageStart": 765,
+    "pdfPageEnd": 766,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 753-754.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 753-754.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=765",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0753-statement-on-attending-the-united-nations-conference-on-environment-and-",
+    "title": "Statement on Attending the United Nations Conference on Environment and Development in Rio de Janeiro, Brazil",
+    "date": "1992-05-12",
+    "dateText": "May 12, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 753,
+    "printedPageEnd": 753,
+    "pageRange": "p. 753",
+    "pdfPageStart": 765,
+    "pdfPageEnd": 765,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 753.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 753.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=765",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0774-letter-to-congressional-leaders-reporting-on-iraq-s-compliance-with-unit",
+    "title": "Letter to Congressional Leaders Reporting on Iraq's Compliance With United Nations Security Council Resolutions",
+    "date": "1992-05-15",
+    "dateText": "May 15, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 774,
+    "printedPageEnd": 775,
+    "pageRange": "pp. 774-775",
+    "pdfPageStart": 786,
+    "pdfPageEnd": 787,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 774-775.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 774-775.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=786",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0920-remarks-on-departure-for-the-united-nations-conference-on-environment-an",
+    "title": "Remarks on Departure for the United Nations Conference on Environment and Development",
+    "date": "1992-06-11",
+    "dateText": "June 11, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 920,
+    "printedPageEnd": 921,
+    "pageRange": "pp. 920-921",
+    "pdfPageStart": 932,
+    "pdfPageEnd": 933,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 920-921.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 920-921.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=932",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0924-address-to-the-united-nations-conference-on-environment-and-development-",
+    "title": "Address to the United Nations Conference on Environment and Development in Rio de Janeiro, Brazil",
+    "date": "1992-06-12",
+    "dateText": "June 12, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 924,
+    "printedPageEnd": 926,
+    "pageRange": "pp. 924-926",
+    "pdfPageStart": 936,
+    "pdfPageEnd": 938,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 924-926.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 924-926.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=936",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0950-nomination-of-irvin-hicks-to-be-deputy-representative-of-the-united-stat",
+    "title": "Nomination of Irvin Hicks To Be Deputy Representative of the United States to the Security Council of the United Nations",
+    "date": "1992-06-16",
+    "dateText": "June 16, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 950,
+    "printedPageEnd": 950,
+    "pageRange": "p. 950",
+    "pdfPageStart": 962,
+    "pdfPageEnd": 962,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 950.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 950.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=962",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-0978-appointment-of-mrs-potter-stewart-as-united-states-representative-on-the",
+    "title": "Appointment of Mrs. Potter Stewart as United States Representative on the Executive Board of the United Nations Children's Fund",
+    "date": "1992-06-18",
+    "dateText": "June 18, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 978,
+    "printedPageEnd": 978,
+    "pageRange": "p. 978",
+    "pdfPageStart": 990,
+    "pdfPageEnd": 990,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, p. 978.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, p. 978.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=990",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-1063-the-president-s-news-conference-with-foreign-journalists",
+    "title": "The President's News Conference With Foreign Journalists",
+    "date": "1992-07-02",
+    "dateText": "July 2, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Peace process",
+          "count": 1
+        },
+        {
+          "label": "United Nations",
+          "count": 8
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; Peace process, United Nations",
+    "printedPageStart": 1063,
+    "printedPageEnd": 1069,
+    "pageRange": "pp. 1063-1069",
+    "pdfPageStart": 1075,
+    "pdfPageEnd": 1081,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1063-1069.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1063-1069.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=1075",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-1124-letter-to-congressional-leaders-reporting-on-iraq-s-compliance-with-unit",
+    "title": "Letter to Congressional Leaders Reporting on Iraq's Compliance With United Nations Security Council Resolutions",
+    "date": "1992-07-16",
+    "dateText": "July 16, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1124,
+    "printedPageEnd": 1126,
+    "pageRange": "pp. 1124-1126",
+    "pdfPageStart": 1136,
+    "pdfPageEnd": 1138,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1124-1126.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1124-1126.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=1136",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book1-1182-remarks-and-an-exchange-with-reporters-on-arrival-from-camp-david-maryla",
+    "title": "Remarks and an Exchange With Reporters on Arrival From Camp David, Maryland",
+    "date": "1992-07-26",
+    "dateText": "July 26, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1182,
+    "printedPageEnd": 1184,
+    "pageRange": "pp. 1182-1184",
+    "pdfPageStart": 1194,
+    "pdfPageEnd": 1196,
+    "citation": "Public Papers: Bush, 1992-93, vol. I, pp. 1182-1184.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. I, pp. 1182-1184.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf#page=1194",
+    "source": {
+      "packageId": "PPP-1992-book1",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. I",
+      "shortName": "Public Papers: Bush, 1992-93, vol. I",
+      "dateSpan": "January 1-July 31, 1992",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book1",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book1/pdf/PPP-1992-book1.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1302-nomination-of-edward-s-walker-to-be-united-states-deputy-representative-",
+    "title": "Nomination of Edward S. Walker To Be United States Deputy Representative to the United Nations",
+    "date": "1992-08-04",
+    "dateText": "August 4, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1302,
+    "printedPageEnd": 1303,
+    "pageRange": "pp. 1302-1303",
+    "pdfPageStart": 24,
+    "pdfPageEnd": 25,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1302-1303.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1302-1303.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=24",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1315-remarks-on-the-situation-in-bosnia-and-an-exchange-with-reporters-in-col",
+    "title": "Remarks on the Situation in Bosnia and an Exchange With Reporters in Colorado Springs",
+    "date": "1992-08-06",
+    "dateText": "August 6, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 7
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1315,
+    "printedPageEnd": 1318,
+    "pageRange": "pp. 1315-1318",
+    "pdfPageStart": 37,
+    "pdfPageEnd": 40,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1315-1318.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1315-1318.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=37",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1319-the-president-s-news-conference",
+    "title": "The President's News Conference",
+    "date": "1992-08-07",
+    "dateText": "August 7, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 7
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1319,
+    "printedPageEnd": 1324,
+    "pageRange": "pp. 1319-1324",
+    "pdfPageStart": 41,
+    "pdfPageEnd": 46,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1319-1324.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1319-1324.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=41",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1326-the-president-s-news-conference-in-kennebunkport-maine",
+    "title": "The President's News Conference in Kennebunkport, Maine",
+    "date": "1992-08-08",
+    "dateText": "August 8, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "News conference",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 11
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 1326,
+    "printedPageEnd": 1330,
+    "pageRange": "pp. 1326-1330",
+    "pdfPageStart": 48,
+    "pdfPageEnd": 52,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1326-1330.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1326-1330.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=48",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1331-statement-on-the-middle-east-peace-talks",
+    "title": "Statement on the Middle East Peace Talks",
+    "date": "1992-08-10",
+    "dateText": "August 10, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 2
+        },
+        {
+          "label": "Peace process",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Middle East peace, Peace process",
+    "printedPageStart": 1331,
+    "printedPageEnd": 1331,
+    "pageRange": "p. 1331",
+    "pdfPageStart": 53,
+    "pdfPageEnd": 53,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 1331.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 1331.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=53",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1347-nomination-of-lois-l-evans-to-be-united-states-representative-to-the-eco",
+    "title": "Nomination of Lois L. Evans To Be United States Representative to the Economic and Social Council of the United Nations",
+    "date": "1992-08-12",
+    "dateText": "August 12, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Public paper",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1347,
+    "printedPageEnd": 1347,
+    "pageRange": "p. 1347",
+    "pdfPageStart": 69,
+    "pdfPageEnd": 69,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 1347.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 1347.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=69",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1353-statement-on-the-united-nations-security-council-vote-on-humanitarian-ai",
+    "title": "Statement on the United Nations Security Council Vote on Humanitarian Aid to Bosnia",
+    "date": "1992-08-13",
+    "dateText": "August 13, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1353,
+    "printedPageEnd": 1354,
+    "pageRange": "pp. 1353-1354",
+    "pdfPageStart": 75,
+    "pdfPageEnd": 76,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1353-1354.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1353-1354.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=75",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1509-message-to-the-senate-transmitting-the-united-nations-framework-conventi",
+    "title": "Message to the Senate Transmitting the United Nations Framework Convention on Climate Change",
+    "date": "1992-09-08",
+    "dateText": "September 8, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1509,
+    "printedPageEnd": 1509,
+    "pageRange": "p. 1509",
+    "pdfPageStart": 231,
+    "pdfPageEnd": 231,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 1509.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 1509.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=231",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1573-message-to-the-congress-transmitting-a-report-on-united-states-governmen",
+    "title": "Message to the Congress Transmitting a Report on United States Government Activities in the United Nations",
+    "date": "1992-09-16",
+    "dateText": "September 16, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1573,
+    "printedPageEnd": 1573,
+    "pageRange": "p. 1573",
+    "pdfPageStart": 295,
+    "pdfPageEnd": 295,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 1573.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 1573.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=295",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1574-letter-to-congressional-leaders-reporting-on-iraq-s-compliance-with-unit",
+    "title": "Letter to Congressional Leaders Reporting on Iraq's Compliance With United Nations Security Council Resolutions",
+    "date": "1992-09-16",
+    "dateText": "September 16, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 6
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1574,
+    "printedPageEnd": 1577,
+    "pageRange": "pp. 1574-1577",
+    "pdfPageStart": 296,
+    "pdfPageEnd": 299,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1574-1577.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1574-1577.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=296",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1598-address-to-the-united-nations-general-assembly-in-new-york-city",
+    "title": "Address to the United Nations General Assembly in New York City",
+    "date": "1992-09-21",
+    "dateText": "September 21, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Remarks",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Settlements",
+          "count": 1
+        }
+      ],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 12
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1598,
+    "printedPageEnd": 1603,
+    "pageRange": "pp. 1598-1603",
+    "pdfPageStart": 320,
+    "pdfPageEnd": 325,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1598-1603.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1598-1603.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=320",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-1818-statement-on-signing-the-instrument-of-ratification-for-the-united-natio",
+    "title": "Statement on Signing the Instrument of Ratification for the United Nations Framework Convention on Climate Change",
+    "date": "1992-10-13",
+    "dateText": "October 13, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 4
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 1818,
+    "printedPageEnd": 1819,
+    "pageRange": "pp. 1818-1819",
+    "pdfPageStart": 540,
+    "pdfPageEnd": 541,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 1818-1819.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 1818-1819.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=540",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-2164-letter-to-congressional-leaders-reporting-on-iraq-s-compliance-with-unit",
+    "title": "Letter to Congressional Leaders Reporting on Iraq's Compliance With United Nations Security Council Resolutions",
+    "date": "1992-11-16",
+    "dateText": "November 16, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 2164,
+    "printedPageEnd": 2166,
+    "pageRange": "pp. 2164-2166",
+    "pdfPageStart": 886,
+    "pdfPageEnd": 888,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2164-2166.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2164-2166.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=886",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-2174-statement-by-press-secretary-fitzwater-on-the-united-nations-vote-to-aut",
+    "title": "Statement by Press Secretary Fitzwater on the United Nations Vote To Authorize Use of Military Forces in Somalia",
+    "date": "1992-12-03",
+    "dateText": "December 3, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 2
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 2174,
+    "printedPageEnd": 2174,
+    "pageRange": "p. 2174",
+    "pdfPageStart": 896,
+    "pdfPageEnd": 896,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 2174.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 2174.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=896",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-2199-statement-by-press-secretary-fitzwater-on-the-middle-east-peace-talks",
+    "title": "Statement by Press Secretary Fitzwater on the Middle East Peace Talks",
+    "date": "1992-12-17",
+    "dateText": "December 17, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Statement",
+    "publicVoice": "White House statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [
+        {
+          "label": "Israel",
+          "count": 2
+        }
+      ],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Palestinians",
+          "count": 1
+        },
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [
+        {
+          "label": "Syria",
+          "count": 1
+        },
+        {
+          "label": "Lebanon",
+          "count": 1
+        }
+      ],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Madrid",
+          "count": 1
+        },
+        {
+          "label": "Middle East peace",
+          "count": 3
+        },
+        {
+          "label": "Peace process",
+          "count": 2
+        },
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "Middle East peace",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; Madrid, Middle East peace, Peace process, United Nations",
+    "printedPageStart": 2199,
+    "printedPageEnd": 2200,
+    "pageRange": "pp. 2199-2200",
+    "pdfPageStart": 921,
+    "pdfPageEnd": 922,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2199-2200.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2199-2200.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=921",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-2209-letter-to-congressional-leaders-reporting-on-sanctions-against-the-feder",
+    "title": "Letter to Congressional Leaders Reporting on Sanctions Against the Federal Republic of Yugoslavia (Serbia and Montenegro)",
+    "date": "1992-12-23",
+    "dateText": "December 23, 1992",
+    "year": "1992",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 7
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 2209,
+    "printedPageEnd": 2213,
+    "pageRange": "pp. 2209-2213",
+    "pdfPageStart": 931,
+    "pdfPageEnd": 935,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2209-2213.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2209-2213.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=931",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-2254-remarks-and-an-exchange-with-reporters-on-the-situation-in-iraq",
+    "title": "Remarks and an Exchange With Reporters on the Situation in Iraq",
+    "date": "1993-01-15",
+    "dateText": "January 15, 1993",
+    "year": "1993",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Exchange with reporters",
+    "publicVoice": "Presidential statement",
+    "relevance": "Substantive body",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 5
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": []
+    },
+    "compilerUse": "Substantive body; United Nations",
+    "printedPageStart": 2254,
+    "printedPageEnd": 2254,
+    "pageRange": "p. 2254",
+    "pdfPageStart": 976,
+    "pdfPageEnd": 976,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 2254.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 2254.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=976",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-2269-letter-to-congressional-leaders-reporting-on-iraq-s-compliance-with-unit",
+    "title": "Letter to Congressional Leaders Reporting on Iraq's Compliance With United Nations Security Council Resolutions",
+    "date": "1993-01-19",
+    "dateText": "January 19, 1993",
+    "year": "1993",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [
+        {
+          "label": "Jordan",
+          "count": 1
+        }
+      ],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [
+        {
+          "label": "Saudi Arabia",
+          "count": 1
+        }
+      ],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 6
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 2269,
+    "printedPageEnd": 2272,
+    "pageRange": "pp. 2269-2272",
+    "pdfPageStart": 991,
+    "pdfPageEnd": 994,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, pp. 2269-2272.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, pp. 2269-2272.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=991",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  },
+  {
+    "id": "public-paper-PPP-1992-book2-2275-letter-to-congressional-leaders-transmitting-the-report-on-the-recommend",
+    "title": "Letter to Congressional Leaders Transmitting the Report on the Recommendations of the United Nations Secretary-General",
+    "date": "1993-01-19",
+    "dateText": "January 19, 1993",
+    "year": "1993",
+    "chapter": {
+      "number": 5,
+      "name": "Madrid-Multilateral Track"
+    },
+    "documentType": "Message/letter",
+    "publicVoice": "Presidential statement",
+    "relevance": "Title anchor",
+    "matchedTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 3
+        }
+      ]
+    },
+    "titleTerms": {
+      "Israel Track": [],
+      "Palestinian-Jordanian Track": [],
+      "Syria-Lebanon Track": [],
+      "Egypt-Arab Regional Track": [],
+      "Madrid-Multilateral Track": [
+        {
+          "label": "United Nations",
+          "count": 1
+        }
+      ]
+    },
+    "compilerUse": "Title anchor; United Nations",
+    "printedPageStart": 2275,
+    "printedPageEnd": 2275,
+    "pageRange": "p. 2275",
+    "pdfPageStart": 997,
+    "pdfPageEnd": 997,
+    "citation": "Public Papers: Bush, 1992-93, vol. II, p. 2275.",
+    "sourceNote": "Public Papers: Bush, 1992-93, vol. II, p. 2275.",
+    "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+    "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf",
+    "pdfPageUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf#page=997",
+    "source": {
+      "packageId": "PPP-1992-book2",
+      "title": "Public Papers of the Presidents of the United States: George Bush, 1992-93, vol. II",
+      "shortName": "Public Papers: Bush, 1992-93, vol. II",
+      "dateSpan": "August 1, 1992-January 20, 1993",
+      "govinfoUrl": "https://www.govinfo.gov/app/details/PPP-1992-book2",
+      "pdfUrl": "https://www.govinfo.gov/content/pkg/PPP-1992-book2/pdf/PPP-1992-book2.pdf"
+    }
+  }
+];
