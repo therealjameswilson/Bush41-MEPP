@@ -283,6 +283,7 @@ dd {
 .event-card,
 .statement-card,
 .source-card,
+.source-candidate-card,
 .gap-card,
 .review-grid article,
 .ingest-grid article,
@@ -425,6 +426,7 @@ select:focus {
 .event-card p,
 .statement-card p,
 .source-card p,
+.source-candidate-card p,
 .gap-card p,
 .ingest-grid p {
   color: #3c4850;
@@ -636,6 +638,11 @@ select:focus {
   border-color: var(--green);
 }
 
+.chronology-box p + p,
+.statement-card .note-box p + p {
+  margin-top: 8px;
+}
+
 .loading,
 .empty-state {
   padding: 18px;
@@ -649,6 +656,7 @@ select:focus {
 .person-card,
 .statement-card,
 .source-card,
+.source-candidate-card,
 .gap-card,
 .review-item,
 .ingest-grid article {
@@ -735,6 +743,29 @@ select:focus {
   padding: 0;
   margin: 12px 0 0;
   list-style: none;
+}
+
+.source-candidate-list {
+  display: grid;
+  gap: 13px;
+}
+
+.source-candidate-card {
+  display: grid;
+  gap: 10px;
+  border-left: 5px solid var(--gold);
+}
+
+.source-candidate-card[data-priority="High"] {
+  border-left-color: var(--red);
+}
+
+.source-candidate-card[data-priority="Medium"] {
+  border-left-color: var(--gold);
+}
+
+.source-candidate-card[data-priority="Review"] {
+  border-left-color: var(--green);
 }
 
 .gap-card {

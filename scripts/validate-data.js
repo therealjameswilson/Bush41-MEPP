@@ -1,0 +1,80 @@
+const fs = require("fs");
+const path = require("path");
+
+const repoRoot = path.resolve(__dirname, "..");
+const dataDir = path.join(repoRoot, "data");
+
+function readJson(name) {
+  return JSON.parse(fs.readFileSync(path.join(dataDir, name), "utf8"));
+}
+
+function assert(condition, message) {
+  if (!condition) {
+    throw new Error(message);
+  }
+}
+
+function assertUnique(items, key, label) {
+  const seen = new Set();
+  for (const item of items) {
+    const value = item[key];
+    assert(value, `${label} missing ${key}`);
+    assert(!seen.has(value), `${label} duplicate ${key}: ${value}`);
+    seen.add(value);
+  }
+}
+
+function main() {
+  const records = readJson("records.json");
+  const statements = readJson("public-statements.json");
+  const persons = readJson("persons.json");
+  const events = readJson("events.json");
+  const gaps = readJson("compiler-gaps.json");
+  const sourceLeads = readJson("source-leads.json");
+  const sourceCandidates = readJson("source-candidates.json");
+
+  assert(records.length >= 100, `Expected at least 100 records; found ${records.length}`);
+  assert(statements.length >= 100, `Expected at least 100 public statements; found ${statements.length}`);
+  assert(persons.length >= 10, `Expected at least 10 persons; found ${persons.length}`);
+  assert(events.length >= 6, `Expected at least 6 events; found ${events.length}`);
+  assert(gaps.length >= 6, `Expected at least 6 compiler gaps; found ${gaps.length}`);
+  assert(sourceLeads.length >= 6, `Expected at least 6 source leads; found ${sourceLeads.length}`);
+  assert(sourceCandidates.length >= 10, `Expected at least 10 source candidates; found ${sourceCandidates.length}`);
+
+  assertUnique(records, "id", "records");
+  assertUnique(statements, "id", "public statements");
+  assertUnique(persons, "name", "persons");
+  assertUnique(sourceCandidates, "id", "source candidates");
+
+  const missingPdf = records.filter((record) => !record.pdfUrl || !record.catalogUrl || !record.frusSourceNote);
+  assert(missingPdf.length === 0, `${missingPdf.length} records missing PDF/catalog/source-note basics`);
+
+  const missingPageCounts = records.filter((record) => !(Number(record.pageCount) > 0));
+  assert(missingPageCounts.length === 0, `${missingPageCounts.length} records missing PDF page counts`);
+
+  const linkedRecords = records.filter((record) => record.relatedPublicStatementIds?.length);
+  const linkedStatements = statements.filter((statement) => statement.relatedRecordIds?.length);
+  assert(linkedRecords.length >= 25, `Expected at least 25 linked records; found ${linkedRecords.length}`);
+  assert(linkedStatements.length >= 25, `Expected at least 25 linked public statements; found ${linkedStatements.length}`);
+
+  const gapsWithoutStatus = gaps.filter((gap) => !gap.status);
+  assert(gapsWithoutStatus.length === 0, `${gapsWithoutStatus.length} gaps missing remediation status`);
+
+  const report = {
+    records: records.length,
+    statements: statements.length,
+    persons: persons.length,
+    events: events.length,
+    gaps: gaps.length,
+    sourceLeads: sourceLeads.length,
+    sourceCandidates: sourceCandidates.length,
+    linkedRecords: linkedRecords.length,
+    linkedStatements: linkedStatements.length,
+    pages: records.reduce((sum, record) => sum + (Number(record.pageCount) || 0), 0)
+  };
+
+  console.log(JSON.stringify(report, null, 2));
+}
+
+main();
+

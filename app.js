@@ -4,6 +4,7 @@ const persons = window.MEPP_PERSONS || [];
 const events = window.MEPP_EVENTS || [];
 const compilerGaps = window.MEPP_COMPILER_GAPS || [];
 const sourceLeads = window.MEPP_SOURCE_LEADS || [];
+const sourceCandidates = window.MEPP_SOURCE_CANDIDATES || [];
 
 const REVIEW_STORAGE_KEY = "bush41-mepp-reviewed-records";
 
@@ -43,7 +44,9 @@ const CHAPTER_INFO = {
 const selectors = {
   totalRecords: document.querySelector("#total-records"),
   totalPdfs: document.querySelector("#total-pdfs"),
+  totalPages: document.querySelector("#total-pages"),
   totalStatements: document.querySelector("#total-statements"),
+  totalSourceCandidates: document.querySelector("#total-source-candidates"),
   totalPersons: document.querySelector("#total-persons"),
   totalGaps: document.querySelector("#total-gaps"),
   totalReviewed: document.querySelector("#total-reviewed"),
@@ -76,6 +79,14 @@ const selectors = {
   resetStatements: document.querySelector("#reset-statements"),
   exportStatements: document.querySelector("#export-statements-csv"),
   sourceLeadsRoot: document.querySelector("#source-leads-root"),
+  sourceCandidatesRoot: document.querySelector("#source-candidates-root"),
+  candidateSearch: document.querySelector("#candidate-search"),
+  candidateChapter: document.querySelector("#candidate-chapter"),
+  candidatePriority: document.querySelector("#candidate-priority"),
+  candidateLevel: document.querySelector("#candidate-level"),
+  candidateCount: document.querySelector("#candidate-count"),
+  resetSourceCandidates: document.querySelector("#reset-source-candidates"),
+  exportSourceCandidates: document.querySelector("#export-source-candidates-csv"),
   gapsRoot: document.querySelector("#gaps-root"),
   gapSearch: document.querySelector("#gap-search"),
   gapPriority: document.querySelector("#gap-priority"),
@@ -92,6 +103,7 @@ let visibleRecords = [];
 let visibleStatements = [];
 let visiblePersons = [];
 let visibleGaps = [];
+let visibleSourceCandidates = [];
 
 const recordById = new Map(records.map((record) => [record.id, record]));
 const statementById = new Map(publicStatements.map((statement) => [statement.id, statement]));
@@ -223,6 +235,24 @@ function gapSearchText(gap) {
   return [gap.title, gap.priority, gap.category, gap.chapter, gap.evidence, gap.nextStep].join(" ").toLowerCase();
 }
 
+function sourceCandidateSearchText(candidate) {
+  return [
+    candidate.title,
+    candidate.priority,
+    candidate.chapter,
+    candidate.lane,
+    candidate.level,
+    candidate.sourceSeries,
+    candidate.collection,
+    candidate.localIdentifier,
+    candidate.scopeAndContentNote,
+    ...(candidate.matchedQueries || [])
+  ]
+    .filter(Boolean)
+    .join(" ")
+    .toLowerCase();
+}
+
 function compareRecords(a, b) {
   const mode = selectors.sortRecords?.value || "chapter-date";
   const valueRank = { Anchor: 0, High: 1, Context: 2 };
@@ -267,7 +297,9 @@ function compareStatements(a, b) {
 function renderStats() {
   selectors.totalRecords.textContent = records.length.toLocaleString();
   selectors.totalPdfs.textContent = records.filter((record) => record.pdfUrl).length.toLocaleString();
+  selectors.totalPages.textContent = records.reduce((sum, record) => sum + (Number(record.pageCount) || 0), 0).toLocaleString();
   selectors.totalStatements.textContent = publicStatements.length.toLocaleString();
+  selectors.totalSourceCandidates.textContent = sourceCandidates.length.toLocaleString();
   selectors.totalPersons.textContent = persons.length.toLocaleString();
   selectors.totalGaps.textContent = compilerGaps.length.toLocaleString();
   selectors.totalReviewed.textContent = reviewedRecords.size.toLocaleString();
@@ -334,6 +366,8 @@ function renderRecordCard(record) {
   const terms = [
     record.sourceConfidence?.label,
     record.eventLabel,
+    record.pdfReview?.classificationMarkers?.length ? `Classification: ${record.pdfReview.classificationMarkers.join(", ")}` : "",
+    record.pdfReview?.redactionMarkers?.length ? `Review markers: ${record.pdfReview.redactionMarkers.join(", ")}` : "",
     ...(record.countries || []),
     ...(record.people || []),
     ...(record.matchedQueries || [])
@@ -349,6 +383,7 @@ function renderRecordCard(record) {
             <span class="value-badge ${valueClass(record.selectionValue)}">${escapeHtml(record.selectionValue)}</span>
             <span class="pill">${escapeHtml(record.documentType)}</span>
             <span class="pill">${escapeHtml(record.chapter?.name || "Unassigned")}</span>
+            ${record.pageCount ? `<span class="pill">${Number(record.pageCount).toLocaleString()} pp.</span>` : ""}
             <span class="pill">NAID ${escapeHtml(record.naid)}</span>
           </div>
         </div>
@@ -376,9 +411,38 @@ function renderRecordCard(record) {
           <h4>Catalog Trail</h4>
           <p>${escapeHtml(record.catalogTrail || "Catalog trail pending.")}</p>
         </div>
+        <div class="note-box">
+          <h4>PDF Review Markers</h4>
+          <p>${escapeHtml(pdfReviewSummary(record))}</p>
+        </div>
+        ${
+          record.publicChronologyLinks?.length
+            ? `<div class="note-box chronology-box">
+                <h4>Related Public Chronology</h4>
+                ${record.publicChronologyLinks
+                  .slice(0, 4)
+                  .map(
+                    (link) =>
+                      `<p><a href="${escapeHtml(link.pdfPageUrl)}" rel="noreferrer">${escapeHtml(formatDate(link.date))}: ${escapeHtml(link.title)}</a></p>`
+                  )
+                  .join("")}
+              </div>`
+            : ""
+        }
       </div>
     </article>
   `;
+}
+
+function pdfReviewSummary(record) {
+  const review = record.pdfReview || {};
+  if (review.status === "enrichment-error") return `PDF enrichment error: ${review.error}`;
+  const parts = [];
+  if (record.pageCount) parts.push(`${record.pageCount} pages counted by pdfinfo`);
+  if (review.classificationMarkers?.length) parts.push(`classification markers: ${review.classificationMarkers.join(", ")}`);
+  if (review.redactionMarkers?.length) parts.push(`redaction/excision markers: ${review.redactionMarkers.join(", ")}`);
+  if (review.participantLine) parts.push(`possible participant/subject line: ${review.participantLine}`);
+  return parts.length ? parts.join("; ") : "No PDF enrichment markers available yet.";
 }
 
 function renderEvents() {
@@ -482,6 +546,20 @@ function renderStatementCard(statement) {
         <a class="inline-link" href="${escapeHtml(statement.govinfoUrl)}" rel="noreferrer">GovInfo details</a>
         <button type="button" data-copy-statement="${escapeHtml(statement.id)}">Copy citation</button>
       </div>
+      ${
+        statement.privateRecordLinks?.length
+          ? `<div class="note-box">
+              <h4>Related Private Records</h4>
+              ${statement.privateRecordLinks
+                .slice(0, 4)
+                .map(
+                  (link) =>
+                    `<p><a href="#${escapeHtml(link.id)}">${escapeHtml(formatDate(link.date))}: ${escapeHtml(link.title)}${link.naid ? `, NAID ${escapeHtml(link.naid)}` : ""}</a></p>`
+                )
+                .join("")}
+            </div>`
+          : ""
+      }
     </article>
   `;
 }
@@ -498,6 +576,7 @@ function renderSourceLeads() {
           <div class="tag-list">
             <span class="pill">${escapeHtml(source.chapter)}</span>
             ${source.naid ? `<span class="pill">NAID ${escapeHtml(source.naid)}</span>` : ""}
+            ${source.candidateCount ? `<span class="pill">${Number(source.candidateCount).toLocaleString()} candidates</span>` : ""}
           </div>
           <ul>${(source.searchTerms || []).map((term) => `<li class="tag">${escapeHtml(term)}</li>`).join("")}</ul>
           <p><a class="inline-link" href="${escapeHtml(source.url)}" rel="noreferrer">Open source lane</a></p>
@@ -505,6 +584,62 @@ function renderSourceLeads() {
       `
     )
     .join("");
+}
+
+function renderSourceCandidates() {
+  const query = normalize(selectors.candidateSearch?.value);
+  const chapter = selectors.candidateChapter?.value || "";
+  const priority = selectors.candidatePriority?.value || "";
+  const level = selectors.candidateLevel?.value || "";
+  const priorityRank = { High: 0, Medium: 1, Review: 2 };
+  visibleSourceCandidates = sourceCandidates
+    .filter((candidate) => {
+      if (query && !sourceCandidateSearchText(candidate).includes(query)) return false;
+      if (chapter && candidate.chapter !== chapter) return false;
+      if (priority && candidate.priority !== priority) return false;
+      if (level && candidate.level !== level) return false;
+      return true;
+    })
+    .sort(
+      (a, b) =>
+        (priorityRank[a.priority] ?? 9) - (priorityRank[b.priority] ?? 9) ||
+        String(a.chapter).localeCompare(String(b.chapter)) ||
+        a.title.localeCompare(b.title)
+    );
+
+  selectors.candidateCount.textContent = `Showing ${visibleSourceCandidates.length.toLocaleString()} of ${sourceCandidates.length.toLocaleString()} source candidates.`;
+  selectors.sourceCandidatesRoot.innerHTML = visibleSourceCandidates.length
+    ? visibleSourceCandidates.map(renderSourceCandidateCard).join("")
+    : `<p class="empty-state">No source candidates match the current filters.</p>`;
+}
+
+function renderSourceCandidateCard(candidate) {
+  return `
+    <article class="source-candidate-card" data-priority="${escapeHtml(candidate.priority)}">
+      <p class="kicker">${escapeHtml(candidate.priority)} / ${escapeHtml(candidate.level || "catalog record")}</p>
+      <h3>${escapeHtml(candidate.title)}</h3>
+      <p>${escapeHtml(candidate.reason || "")}</p>
+      <div class="tag-list">
+        <span class="pill">${escapeHtml(candidate.chapter || "Unassigned")}</span>
+        <span class="pill">${escapeHtml(candidate.lane || "Source lane")}</span>
+        ${candidate.hasDigitalObject ? `<span class="pill">digital object</span>` : ""}
+        ${candidate.naid ? `<span class="pill">NAID ${escapeHtml(candidate.naid)}</span>` : ""}
+      </div>
+      <div class="note-box">
+        <h4>Catalog Context</h4>
+        <p>${escapeHtml([candidate.collection, candidate.sourceSeries, candidate.localIdentifier].filter(Boolean).join(", ") || "Catalog context pending.")}</p>
+      </div>
+      ${
+        candidate.scopeAndContentNote
+          ? `<div class="note-box"><h4>Scope Note</h4><p>${escapeHtml(candidate.scopeAndContentNote)}</p></div>`
+          : ""
+      }
+      <div class="record-links">
+        <a href="${escapeHtml(candidate.catalogUrl)}" rel="noreferrer">Catalog</a>
+        ${candidate.digitalObjectUrl ? `<a href="${escapeHtml(candidate.digitalObjectUrl)}" rel="noreferrer">Digital object</a>` : ""}
+      </div>
+    </article>
+  `;
 }
 
 function renderGaps() {
@@ -530,6 +665,7 @@ function renderGaps() {
               <p class="kicker">${escapeHtml(gap.priority)} / ${escapeHtml(gap.category)}</p>
               <h3>${escapeHtml(gap.title)}</h3>
               <p>${escapeHtml(gap.evidence)}</p>
+              ${gap.status ? `<div class="note-box"><h4>Remediation Status</h4><p>${escapeHtml(gap.status)}</p></div>` : ""}
               <div class="note-box">
                 <h4>Next Step</h4>
                 <p>${escapeHtml(gap.nextStep)}</p>
@@ -579,6 +715,9 @@ function initOptions() {
   setOptions(selectors.sourceFilter, uniqueValues(records, (record) => record.source?.shortName), "All source series");
   setOptions(selectors.statementYear, uniqueValues(publicStatements, (statement) => statement.year), "All years");
   setOptions(selectors.statementRelevance, uniqueValues(publicStatements, (statement) => statement.relevance), "All relevance levels");
+  setOptions(selectors.candidateChapter, chapterNames(), "All tracks");
+  setOptions(selectors.candidatePriority, uniqueValues(sourceCandidates, (candidate) => candidate.priority), "All priorities");
+  setOptions(selectors.candidateLevel, uniqueValues(sourceCandidates, (candidate) => candidate.level), "All levels");
   setOptions(selectors.gapPriority, uniqueValues(compilerGaps, (gap) => gap.priority), "All priorities");
   setOptions(selectors.gapCategory, uniqueValues(compilerGaps, (gap) => gap.category), "All categories");
 }
@@ -605,6 +744,13 @@ function resetStatementFilters() {
   });
   if (selectors.sortStatements) selectors.sortStatements.value = "date";
   renderStatements();
+}
+
+function resetSourceCandidateFilters() {
+  [selectors.candidateSearch, selectors.candidateChapter, selectors.candidatePriority, selectors.candidateLevel].forEach((control) => {
+    if (control) control.value = "";
+  });
+  renderSourceCandidates();
 }
 
 function csvEscape(value) {
@@ -678,6 +824,25 @@ function exportVisibleGaps() {
   ]);
 }
 
+function exportVisibleSourceCandidates() {
+  exportRows("bush41-mepp-source-candidates.csv", [
+    ["priority", "track", "lane", "level", "title", "naid", "series", "collection", "catalog_url", "digital_object_url", "matched_queries"],
+    ...visibleSourceCandidates.map((candidate) => [
+      candidate.priority,
+      candidate.chapter,
+      candidate.lane,
+      candidate.level,
+      candidate.title,
+      candidate.naid,
+      candidate.sourceSeries,
+      candidate.collection,
+      candidate.catalogUrl,
+      candidate.digitalObjectUrl,
+      (candidate.matchedQueries || []).join("; ")
+    ])
+  ]);
+}
+
 async function copyText(value, trigger) {
   try {
     await navigator.clipboard.writeText(value);
@@ -722,6 +887,12 @@ function bindEvents() {
 
   [selectors.gapSearch, selectors.gapPriority, selectors.gapCategory].forEach((control) => control?.addEventListener("input", renderGaps));
   selectors.exportGaps?.addEventListener("click", exportVisibleGaps);
+
+  [selectors.candidateSearch, selectors.candidateChapter, selectors.candidatePriority, selectors.candidateLevel].forEach((control) =>
+    control?.addEventListener("input", renderSourceCandidates)
+  );
+  selectors.resetSourceCandidates?.addEventListener("click", resetSourceCandidateFilters);
+  selectors.exportSourceCandidates?.addEventListener("click", exportVisibleSourceCandidates);
 
   document.addEventListener("click", (event) => {
     const chapterCard = event.target.closest("[data-chapter-card]");
@@ -768,10 +939,10 @@ function init() {
   renderPersons();
   renderStatements();
   renderSourceLeads();
+  renderSourceCandidates();
   renderGaps();
   renderReviewQueue();
   bindEvents();
 }
 
 init();
-

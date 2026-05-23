@@ -13,6 +13,10 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Track-based arrangement for Israel, Palestinian/Jordanian, Syria/Lebanon, Egypt/Arab regional, and Madrid/multilateral materials
 - Search, filters, local review state, source-note copy buttons, and CSV export
 - Persons list, event dossiers, source-series leads, and a compiler gap register
+- PDF page-count/review-marker enrichment for the current presidential corpus
+- Date/track/term-based public/private chronology linkage
+- Public NARA source-candidate harvests for unfilled State, NSC, WHORM, and post-Madrid lanes
+- GitHub Actions validation and GitHub Pages deployment workflow
 - Reproducible harvest scripts and JSON/JS data bundles for GitHub Pages
 
 ## Run Locally
@@ -34,6 +38,9 @@ http://127.0.0.1:4173
 ```bash
 node scripts/harvest-presidential-conversations.js
 node scripts/harvest-public-statements.js
+node scripts/harvest-source-candidates.js
+node scripts/enrich-record-pdfs.js
+node scripts/link-public-private.js
 node scripts/build-supporting-data.js
 ```
 
@@ -47,6 +54,7 @@ The Public Papers harvest downloads GovInfo PDFs into `.cache/`, which is intent
 - `data/events.json`: event dossiers
 - `data/compiler-gaps.json`: compiler gap register
 - `data/source-leads.json`: source-series and research-lane leads
+- `data/source-candidates.json`: NARA Catalog source-candidate harvest for gap remediation
 
 ## Verification
 
@@ -57,5 +65,5 @@ node --check app.js
 node --check scripts/harvest-presidential-conversations.js
 node --check scripts/harvest-public-statements.js
 node --check scripts/build-supporting-data.js
+npm test
 ```
-

@@ -5,6 +5,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "Critical",
     "category": "Source base",
     "chapter": "Madrid-Multilateral Track",
+    "status": "Partially remediated: 16 high-priority public NARA source candidates harvested; State lot-file access still requires compiler-side review.",
     "evidence": "Presidential conversations show the high-level endpoints, but Baker/Ross negotiation files are needed for the invitation formula, letters of assurance, and bilateral track mechanics.",
     "nextStep": "Target State Department lot files, Policy Planning Staff files, NEA files, and Secretary Baker trip/memorandum files before final selection."
   },
@@ -14,6 +15,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "High",
     "category": "Metadata QA",
     "chapter": "All chapters",
+    "status": "Remediated for the current presidential corpus: 165 PDFs counted; 0 records expose possible redaction/excision markers for human review.",
     "evidence": "NARA Catalog metadata gives direct PDFs but not a compiler-ready count of substantive pages, excisions, attachments, or distribution data.",
     "nextStep": "Run a page-count/OCR pass and add fields for redactions, attachments, classification line, drafting office, and participant list."
   },
@@ -23,6 +25,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "High",
     "category": "Coverage",
     "chapter": "Palestinian-Jordanian Track",
+    "status": "2 public source candidates harvested; indirect Palestinian channel remains a source-base risk.",
     "evidence": "The public presidential series is stronger for heads of state than for indirect PLO or Palestinian delegation contacts.",
     "nextStep": "Search State, NSC staff, and public statement files for Palestinian delegation, PLO, Faisal Husseini, Hanan Ashrawi, West Bank, and Gaza references."
   },
@@ -32,6 +35,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "High",
     "category": "Coverage",
     "chapter": "Syria-Lebanon Track",
+    "status": "0 public source candidates harvested; substantive reconstruction still depends on State/NSC files.",
     "evidence": "Assad conversations alone will not show the full policy chain for Syria, Lebanon, and regional security guarantees.",
     "nextStep": "Pair Assad records with NEA, NSC, CIA briefing, and coalition diplomacy files."
   },
@@ -41,6 +45,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "Medium",
     "category": "Chronology",
     "chapter": "All chapters",
+    "status": "Partially remediated: 112 presidential records and 155 Public Papers references now have date/track/term linkage candidates.",
     "evidence": "The public record captures talking points, press framing, and congressional messaging that often bracket private pressure.",
     "nextStep": "Use the Public Papers list as chronology glue, then mark which public statements correspond to private calls or memcons."
   },
@@ -50,6 +55,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "Medium",
     "category": "Source notes",
     "chapter": "All chapters",
+    "status": "Partially remediated: source notes now include PDF-derived page counts and review markers, but repository-specific final wording still requires human verification.",
     "evidence": "Catalog-derived source notes are intentionally conservative and still require verification against the scan and repository conventions.",
     "nextStep": "Normalize repository, collection, series, folder, NAID, release status, and PDF verification fields after item review."
   }

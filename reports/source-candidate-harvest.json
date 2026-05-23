@@ -1,0 +1,164 @@
+{
+  "generatedAt": "2026-05-23T23:01:03.587Z",
+  "queries": [
+    {
+      "lane": "State/Baker/Ross",
+      "query": "\"Middle East peace\" \"George Bush\""
+    },
+    {
+      "lane": "State/Baker/Ross",
+      "query": "\"Arab-Israeli\" \"George Bush\""
+    },
+    {
+      "lane": "Madrid/Post-Madrid",
+      "query": "\"Madrid Peace Conference\" \"George Bush\""
+    },
+    {
+      "lane": "Madrid/Post-Madrid",
+      "query": "\"Madrid conference\" Israel Bush"
+    },
+    {
+      "lane": "Israel Track",
+      "query": "\"loan guarantees\" Israel Bush"
+    },
+    {
+      "lane": "Israel Track",
+      "query": "settlements Israel \"George Bush\""
+    },
+    {
+      "lane": "Palestinian-Jordanian Track",
+      "query": "Palestinian Madrid Bush"
+    },
+    {
+      "lane": "Palestinian-Jordanian Track",
+      "query": "\"West Bank\" Gaza Bush"
+    },
+    {
+      "lane": "Syria-Lebanon Track",
+      "query": "Syria Madrid Bush Assad"
+    },
+    {
+      "lane": "Egypt-Arab Regional Track",
+      "query": "Mubarak \"peace process\" Bush"
+    },
+    {
+      "lane": "NSC Staff Files",
+      "query": "\"Dennis Ross\" Bush"
+    },
+    {
+      "lane": "NSC Staff Files",
+      "query": "\"Richard Haass\" \"Middle East\" Bush"
+    },
+    {
+      "lane": "WHORM/Subject Files",
+      "query": "WHORM Israel loan guarantees"
+    },
+    {
+      "lane": "WHORM/Subject Files",
+      "query": "WHORM Palestinian Bush"
+    }
+  ],
+  "searchLog": [
+    {
+      "lane": "State/Baker/Ross",
+      "query": "\"Middle East peace\" \"George Bush\"",
+      "total": 4310,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "State/Baker/Ross",
+      "query": "\"Arab-Israeli\" \"George Bush\"",
+      "total": 1742,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Madrid/Post-Madrid",
+      "query": "\"Madrid Peace Conference\" \"George Bush\"",
+      "total": 57,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Madrid/Post-Madrid",
+      "query": "\"Madrid conference\" Israel Bush",
+      "total": 143,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Israel Track",
+      "query": "\"loan guarantees\" Israel Bush",
+      "total": 1741,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Israel Track",
+      "query": "settlements Israel \"George Bush\"",
+      "total": 2199,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Palestinian-Jordanian Track",
+      "query": "Palestinian Madrid Bush",
+      "total": 1276,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Palestinian-Jordanian Track",
+      "query": "\"West Bank\" Gaza Bush",
+      "total": 2060,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Syria-Lebanon Track",
+      "query": "Syria Madrid Bush Assad",
+      "total": 486,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Egypt-Arab Regional Track",
+      "query": "Mubarak \"peace process\" Bush",
+      "total": 1181,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "NSC Staff Files",
+      "query": "\"Dennis Ross\" Bush",
+      "total": 1131,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "NSC Staff Files",
+      "query": "\"Richard Haass\" \"Middle East\" Bush",
+      "total": 898,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "WHORM/Subject Files",
+      "query": "WHORM Israel loan guarantees",
+      "total": 1080,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "WHORM/Subject Files",
+      "query": "WHORM Palestinian Bush",
+      "total": 1672,
+      "returned": 20,
+      "error": ""
+    }
+  ],
+  "candidates": 198,
+  "highPriority": 16,
+  "digitalObjects": 198
+}

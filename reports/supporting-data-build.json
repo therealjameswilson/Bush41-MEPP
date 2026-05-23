@@ -1,7 +1,11 @@
 {
-  "generatedAt": "2026-05-23T19:41:41.719Z",
+  "generatedAt": "2026-05-23T23:01:38.788Z",
   "records": 165,
   "publicStatements": 312,
+  "sourceCandidates": 198,
+  "pageCountedRecords": 165,
+  "linkedRecords": 112,
+  "linkedStatements": 155,
   "persons": 15,
   "events": 6,
   "gaps": 6,

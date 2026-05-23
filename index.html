@@ -25,6 +25,7 @@
         <a href="#persons">Persons</a>
         <a href="#statements">Statements</a>
         <a href="#source-leads">Sources</a>
+        <a href="#source-candidates">Candidates</a>
         <a href="#gaps">Gaps</a>
         <a href="#review">Review</a>
         <a href="#ingest">Ingest</a>
@@ -87,8 +88,16 @@
           <p>direct NARA PDFs</p>
         </div>
         <div>
+          <span id="total-pages">0</span>
+          <p>PDF pages counted</p>
+        </div>
+        <div>
           <span id="total-statements">0</span>
           <p>Public Papers references</p>
+        </div>
+        <div>
+          <span id="total-source-candidates">0</span>
+          <p>source candidates</p>
         </div>
         <div>
           <span id="total-persons">0</span>
@@ -305,6 +314,45 @@
         <div id="source-leads-root" class="source-grid" aria-live="polite"></div>
       </section>
 
+      <section class="section" id="source-candidates" aria-labelledby="source-candidates-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Remediation Harvest</p>
+            <h2 id="source-candidates-title">Public Source Candidates</h2>
+          </div>
+          <button id="export-source-candidates-csv" type="button" class="small-button">Export candidates CSV</button>
+        </div>
+        <div class="control-grid compact-grid" role="search" aria-label="Filter source candidates">
+          <label>
+            Search candidates
+            <input id="candidate-search" type="search" placeholder="State, Ross, Madrid, WHORM, settlements..." />
+          </label>
+          <label>
+            Track
+            <select id="candidate-chapter">
+              <option value="">All tracks</option>
+            </select>
+          </label>
+          <label>
+            Priority
+            <select id="candidate-priority">
+              <option value="">All priorities</option>
+            </select>
+          </label>
+          <label>
+            Level
+            <select id="candidate-level">
+              <option value="">All levels</option>
+            </select>
+          </label>
+        </div>
+        <div class="workbench-actions">
+          <p id="candidate-count">Showing 0 source candidates.</p>
+          <button id="reset-source-candidates" type="button">Reset candidate filters</button>
+        </div>
+        <div id="source-candidates-root" class="source-candidate-list" aria-live="polite"></div>
+      </section>
+
       <section class="section gap-section" id="gaps" aria-labelledby="gaps-title">
         <div class="section-heading">
           <div>
@@ -385,7 +433,7 @@
     <script src="data/events.js"></script>
     <script src="data/compiler-gaps.js"></script>
     <script src="data/source-leads.js"></script>
+    <script src="data/source-candidates.js"></script>
     <script src="app.js"></script>
   </body>
 </html>
-
