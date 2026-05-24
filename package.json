@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "check": "node --check app.js && node --check scripts/harvest-presidential-conversations.js && node --check scripts/harvest-public-statements.js && node --check scripts/harvest-source-candidates.js && node --check scripts/harvest-baker-princeton.js && node --check scripts/enrich-record-pdfs.js && node --check scripts/link-public-private.js && node --check scripts/build-supporting-data.js && node --check scripts/validate-data.js",
+    "check": "node --check app.js && node --check scripts/harvest-presidential-conversations.js && node --check scripts/harvest-public-statements.js && node --check scripts/harvest-source-candidates.js && node --check scripts/harvest-haass-chronological-files.js && node --check scripts/harvest-baker-princeton.js && node --check scripts/enrich-record-pdfs.js && node --check scripts/link-public-private.js && node --check scripts/build-supporting-data.js && node --check scripts/validate-data.js",
     "test": "npm run check && node scripts/validate-data.js"
   }
 }

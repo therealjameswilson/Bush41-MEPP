@@ -56,6 +56,26 @@
     "url": "https://catalog.archives.gov/search"
   },
   {
+    "id": "haass-chronological-files",
+    "title": "Richard N. Haass' Chronological Files",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "naid": "2554857",
+    "status": "Harvested",
+    "chapter": "All chapters",
+    "whyItMatters": "Haass' NSC chronological files add digitized file folders with OCR for the policy chain behind Madrid, Israeli-Palestinian issues, loan guarantees, Gulf War linkage, and regional bilateral contacts.",
+    "candidateCount": 205,
+    "searchTerms": [
+      "Madrid",
+      "Middle East peace",
+      "Palestinian",
+      "Shamir",
+      "Rabin",
+      "King Hussein",
+      "loan guarantees"
+    ],
+    "url": "https://catalog.archives.gov/id/2554857"
+  },
+  {
     "id": "state-department-lot-files",
     "title": "Department of State lot files and NEA records",
     "repository": "Department of State / Office of the Historian source base",

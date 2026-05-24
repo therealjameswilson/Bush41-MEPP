@@ -93,12 +93,15 @@ function main() {
   const statements = readJson("public-statements.json");
   const sourceCandidates = readJson("source-candidates.json");
   const bakerPrincetonCandidates = readJson("baker-princeton-candidates.json");
-  const nonBakerSourceCandidates = sourceCandidates.filter((candidate) => candidate.lane !== "Baker Princeton Papers");
+  const haassChronologicalCandidates = readJson("haass-chronological-candidates.json");
+  const baseNaraSourceCandidates = sourceCandidates.filter(
+    (candidate) => !["Baker Princeton Papers", "Richard Haass Chronological Files"].includes(candidate.lane)
+  );
   const pageCountedRecords = records.filter((record) => Number(record.pageCount) > 0).length;
   const redactionMarkerRecords = records.filter((record) => record.pdfReview?.redactionMarkers?.length).length;
   const linkedRecords = records.filter((record) => record.relatedPublicStatementIds?.length).length;
   const linkedStatements = statements.filter((statement) => statement.relatedRecordIds?.length).length;
-  const highPrioritySourceCandidates = nonBakerSourceCandidates.filter((candidate) => candidate.priority === "High").length;
+  const highPrioritySourceCandidates = baseNaraSourceCandidates.filter((candidate) => candidate.priority === "High").length;
   const palestinianSourceCandidateCount = sourceCandidateTrackCount(sourceCandidates, "Palestinian-Jordanian Track", [
     /\bPalestinian(?:s)?\b/i,
     /\bPLO\b/i,
@@ -313,7 +316,7 @@ function main() {
       category: "Source base",
       chapter: "Madrid-Multilateral Track",
       status: highPrioritySourceCandidates
-        ? `Partially remediated: ${highPrioritySourceCandidates} high-priority public NARA source candidates and ${bakerPrincetonCandidates.length} Princeton Baker candidates harvested; State lot-file access still requires compiler-side review.`
+        ? `Partially remediated: ${highPrioritySourceCandidates} high-priority public NARA source candidates, ${haassChronologicalCandidates.length} Haass chronological-file candidates, and ${bakerPrincetonCandidates.length} Princeton Baker candidates harvested; State lot-file access still requires compiler-side review.`
         : "Open: no source-candidate harvest has been run yet.",
       evidence: "Presidential conversations show the high-level endpoints, but Baker/Ross negotiation files are needed for the invitation formula, letters of assurance, and bilateral track mechanics.",
       nextStep: "Target State Department lot files, Policy Planning Staff files, NEA files, and Secretary Baker trip/memorandum files before final selection."
@@ -404,9 +407,21 @@ function main() {
       status: "Scout next",
       chapter: "All chapters",
       whyItMatters: "Likely to hold decision memos, talking points, interagency edits, and files for Israel, Jordan, Syria, Lebanon, Palestinians, and regional peace-process strategy.",
-      candidateCount: nonBakerSourceCandidates.filter((candidate) => /NSC|Staff|country/i.test(candidate.lane)).length,
+      candidateCount: baseNaraSourceCandidates.filter((candidate) => /NSC|Staff|country/i.test(candidate.lane)).length,
       searchTerms: ["Middle East peace", "Arab-Israeli", "Dennis Ross", "Aaron Miller", "Madrid", "settlements"],
       url: "https://catalog.archives.gov/search"
+    },
+    {
+      id: "haass-chronological-files",
+      title: "Richard N. Haass' Chronological Files",
+      repository: "George H.W. Bush Library / National Archives Catalog",
+      naid: "2554857",
+      status: "Harvested",
+      chapter: "All chapters",
+      whyItMatters: "Haass' NSC chronological files add digitized file folders with OCR for the policy chain behind Madrid, Israeli-Palestinian issues, loan guarantees, Gulf War linkage, and regional bilateral contacts.",
+      candidateCount: haassChronologicalCandidates.length,
+      searchTerms: ["Madrid", "Middle East peace", "Palestinian", "Shamir", "Rabin", "King Hussein", "loan guarantees"],
+      url: "https://catalog.archives.gov/id/2554857"
     },
     {
       id: "state-department-lot-files",
@@ -416,7 +431,7 @@ function main() {
       status: "Compiler target",
       chapter: "All chapters",
       whyItMatters: "Presidential files show endpoints; State files should show the negotiation machinery behind Baker's shuttle diplomacy and bilateral rounds.",
-      candidateCount: nonBakerSourceCandidates.filter((candidate) => /State|Ross/i.test(candidate.lane)).length,
+      candidateCount: baseNaraSourceCandidates.filter((candidate) => /State|Ross/i.test(candidate.lane)).length,
       searchTerms: ["Baker", "Ross", "NEA", "Madrid", "letters of assurance", "bilateral negotiations"],
       url: "https://history.state.gov/historicaldocuments/frus1989-92v14"
     },
@@ -471,6 +486,7 @@ function main() {
         publicStatements: statements.length,
         sourceCandidates: sourceCandidates.length,
         bakerPrincetonCandidates: bakerPrincetonCandidates.length,
+        haassChronologicalCandidates: haassChronologicalCandidates.length,
         pageCountedRecords,
         linkedRecords,
         linkedStatements,

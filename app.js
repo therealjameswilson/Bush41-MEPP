@@ -248,6 +248,9 @@ function sourceCandidateSearchText(candidate) {
     candidate.collection,
     candidate.localIdentifier,
     candidate.scopeAndContentNote,
+    candidate.reason,
+    candidate.sourceNote,
+    ...(candidate.evidenceSnippets || []),
     ...(candidate.matchedQueries || [])
   ]
     .filter(Boolean)
@@ -638,6 +641,11 @@ function renderSourceCandidateCard(candidate) {
           ? `<div class="note-box"><h4>Scope Note</h4><p>${escapeHtml(candidate.scopeAndContentNote)}</p></div>`
           : ""
       }
+      ${
+        candidate.evidenceSnippets?.length
+          ? `<div class="note-box"><h4>OCR Evidence</h4><p>${escapeHtml(candidate.evidenceSnippets.join(" ... "))}</p></div>`
+          : ""
+      }
       <div class="record-links">
         <a href="${escapeHtml(candidate.catalogUrl)}" rel="noreferrer">Catalog</a>
         ${candidate.digitalObjectUrl ? `<a href="${escapeHtml(candidate.digitalObjectUrl)}" rel="noreferrer">Digital object</a>` : ""}
@@ -830,7 +838,22 @@ function exportVisibleGaps() {
 
 function exportVisibleSourceCandidates() {
   exportRows("bush41-mepp-source-candidates.csv", [
-    ["priority", "track", "lane", "level", "title", "id", "series", "collection", "repository", "catalog_url", "digital_object_url", "source_note", "matched_queries"],
+    [
+      "priority",
+      "track",
+      "lane",
+      "level",
+      "title",
+      "id",
+      "series",
+      "collection",
+      "repository",
+      "catalog_url",
+      "digital_object_url",
+      "source_note",
+      "evidence_snippets",
+      "matched_queries"
+    ],
     ...visibleSourceCandidates.map((candidate) => [
       candidate.priority,
       candidate.chapter,
@@ -844,6 +867,7 @@ function exportVisibleSourceCandidates() {
       candidate.catalogUrl,
       candidate.digitalObjectUrl,
       candidate.sourceNote,
+      (candidate.evidenceSnippets || []).join(" ... "),
       (candidate.matchedQueries || []).join("; ")
     ])
   ]);

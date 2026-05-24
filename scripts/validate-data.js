@@ -33,6 +33,7 @@ function main() {
   const sourceLeads = readJson("source-leads.json");
   const sourceCandidates = readJson("source-candidates.json");
   const bakerPrincetonCandidates = readJson("baker-princeton-candidates.json");
+  const haassChronologicalCandidates = readJson("haass-chronological-candidates.json");
 
   assert(records.length >= 100, `Expected at least 100 records; found ${records.length}`);
   assert(statements.length >= 100, `Expected at least 100 public statements; found ${statements.length}`);
@@ -45,12 +46,17 @@ function main() {
     bakerPrincetonCandidates.length >= 10,
     `Expected at least 10 Baker Princeton candidates; found ${bakerPrincetonCandidates.length}`
   );
+  assert(
+    haassChronologicalCandidates.length >= 100,
+    `Expected at least 100 Haass chronological candidates; found ${haassChronologicalCandidates.length}`
+  );
 
   assertUnique(records, "id", "records");
   assertUnique(statements, "id", "public statements");
   assertUnique(persons, "name", "persons");
   assertUnique(sourceCandidates, "id", "source candidates");
   assertUnique(bakerPrincetonCandidates, "id", "Baker Princeton candidates");
+  assertUnique(haassChronologicalCandidates, "id", "Haass chronological candidates");
 
   const missingPdf = records.filter((record) => !record.pdfUrl || !record.catalogUrl || !record.frusSourceNote);
   assert(missingPdf.length === 0, `${missingPdf.length} records missing PDF/catalog/source-note basics`);
@@ -77,6 +83,21 @@ function main() {
     `Merged source-candidate list has ${mergedBakerCandidates.length} Baker Princeton candidates; expected ${bakerPrincetonCandidates.length}`
   );
 
+  const missingHaassContext = haassChronologicalCandidates.filter(
+    (candidate) =>
+      candidate.sourceSeriesNaid !== "2554857" ||
+      !candidate.localIdentifier ||
+      !candidate.sourceNote ||
+      !candidate.digitalObjectUrl
+  );
+  assert(missingHaassContext.length === 0, `${missingHaassContext.length} Haass chronological candidates missing source context`);
+
+  const mergedHaassCandidates = sourceCandidates.filter((candidate) => candidate.lane === "Richard Haass Chronological Files");
+  assert(
+    mergedHaassCandidates.length === haassChronologicalCandidates.length,
+    `Merged source-candidate list has ${mergedHaassCandidates.length} Haass chronological candidates; expected ${haassChronologicalCandidates.length}`
+  );
+
   const report = {
     records: records.length,
     statements: statements.length,
@@ -86,6 +107,7 @@ function main() {
     sourceLeads: sourceLeads.length,
     sourceCandidates: sourceCandidates.length,
     bakerPrincetonCandidates: bakerPrincetonCandidates.length,
+    haassChronologicalCandidates: haassChronologicalCandidates.length,
     linkedRecords: linkedRecords.length,
     linkedStatements: linkedStatements.length,
     pages: records.reduce((sum, record) => sum + (Number(record.pageCount) || 0), 0)

@@ -1,0 +1,16 @@
+{
+  "generatedAt": "2026-05-24T01:22:01.662Z",
+  "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554857?limit=1000",
+  "catalogUrl": "https://catalog.archives.gov/id/2554857",
+  "seriesNaid": "2554857",
+  "seriesTitle": "Richard N. Haass' Chronological Files",
+  "totalChildren": 205,
+  "fileUnitsReturned": 205,
+  "candidatesAdded": 205,
+  "highPriority": 187,
+  "mediumPriority": 10,
+  "reviewPriority": 8,
+  "digitalObjects": 205,
+  "mergedSourceCandidates": 461,
+  "note": "Chronological file folders are included as file-level review candidates. OCR snippets are directional and must be verified against PDFs before FRUS selection."
+}
