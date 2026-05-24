@@ -94,8 +94,12 @@ function main() {
   const sourceCandidates = readJson("source-candidates.json");
   const bakerPrincetonCandidates = readJson("baker-princeton-candidates.json");
   const haassChronologicalCandidates = readJson("haass-chronological-candidates.json");
+  const haassTargetSeriesCandidates = readJson("haass-target-series-candidates.json");
+  const haassTargetLanes = new Set(haassTargetSeriesCandidates.map((candidate) => candidate.lane));
   const baseNaraSourceCandidates = sourceCandidates.filter(
-    (candidate) => !["Baker Princeton Papers", "Richard Haass Chronological Files"].includes(candidate.lane)
+    (candidate) =>
+      !["Baker Princeton Papers", "Richard Haass Chronological Files"].includes(candidate.lane) &&
+      !haassTargetLanes.has(candidate.lane)
   );
   const pageCountedRecords = records.filter((record) => Number(record.pageCount) > 0).length;
   const redactionMarkerRecords = records.filter((record) => record.pdfReview?.redactionMarkers?.length).length;
@@ -316,7 +320,7 @@ function main() {
       category: "Source base",
       chapter: "Madrid-Multilateral Track",
       status: highPrioritySourceCandidates
-        ? `Partially remediated: ${highPrioritySourceCandidates} high-priority public NARA source candidates, ${haassChronologicalCandidates.length} Haass chronological-file candidates, and ${bakerPrincetonCandidates.length} Princeton Baker candidates harvested; State lot-file access still requires compiler-side review.`
+        ? `Partially remediated: ${highPrioritySourceCandidates} high-priority public NARA source candidates, ${haassChronologicalCandidates.length} Haass chronological-file candidates, ${haassTargetSeriesCandidates.length} targeted Haass file-series candidates, and ${bakerPrincetonCandidates.length} Princeton Baker candidates harvested; State lot-file access still requires compiler-side review.`
         : "Open: no source-candidate harvest has been run yet.",
       evidence: "Presidential conversations show the high-level endpoints, but Baker/Ross negotiation files are needed for the invitation formula, letters of assurance, and bilateral track mechanics.",
       nextStep: "Target State Department lot files, Policy Planning Staff files, NEA files, and Secretary Baker trip/memorandum files before final selection."
@@ -424,6 +428,18 @@ function main() {
       url: "https://catalog.archives.gov/id/2554857"
     },
     {
+      id: "haass-target-series",
+      title: "Richard N. Haass targeted file series",
+      repository: "George H.W. Bush Library / National Archives Catalog",
+      naid: "2554859; 2554865; 2554866; 2554868; 2554871; 2554875; 2554876; 2554877",
+      status: "Harvested",
+      chapter: "All chapters",
+      whyItMatters: "Additional Haass crosshatch, correspondence, meeting, Middle East peace-process, subject, telephone, trip, and working files may expose staff-level evidence behind Madrid and related Arab-Israeli diplomacy.",
+      candidateCount: haassTargetSeriesCandidates.length,
+      searchTerms: ["Middle East Peace Process", "Madrid", "MEP Delegations", "Palestinian", "Shamir", "King Hussein", "loan guarantees"],
+      url: "https://catalog.archives.gov/id/2554868"
+    },
+    {
       id: "state-department-lot-files",
       title: "Department of State lot files and NEA records",
       repository: "Department of State / Office of the Historian source base",
@@ -487,6 +503,7 @@ function main() {
         sourceCandidates: sourceCandidates.length,
         bakerPrincetonCandidates: bakerPrincetonCandidates.length,
         haassChronologicalCandidates: haassChronologicalCandidates.length,
+        haassTargetSeriesCandidates: haassTargetSeriesCandidates.length,
         pageCountedRecords,
         linkedRecords,
         linkedStatements,

@@ -1,0 +1,118 @@
+{
+  "generatedAt": "2026-05-24T01:38:11.824Z",
+  "requestedSeries": [
+    "https://catalog.archives.gov/id/2554859",
+    "https://catalog.archives.gov/id/2554865",
+    "https://catalog.archives.gov/id/2554866",
+    "https://catalog.archives.gov/id/2554868",
+    "https://catalog.archives.gov/id/2554871",
+    "https://catalog.archives.gov/id/2554875",
+    "https://catalog.archives.gov/id/2554876",
+    "https://catalog.archives.gov/id/2554877"
+  ],
+  "series": [
+    {
+      "seriesNaid": "2554859",
+      "title": "Richard N. Haass' Cleared Crosshatch Files",
+      "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554859?limit=1000",
+      "totalChildren": 72,
+      "fileUnitsReturned": 72,
+      "candidatesAdded": 55,
+      "highPriority": 55,
+      "mediumPriority": 0,
+      "reviewPriority": 0,
+      "digitalObjects": 55
+    },
+    {
+      "seriesNaid": "2554865",
+      "title": "Richard N. Haass' Correspondence Files",
+      "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554865?limit=1000",
+      "totalChildren": 16,
+      "fileUnitsReturned": 16,
+      "candidatesAdded": 15,
+      "highPriority": 15,
+      "mediumPriority": 0,
+      "reviewPriority": 0,
+      "digitalObjects": 15
+    },
+    {
+      "seriesNaid": "2554866",
+      "title": "Richard N. Haass' Meeting Files",
+      "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554866?limit=1000",
+      "totalChildren": 94,
+      "fileUnitsReturned": 94,
+      "candidatesAdded": 32,
+      "highPriority": 28,
+      "mediumPriority": 3,
+      "reviewPriority": 1,
+      "digitalObjects": 31
+    },
+    {
+      "seriesNaid": "2554868",
+      "title": "Richard Haass' Middle East Peace Process Files",
+      "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554868?limit=1000",
+      "totalChildren": 53,
+      "fileUnitsReturned": 53,
+      "candidatesAdded": 53,
+      "highPriority": 53,
+      "mediumPriority": 0,
+      "reviewPriority": 0,
+      "digitalObjects": 53
+    },
+    {
+      "seriesNaid": "2554871",
+      "title": "Richard N. Haass' Subject Files",
+      "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554871?limit=1000",
+      "totalChildren": 31,
+      "fileUnitsReturned": 31,
+      "candidatesAdded": 17,
+      "highPriority": 16,
+      "mediumPriority": 0,
+      "reviewPriority": 1,
+      "digitalObjects": 17
+    },
+    {
+      "seriesNaid": "2554875",
+      "title": "Richard N. Haass' Telephone Listings Files",
+      "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554875?limit=1000",
+      "totalChildren": 7,
+      "fileUnitsReturned": 7,
+      "candidatesAdded": 7,
+      "highPriority": 4,
+      "mediumPriority": 3,
+      "reviewPriority": 0,
+      "digitalObjects": 7
+    },
+    {
+      "seriesNaid": "2554876",
+      "title": "Richard N. Haass' Trip Files",
+      "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554876?limit=1000",
+      "totalChildren": 44,
+      "fileUnitsReturned": 44,
+      "candidatesAdded": 15,
+      "highPriority": 13,
+      "mediumPriority": 2,
+      "reviewPriority": 0,
+      "digitalObjects": 15
+    },
+    {
+      "seriesNaid": "2554877",
+      "title": "Richard N. Haass' Working Files",
+      "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554877?limit=1000",
+      "totalChildren": 104,
+      "fileUnitsReturned": 104,
+      "candidatesAdded": 59,
+      "highPriority": 59,
+      "mediumPriority": 0,
+      "reviewPriority": 0,
+      "digitalObjects": 59
+    }
+  ],
+  "candidatesAdded": 253,
+  "highPriority": 243,
+  "mediumPriority": 8,
+  "reviewPriority": 2,
+  "digitalObjects": 252,
+  "mergedSourceCandidates": 713,
+  "note": "Targeted Haass file-series candidates are selected by direct series relevance, title markers, and OCR/topic markers. OCR snippets are directional and must be verified against PDFs before FRUS selection."
+}

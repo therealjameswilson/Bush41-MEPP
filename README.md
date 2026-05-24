@@ -17,6 +17,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Date/track/term-based public/private chronology linkage
 - Public NARA source-candidate harvests for unfilled State, NSC, WHORM, and post-Madrid lanes
 - Richard N. Haass' Chronological Files candidates from NARA Catalog series NAID 2554857
+- Targeted Richard N. Haass file-series candidates from NARA Catalog series NAIDs 2554859, 2554865, 2554866, 2554868, 2554871, 2554875, 2554876, and 2554877
 - Princeton James A. Baker III Papers candidates from the MC197 EAD finding aid
 - GitHub Actions validation and GitHub Pages deployment workflow
 - Reproducible harvest scripts and JSON/JS data bundles for GitHub Pages
@@ -42,6 +43,7 @@ node scripts/harvest-presidential-conversations.js
 node scripts/harvest-public-statements.js
 node scripts/harvest-source-candidates.js
 node scripts/harvest-haass-chronological-files.js
+node scripts/harvest-haass-target-series.js
 node scripts/harvest-baker-princeton.js
 node scripts/enrich-record-pdfs.js
 node scripts/link-public-private.js
@@ -60,6 +62,7 @@ The Public Papers, NARA source-candidate, and Princeton finding-aid harvests cac
 - `data/source-leads.json`: source-series and research-lane leads
 - `data/source-candidates.json`: combined source-candidate harvest for gap remediation
 - `data/haass-chronological-candidates.json`: Richard N. Haass' Chronological Files candidates
+- `data/haass-target-series-candidates.json`: targeted Richard N. Haass file-series candidates
 - `data/baker-princeton-candidates.json`: Princeton James A. Baker III Papers candidates
 
 ## Verification

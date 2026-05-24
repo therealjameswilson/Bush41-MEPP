@@ -34,6 +34,7 @@ function main() {
   const sourceCandidates = readJson("source-candidates.json");
   const bakerPrincetonCandidates = readJson("baker-princeton-candidates.json");
   const haassChronologicalCandidates = readJson("haass-chronological-candidates.json");
+  const haassTargetSeriesCandidates = readJson("haass-target-series-candidates.json");
 
   assert(records.length >= 100, `Expected at least 100 records; found ${records.length}`);
   assert(statements.length >= 100, `Expected at least 100 public statements; found ${statements.length}`);
@@ -50,6 +51,10 @@ function main() {
     haassChronologicalCandidates.length >= 100,
     `Expected at least 100 Haass chronological candidates; found ${haassChronologicalCandidates.length}`
   );
+  assert(
+    haassTargetSeriesCandidates.length >= 200,
+    `Expected at least 200 targeted Haass series candidates; found ${haassTargetSeriesCandidates.length}`
+  );
 
   assertUnique(records, "id", "records");
   assertUnique(statements, "id", "public statements");
@@ -57,6 +62,7 @@ function main() {
   assertUnique(sourceCandidates, "id", "source candidates");
   assertUnique(bakerPrincetonCandidates, "id", "Baker Princeton candidates");
   assertUnique(haassChronologicalCandidates, "id", "Haass chronological candidates");
+  assertUnique(haassTargetSeriesCandidates, "id", "targeted Haass series candidates");
 
   const missingPdf = records.filter((record) => !record.pdfUrl || !record.catalogUrl || !record.frusSourceNote);
   assert(missingPdf.length === 0, `${missingPdf.length} records missing PDF/catalog/source-note basics`);
@@ -98,6 +104,26 @@ function main() {
     `Merged source-candidate list has ${mergedHaassCandidates.length} Haass chronological candidates; expected ${haassChronologicalCandidates.length}`
   );
 
+  const targetSeriesNaids = new Set(["2554859", "2554865", "2554866", "2554868", "2554871", "2554875", "2554876", "2554877"]);
+  const missingHaassTargetContext = haassTargetSeriesCandidates.filter(
+    (candidate) =>
+      !targetSeriesNaids.has(String(candidate.sourceSeriesNaid)) ||
+      !candidate.localIdentifier ||
+      !candidate.sourceNote ||
+      !candidate.catalogUrl
+  );
+  assert(
+    missingHaassTargetContext.length === 0,
+    `${missingHaassTargetContext.length} targeted Haass series candidates missing source context`
+  );
+
+  const mergedIds = new Set(sourceCandidates.map((candidate) => candidate.id));
+  const missingMergedHaassTargets = haassTargetSeriesCandidates.filter((candidate) => !mergedIds.has(candidate.id));
+  assert(
+    missingMergedHaassTargets.length === 0,
+    `${missingMergedHaassTargets.length} targeted Haass series candidates missing from merged source-candidate list`
+  );
+
   const report = {
     records: records.length,
     statements: statements.length,
@@ -108,6 +134,7 @@ function main() {
     sourceCandidates: sourceCandidates.length,
     bakerPrincetonCandidates: bakerPrincetonCandidates.length,
     haassChronologicalCandidates: haassChronologicalCandidates.length,
+    haassTargetSeriesCandidates: haassTargetSeriesCandidates.length,
     linkedRecords: linkedRecords.length,
     linkedStatements: linkedStatements.length,
     pages: records.reduce((sum, record) => sum + (Number(record.pageCount) || 0), 0)

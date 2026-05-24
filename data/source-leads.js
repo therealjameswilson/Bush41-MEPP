@@ -76,6 +76,26 @@ window.MEPP_SOURCE_LEADS = [
     "url": "https://catalog.archives.gov/id/2554857"
   },
   {
+    "id": "haass-target-series",
+    "title": "Richard N. Haass targeted file series",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "naid": "2554859; 2554865; 2554866; 2554868; 2554871; 2554875; 2554876; 2554877",
+    "status": "Harvested",
+    "chapter": "All chapters",
+    "whyItMatters": "Additional Haass crosshatch, correspondence, meeting, Middle East peace-process, subject, telephone, trip, and working files may expose staff-level evidence behind Madrid and related Arab-Israeli diplomacy.",
+    "candidateCount": 253,
+    "searchTerms": [
+      "Middle East Peace Process",
+      "Madrid",
+      "MEP Delegations",
+      "Palestinian",
+      "Shamir",
+      "King Hussein",
+      "loan guarantees"
+    ],
+    "url": "https://catalog.archives.gov/id/2554868"
+  },
+  {
     "id": "state-department-lot-files",
     "title": "Department of State lot files and NEA records",
     "repository": "Department of State / Office of the Historian source base",

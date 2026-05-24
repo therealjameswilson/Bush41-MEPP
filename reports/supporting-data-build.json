@@ -1,15 +1,16 @@
 {
-  "generatedAt": "2026-05-24T01:23:19.702Z",
+  "generatedAt": "2026-05-24T01:38:12.485Z",
   "records": 165,
   "publicStatements": 312,
-  "sourceCandidates": 461,
+  "sourceCandidates": 713,
   "bakerPrincetonCandidates": 58,
   "haassChronologicalCandidates": 205,
+  "haassTargetSeriesCandidates": 253,
   "pageCountedRecords": 165,
   "linkedRecords": 112,
   "linkedStatements": 155,
   "persons": 15,
   "events": 6,
   "gaps": 6,
-  "sourceLeads": 8
+  "sourceLeads": 9
 }

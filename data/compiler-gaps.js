@@ -5,7 +5,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "Critical",
     "category": "Source base",
     "chapter": "Madrid-Multilateral Track",
-    "status": "Partially remediated: 16 high-priority public NARA source candidates, 205 Haass chronological-file candidates, and 58 Princeton Baker candidates harvested; State lot-file access still requires compiler-side review.",
+    "status": "Partially remediated: 16 high-priority public NARA source candidates, 205 Haass chronological-file candidates, 253 targeted Haass file-series candidates, and 58 Princeton Baker candidates harvested; State lot-file access still requires compiler-side review.",
     "evidence": "Presidential conversations show the high-level endpoints, but Baker/Ross negotiation files are needed for the invitation formula, letters of assurance, and bilateral track mechanics.",
     "nextStep": "Target State Department lot files, Policy Planning Staff files, NEA files, and Secretary Baker trip/memorandum files before final selection."
   },
@@ -25,7 +25,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "High",
     "category": "Coverage",
     "chapter": "Palestinian-Jordanian Track",
-    "status": "242 source candidates harvested; indirect Palestinian channel remains a source-base risk.",
+    "status": "443 source candidates harvested; indirect Palestinian channel remains a source-base risk.",
     "evidence": "The public presidential series is stronger for heads of state than for indirect PLO or Palestinian delegation contacts.",
     "nextStep": "Search State, NSC staff, and public statement files for Palestinian delegation, PLO, Faisal Husseini, Hanan Ashrawi, West Bank, and Gaza references."
   },
@@ -35,7 +35,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "High",
     "category": "Coverage",
     "chapter": "Syria-Lebanon Track",
-    "status": "66 source candidates harvested; substantive reconstruction still depends on State/NSC files.",
+    "status": "127 source candidates harvested; substantive reconstruction still depends on State/NSC files.",
     "evidence": "Assad conversations alone will not show the full policy chain for Syria, Lebanon, and regional security guarantees.",
     "nextStep": "Pair Assad records with NEA, NSC, CIA briefing, and coalition diplomacy files."
   },
