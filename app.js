@@ -239,6 +239,8 @@ function sourceCandidateSearchText(candidate) {
   return [
     candidate.title,
     candidate.priority,
+    candidate.repository,
+    candidate.documentType,
     candidate.chapter,
     candidate.lane,
     candidate.level,
@@ -622,13 +624,15 @@ function renderSourceCandidateCard(candidate) {
       <div class="tag-list">
         <span class="pill">${escapeHtml(candidate.chapter || "Unassigned")}</span>
         <span class="pill">${escapeHtml(candidate.lane || "Source lane")}</span>
+        ${candidate.documentType ? `<span class="pill">${escapeHtml(candidate.documentType)}</span>` : ""}
         ${candidate.hasDigitalObject ? `<span class="pill">digital object</span>` : ""}
         ${candidate.naid ? `<span class="pill">NAID ${escapeHtml(candidate.naid)}</span>` : ""}
       </div>
       <div class="note-box">
         <h4>Catalog Context</h4>
-        <p>${escapeHtml([candidate.collection, candidate.sourceSeries, candidate.localIdentifier].filter(Boolean).join(", ") || "Catalog context pending.")}</p>
+        <p>${escapeHtml([candidate.repository, candidate.collection, candidate.sourceSeries, candidate.localIdentifier].filter(Boolean).join(", ") || "Catalog context pending.")}</p>
       </div>
+      ${candidate.sourceNote ? `<div class="note-box"><h4>Source Note</h4><p>${escapeHtml(candidate.sourceNote)}</p></div>` : ""}
       ${
         candidate.scopeAndContentNote
           ? `<div class="note-box"><h4>Scope Note</h4><p>${escapeHtml(candidate.scopeAndContentNote)}</p></div>`
@@ -826,18 +830,20 @@ function exportVisibleGaps() {
 
 function exportVisibleSourceCandidates() {
   exportRows("bush41-mepp-source-candidates.csv", [
-    ["priority", "track", "lane", "level", "title", "naid", "series", "collection", "catalog_url", "digital_object_url", "matched_queries"],
+    ["priority", "track", "lane", "level", "title", "id", "series", "collection", "repository", "catalog_url", "digital_object_url", "source_note", "matched_queries"],
     ...visibleSourceCandidates.map((candidate) => [
       candidate.priority,
       candidate.chapter,
       candidate.lane,
       candidate.level,
       candidate.title,
-      candidate.naid,
+      candidate.naid || candidate.externalId || candidate.id,
       candidate.sourceSeries,
       candidate.collection,
+      candidate.repository,
       candidate.catalogUrl,
       candidate.digitalObjectUrl,
+      candidate.sourceNote,
       (candidate.matchedQueries || []).join("; ")
     ])
   ]);

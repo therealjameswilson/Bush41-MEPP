@@ -92,6 +92,25 @@ window.MEPP_SOURCE_LEADS = [
     "url": "https://www.govinfo.gov/app/collection/ppp/president-41_Bush,%20George%20H.%20W."
   },
   {
+    "id": "baker-princeton-papers",
+    "title": "James A. Baker III Papers",
+    "repository": "Princeton University Library: Public Policy Papers",
+    "naid": "",
+    "status": "Harvested",
+    "chapter": "All chapters",
+    "whyItMatters": "Baker's Princeton papers add Secretary of State correspondence, speeches, travel remarks, memoir research files, and audiovisual references around Madrid and the Arab-Israeli peace process.",
+    "candidateCount": 58,
+    "searchTerms": [
+      "Madrid",
+      "Middle East Peace Conference",
+      "Arab-Israeli Peace Process",
+      "Palestinian representatives",
+      "loan guarantees",
+      "settlements"
+    ],
+    "url": "https://findingaids.princeton.edu/catalog/MC197"
+  },
+  {
     "id": "whorm-country-files",
     "title": "WHORM country and subject files",
     "repository": "George H.W. Bush Library / National Archives Catalog",

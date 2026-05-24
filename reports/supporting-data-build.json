@@ -1,13 +1,14 @@
 {
-  "generatedAt": "2026-05-23T23:01:38.788Z",
+  "generatedAt": "2026-05-24T00:17:46.650Z",
   "records": 165,
   "publicStatements": 312,
-  "sourceCandidates": 198,
+  "sourceCandidates": 256,
+  "bakerPrincetonCandidates": 58,
   "pageCountedRecords": 165,
   "linkedRecords": 112,
   "linkedStatements": 155,
   "persons": 15,
   "events": 6,
   "gaps": 6,
-  "sourceLeads": 6
+  "sourceLeads": 7
 }

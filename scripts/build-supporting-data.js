@@ -40,6 +40,29 @@ function textFor(item) {
   );
 }
 
+function sourceCandidateText(candidate) {
+  return clean(
+    [
+      candidate.title,
+      candidate.chapter,
+      candidate.lane,
+      candidate.sourceSeries,
+      candidate.collection,
+      candidate.repository,
+      candidate.sourceNote,
+      ...(candidate.matchedQueries || [])
+    ].join(" ")
+  );
+}
+
+function sourceCandidateTrackCount(candidates, track, aliases) {
+  return candidates.filter((candidate) => {
+    if (candidate.chapter === track || String(candidate.lane || "").includes(track)) return true;
+    const text = sourceCandidateText(candidate);
+    return aliases.some((pattern) => pattern.test(text));
+  }).length;
+}
+
 function countHits(items, aliases) {
   const patterns = aliases.map((alias) => new RegExp(`\\b${alias.replace(/[.*+?^${}()|[\]\\]/g, "\\$&")}\\b`, "i"));
   return items.filter((item) => patterns.some((pattern) => pattern.test(textFor(item)))).length;
@@ -69,11 +92,31 @@ function main() {
   const records = readJson("records.json");
   const statements = readJson("public-statements.json");
   const sourceCandidates = readJson("source-candidates.json");
+  const bakerPrincetonCandidates = readJson("baker-princeton-candidates.json");
+  const nonBakerSourceCandidates = sourceCandidates.filter((candidate) => candidate.lane !== "Baker Princeton Papers");
   const pageCountedRecords = records.filter((record) => Number(record.pageCount) > 0).length;
   const redactionMarkerRecords = records.filter((record) => record.pdfReview?.redactionMarkers?.length).length;
   const linkedRecords = records.filter((record) => record.relatedPublicStatementIds?.length).length;
   const linkedStatements = statements.filter((statement) => statement.relatedRecordIds?.length).length;
-  const highPrioritySourceCandidates = sourceCandidates.filter((candidate) => candidate.priority === "High").length;
+  const highPrioritySourceCandidates = nonBakerSourceCandidates.filter((candidate) => candidate.priority === "High").length;
+  const palestinianSourceCandidateCount = sourceCandidateTrackCount(sourceCandidates, "Palestinian-Jordanian Track", [
+    /\bPalestinian(?:s)?\b/i,
+    /\bPLO\b/i,
+    /\bHusseini\b/i,
+    /\bAshrawi\b/i,
+    /\bArafat\b/i,
+    /\bWest Bank\b/i,
+    /\bGaza\b/i,
+    /\bJordan(?:ian)?\b/i,
+    /\bKing Hussein\b/i
+  ]);
+  const syriaLebanonSourceCandidateCount = sourceCandidateTrackCount(sourceCandidates, "Syria-Lebanon Track", [
+    /\bSyria(?:n)?\b/i,
+    /\bAssad\b/i,
+    /\bDamascus\b/i,
+    /\bLebanon\b/i,
+    /\bLebanese\b/i
+  ]);
 
   const curatedPeople = [
     {
@@ -270,7 +313,7 @@ function main() {
       category: "Source base",
       chapter: "Madrid-Multilateral Track",
       status: highPrioritySourceCandidates
-        ? `Partially remediated: ${highPrioritySourceCandidates} high-priority public NARA source candidates harvested; State lot-file access still requires compiler-side review.`
+        ? `Partially remediated: ${highPrioritySourceCandidates} high-priority public NARA source candidates and ${bakerPrincetonCandidates.length} Princeton Baker candidates harvested; State lot-file access still requires compiler-side review.`
         : "Open: no source-candidate harvest has been run yet.",
       evidence: "Presidential conversations show the high-level endpoints, but Baker/Ross negotiation files are needed for the invitation formula, letters of assurance, and bilateral track mechanics.",
       nextStep: "Target State Department lot files, Policy Planning Staff files, NEA files, and Secretary Baker trip/memorandum files before final selection."
@@ -294,7 +337,7 @@ function main() {
       priority: "High",
       category: "Coverage",
       chapter: "Palestinian-Jordanian Track",
-      status: `${sourceCandidates.filter((candidate) => candidate.chapter === "Palestinian-Jordanian Track").length} public source candidates harvested; indirect Palestinian channel remains a source-base risk.`,
+      status: `${palestinianSourceCandidateCount} source candidates harvested; indirect Palestinian channel remains a source-base risk.`,
       evidence: "The public presidential series is stronger for heads of state than for indirect PLO or Palestinian delegation contacts.",
       nextStep: "Search State, NSC staff, and public statement files for Palestinian delegation, PLO, Faisal Husseini, Hanan Ashrawi, West Bank, and Gaza references."
     },
@@ -304,7 +347,7 @@ function main() {
       priority: "High",
       category: "Coverage",
       chapter: "Syria-Lebanon Track",
-      status: `${sourceCandidates.filter((candidate) => candidate.chapter === "Syria-Lebanon Track").length} public source candidates harvested; substantive reconstruction still depends on State/NSC files.`,
+      status: `${syriaLebanonSourceCandidateCount} source candidates harvested; substantive reconstruction still depends on State/NSC files.`,
       evidence: "Assad conversations alone will not show the full policy chain for Syria, Lebanon, and regional security guarantees.",
       nextStep: "Pair Assad records with NEA, NSC, CIA briefing, and coalition diplomacy files."
     },
@@ -361,7 +404,7 @@ function main() {
       status: "Scout next",
       chapter: "All chapters",
       whyItMatters: "Likely to hold decision memos, talking points, interagency edits, and files for Israel, Jordan, Syria, Lebanon, Palestinians, and regional peace-process strategy.",
-      candidateCount: sourceCandidates.filter((candidate) => /NSC|Staff|country/i.test(candidate.lane)).length,
+      candidateCount: nonBakerSourceCandidates.filter((candidate) => /NSC|Staff|country/i.test(candidate.lane)).length,
       searchTerms: ["Middle East peace", "Arab-Israeli", "Dennis Ross", "Aaron Miller", "Madrid", "settlements"],
       url: "https://catalog.archives.gov/search"
     },
@@ -373,7 +416,7 @@ function main() {
       status: "Compiler target",
       chapter: "All chapters",
       whyItMatters: "Presidential files show endpoints; State files should show the negotiation machinery behind Baker's shuttle diplomacy and bilateral rounds.",
-      candidateCount: sourceCandidates.filter((candidate) => /State|Baker|Ross/i.test(candidate.lane)).length,
+      candidateCount: nonBakerSourceCandidates.filter((candidate) => /State|Ross/i.test(candidate.lane)).length,
       searchTerms: ["Baker", "Ross", "NEA", "Madrid", "letters of assurance", "bilateral negotiations"],
       url: "https://history.state.gov/historicaldocuments/frus1989-92v14"
     },
@@ -387,6 +430,18 @@ function main() {
       whyItMatters: "Public framing, press conferences, remarks, and statements help align private documents with the visible diplomatic chronology.",
       searchTerms: ["Middle East peace", "Madrid", "Israel", "Palestinian", "loan guarantees"],
       url: "https://www.govinfo.gov/app/collection/ppp/president-41_Bush,%20George%20H.%20W."
+    },
+    {
+      id: "baker-princeton-papers",
+      title: "James A. Baker III Papers",
+      repository: "Princeton University Library: Public Policy Papers",
+      naid: "",
+      status: "Harvested",
+      chapter: "All chapters",
+      whyItMatters: "Baker's Princeton papers add Secretary of State correspondence, speeches, travel remarks, memoir research files, and audiovisual references around Madrid and the Arab-Israeli peace process.",
+      candidateCount: bakerPrincetonCandidates.length,
+      searchTerms: ["Madrid", "Middle East Peace Conference", "Arab-Israeli Peace Process", "Palestinian representatives", "loan guarantees", "settlements"],
+      url: "https://findingaids.princeton.edu/catalog/MC197"
     },
     {
       id: "whorm-country-files",
@@ -415,6 +470,7 @@ function main() {
         records: records.length,
         publicStatements: statements.length,
         sourceCandidates: sourceCandidates.length,
+        bakerPrincetonCandidates: bakerPrincetonCandidates.length,
         pageCountedRecords,
         linkedRecords,
         linkedStatements,

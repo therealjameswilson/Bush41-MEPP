@@ -32,6 +32,7 @@ function main() {
   const gaps = readJson("compiler-gaps.json");
   const sourceLeads = readJson("source-leads.json");
   const sourceCandidates = readJson("source-candidates.json");
+  const bakerPrincetonCandidates = readJson("baker-princeton-candidates.json");
 
   assert(records.length >= 100, `Expected at least 100 records; found ${records.length}`);
   assert(statements.length >= 100, `Expected at least 100 public statements; found ${statements.length}`);
@@ -40,11 +41,16 @@ function main() {
   assert(gaps.length >= 6, `Expected at least 6 compiler gaps; found ${gaps.length}`);
   assert(sourceLeads.length >= 6, `Expected at least 6 source leads; found ${sourceLeads.length}`);
   assert(sourceCandidates.length >= 10, `Expected at least 10 source candidates; found ${sourceCandidates.length}`);
+  assert(
+    bakerPrincetonCandidates.length >= 10,
+    `Expected at least 10 Baker Princeton candidates; found ${bakerPrincetonCandidates.length}`
+  );
 
   assertUnique(records, "id", "records");
   assertUnique(statements, "id", "public statements");
   assertUnique(persons, "name", "persons");
   assertUnique(sourceCandidates, "id", "source candidates");
+  assertUnique(bakerPrincetonCandidates, "id", "Baker Princeton candidates");
 
   const missingPdf = records.filter((record) => !record.pdfUrl || !record.catalogUrl || !record.frusSourceNote);
   assert(missingPdf.length === 0, `${missingPdf.length} records missing PDF/catalog/source-note basics`);
@@ -60,6 +66,17 @@ function main() {
   const gapsWithoutStatus = gaps.filter((gap) => !gap.status);
   assert(gapsWithoutStatus.length === 0, `${gapsWithoutStatus.length} gaps missing remediation status`);
 
+  const missingBakerContext = bakerPrincetonCandidates.filter(
+    (candidate) => !candidate.localIdentifier || !candidate.sourceSeries || !candidate.sourceNote
+  );
+  assert(missingBakerContext.length === 0, `${missingBakerContext.length} Baker Princeton candidates missing box/folder/source context`);
+
+  const mergedBakerCandidates = sourceCandidates.filter((candidate) => candidate.lane === "Baker Princeton Papers");
+  assert(
+    mergedBakerCandidates.length === bakerPrincetonCandidates.length,
+    `Merged source-candidate list has ${mergedBakerCandidates.length} Baker Princeton candidates; expected ${bakerPrincetonCandidates.length}`
+  );
+
   const report = {
     records: records.length,
     statements: statements.length,
@@ -68,6 +85,7 @@ function main() {
     gaps: gaps.length,
     sourceLeads: sourceLeads.length,
     sourceCandidates: sourceCandidates.length,
+    bakerPrincetonCandidates: bakerPrincetonCandidates.length,
     linkedRecords: linkedRecords.length,
     linkedStatements: linkedStatements.length,
     pages: records.reduce((sum, record) => sum + (Number(record.pageCount) || 0), 0)
@@ -77,4 +95,3 @@ function main() {
 }
 
 main();
-
