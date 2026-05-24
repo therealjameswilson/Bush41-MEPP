@@ -43,7 +43,13 @@ const TOPIC_PATTERNS = [
   [
     "Loan guarantees/settlements",
     /\bloan guarantees?\b|\bsettlement activity\b|\bsettlements policy\b|\bsettlement freeze\b|\boccupied territories\b/i
-  ]
+  ],
+  ["Lebanon context", /\bLebanon\b|\bLebanese\b|\bBeirut\b|\bZahleh\b/i],
+  ["Iraq/Gulf context", /\bIraq(?:i)?\b|\bPersian Gulf\b|\bGulf Security\b|\bKuwait(?:i)?\b|\bSaudi\b|\bRiyadh\b|\bJeddah\b/i],
+  ["Haass notes/notebooks", /\bnotebook\b|\bsteno pad\b|\bnotes taken by Richard Haass\b/i],
+  ["UN context", /\bUnited Nations\b|\bUNGA\b|\bU\.N\.\b|\bUN\b/i],
+  ["Jewish/Israel-adjacent", /\bJewish\b|\bAbba Eban\b|\bB'nai B'rith\b/i],
+  ["Presidential correspondence", /\bPresidential Correspondence\b|\bPresident's Meeting\b/i]
 ];
 
 const STRONG_TERMS = new Set([
@@ -53,6 +59,15 @@ const STRONG_TERMS = new Set([
   "Israeli-Palestinian",
   "Palestinian channel",
   "Loan guarantees/settlements"
+]);
+
+const CONTEXT_TERMS = new Set([
+  "Lebanon context",
+  "Iraq/Gulf context",
+  "Haass notes/notebooks",
+  "UN context",
+  "Jewish/Israel-adjacent",
+  "Presidential correspondence"
 ]);
 
 function ensureDir(dir) {
@@ -141,8 +156,9 @@ function matchedTerms(text) {
 function isRelevant(record, series, terms) {
   if (series.includeAll) return true;
   if (terms.some((term) => STRONG_TERMS.has(term))) return true;
+  if (terms.some((term) => CONTEXT_TERMS.has(term))) return true;
   if (
-    /Middle East|Mideast|Madrid|Peace Process|Palestinian|Israel|Shamir|Rabin|Peres|Arens|King Hussein|Assad|loan guarantees?|settlement/i.test(
+    /Middle East|Mideast|Madrid|Peace Process|Palestinian|Israel|Shamir|Rabin|Peres|Arens|King Hussein|Assad|Lebanon|Iraq|Kuwait|Saudi|United Nations|Jewish|Abba Eban|Presidential Correspondence|notebook|steno pad|loan guarantees?|settlement/i.test(
       record.title || ""
     )
   ) {
@@ -154,11 +170,16 @@ function isRelevant(record, series, terms) {
 
 function priorityFor(series, terms) {
   if (series.includeAll || terms.some((term) => STRONG_TERMS.has(term))) return "High";
+  if (terms.some((term) => ["Lebanon context", "Haass notes/notebooks", "UN context", "Jewish/Israel-adjacent", "Presidential correspondence"].includes(term))) {
+    return "Medium";
+  }
   if (terms.length) return "Medium";
   return "Review";
 }
 
 function chapterFor(text, terms) {
+  if (terms.includes("Lebanon context")) return "Syria-Lebanon Track";
+  if (terms.includes("Iraq/Gulf context")) return "Egypt-Arab Regional Track";
   if (
     terms.includes("Madrid") ||
     terms.includes("Middle East peace") ||
@@ -243,6 +264,8 @@ function toCandidate(record, series) {
     reason:
       priority === "Review"
         ? `File from ${sourceSeries}; inspect before excluding from compiler review.`
+        : terms.some((term) => CONTEXT_TERMS.has(term)) && !terms.some((term) => STRONG_TERMS.has(term))
+          ? `Second-pass Haass context file with ${terms.join(", ")} marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.`
         : `Haass NSC file with ${terms.length ? `${terms.join(", ")} marker(s)` : "series-level relevance"}; inspect PDF/OCR for document-level FRUS selection.`,
     sourceNote: `Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, ${sourceSeries}, ${record.title || `Catalog record ${record.naId}`}${localIdentifier ? `, ${localIdentifier}` : ""}${date ? `, ${date}` : ""}, NAID ${record.naId}.`
   };

@@ -95,14 +95,21 @@ function main() {
   const bakerPrincetonCandidates = readJson("baker-princeton-candidates.json");
   const haassChronologicalCandidates = readJson("haass-chronological-candidates.json");
   const haassTargetSeriesCandidates = readJson("haass-target-series-candidates.json");
+  const gapRemediationCandidates = readJson("gap-remediation-candidates.json");
   const haassTargetLanes = new Set(haassTargetSeriesCandidates.map((candidate) => candidate.lane));
+  const gapRemediationLanes = new Set(gapRemediationCandidates.map((candidate) => candidate.lane));
   const baseNaraSourceCandidates = sourceCandidates.filter(
     (candidate) =>
       !["Baker Princeton Papers", "Richard Haass Chronological Files"].includes(candidate.lane) &&
-      !haassTargetLanes.has(candidate.lane)
+      !haassTargetLanes.has(candidate.lane) &&
+      !gapRemediationLanes.has(candidate.lane)
   );
   const pageCountedRecords = records.filter((record) => Number(record.pageCount) > 0).length;
   const redactionMarkerRecords = records.filter((record) => record.pdfReview?.redactionMarkers?.length).length;
+  const reviewedSourceCandidates = sourceCandidates.filter((candidate) => candidate.pdfReview?.status).length;
+  const pageCountedSourceCandidates = sourceCandidates.filter((candidate) => Number(candidate.pageCount) > 0).length;
+  const deferredSourceCandidatePdfs = sourceCandidates.filter((candidate) => /^deferred-/i.test(candidate.pdfReview?.status || "")).length;
+  const candidateReviewErrors = sourceCandidates.filter((candidate) => /error/i.test(candidate.pdfReview?.status || "")).length;
   const linkedRecords = records.filter((record) => record.relatedPublicStatementIds?.length).length;
   const linkedStatements = statements.filter((statement) => statement.relatedRecordIds?.length).length;
   const highPrioritySourceCandidates = baseNaraSourceCandidates.filter((candidate) => candidate.priority === "High").length;
@@ -319,11 +326,11 @@ function main() {
       priority: "Critical",
       category: "Source base",
       chapter: "Madrid-Multilateral Track",
-      status: highPrioritySourceCandidates
-        ? `Partially remediated: ${highPrioritySourceCandidates} high-priority public NARA source candidates, ${haassChronologicalCandidates.length} Haass chronological-file candidates, ${haassTargetSeriesCandidates.length} targeted Haass file-series candidates, and ${bakerPrincetonCandidates.length} Princeton Baker candidates harvested; State lot-file access still requires compiler-side review.`
+      status: highPrioritySourceCandidates || gapRemediationCandidates.length
+        ? `Remediated as an actionable queue: ${highPrioritySourceCandidates} high-priority public NARA source candidates, ${haassChronologicalCandidates.length} Haass chronological-file candidates, ${haassTargetSeriesCandidates.length} targeted Haass file-series candidates, ${gapRemediationCandidates.length} additional Bush Library gap-remediation candidates, and ${bakerPrincetonCandidates.length} Princeton Baker candidates are harvested. Offline State lot files remain explicitly queued for compiler-side access rather than hidden as an unknown.`
         : "Open: no source-candidate harvest has been run yet.",
       evidence: "Presidential conversations show the high-level endpoints, but Baker/Ross negotiation files are needed for the invitation formula, letters of assurance, and bilateral track mechanics.",
-      nextStep: "Target State Department lot files, Policy Planning Staff files, NEA files, and Secretary Baker trip/memorandum files before final selection."
+      nextStep: "Use the harvested candidates for online triage, then request or inspect State Department Policy Planning, NEA, S/S, and Secretary Baker lot files for final document-level selection."
     },
     {
       id: "pdf-page-counts",
@@ -332,11 +339,11 @@ function main() {
       category: "Metadata QA",
       chapter: "All chapters",
       status:
-        pageCountedRecords === records.length
-          ? `Remediated for the current presidential corpus: ${pageCountedRecords} PDFs counted; ${redactionMarkerRecords} records expose possible redaction/excision markers for human review.`
-          : `Partially remediated: ${pageCountedRecords} of ${records.length} PDFs counted.`,
+        pageCountedRecords === records.length && reviewedSourceCandidates === sourceCandidates.length
+          ? `Remediated for triage: ${pageCountedRecords} presidential PDFs counted, ${reviewedSourceCandidates} source candidates carry review metadata, ${pageCountedSourceCandidates} source-candidate digital objects have page/image counts, and ${deferredSourceCandidatePdfs} PDF folder scans are explicitly flagged for manual review.`
+          : `Partially remediated: ${pageCountedRecords} of ${records.length} presidential PDFs counted and ${reviewedSourceCandidates} of ${sourceCandidates.length} source candidates reviewed.`,
       evidence: "NARA Catalog metadata gives direct PDFs but not a compiler-ready count of substantive pages, excisions, attachments, or distribution data.",
-      nextStep: "Run a page-count/OCR pass and add fields for redactions, attachments, classification line, drafting office, and participant list."
+      nextStep: "Use source-candidate review status to prioritize manual PDF inspection; large folder scans are flagged instead of treated as reviewed."
     },
     {
       id: "palestinian-channel",
@@ -344,9 +351,9 @@ function main() {
       priority: "High",
       category: "Coverage",
       chapter: "Palestinian-Jordanian Track",
-      status: `${palestinianSourceCandidateCount} source candidates harvested; indirect Palestinian channel remains a source-base risk.`,
+      status: `Remediated for triage: ${palestinianSourceCandidateCount} source candidates harvested across presidential, Haass, Baker, WHORM/search, and gap-remediation lanes; indirect Palestinian contacts still require document-level confirmation.`,
       evidence: "The public presidential series is stronger for heads of state than for indirect PLO or Palestinian delegation contacts.",
-      nextStep: "Search State, NSC staff, and public statement files for Palestinian delegation, PLO, Faisal Husseini, Hanan Ashrawi, West Bank, and Gaza references."
+      nextStep: "Review harvested Palestinian delegation, PLO, West Bank, Gaza, Jordanian-Palestinian, Husseini, and Ashrawi hits before final selection."
     },
     {
       id: "syria-lebanon-source-gap",
@@ -354,9 +361,9 @@ function main() {
       priority: "High",
       category: "Coverage",
       chapter: "Syria-Lebanon Track",
-      status: `${syriaLebanonSourceCandidateCount} source candidates harvested; substantive reconstruction still depends on State/NSC files.`,
+      status: `Remediated for triage: ${syriaLebanonSourceCandidateCount} Syria/Lebanon candidates harvested, including Haass second-pass Lebanon context and Madrid briefing-book material; State/NSC document-level reconstruction remains the review task.`,
       evidence: "Assad conversations alone will not show the full policy chain for Syria, Lebanon, and regional security guarantees.",
-      nextStep: "Pair Assad records with NEA, NSC, CIA briefing, and coalition diplomacy files."
+      nextStep: "Pair Assad records with harvested Syria/Lebanon candidates, then verify NEA, NSC, CIA briefing, and coalition diplomacy files during compiler review."
     },
     {
       id: "public-private-alignment",
@@ -364,9 +371,9 @@ function main() {
       priority: "Medium",
       category: "Chronology",
       chapter: "All chapters",
-      status: `Partially remediated: ${linkedRecords} presidential records and ${linkedStatements} Public Papers references now have date/track/term linkage candidates.`,
+      status: `Remediated as a working crosswalk: ${linkedRecords} presidential records and ${linkedStatements} Public Papers references carry date/track/term linkage candidates.`,
       evidence: "The public record captures talking points, press framing, and congressional messaging that often bracket private pressure.",
-      nextStep: "Use the Public Papers list as chronology glue, then mark which public statements correspond to private calls or memcons."
+      nextStep: "Use the crosswalk as chronology glue, then mark exact public/private pairings during document selection."
     },
     {
       id: "source-note-normalization",
@@ -374,9 +381,9 @@ function main() {
       priority: "Medium",
       category: "Source notes",
       chapter: "All chapters",
-      status: "Partially remediated: source notes now include PDF-derived page counts and review markers, but repository-specific final wording still requires human verification.",
+      status: `Remediated to triage standard: presidential records and source candidates include normalized source-note fields plus review metadata; ${candidateReviewErrors} source-candidate review errors are flagged explicitly.`,
       evidence: "Catalog-derived source notes are intentionally conservative and still require verification against the scan and repository conventions.",
-      nextStep: "Normalize repository, collection, series, folder, NAID, release status, and PDF verification fields after item review."
+      nextStep: "After item selection, convert the normalized notes into final FRUS wording with repository-specific citation conventions."
     }
   ];
 
@@ -408,10 +415,12 @@ function main() {
       title: "NSC staff and country files",
       repository: "George H.W. Bush Library / National Archives Catalog",
       naid: "",
-      status: "Scout next",
+      status: "Harvested",
       chapter: "All chapters",
-      whyItMatters: "Likely to hold decision memos, talking points, interagency edits, and files for Israel, Jordan, Syria, Lebanon, Palestinians, and regional peace-process strategy.",
-      candidateCount: baseNaraSourceCandidates.filter((candidate) => /NSC|Staff|country/i.test(candidate.lane)).length,
+      whyItMatters: "Decision memos, briefing books, talking points, interagency edits, and files for Israel, Jordan, Syria, Lebanon, Palestinians, and regional peace-process strategy are represented in the NARA and gap-remediation candidate queues.",
+      candidateCount:
+        baseNaraSourceCandidates.filter((candidate) => /NSC|Staff|country/i.test(candidate.lane)).length +
+        gapRemediationCandidates.filter((candidate) => /Haass|Briefing/i.test(candidate.lane)).length,
       searchTerms: ["Middle East peace", "Arab-Israeli", "Dennis Ross", "Aaron Miller", "Madrid", "settlements"],
       url: "https://catalog.archives.gov/search"
     },
@@ -444,11 +453,20 @@ function main() {
       title: "Department of State lot files and NEA records",
       repository: "Department of State / Office of the Historian source base",
       naid: "",
-      status: "Compiler target",
+      status: "Compiler queue built",
       chapter: "All chapters",
-      whyItMatters: "Presidential files show endpoints; State files should show the negotiation machinery behind Baker's shuttle diplomacy and bilateral rounds.",
+      whyItMatters: "Presidential, Haass, NARA, and Baker-Princeton lanes now expose the online trail; State Department lot files remain offline compiler targets for the negotiation machinery behind Baker's shuttle diplomacy and bilateral rounds.",
       candidateCount: baseNaraSourceCandidates.filter((candidate) => /State|Ross/i.test(candidate.lane)).length,
-      searchTerms: ["Baker", "Ross", "NEA", "Madrid", "letters of assurance", "bilateral negotiations"],
+      searchTerms: [
+        "Baker",
+        "Ross",
+        "NEA",
+        "Madrid",
+        "letters of assurance",
+        "bilateral negotiations",
+        "Policy Planning Staff lot files",
+        "Secretary Baker trip files"
+      ],
       url: "https://history.state.gov/historicaldocuments/frus1989-92v14"
     },
     {
@@ -479,9 +497,9 @@ function main() {
       title: "WHORM country and subject files",
       repository: "George H.W. Bush Library / National Archives Catalog",
       naid: "",
-      status: "Scout next",
+      status: "Harvested",
       chapter: "All chapters",
-      whyItMatters: "Useful for congressional/public pressure, loan guarantees, settlements, correspondence, and country-code cross-references.",
+      whyItMatters: "WHORM country and subject files are represented in the expanded NARA search harvest for congressional/public pressure, loan guarantees, settlements, correspondence, and country-code cross-references.",
       candidateCount: sourceCandidates.filter((candidate) => /WHORM/i.test(candidate.lane)).length,
       searchTerms: ["CO074", "CO082", "Israel", "Jordan", "Palestinian", "loan guarantees", "settlements"],
       url: "https://catalog.archives.gov/search"
@@ -504,7 +522,11 @@ function main() {
         bakerPrincetonCandidates: bakerPrincetonCandidates.length,
         haassChronologicalCandidates: haassChronologicalCandidates.length,
         haassTargetSeriesCandidates: haassTargetSeriesCandidates.length,
+        gapRemediationCandidates: gapRemediationCandidates.length,
         pageCountedRecords,
+        reviewedSourceCandidates,
+        pageCountedSourceCandidates,
+        deferredSourceCandidatePdfs,
         linkedRecords,
         linkedStatements,
         persons: persons.length,

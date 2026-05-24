@@ -35,6 +35,7 @@ function main() {
   const bakerPrincetonCandidates = readJson("baker-princeton-candidates.json");
   const haassChronologicalCandidates = readJson("haass-chronological-candidates.json");
   const haassTargetSeriesCandidates = readJson("haass-target-series-candidates.json");
+  const gapRemediationCandidates = readJson("gap-remediation-candidates.json");
 
   assert(records.length >= 100, `Expected at least 100 records; found ${records.length}`);
   assert(statements.length >= 100, `Expected at least 100 public statements; found ${statements.length}`);
@@ -55,6 +56,10 @@ function main() {
     haassTargetSeriesCandidates.length >= 200,
     `Expected at least 200 targeted Haass series candidates; found ${haassTargetSeriesCandidates.length}`
   );
+  assert(
+    gapRemediationCandidates.length >= 20,
+    `Expected at least 20 gap-remediation candidates; found ${gapRemediationCandidates.length}`
+  );
 
   assertUnique(records, "id", "records");
   assertUnique(statements, "id", "public statements");
@@ -63,6 +68,7 @@ function main() {
   assertUnique(bakerPrincetonCandidates, "id", "Baker Princeton candidates");
   assertUnique(haassChronologicalCandidates, "id", "Haass chronological candidates");
   assertUnique(haassTargetSeriesCandidates, "id", "targeted Haass series candidates");
+  assertUnique(gapRemediationCandidates, "id", "gap-remediation candidates");
 
   const missingPdf = records.filter((record) => !record.pdfUrl || !record.catalogUrl || !record.frusSourceNote);
   assert(missingPdf.length === 0, `${missingPdf.length} records missing PDF/catalog/source-note basics`);
@@ -124,6 +130,37 @@ function main() {
     `${missingMergedHaassTargets.length} targeted Haass series candidates missing from merged source-candidate list`
   );
 
+  const remediationSeriesNaids = new Set(["2554869", "376217868", "374000442"]);
+  const missingGapRemediationContext = gapRemediationCandidates.filter(
+    (candidate) =>
+      !remediationSeriesNaids.has(String(candidate.sourceSeriesNaid)) ||
+      !candidate.localIdentifier ||
+      !candidate.sourceNote ||
+      !candidate.catalogUrl
+  );
+  assert(
+    missingGapRemediationContext.length === 0,
+    `${missingGapRemediationContext.length} gap-remediation candidates missing source context`
+  );
+
+  const missingMergedGapRemediation = gapRemediationCandidates.filter((candidate) => !mergedIds.has(candidate.id));
+  assert(
+    missingMergedGapRemediation.length === 0,
+    `${missingMergedGapRemediation.length} gap-remediation candidates missing from merged source-candidate list`
+  );
+
+  const missingSourceCandidateReview = sourceCandidates.filter((candidate) => !candidate.pdfReview?.status);
+  assert(
+    missingSourceCandidateReview.length === 0,
+    `${missingSourceCandidateReview.length} source candidates missing review metadata`
+  );
+
+  const pageCountedSourceCandidates = sourceCandidates.filter((candidate) => Number(candidate.pageCount) > 0);
+  assert(
+    pageCountedSourceCandidates.length >= 10,
+    `Expected at least 10 page/image-counted source candidates; found ${pageCountedSourceCandidates.length}`
+  );
+
   const report = {
     records: records.length,
     statements: statements.length,
@@ -135,6 +172,9 @@ function main() {
     bakerPrincetonCandidates: bakerPrincetonCandidates.length,
     haassChronologicalCandidates: haassChronologicalCandidates.length,
     haassTargetSeriesCandidates: haassTargetSeriesCandidates.length,
+    gapRemediationCandidates: gapRemediationCandidates.length,
+    reviewedSourceCandidates: sourceCandidates.filter((candidate) => candidate.pdfReview?.status).length,
+    pageCountedSourceCandidates: pageCountedSourceCandidates.length,
     linkedRecords: linkedRecords.length,
     linkedStatements: linkedStatements.length,
     pages: records.reduce((sum, record) => sum + (Number(record.pageCount) || 0), 0)

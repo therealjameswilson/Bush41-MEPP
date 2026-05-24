@@ -18,7 +18,9 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Public NARA source-candidate harvests for unfilled State, NSC, WHORM, and post-Madrid lanes
 - Richard N. Haass' Chronological Files candidates from NARA Catalog series NAID 2554857
 - Targeted Richard N. Haass file-series candidates from NARA Catalog series NAIDs 2554859, 2554865, 2554866, 2554868, 2554871, 2554875, 2554876, and 2554877
+- Additional gap-remediation candidates from Haass Presidential Meeting Files and Madrid briefing-book series
 - Princeton James A. Baker III Papers candidates from the MC197 EAD finding aid
+- Source-candidate review metadata, including page/image counts where practical and explicit large-PDF/manual-review flags
 - GitHub Actions validation and GitHub Pages deployment workflow
 - Reproducible harvest scripts and JSON/JS data bundles for GitHub Pages
 
@@ -44,8 +46,10 @@ node scripts/harvest-public-statements.js
 node scripts/harvest-source-candidates.js
 node scripts/harvest-haass-chronological-files.js
 node scripts/harvest-haass-target-series.js
+node scripts/harvest-gap-remediation-candidates.js
 node scripts/harvest-baker-princeton.js
 node scripts/enrich-record-pdfs.js
+node scripts/enrich-source-candidate-reviews.js
 node scripts/link-public-private.js
 node scripts/build-supporting-data.js
 ```
@@ -63,6 +67,7 @@ The Public Papers, NARA source-candidate, and Princeton finding-aid harvests cac
 - `data/source-candidates.json`: combined source-candidate harvest for gap remediation
 - `data/haass-chronological-candidates.json`: Richard N. Haass' Chronological Files candidates
 - `data/haass-target-series-candidates.json`: targeted Richard N. Haass file-series candidates
+- `data/gap-remediation-candidates.json`: additional high-value Bush Library gap-remediation candidates
 - `data/baker-princeton-candidates.json`: Princeton James A. Baker III Papers candidates
 
 ## Verification

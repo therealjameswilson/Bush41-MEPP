@@ -1,0 +1,21 @@
+{
+  "generatedAt": "2026-05-24T12:41:25.923Z",
+  "candidates": 1060,
+  "reviewed": 1060,
+  "pdfCandidates": 972,
+  "pageCounted": 72,
+  "measuredPdfLimitBytes": 8000000,
+  "measuredPdfLimitCount": 40,
+  "measuredPdfs": 40,
+  "deferredLargePdfs": 635,
+  "deferredMeasurementLimitPdfs": 297,
+  "statusCounts": {
+    "finding-aid-review-required": 56,
+    "iiif-manifest-indexed": 3,
+    "deferred-large-pdf": 635,
+    "pdf-metadata-enriched": 40,
+    "image-object-indexed": 29,
+    "deferred-pdf-measurement-limit": 297
+  },
+  "errors": []
+}

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T01:38:11.824Z",
+  "generatedAt": "2026-05-24T12:24:00.606Z",
   "requestedSeries": [
     "https://catalog.archives.gov/id/2554859",
     "https://catalog.archives.gov/id/2554865",
@@ -17,11 +17,11 @@
       "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554859?limit=1000",
       "totalChildren": 72,
       "fileUnitsReturned": 72,
-      "candidatesAdded": 55,
+      "candidatesAdded": 72,
       "highPriority": 55,
-      "mediumPriority": 0,
+      "mediumPriority": 17,
       "reviewPriority": 0,
-      "digitalObjects": 55
+      "digitalObjects": 72
     },
     {
       "seriesNaid": "2554865",
@@ -41,11 +41,11 @@
       "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554866?limit=1000",
       "totalChildren": 94,
       "fileUnitsReturned": 94,
-      "candidatesAdded": 32,
+      "candidatesAdded": 67,
       "highPriority": 28,
-      "mediumPriority": 3,
-      "reviewPriority": 1,
-      "digitalObjects": 31
+      "mediumPriority": 39,
+      "reviewPriority": 0,
+      "digitalObjects": 66
     },
     {
       "seriesNaid": "2554868",
@@ -65,11 +65,11 @@
       "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554871?limit=1000",
       "totalChildren": 31,
       "fileUnitsReturned": 31,
-      "candidatesAdded": 17,
+      "candidatesAdded": 30,
       "highPriority": 16,
-      "mediumPriority": 0,
-      "reviewPriority": 1,
-      "digitalObjects": 17
+      "mediumPriority": 14,
+      "reviewPriority": 0,
+      "digitalObjects": 30
     },
     {
       "seriesNaid": "2554875",
@@ -89,11 +89,11 @@
       "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554876?limit=1000",
       "totalChildren": 44,
       "fileUnitsReturned": 44,
-      "candidatesAdded": 15,
+      "candidatesAdded": 36,
       "highPriority": 13,
-      "mediumPriority": 2,
+      "mediumPriority": 23,
       "reviewPriority": 0,
-      "digitalObjects": 15
+      "digitalObjects": 36
     },
     {
       "seriesNaid": "2554877",
@@ -101,18 +101,18 @@
       "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554877?limit=1000",
       "totalChildren": 104,
       "fileUnitsReturned": 104,
-      "candidatesAdded": 59,
+      "candidatesAdded": 103,
       "highPriority": 59,
-      "mediumPriority": 0,
+      "mediumPriority": 44,
       "reviewPriority": 0,
-      "digitalObjects": 59
+      "digitalObjects": 103
     }
   ],
-  "candidatesAdded": 253,
+  "candidatesAdded": 383,
   "highPriority": 243,
-  "mediumPriority": 8,
-  "reviewPriority": 2,
-  "digitalObjects": 252,
-  "mergedSourceCandidates": 713,
+  "mediumPriority": 140,
+  "reviewPriority": 0,
+  "digitalObjects": 382,
+  "mergedSourceCandidates": 904,
   "note": "Targeted Haass file-series candidates are selected by direct series relevance, title markers, and OCR/topic markers. OCR snippets are directional and must be verified against PDFs before FRUS selection."
 }

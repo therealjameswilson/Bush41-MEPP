@@ -13,18 +13,35 @@ const EXCLUDED_SERIES = new Set(["321498039", "321498139"]);
 const QUERIES = [
   { lane: "State/Baker/Ross", query: '"Middle East peace" "George Bush"' },
   { lane: "State/Baker/Ross", query: '"Arab-Israeli" "George Bush"' },
+  { lane: "State/Baker/Ross", query: '"Dennis Ross" Madrid Bush' },
+  { lane: "State/Baker/Ross", query: '"letters of assurance" Bush Madrid' },
+  { lane: "State/Baker/Ross", query: '"bilateral negotiations" "Middle East" Bush' },
   { lane: "Madrid/Post-Madrid", query: '"Madrid Peace Conference" "George Bush"' },
+  { lane: "Madrid/Post-Madrid", query: '"Middle East Peace Conference" "George H. W. Bush"' },
   { lane: "Madrid/Post-Madrid", query: '"Madrid conference" Israel Bush' },
+  { lane: "Madrid/Post-Madrid", query: '"Mideast Peace Process Since Madrid" Bush' },
+  { lane: "Madrid/Post-Madrid", query: '"Opening Session" "Middle East Peace Conference" Madrid Bush' },
   { lane: "Israel Track", query: '"loan guarantees" Israel Bush' },
   { lane: "Israel Track", query: 'settlements Israel "George Bush"' },
+  { lane: "Israel Track", query: 'CO074 Israel "loan guarantees" Bush' },
+  { lane: "Israel Track", query: '"Jewish leaders" Shamir Bush Madrid' },
   { lane: "Palestinian-Jordanian Track", query: 'Palestinian Madrid Bush' },
+  { lane: "Palestinian-Jordanian Track", query: '"Palestinian Delegation" "George H. W. Bush"' },
+  { lane: "Palestinian-Jordanian Track", query: '"King Hussein" Madrid Bush' },
   { lane: "Palestinian-Jordanian Track", query: '"West Bank" Gaza Bush' },
   { lane: "Syria-Lebanon Track", query: 'Syria Madrid Bush Assad' },
+  { lane: "Syria-Lebanon Track", query: '"Syrian Delegation" "George H. W. Bush"' },
+  { lane: "Syria-Lebanon Track", query: 'Lebanon Madrid Bush Syria' },
   { lane: "Egypt-Arab Regional Track", query: 'Mubarak "peace process" Bush' },
+  { lane: "Egypt-Arab Regional Track", query: 'Saudi Kuwait Gulf "peace process" Bush' },
   { lane: "NSC Staff Files", query: '"Dennis Ross" Bush' },
   { lane: "NSC Staff Files", query: '"Richard Haass" "Middle East" Bush' },
+  { lane: "NSC Staff Files", query: '"National Security Council" "Middle East Peace" "George H. W. Bush"' },
+  { lane: "NSC Staff Files", query: '"Presidential Briefing Book" Madrid "Middle East Peace"' },
   { lane: "WHORM/Subject Files", query: 'WHORM Israel loan guarantees' },
-  { lane: "WHORM/Subject Files", query: 'WHORM Palestinian Bush' }
+  { lane: "WHORM/Subject Files", query: 'WHORM Palestinian Bush' },
+  { lane: "WHORM/Subject Files", query: '"CO001-07" "Middle East" Bush' },
+  { lane: "WHORM/Subject Files", query: '"FO004-02" "Middle East" Bush' }
 ];
 
 function ensureDir(dir) {
@@ -97,16 +114,16 @@ function isBush41(record) {
 }
 
 function topicVisible(record) {
-  return /Middle East peace|Arab[-\s]Israeli|Madrid|Israel|Israeli|Palestinian|PLO|West Bank|Gaza|Jordan|Syria|Assad|Mubarak|loan guarantees?|settlements?|Dennis Ross|Baker/i.test(
+  return /Middle East peace|Mideast peace|Arab[-\s]Israeli|Madrid|Israel|Israeli|Palestinian|PLO|West Bank|Gaza|Jordan|King Hussein|Syria|Syrian|Assad|Lebanon|Mubarak|Egypt|Saudi|Kuwait|Gulf|loan guarantees?|settlements?|Dennis Ross|Baker|letters of assurance|bilateral negotiations/i.test(
     sourceText(record)
   );
 }
 
 function chapterFor(text, lane) {
-  if (/loan guarantees?|settlements?|Shamir|Rabin|Israel/i.test(text)) return "Israel Track";
-  if (/Palestinian|PLO|West Bank|Gaza|Jordan|King Hussein/i.test(text)) return "Palestinian-Jordanian Track";
   if (/Syria|Assad|Lebanon/i.test(text)) return "Syria-Lebanon Track";
-  if (/Mubarak|Egypt|Saudi|Fahd|Arab states?/i.test(text)) return "Egypt-Arab Regional Track";
+  if (/Palestinian|PLO|West Bank|Gaza|Jordan|King Hussein/i.test(text)) return "Palestinian-Jordanian Track";
+  if (/loan guarantees?|settlements?|Shamir|Rabin|Israel/i.test(text)) return "Israel Track";
+  if (/Mubarak|Egypt|Saudi|Fahd|Kuwait|Persian Gulf|Gulf|Arab states?/i.test(text)) return "Egypt-Arab Regional Track";
   if (/Madrid|Arab[-\s]Israeli|Middle East peace|peace process|Baker|Ross/i.test(text)) return "Madrid-Multilateral Track";
   return lane;
 }
@@ -215,4 +232,3 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
-

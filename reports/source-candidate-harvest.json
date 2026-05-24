@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-23T23:01:03.587Z",
+  "generatedAt": "2026-05-24T12:23:55.110Z",
   "queries": [
     {
       "lane": "State/Baker/Ross",
@@ -10,12 +10,36 @@
       "query": "\"Arab-Israeli\" \"George Bush\""
     },
     {
+      "lane": "State/Baker/Ross",
+      "query": "\"Dennis Ross\" Madrid Bush"
+    },
+    {
+      "lane": "State/Baker/Ross",
+      "query": "\"letters of assurance\" Bush Madrid"
+    },
+    {
+      "lane": "State/Baker/Ross",
+      "query": "\"bilateral negotiations\" \"Middle East\" Bush"
+    },
+    {
       "lane": "Madrid/Post-Madrid",
       "query": "\"Madrid Peace Conference\" \"George Bush\""
     },
     {
       "lane": "Madrid/Post-Madrid",
+      "query": "\"Middle East Peace Conference\" \"George H. W. Bush\""
+    },
+    {
+      "lane": "Madrid/Post-Madrid",
       "query": "\"Madrid conference\" Israel Bush"
+    },
+    {
+      "lane": "Madrid/Post-Madrid",
+      "query": "\"Mideast Peace Process Since Madrid\" Bush"
+    },
+    {
+      "lane": "Madrid/Post-Madrid",
+      "query": "\"Opening Session\" \"Middle East Peace Conference\" Madrid Bush"
     },
     {
       "lane": "Israel Track",
@@ -26,8 +50,24 @@
       "query": "settlements Israel \"George Bush\""
     },
     {
+      "lane": "Israel Track",
+      "query": "CO074 Israel \"loan guarantees\" Bush"
+    },
+    {
+      "lane": "Israel Track",
+      "query": "\"Jewish leaders\" Shamir Bush Madrid"
+    },
+    {
       "lane": "Palestinian-Jordanian Track",
       "query": "Palestinian Madrid Bush"
+    },
+    {
+      "lane": "Palestinian-Jordanian Track",
+      "query": "\"Palestinian Delegation\" \"George H. W. Bush\""
+    },
+    {
+      "lane": "Palestinian-Jordanian Track",
+      "query": "\"King Hussein\" Madrid Bush"
     },
     {
       "lane": "Palestinian-Jordanian Track",
@@ -38,8 +78,20 @@
       "query": "Syria Madrid Bush Assad"
     },
     {
+      "lane": "Syria-Lebanon Track",
+      "query": "\"Syrian Delegation\" \"George H. W. Bush\""
+    },
+    {
+      "lane": "Syria-Lebanon Track",
+      "query": "Lebanon Madrid Bush Syria"
+    },
+    {
       "lane": "Egypt-Arab Regional Track",
       "query": "Mubarak \"peace process\" Bush"
+    },
+    {
+      "lane": "Egypt-Arab Regional Track",
+      "query": "Saudi Kuwait Gulf \"peace process\" Bush"
     },
     {
       "lane": "NSC Staff Files",
@@ -50,12 +102,28 @@
       "query": "\"Richard Haass\" \"Middle East\" Bush"
     },
     {
+      "lane": "NSC Staff Files",
+      "query": "\"National Security Council\" \"Middle East Peace\" \"George H. W. Bush\""
+    },
+    {
+      "lane": "NSC Staff Files",
+      "query": "\"Presidential Briefing Book\" Madrid \"Middle East Peace\""
+    },
+    {
       "lane": "WHORM/Subject Files",
       "query": "WHORM Israel loan guarantees"
     },
     {
       "lane": "WHORM/Subject Files",
       "query": "WHORM Palestinian Bush"
+    },
+    {
+      "lane": "WHORM/Subject Files",
+      "query": "\"CO001-07\" \"Middle East\" Bush"
+    },
+    {
+      "lane": "WHORM/Subject Files",
+      "query": "\"FO004-02\" \"Middle East\" Bush"
     }
   ],
   "searchLog": [
@@ -74,6 +142,27 @@
       "error": ""
     },
     {
+      "lane": "State/Baker/Ross",
+      "query": "\"Dennis Ross\" Madrid Bush",
+      "total": 245,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "State/Baker/Ross",
+      "query": "\"letters of assurance\" Bush Madrid",
+      "total": 60,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "State/Baker/Ross",
+      "query": "\"bilateral negotiations\" \"Middle East\" Bush",
+      "total": 461,
+      "returned": 20,
+      "error": ""
+    },
+    {
       "lane": "Madrid/Post-Madrid",
       "query": "\"Madrid Peace Conference\" \"George Bush\"",
       "total": 57,
@@ -82,8 +171,29 @@
     },
     {
       "lane": "Madrid/Post-Madrid",
+      "query": "\"Middle East Peace Conference\" \"George H. W. Bush\"",
+      "total": 296,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Madrid/Post-Madrid",
       "query": "\"Madrid conference\" Israel Bush",
       "total": 143,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Madrid/Post-Madrid",
+      "query": "\"Mideast Peace Process Since Madrid\" Bush",
+      "total": 1,
+      "returned": 1,
+      "error": ""
+    },
+    {
+      "lane": "Madrid/Post-Madrid",
+      "query": "\"Opening Session\" \"Middle East Peace Conference\" Madrid Bush",
+      "total": 30,
       "returned": 20,
       "error": ""
     },
@@ -102,9 +212,37 @@
       "error": ""
     },
     {
+      "lane": "Israel Track",
+      "query": "CO074 Israel \"loan guarantees\" Bush",
+      "total": 89,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Israel Track",
+      "query": "\"Jewish leaders\" Shamir Bush Madrid",
+      "total": 64,
+      "returned": 20,
+      "error": ""
+    },
+    {
       "lane": "Palestinian-Jordanian Track",
       "query": "Palestinian Madrid Bush",
       "total": 1276,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Palestinian-Jordanian Track",
+      "query": "\"Palestinian Delegation\" \"George H. W. Bush\"",
+      "total": 201,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Palestinian-Jordanian Track",
+      "query": "\"King Hussein\" Madrid Bush",
+      "total": 582,
       "returned": 20,
       "error": ""
     },
@@ -123,9 +261,30 @@
       "error": ""
     },
     {
+      "lane": "Syria-Lebanon Track",
+      "query": "\"Syrian Delegation\" \"George H. W. Bush\"",
+      "total": 21,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Syria-Lebanon Track",
+      "query": "Lebanon Madrid Bush Syria",
+      "total": 2267,
+      "returned": 20,
+      "error": ""
+    },
+    {
       "lane": "Egypt-Arab Regional Track",
       "query": "Mubarak \"peace process\" Bush",
       "total": 1181,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "Egypt-Arab Regional Track",
+      "query": "Saudi Kuwait Gulf \"peace process\" Bush",
+      "total": 1411,
       "returned": 20,
       "error": ""
     },
@@ -144,6 +303,20 @@
       "error": ""
     },
     {
+      "lane": "NSC Staff Files",
+      "query": "\"National Security Council\" \"Middle East Peace\" \"George H. W. Bush\"",
+      "total": 719,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "NSC Staff Files",
+      "query": "\"Presidential Briefing Book\" Madrid \"Middle East Peace\"",
+      "total": 4,
+      "returned": 4,
+      "error": ""
+    },
+    {
       "lane": "WHORM/Subject Files",
       "query": "WHORM Israel loan guarantees",
       "total": 1080,
@@ -156,9 +329,23 @@
       "total": 1672,
       "returned": 20,
       "error": ""
+    },
+    {
+      "lane": "WHORM/Subject Files",
+      "query": "\"CO001-07\" \"Middle East\" Bush",
+      "total": 427,
+      "returned": 20,
+      "error": ""
+    },
+    {
+      "lane": "WHORM/Subject Files",
+      "query": "\"FO004-02\" \"Middle East\" Bush",
+      "total": 280,
+      "returned": 20,
+      "error": ""
     }
   ],
-  "candidates": 198,
-  "highPriority": 16,
-  "digitalObjects": 198
+  "candidates": 332,
+  "highPriority": 34,
+  "digitalObjects": 332
 }

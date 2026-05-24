@@ -629,6 +629,8 @@ function renderSourceCandidateCard(candidate) {
         <span class="pill">${escapeHtml(candidate.lane || "Source lane")}</span>
         ${candidate.documentType ? `<span class="pill">${escapeHtml(candidate.documentType)}</span>` : ""}
         ${candidate.hasDigitalObject ? `<span class="pill">digital object</span>` : ""}
+        ${candidate.reviewStatus ? `<span class="pill">${escapeHtml(candidate.reviewStatus)}</span>` : ""}
+        ${candidate.pageCount ? `<span class="pill">${Number(candidate.pageCount).toLocaleString()} pp.</span>` : ""}
         ${candidate.naid ? `<span class="pill">NAID ${escapeHtml(candidate.naid)}</span>` : ""}
       </div>
       <div class="note-box">
@@ -646,12 +648,26 @@ function renderSourceCandidateCard(candidate) {
           ? `<div class="note-box"><h4>OCR Evidence</h4><p>${escapeHtml(candidate.evidenceSnippets.join(" ... "))}</p></div>`
           : ""
       }
+      ${candidate.pdfReview ? `<div class="note-box"><h4>Review Metadata</h4><p>${escapeHtml(sourceCandidateReviewSummary(candidate))}</p></div>` : ""}
       <div class="record-links">
         <a href="${escapeHtml(candidate.catalogUrl)}" rel="noreferrer">Catalog</a>
         ${candidate.digitalObjectUrl ? `<a href="${escapeHtml(candidate.digitalObjectUrl)}" rel="noreferrer">Digital object</a>` : ""}
       </div>
     </article>
   `;
+}
+
+function sourceCandidateReviewSummary(candidate) {
+  const review = candidate.pdfReview || {};
+  const parts = [];
+  if (review.status) parts.push(review.status.replace(/-/g, " "));
+  if (review.pageCount) parts.push(`${Number(review.pageCount).toLocaleString()} pages counted`);
+  if (review.pdfBytes) parts.push(`${Math.round(Number(review.pdfBytes) / 1024 / 1024).toLocaleString()} MB digital object`);
+  if (review.classificationMarkers?.length) parts.push(`classification markers: ${review.classificationMarkers.join(", ")}`);
+  if (review.redactionMarkers?.length) parts.push(`review markers: ${review.redactionMarkers.join(", ")}`);
+  if (review.note) parts.push(review.note);
+  if (review.error) parts.push(`error: ${review.error}`);
+  return parts.join("; ") || "Review metadata pending.";
 }
 
 function renderGaps() {

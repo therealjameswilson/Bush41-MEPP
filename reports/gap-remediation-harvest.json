@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-05-24T12:24:02.109Z",
+  "requestedSeries": [
+    "https://catalog.archives.gov/id/2554869",
+    "https://catalog.archives.gov/id/376217868",
+    "https://catalog.archives.gov/id/374000442"
+  ],
+  "series": [
+    {
+      "seriesNaid": "2554869",
+      "title": "Richard N. Haass' Presidential Meeting Files",
+      "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554869?limit=1000",
+      "totalChildren": 70,
+      "fileUnitsReturned": 70,
+      "candidatesAdded": 55,
+      "highPriority": 55,
+      "mediumPriority": 0,
+      "reviewPriority": 0,
+      "digitalObjects": 55
+    },
+    {
+      "seriesNaid": "376217868",
+      "title": "Summit Briefing Books Files",
+      "source": "https://catalog.archives.gov/proxy/records/parentNaId/376217868?limit=1000",
+      "totalChildren": 77,
+      "fileUnitsReturned": 77,
+      "candidatesAdded": 29,
+      "highPriority": 29,
+      "mediumPriority": 0,
+      "reviewPriority": 0,
+      "digitalObjects": 29
+    },
+    {
+      "seriesNaid": "374000442",
+      "title": "European and Soviet Directorate Briefing Books and Materials",
+      "source": "https://catalog.archives.gov/proxy/records/parentNaId/374000442?limit=1000",
+      "totalChildren": 33,
+      "fileUnitsReturned": 33,
+      "candidatesAdded": 21,
+      "highPriority": 21,
+      "mediumPriority": 0,
+      "reviewPriority": 0,
+      "digitalObjects": 21
+    }
+  ],
+  "candidatesAdded": 105,
+  "highPriority": 105,
+  "mediumPriority": 0,
+  "reviewPriority": 0,
+  "digitalObjects": 105,
+  "mergedSourceCandidates": 1002,
+  "note": "Gap-remediation candidates add high-value Bush Library series not covered by the first Haass harvest, especially presidential meeting files and Madrid briefing books."
+}
