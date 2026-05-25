@@ -233,7 +233,7 @@ function toCandidate(component, scoring) {
     digitalObjectUrl: component.didXml.match(/<dao\b[^>]*xlink:href="([^"]*)"/)?.[1] || "",
     documentType: candidateType(pathText, component.title),
     reason: `Princeton Baker Papers candidate for ${chapterFor(fullText)}; verify contents in Box/Folder before treating as FRUS evidence.`,
-    sourceNote: `Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library${box ? `, Box ${box}` : ""}${folder ? `, Folder ${folder}` : ""}, ${title}${date.label ? `, ${date.label}` : ""}.`
+    sourceNote: `Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197${box ? `, Box ${box}` : ""}${folder ? `, Folder ${folder}` : ""}, ${title}${date.label ? `, ${date.label}` : ""}. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review.`
   };
 }
 

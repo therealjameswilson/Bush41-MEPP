@@ -267,7 +267,7 @@ function toCandidate(record, series) {
         : terms.some((term) => CONTEXT_TERMS.has(term)) && !terms.some((term) => STRONG_TERMS.has(term))
           ? `Second-pass Haass context file with ${terms.join(", ")} marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.`
         : `Haass NSC file with ${terms.length ? `${terms.join(", ")} marker(s)` : "series-level relevance"}; inspect PDF/OCR for document-level FRUS selection.`,
-    sourceNote: `Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, ${sourceSeries}, ${record.title || `Catalog record ${record.naId}`}${localIdentifier ? `, ${localIdentifier}` : ""}${date ? `, ${date}` : ""}, NAID ${record.naId}.`
+    sourceNote: `Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, ${sourceSeries}, ${record.title || `Catalog record ${record.naId}`}${localIdentifier ? `, ${localIdentifier}` : ""}${date ? `, ${date}` : ""}. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID ${record.naId}.`
   };
 }
 

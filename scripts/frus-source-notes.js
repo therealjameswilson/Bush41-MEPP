@@ -14,7 +14,23 @@ function ancestor(record, level) {
   return (record.ancestors || []).find((item) => item.levelOfDescription === level);
 }
 
-function buildFrusSourceNote({ collectionTitle, seriesTitle, folderTitle, naid, accessRestriction }) {
+function classificationSentence(markers = [], options = {}) {
+  const order = ["Top Secret", "Secret", "Confidential", "Sensitive", "Unclassified"];
+  const unique = [...new Set(markers)].sort((a, b) => order.indexOf(a) - order.indexOf(b));
+  if (!unique.length) return options.verified ? "No classification marking." : "Classification marking requires PDF verification.";
+  if (unique.includes("Unclassified") && unique.length === 1) return "Unclassified.";
+  return `${unique.join("; ")}.`;
+}
+
+function reviewSentence(markers = []) {
+  if (!markers.length) return "";
+  if (markers.some((marker) => /declassified in part|sanitized|excised|deleted|withdrawal|exemption/i.test(marker))) {
+    return `PDF review markers: ${markers.join(", ")}.`;
+  }
+  return "";
+}
+
+function sourceLocation({ collectionTitle, seriesTitle, folderTitle }) {
   const pathParts = [
     "Source: George H.W. Bush Library",
     normalizeCollectionTitle(collectionTitle),
@@ -22,11 +38,33 @@ function buildFrusSourceNote({ collectionTitle, seriesTitle, folderTitle, naid, 
     folderTitle
   ].filter(Boolean);
 
+  return `${pathParts.join(", ")}.`;
+}
+
+function buildFrusSourceNote({
+  collectionTitle,
+  seriesTitle,
+  folderTitle,
+  classificationMarkers = [],
+  redactionMarkers = []
+}) {
+  const location = sourceLocation({ collectionTitle, seriesTitle, folderTitle });
   return [
-    `${pathParts.join(", ")}${naid ? `, NAID ${naid}` : ""}.`,
-    "Declassified copy released through the National Archives Catalog.",
-    accessRestriction ? `Access restriction: ${accessRestriction}.` : "",
-    "Original classification, distribution, drafting, and place/time data require PDF verification."
+    location,
+    classificationSentence(classificationMarkers),
+    reviewSentence(redactionMarkers),
+    "Distribution, drafting, and place/time data require PDF verification."
+  ]
+    .filter(Boolean)
+    .join(" ");
+}
+
+function rebuildRecordSourceNote(record) {
+  return [
+    record.sourceNoteLocation || record.sourceNote?.match(/^Source:.*?\./)?.[0] || record.frusSourceNote?.match(/^Source:.*?\./)?.[0] || "",
+    classificationSentence(record.pdfReview?.classificationMarkers || [], { verified: Boolean(record.pdfReview) }),
+    reviewSentence(record.pdfReview?.redactionMarkers || []),
+    "Distribution, drafting, and place/time data require PDF verification."
   ]
     .filter(Boolean)
     .join(" ");
@@ -68,11 +106,15 @@ function notesFromCatalogRecord(record, series, object) {
   const folderUrl = folder?.naId ? `https://catalog.archives.gov/id/${folder.naId}` : "";
 
   return {
+    sourceNoteLocation: sourceLocation({
+      collectionTitle: collection?.title || "Records of the National Security Council (George H. W. Bush Administration)",
+      seriesTitle: series.title,
+      folderTitle: folder?.title || ""
+    }),
     sourceNote: buildFrusSourceNote({
       collectionTitle: collection?.title || "Records of the National Security Council (George H. W. Bush Administration)",
       seriesTitle: series.title,
       folderTitle: folder?.title || "",
-      naid: record.naId,
       accessRestriction
     }),
     catalogTrail: buildCatalogTrail({
@@ -88,5 +130,4 @@ function notesFromCatalogRecord(record, series, object) {
   };
 }
 
-module.exports = { notesFromCatalogRecord };
-
+module.exports = { buildFrusSourceNote, notesFromCatalogRecord, rebuildRecordSourceNote };

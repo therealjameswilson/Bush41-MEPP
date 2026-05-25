@@ -1,6 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 const { execFileSync } = require("child_process");
+const { rebuildRecordSourceNote } = require("./frus-source-notes");
 
 const repoRoot = path.resolve(__dirname, "..");
 const dataPath = path.join(repoRoot, "data", "records.json");
@@ -94,7 +95,7 @@ function enrichRecord(record) {
   const participantLine = firstMatchingLine(text, [/participants?:/i, /subject:/i, /memorandum of conversation/i]);
   const dateTimeLine = firstMatchingLine(text, [/date,?\s*time/i, /time and place/i, /place:/i]);
 
-  return {
+  const enriched = {
     ...record,
     pageCount: Number(info.Pages || 0) || record.pageCount || null,
     pageCountBasis: info.Pages ? "pdfinfo" : record.pageCountBasis || "not measured",
@@ -110,6 +111,12 @@ function enrichRecord(record) {
       dateTimeLine,
       redactionSnippets: textSnippets(text, [/declassified in part/i, /\(b\)\([1-9]\)/i, /\bsanitized\b/i, /excised|redacted|deleted/i])
     }
+  };
+  const frusSourceNote = rebuildRecordSourceNote(enriched);
+  return {
+    ...enriched,
+    sourceNote: frusSourceNote,
+    frusSourceNote
   };
 }
 
@@ -166,4 +173,3 @@ function main() {
 }
 
 main();
-

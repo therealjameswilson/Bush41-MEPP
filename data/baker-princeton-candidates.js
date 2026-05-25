@@ -33,7 +33,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 264, 47b: The Making of Peace --Madrid Middle East Peace Conference, dates not examined."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 264, 47b: The Making of Peace --Madrid Middle East Peace Conference, dates not examined. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03733",
@@ -65,7 +65,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 264, 47c: Madrid Peace Conference, dates not examined."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 264, 47c: Madrid Peace Conference, dates not examined. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03265",
@@ -103,7 +103,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Memoir/research file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 171, Folder 7, Arab-Israeli Peace Process, 1989-1992."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 171, Folder 7, Arab-Israeli Peace Process, 1989-1992. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c01639",
@@ -135,7 +135,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "https://figgy.princeton.edu/concern/scanned_resources/aca2d984-171e-4813-9ed0-192617692f75/manifest",
     "documentType": "Correspondence file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 99, Folder 4, Arens, Moshe, 1989."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 99, Folder 4, Arens, Moshe, 1989. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03430",
@@ -167,7 +167,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Memoir/research file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 193, Folder 2-3, Chapter 29: Settlements, Loan Guarantees, and the Politics of Peace: Baker Files, 1994-1995."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 193, Folder 2-3, Chapter 29: Settlements, Loan Guarantees, and the Politics of Peace: Baker Files, 1994-1995. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03429",
@@ -199,7 +199,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Memoir/research file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 193, Folder 1, Chapter 29: Settlements, Loan Guarantees, and the Politics of Peace: General Files, 1994."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 193, Folder 1, Chapter 29: Settlements, Loan Guarantees, and the Politics of Peace: General Files, 1994. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03331",
@@ -235,7 +235,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Memoir/research file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 176, Folder 27, Madrid Middle East Peace Conference, 1991."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 176, Folder 27, Madrid Middle East Peace Conference, 1991. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c01940",
@@ -269,7 +269,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "https://figgy.princeton.edu/concern/scanned_resources/8f3892de-d7a7-4492-8ae2-8f4afdf8f9c3/manifest",
     "documentType": "Correspondence file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 106, Folder 7, Middle East Peace Conference, 1988-1991."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 106, Folder 7, Middle East Peace Conference, 1988-1991. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03124",
@@ -301,7 +301,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 166, Folder 30, Press Availability with President (Middle East Trip), 1991 May 17."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 166, Folder 30, Press Availability with President (Middle East Trip), 1991 May 17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c01849",
@@ -333,7 +333,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "https://figgy.princeton.edu/concern/scanned_resources/ee4a9ebe-6775-4953-b3cd-977c4c2ba362/manifest",
     "documentType": "Correspondence file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 102, Folder 5, Rabin, Yitzhak, 1989."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 102, Folder 5, Rabin, Yitzhak, 1989. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c02973",
@@ -365,7 +365,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 162, Folder 1, Remarks at Departure of Israel Foreign Minister Arens (Department of State), 1990 February 23."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 162, Folder 1, Remarks at Departure of Israel Foreign Minister Arens (Department of State), 1990 February 23. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03034",
@@ -397,7 +397,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 164, Folder 9, Remarks Following Meeting with Israel Foreign Minister (Department of State), 1990 September 5."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 164, Folder 9, Remarks Following Meeting with Israel Foreign Minister (Department of State), 1990 September 5. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03068",
@@ -429,7 +429,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 165, Folder 16, Remarks Following Meeting with Israel PM Shamir (Washington, D.C.), 1990 December 13."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 165, Folder 16, Remarks Following Meeting with Israel PM Shamir (Washington, D.C.), 1990 December 13. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03248",
@@ -467,7 +467,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 170, Folder 23, Remarks in Conjunction with Travel to Amman, Jerusalem, Damascus, Cairo, Jabla, Damascus, Zahleh, Jeddah, Manila, 1992 July 18-1992 July 26."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 170, Folder 23, Remarks in Conjunction with Travel to Amman, Jerusalem, Damascus, Cairo, Jabla, Damascus, Zahleh, Jeddah, Manila, 1992 July 18-1992 July 26. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03123",
@@ -505,7 +505,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 166, Folder 29, Remarks in Conjunction with Travel to Cairo, Damascus, Allenby Bridge (Jerusalem), Amman and Jerusalem, 1991 May 10-1991 May 16."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 166, Folder 29, Remarks in Conjunction with Travel to Cairo, Damascus, Allenby Bridge (Jerusalem), Amman and Jerusalem, 1991 May 10-1991 May 16. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03114",
@@ -541,7 +541,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 166, Folder 20, Remarks in Conjunction with Travel to Cairo, Houston, Ankara, Diyarbakir, Cukurca, Geneva, Jerusalem, Karmiel and Damascus, 1991 April 6-1991 April 12."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 166, Folder 20, Remarks in Conjunction with Travel to Cairo, Houston, Ankara, Diyarbakir, Cukurca, Geneva, Jerusalem, Karmiel and Damascus, 1991 April 6-1991 April 12. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03169",
@@ -581,7 +581,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 168, Folder 6, Remarks in Conjunction with Travel to Cairo, Jordan, Damascus, Jerusalem and Madrid, 1991 October 12-1991 October 20."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 168, Folder 6, Remarks in Conjunction with Travel to Cairo, Jordan, Damascus, Jerusalem and Madrid, 1991 October 12-1991 October 20. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03116",
@@ -619,7 +619,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 166, Folder 22, Remarks in Conjunction with Travel to Cairo, Luxembourg, Jerusalem, Aqaba, Jeddah, Kuwait City, Damascus and Kislovodsk, 1991 April 16-1991 April 27."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 166, Folder 22, Remarks in Conjunction with Travel to Cairo, Luxembourg, Jerusalem, Aqaba, Jeddah, Kuwait City, Damascus and Kislovodsk, 1991 April 16-1991 April 27. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03105",
@@ -655,7 +655,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 166, Folder 11, Remarks in Conjunction with Travel to Cairo, Riyadh, Ta'if, Kuwait City, Jerusalem, Moscow, Damascus and Ankara, 1991 March 7-1991 March 17."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 166, Folder 11, Remarks in Conjunction with Travel to Cairo, Riyadh, Ta'if, Kuwait City, Jerusalem, Moscow, Damascus and Ankara, 1991 March 7-1991 March 17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03035",
@@ -689,7 +689,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Syria-Lebanon Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 164, Folder 10, Remarks in Conjunction with Travel to Jeddah Abu Dhabi, Cairo, Alexandria, Helsinki (with President Bush), Brussels, Moscow, Damascus, Rome, 1990 September 5-1990 September 15."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 164, Folder 10, Remarks in Conjunction with Travel to Jeddah Abu Dhabi, Cairo, Alexandria, Helsinki (with President Bush), Brussels, Moscow, Damascus, Rome, 1990 September 5-1990 September 15. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03152",
@@ -727,7 +727,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 167, Folder 18, Remarks in Conjunction with Travel to London (with President Bush), Damascus, Alexandria, Cairo, Jeddah, Amman, Jerusalem, Kuala Lumpur, Ulaanbaatar, Amman, Rabat, Tunis and Algiers, 1991 July 14-1991 August 5."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 167, Folder 18, Remarks in Conjunction with Travel to London (with President Bush), Damascus, Alexandria, Cairo, Jeddah, Amman, Jerusalem, Kuala Lumpur, Ulaanbaatar, Amman, Rabat, Tunis and Algiers, 1991 July 14-1991 August 5. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03056",
@@ -759,7 +759,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Egypt-Arab Regional Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 165, Folder 4, Remarks in Conjunction with Travel to Paris, Geneva, Brussels, Jeddah, Sanaa and Bogota, 1990 November 15-1990 November 26."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 165, Folder 4, Remarks in Conjunction with Travel to Paris, Geneva, Brussels, Jeddah, Sanaa and Bogota, 1990 November 15-1990 November 26. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03076",
@@ -793,7 +793,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Syria-Lebanon Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 165, Folder 24, Remarks in Conjunction with Travel to Paris, London, Bonn, Milan, Geneva, Riyadh, Ta'if, Abu Dhabi, Cairo, Damascus, Incirlik, Ankara, Alconbury, Ottawa, 1991 January 6-1991 January 14."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 165, Folder 24, Remarks in Conjunction with Travel to Paris, London, Bonn, Milan, Geneva, Riyadh, Ta'if, Abu Dhabi, Cairo, Damascus, Incirlik, Ankara, Alconbury, Ottawa, 1991 January 6-1991 January 14. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03161",
@@ -831,7 +831,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 167, Folder 27, Remarks in Conjunction with Travel to Riga, Mexico City, Moscow, St. Petersburg, Tallinn, Vilnius, Alma Ata, Jerusalem, Cairo, Damascus, Amman and Damascus, 1991 September 8-1991 September 21."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 167, Folder 27, Remarks in Conjunction with Travel to Riga, Mexico City, Moscow, St. Petersburg, Tallinn, Vilnius, Alma Ata, Jerusalem, Cairo, Damascus, Amman and Damascus, 1991 September 8-1991 September 21. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03053",
@@ -863,7 +863,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Egypt-Arab Regional Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 165, Folder 1, Remarks in Conjunction with Travel to Ta'if, Manama, Dhahran, Jeddah, Cairo, Ankara, Paris, Moscow, and London, 1990 November 3-1990 November 10."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 165, Folder 1, Remarks in Conjunction with Travel to Ta'if, Manama, Dhahran, Jeddah, Cairo, Ankara, Paris, Moscow, and London, 1990 November 3-1990 November 10. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03173",
@@ -895,7 +895,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 168, Folder 10, Remarks in Conjunction with Travel with President to Madrid, 1991 October 28-1991 November 3."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 168, Folder 10, Remarks in Conjunction with Travel with President to Madrid, 1991 October 28-1991 November 3. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03136",
@@ -927,7 +927,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 167, Folder 2, Remarks Prior to Meeting with Israel Foreign Minister Levy (Washington, D.C.), 1991 June 13."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 167, Folder 2, Remarks Prior to Meeting with Israel Foreign Minister Levy (Washington, D.C.), 1991 June 13. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03061",
@@ -959,7 +959,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Egypt-Arab Regional Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 165, Folder 9, Remarks Prior to Meeting with Kuwait Foreign Minister Al-Sabah, 1990 December 3."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 165, Folder 9, Remarks Prior to Meeting with Kuwait Foreign Minister Al-Sabah, 1990 December 3. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c02944",
@@ -991,7 +991,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 160, Folder 40, Remarks Upon Departure of Israel Prime Minister Shamir (Department of State), 1989 November 15."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 160, Folder 40, Remarks Upon Departure of Israel Prime Minister Shamir (Department of State), 1989 November 15. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03069",
@@ -1023,7 +1023,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Egypt-Arab Regional Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 165, Folder 17, Remarks upon Greeting Ambassador Howell and U.S. Embassy Kuwait Staff (Andrews Air Force Base), 1990 December 14."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 165, Folder 17, Remarks upon Greeting Ambassador Howell and U.S. Embassy Kuwait Staff (Andrews Air Force Base), 1990 December 14. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03083",
@@ -1055,7 +1055,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Egypt-Arab Regional Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 165, Folder 31, Remarks with Egypt Foreign Minister Meguid Prior to Meeting (Department of State), 1991 January 28."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 165, Folder 31, Remarks with Egypt Foreign Minister Meguid Prior to Meeting (Department of State), 1991 January 28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c02823",
@@ -1087,7 +1087,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Egypt-Arab Regional Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 157, Folder 28, Remarks With Egypt President Mubarak (Department of State), 1989 April 4."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 157, Folder 28, Remarks With Egypt President Mubarak (Department of State), 1989 April 4. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03147",
@@ -1119,7 +1119,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Palestinian-Jordanian Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 167, Folder 13, Remarks with F. Husseini and H. Ashrawi Prior to Meeting with Palestinian Representatives (Department of State), 1991 July 2."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 167, Folder 13, Remarks with F. Husseini and H. Ashrawi Prior to Meeting with Palestinian Representatives (Department of State), 1991 July 2. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03200",
@@ -1151,7 +1151,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Palestinian-Jordanian Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 169, Folder 7, Remarks with F. Husseini Prior to Meeting with Palestinian Representatives (Department of State), 1992 February 20."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 169, Folder 7, Remarks with F. Husseini Prior to Meeting with Palestinian Representatives (Department of State), 1992 February 20. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03167",
@@ -1183,7 +1183,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Palestinian-Jordanian Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 168, Folder 4, Remarks with F. Husseini Prior to Meeting with Palestinian Representatives (Department of State),1991 October 10, dates not examined."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 168, Folder 4, Remarks with F. Husseini Prior to Meeting with Palestinian Representatives (Department of State),1991 October 10, dates not examined. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03160",
@@ -1215,7 +1215,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 167, Folder 26, Remarks with Israel Ambassador Shoval Following Meeting (Department of State), 1991 September 6."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 167, Folder 26, Remarks with Israel Ambassador Shoval Following Meeting (Department of State), 1991 September 6. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c02808",
@@ -1247,7 +1247,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 157, Folder 13, Remarks with Israel Foreign Minister Arens (Department of State), 1989 March 13."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 157, Folder 13, Remarks with Israel Foreign Minister Arens (Department of State), 1989 March 13. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03221",
@@ -1279,7 +1279,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 169, Folder 28, Remarks with Israel Foreign Minister Levy Prior to Meeting (Department of State), 1992 April 28."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 169, Folder 28, Remarks with Israel Foreign Minister Levy Prior to Meeting (Department of State), 1992 April 28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c02825",
@@ -1311,7 +1311,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 157, Folder 30, Remarks with Israel Prime Minister Shamir (Department of State), 1989 April 5."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 157, Folder 30, Remarks with Israel Prime Minister Shamir (Department of State), 1989 April 5. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03176",
@@ -1343,7 +1343,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Israel Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 168, Folder 13, Remarks with Israel Prime Minister Shamir Following Meeting (Washington, D.C.), 1991 November 21."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 168, Folder 13, Remarks with Israel Prime Minister Shamir Following Meeting (Washington, D.C.), 1991 November 21. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03079",
@@ -1375,7 +1375,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Egypt-Arab Regional Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 165, Folder 27, Remarks with Kuwait Ambassador Al-Sabah Following Meeting (Department of State), 1991 January 25."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 165, Folder 27, Remarks with Kuwait Ambassador Al-Sabah Following Meeting (Department of State), 1991 January 25. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03014",
@@ -1407,7 +1407,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Speech/interview file",
     "reason": "Princeton Baker Papers candidate for Palestinian-Jordanian Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 163, Folder 20, Statement on Palestinian Liberation Organization Issue, 1990 June 12."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 163, Folder 20, Statement on Palestinian Liberation Organization Issue, 1990 June 12. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03711",
@@ -1439,7 +1439,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Egypt-Arab Regional Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 263, 1: Remarks to the Troops in Ta'if, Saudi Arabia, 1991 January 11."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 263, 1: Remarks to the Troops in Ta'if, Saudi Arabia, 1991 January 11. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03707",
@@ -1471,7 +1471,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 263, 30: TV News Highlights from Middle East and Moscow, 1990 November 10-1991 November 4."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 263, 30: TV News Highlights from Middle East and Moscow, 1990 November 10-1991 November 4. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03708",
@@ -1503,7 +1503,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 263, 31. TV News Highlights from Middle East, 1990 November 16-1990 November 24."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 263, 31. TV News Highlights from Middle East, 1990 November 16-1990 November 24. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03716",
@@ -1535,7 +1535,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 263, 34: Part 1 TV News Highlights from Middle East and Moscow 1990 January 06-1991 January 12 Part 2 TV News Highlights 1991 January 12, 1990 January 06-1991 January 12."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 263, 34: Part 1 TV News Highlights from Middle East and Moscow 1990 January 06-1991 January 12 Part 2 TV News Highlights 1991 January 12, 1990 January 06-1991 January 12. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03718",
@@ -1567,7 +1567,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 263, 36: TV News Highlights from Trip to Middle East, 1991 March 15-1991 March 8."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 263, 36: TV News Highlights from Trip to Middle East, 1991 March 15-1991 March 8. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03720",
@@ -1599,7 +1599,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 263, 38: TV News Highlights from Middle East, 1991 April 8-1991 April 12."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 263, 38: TV News Highlights from Middle East, 1991 April 8-1991 April 12. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03721",
@@ -1631,7 +1631,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 263, 39: TV Highlights from Middle East, 1991 March 4-1991 March 26."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 263, 39: TV Highlights from Middle East, 1991 March 4-1991 March 26. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03722",
@@ -1663,7 +1663,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 263, 40: TV Highlights from Middle East, 1991 May 11-1991 May 17."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 263, 40: TV Highlights from Middle East, 1991 May 11-1991 May 17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03723",
@@ -1695,7 +1695,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 263, 41: TV Highlights from London Economic Summit Middle East, 1991 July 14-1991 23, 1991 July."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 263, 41: TV Highlights from London Economic Summit Middle East, 1991 July 14-1991 23, 1991 July. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03724",
@@ -1727,7 +1727,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 263, 42: TV Highlights from Moscow and Middle East, 1991 July 29-1991 August 5."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 263, 42: TV Highlights from Moscow and Middle East, 1991 July 29-1991 August 5. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03725",
@@ -1759,7 +1759,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 263, 43: TV Highlights from Moscow and Middle East, 1991 September 10-1991 September 20."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 263, 43: TV Highlights from Moscow and Middle East, 1991 September 10-1991 September 20. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03727",
@@ -1791,7 +1791,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Audiovisual file",
     "reason": "Princeton Baker Papers candidate for Madrid-Multilateral Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 263, 45: TV Highlights from Middle East, 1991 October 13-1991 October 25."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 263, 45: TV Highlights from Middle East, 1991 October 13-1991 October 25. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03372",
@@ -1823,7 +1823,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Memoir/research file",
     "reason": "Princeton Baker Papers candidate for Palestinian-Jordanian Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 182, Folder 3-4, Chapter Eight: The Middle East: First Encounters with the Quagmire: Baker Files, 1990-1995."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 182, Folder 3-4, Chapter Eight: The Middle East: First Encounters with the Quagmire: Baker Files, 1990-1995. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03371",
@@ -1855,7 +1855,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Memoir/research file",
     "reason": "Princeton Baker Papers candidate for Palestinian-Jordanian Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 182, Folder 1-2, Chapter Eight: The Middle East: First Encounters with the Quagmire: General Files, 1994-1995."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 182, Folder 1-2, Chapter Eight: The Middle East: First Encounters with the Quagmire: General Files, 1994-1995. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03339",
@@ -1887,7 +1887,7 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Memoir/research file",
     "reason": "Princeton Baker Papers candidate for Palestinian-Jordanian Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 176, Folder 35, Peace Process Secondary Literature, 1993."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 176, Folder 35, Peace Process Secondary Literature, 1993. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   },
   {
     "id": "baker-princeton-MC197_c03322",
@@ -1919,6 +1919,6 @@ window.MEPP_BAKER_PRINCETON_CANDIDATES = [
     "digitalObjectUrl": "",
     "documentType": "Memoir/research file",
     "reason": "Princeton Baker Papers candidate for Palestinian-Jordanian Track; verify contents in Box/Folder before treating as FRUS evidence.",
-    "sourceNote": "Source candidate: James A. Baker III Papers, MC197, Public Policy Papers, Princeton University Library, Box 176, Folder 18, Taif Speech, 1991."
+    "sourceNote": "Source: Princeton University Library, Public Policy Papers, James A. Baker III Papers, MC197, Box 176, Folder 18, Taif Speech, 1991. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review."
   }
 ];

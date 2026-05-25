@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T12:23:57.403Z",
+  "generatedAt": "2026-05-25T11:20:15.909Z",
   "source": "https://catalog.archives.gov/proxy/records/parentNaId/2554857?limit=1000",
   "catalogUrl": "https://catalog.archives.gov/id/2554857",
   "seriesNaid": "2554857",
@@ -11,6 +11,6 @@
   "mediumPriority": 10,
   "reviewPriority": 8,
   "digitalObjects": 205,
-  "mergedSourceCandidates": 537,
+  "mergedSourceCandidates": 532,
   "note": "Chronological file folders are included as file-level review candidates. OCR snippets are directional and must be verified against PDFs before FRUS selection."
 }

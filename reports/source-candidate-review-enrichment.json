@@ -1,21 +1,21 @@
 {
-  "generatedAt": "2026-05-24T12:41:25.923Z",
-  "candidates": 1060,
-  "reviewed": 1060,
-  "pdfCandidates": 972,
+  "generatedAt": "2026-05-25T11:21:37.322Z",
+  "candidates": 1055,
+  "reviewed": 1055,
+  "pdfCandidates": 967,
   "pageCounted": 72,
   "measuredPdfLimitBytes": 8000000,
   "measuredPdfLimitCount": 40,
   "measuredPdfs": 40,
-  "deferredLargePdfs": 635,
-  "deferredMeasurementLimitPdfs": 297,
+  "deferredLargePdfs": 633,
+  "deferredMeasurementLimitPdfs": 294,
   "statusCounts": {
     "finding-aid-review-required": 56,
     "iiif-manifest-indexed": 3,
-    "deferred-large-pdf": 635,
+    "deferred-large-pdf": 633,
     "pdf-metadata-enriched": 40,
     "image-object-indexed": 29,
-    "deferred-pdf-measurement-limit": 297
+    "deferred-pdf-measurement-limit": 294
   },
   "errors": []
 }

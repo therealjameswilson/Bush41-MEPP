@@ -6658,7 +6658,7 @@ window.MEPP_PUBLIC_STATEMENTS = [
         "naid": "428080805",
         "catalogUrl": "https://catalog.archives.gov/id/428080805",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1990-06-23--Hussein-I.pdf",
-        "score": 12
+        "score": 13
       }
     ]
   },
@@ -8133,7 +8133,7 @@ window.MEPP_PUBLIC_STATEMENTS = [
         "naid": "428079973",
         "catalogUrl": "https://catalog.archives.gov/id/428079973",
         "pdfUrl": "https://s3.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-nsc/321498139/1989-04-21--Hussein-I.pdf",
-        "score": 11
+        "score": 10
       }
     ]
   },

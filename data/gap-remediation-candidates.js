@@ -43,7 +43,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, [Condoleezza Rice , Soviet Union Reading Material] [1], CF01010-013, Container CF01010, NAID 470761869."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, [Condoleezza Rice , Soviet Union Reading Material] [1], CF01010-013, Container CF01010. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761869."
   },
   {
     "id": "source-candidate-470761849",
@@ -91,7 +91,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book I: President Bush's [Trip to the] Malta [Summit] - December 2-3, 1989, CF01014-010, Container CF01014, 1989-12-02/1989-12-03, NAID 470761849."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book I: President Bush's [Trip to the] Malta [Summit] - December 2-3, 1989, CF01014-010, Container CF01014, 1989-12-02/1989-12-03. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761849."
   },
   {
     "id": "source-candidate-470761850",
@@ -130,7 +130,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Syria/Lebanon. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book II: President Bush's [Trip to the] Malta [Summit] - December 2-3, 1989, CF01014-011, Container CF01014, 1989-12-02/1989-12-03, NAID 470761850."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book II: President Bush's [Trip to the] Malta [Summit] - December 2-3, 1989, CF01014-011, Container CF01014, 1989-12-02/1989-12-03. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761850."
   },
   {
     "id": "source-candidate-470761844",
@@ -172,7 +172,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Palestinian channel, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush [Trip to Paris] Economic Summit, July 14-16, 1989, CF01014-005, Container CF01014, 1989-07-14/1989-07-16, NAID 470761844."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush [Trip to Paris] Economic Summit, July 14-16, 1989, CF01014-005, Container CF01014, 1989-07-14/1989-07-16. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761844."
   },
   {
     "id": "source-candidate-470761848",
@@ -220,7 +220,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's (Prep Book I, \"Our Book\") for Trip to Malta [Summit] - December 2-3, 1989, CF01014-009, Container CF01014, 1989-12-02/1989-12-03, NAID 470761848."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's (Prep Book I, \"Our Book\") for Trip to Malta [Summit] - December 2-3, 1989, CF01014-009, Container CF01014, 1989-12-02/1989-12-03. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761848."
   },
   {
     "id": "source-candidate-470761845",
@@ -256,7 +256,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's [Trip to] France - July 13-17, 1989, CF01014-006, Container CF01014, 1989-07-13/1989-07-17, NAID 470761845."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's [Trip to] France - July 13-17, 1989, CF01014-006, Container CF01014, 1989-07-13/1989-07-17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761845."
   },
   {
     "id": "source-candidate-470761841",
@@ -300,7 +300,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's [Trip to] Poland, Hungary, and the Netherlands - July 9-18, 1989 [2], CF01014-002, Container CF01014, 1989-07-09/1989-07-18, NAID 470761841."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's [Trip to] Poland, Hungary, and the Netherlands - July 9-18, 1989 [2], CF01014-002, Container CF01014, 1989-07-09/1989-07-18. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761841."
   },
   {
     "id": "source-candidate-470761842",
@@ -336,7 +336,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's [Trip to] Poland, Hungary, and the Netherlands - July 9-18, 1989 [3], CF01014-003, Container CF01014, 1989-07-09/1989-07-19, NAID 470761842."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's [Trip to] Poland, Hungary, and the Netherlands - July 9-18, 1989 [3], CF01014-003, Container CF01014, 1989-07-09/1989-07-19. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761842."
   },
   {
     "id": "source-candidate-470761851",
@@ -375,7 +375,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's [Trip to] St. Martin's [for a Meeting with French President Francois Mitterand] - December 16, 1989, CF01014-012, Container CF01014, 1989-12-16, NAID 470761851."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's [Trip to] St. Martin's [for a Meeting with French President Francois Mitterand] - December 16, 1989, CF01014-012, Container CF01014, 1989-12-16. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761851."
   },
   {
     "id": "source-candidate-470761846",
@@ -421,7 +421,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's [Trip to] the United Nations General Assembly - September 25, 1989, CF01014-007, Container CF01014, 1989-09-25, NAID 470761846."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's [Trip to] the United Nations General Assembly - September 25, 1989, CF01014-007, Container CF01014, 1989-09-25. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761846."
   },
   {
     "id": "source-candidate-470761857",
@@ -473,7 +473,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's Trip to Ottawa, Martinique, and Bermuda - March 13-17, 1991 [1], CF01010-001, Container CF01010, 1991-03-13/1991-03-17, NAID 470761857."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's Trip to Ottawa, Martinique, and Bermuda - March 13-17, 1991 [1], CF01010-001, Container CF01010, 1991-03-13/1991-03-17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761857."
   },
   {
     "id": "source-candidate-470761858",
@@ -523,7 +523,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's Trip to Ottawa, Martinique, and Bermuda - March 13-17, 1991 [2], CF01010-002, Container CF01010, 1991-03-13/1991-03-17, NAID 470761858."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's Trip to Ottawa, Martinique, and Bermuda - March 13-17, 1991 [2], CF01010-002, Container CF01010, 1991-03-13/1991-03-17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761858."
   },
   {
     "id": "source-candidate-470761859",
@@ -573,7 +573,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's Trip to Ottawa, Martinique, and Bermuda - March 13-17, 1991 [3], CF01010-003, Container CF01010, 1991-03-13/1991-03-17, NAID 470761859."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Book: President Bush's Trip to Ottawa, Martinique, and Bermuda - March 13-17, 1991 [3], CF01010-003, Container CF01010, 1991-03-13/1991-03-17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761859."
   },
   {
     "id": "source-candidate-470761847",
@@ -612,7 +612,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Israel leadership, Palestinian channel, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Material / Book: President Bush's [Trip to] Malta [Summit] - December 2-3, 1989, CF01014-008, Container CF01014, 1989-12-02/1989-12-03, NAID 470761847."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Briefing Material / Book: President Bush's [Trip to] Malta [Summit] - December 2-3, 1989, CF01014-008, Container CF01014, 1989-12-02/1989-12-03. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761847."
   },
   {
     "id": "source-candidate-470761867",
@@ -654,7 +654,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Israel leadership, Syria/Lebanon. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Bush-Gorbachev Summit [Washington Summit - May 30, 1990-June 3, 1990] [3], CF01010-011, Container CF01010, 1990-05-30/1990-06-03, NAID 470761867."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Bush-Gorbachev Summit [Washington Summit - May 30, 1990-June 3, 1990] [3], CF01010-011, Container CF01010, 1990-05-30/1990-06-03. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761867."
   },
   {
     "id": "source-candidate-470761852",
@@ -700,7 +700,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Bush-Gorbachev Summit [Washington Summit] - May 31, 1990-June 3, 1990, CF01014-013, Container CF01014, 1990-05-31/1990-06-03, NAID 470761852."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Bush-Gorbachev Summit [Washington Summit] - May 31, 1990-June 3, 1990, CF01014-013, Container CF01014, 1990-05-31/1990-06-03. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761852."
   },
   {
     "id": "source-candidate-470761863",
@@ -744,7 +744,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Opening Session of the Middle East Peace Conference, Madrid [Spain] - October 29-30, 1991 [1], CF01010-007, Container CF01010, 1991-10-29/1991-10-30, NAID 470761863."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Opening Session of the Middle East Peace Conference, Madrid [Spain] - October 29-30, 1991 [1], CF01010-007, Container CF01010, 1991-10-29/1991-10-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761863."
   },
   {
     "id": "source-candidate-470761864",
@@ -796,7 +796,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Opening Session of the Middle East Peace Conference, Madrid [Spain] - October 29-30, 1991 [2], CF01010-008, Container CF01010, 1991-10-29/1991-10-30, NAID 470761864."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Opening Session of the Middle East Peace Conference, Madrid [Spain] - October 29-30, 1991 [2], CF01010-008, Container CF01010, 1991-10-29/1991-10-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761864."
   },
   {
     "id": "source-candidate-470761868",
@@ -832,7 +832,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Israel leadership, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Secretary [James] Baker's Trip to Berlin, [Germany] - June 20-23, 1990 [re: German Reunification], CF01010-012, Container CF01010, 1990-06-20/1990-06-23, NAID 470761868."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, Secretary [James] Baker's Trip to Berlin, [Germany] - June 20-23, 1990 [re: German Reunification], CF01010-012, Container CF01010, 1990-06-20/1990-06-23. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761868."
   },
   {
     "id": "source-candidate-470761855",
@@ -868,7 +868,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, The President's Trip to France for the CSCE [Conference on Security and Cooperation in Europe] Summit - November 18-21, 1990 [2], CF01014-016, Container CF01014, 1990-11-18/1990-11-21, NAID 470761855."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, The President's Trip to France for the CSCE [Conference on Security and Cooperation in Europe] Summit - November 18-21, 1990 [2], CF01014-016, Container CF01014, 1990-11-18/1990-11-21. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761855."
   },
   {
     "id": "source-candidate-470761856",
@@ -907,7 +907,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Syria/Lebanon. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from European and Soviet Directorate Briefing Books and Materials; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, The President's Trip to France for the CSCE [Conference on Security and Cooperation in Europe] Summit - November 18-21, 1990 [3], CF01014-017, Container CF01014, 1990-11-18/1990-11-21, NAID 470761856."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, European and Soviet Directorate Briefing Books and Materials, The President's Trip to France for the CSCE [Conference on Security and Cooperation in Europe] Summit - November 18-21, 1990 [3], CF01014-017, Container CF01014, 1990-11-18/1990-11-21. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470761856."
   },
   {
     "id": "source-candidate-470426366",
@@ -957,7 +957,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, [Israeli Foreign Minister] Moshe Arens Visit - March 13, 1989, CF01404-013, Container CF01404, 1989-03-13, NAID 470426366."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, [Israeli Foreign Minister] Moshe Arens Visit - March 13, 1989, CF01404-013, Container CF01404, 1989-03-13. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426366."
   },
   {
     "id": "source-candidate-470426364",
@@ -1001,7 +1001,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, DC [Deputies Committee] Meeting - Iraq - August 20, 1992, CF01404-011, Container CF01404, 1992-08-20, NAID 470426364."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, DC [Deputies Committee] Meeting - Iraq - August 20, 1992, CF01404-011, Container CF01404, 1992-08-20. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426364."
   },
   {
     "id": "source-candidate-470426252",
@@ -1049,7 +1049,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Kuwait Crisis 1990 [1], CF01447-010, Container CF01447, 1990-01-01/1990-12-31, NAID 470426252."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Kuwait Crisis 1990 [1], CF01447-010, Container CF01447, 1990-01-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426252."
   },
   {
     "id": "source-candidate-470426253",
@@ -1095,7 +1095,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Kuwait Crisis 1990 [2], CF01447-011, Container CF01447, 1990-01-01/1990-12-31, NAID 470426253."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Kuwait Crisis 1990 [2], CF01447-011, Container CF01447, 1990-01-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426253."
   },
   {
     "id": "source-candidate-470426414",
@@ -1145,7 +1145,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Meeting between the President and Various Leaders in Madrid, [Spain] - October 30, 1991, CF01405-032, Container CF01405, 1991-10-30, NAID 470426414."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Meeting between the President and Various Leaders in Madrid, [Spain] - October 30, 1991, CF01405-032, Container CF01405, 1991-10-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426414."
   },
   {
     "id": "source-candidate-470426356",
@@ -1189,7 +1189,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Jordan/King Hussein, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, NSC Meeting July 25, 1992 - Iraq/Camp David, CF01404-003, Container CF01404, 1992-07-25, NAID 470426356."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, NSC Meeting July 25, 1992 - Iraq/Camp David, CF01404-003, Container CF01404, 1992-07-25. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426356."
   },
   {
     "id": "source-candidate-470426268",
@@ -1233,7 +1233,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, President's Meeting with Israeli Foreign Minister Levy - December 17, 1991, CF01447-026, Container CF01447, 1991-12-17, NAID 470426268."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, President's Meeting with Israeli Foreign Minister Levy - December 17, 1991, CF01447-026, Container CF01447, 1991-12-17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426268."
   },
   {
     "id": "source-candidate-470426258",
@@ -1283,7 +1283,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, President's Meeting with President Herzog of Israel - November 16, 1992, CF01447-016, Container CF01447, 1992-11-16, NAID 470426258."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, President's Meeting with President Herzog of Israel - November 16, 1992, CF01447-016, Container CF01447, 1992-11-16. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426258."
   },
   {
     "id": "source-candidate-470426269",
@@ -1329,7 +1329,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Syria/Lebanon, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, President's Meeting with Prime Minister Shamir of Israel - November 22, 1991, CF01447-027, Container CF01447, 1991-11-22, NAID 470426269."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, President's Meeting with Prime Minister Shamir of Israel - November 22, 1991, CF01447-027, Container CF01447, 1991-11-22. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426269."
   },
   {
     "id": "source-candidate-470426390",
@@ -1362,7 +1362,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Courtesy Call to Foreign Minister [Sheikh Mohammad] bin Mubarak of Bahrain - August 2, 1989, CF01405-008, Container CF01405, 1989-08-02, NAID 470426390."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Courtesy Call to Foreign Minister [Sheikh Mohammad] bin Mubarak of Bahrain - August 2, 1989, CF01405-008, Container CF01405, 1989-08-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426390."
   },
   {
     "id": "source-candidate-470426378",
@@ -1410,7 +1410,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Former President Jimmy] Carter - March 27, 1990, CF01404-025, Container CF01404, 1990-03-27, NAID 470426378."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Former President Jimmy] Carter - March 27, 1990, CF01404-025, Container CF01404, 1990-03-27. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426378."
   },
   {
     "id": "source-candidate-470426380",
@@ -1452,7 +1452,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Islamic Scholar] Sheikh Gad al-Haq - December 12, 1989, CF01404-027, Container CF01404, 1989-12-12, NAID 470426380."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Islamic Scholar] Sheikh Gad al-Haq - December 12, 1989, CF01404-027, Container CF01404, 1989-12-12. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426380."
   },
   {
     "id": "source-candidate-470426402",
@@ -1485,7 +1485,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Israeli] President [Chaim] Herzog - November 14, 1990, CF01405-020, Container CF01405, 1990-11-14, NAID 470426402."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Israeli] President [Chaim] Herzog - November 14, 1990, CF01405-020, Container CF01405, 1990-11-14. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426402."
   },
   {
     "id": "source-candidate-470426397",
@@ -1533,7 +1533,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Kuwaiti Foreign Minister] Sheikh Sabah al-Sabah - August 14,1990, CF01405-015, Container CF01405, 1990-08-14, NAID 470426397."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Kuwaiti Foreign Minister] Sheikh Sabah al-Sabah - August 14,1990, CF01405-015, Container CF01405, 1990-08-14. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426397."
   },
   {
     "id": "source-candidate-470426395",
@@ -1566,7 +1566,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Kuwaiti] Ambassador [Sheikh Saud Nasir] al-Sabah - August 6, 1990, CF01405-013, Container CF01405, 1990-08-06, NAID 470426395."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Kuwaiti] Ambassador [Sheikh Saud Nasir] al-Sabah - August 6, 1990, CF01405-013, Container CF01405, 1990-08-06. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426395."
   },
   {
     "id": "source-candidate-470426398",
@@ -1614,7 +1614,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Omani Foreign Minister] Yusuf Bin Alawi - August 28, 1990, CF01405-016, Container CF01405, 1990-08-28, NAID 470426398."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Omani Foreign Minister] Yusuf Bin Alawi - August 28, 1990, CF01405-016, Container CF01405, 1990-08-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426398."
   },
   {
     "id": "source-candidate-470426400",
@@ -1647,7 +1647,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Saudi Foreign Minister] Prince Bin Faisal - October 9, 1990, CF01405-018, Container CF01405, 1990-10-09, NAID 470426400."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with [Saudi Foreign Minister] Prince Bin Faisal - October 9, 1990, CF01405-018, Container CF01405, 1990-10-09. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426400."
   },
   {
     "id": "source-candidate-470426393",
@@ -1680,7 +1680,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with Ambassador [Robert] Pelletreau [U.S. Ambassador to Tunisia] - May 18, 1990, CF01405-011, Container CF01405, 1990-05-18, NAID 470426393."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with Ambassador [Robert] Pelletreau [U.S. Ambassador to Tunisia] - May 18, 1990, CF01405-011, Container CF01405, 1990-05-18. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426393."
   },
   {
     "id": "source-candidate-470426411",
@@ -1716,7 +1716,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with Amir of Kuwait - October 2, 1991, CF01405-029, Container CF01405, 1991-10-02, NAID 470426411."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with Amir of Kuwait - October 2, 1991, CF01405-029, Container CF01405, 1991-10-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426411."
   },
   {
     "id": "source-candidate-470426396",
@@ -1752,7 +1752,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Jordan/King Hussein, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with King Hussein of Jordan - August 16, 1990, CF01405-014, Container CF01405, 1990-08-16, NAID 470426396."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with King Hussein of Jordan - August 16, 1990, CF01405-014, Container CF01405, 1990-08-16. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426396."
   },
   {
     "id": "source-candidate-470426377",
@@ -1791,7 +1791,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with Mayor [of Jerusalem Teddy] Kolleck - May 2, 1990, CF01404-024, Container CF01404, 1990-05-02, NAID 470426377."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with Mayor [of Jerusalem Teddy] Kolleck - May 2, 1990, CF01404-024, Container CF01404, 1990-05-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426377."
   },
   {
     "id": "source-candidate-470426368",
@@ -1837,7 +1837,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with Middle East Experts - March 31, 1989, CF01404-015, Container CF01404, 1989-03-31, NAID 470426368."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with Middle East Experts - March 31, 1989, CF01404-015, Container CF01404, 1989-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426368."
   },
   {
     "id": "source-candidate-470426382",
@@ -1879,7 +1879,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with President Ben Ali [of Tunisia] - November 14, 1989, CF01404-029, Container CF01404, 1989-11-14, NAID 470426382."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with President Ben Ali [of Tunisia] - November 14, 1989, CF01404-029, Container CF01404, 1989-11-14. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426382."
   },
   {
     "id": "source-candidate-470426394",
@@ -1912,7 +1912,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with Prince Bandar [bin Sultan] Saudi Ambassador [to the U.S.] - July 26, 1990, CF01405-012, Container CF01405, 1990-07-26, NAID 470426394."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with Prince Bandar [bin Sultan] Saudi Ambassador [to the U.S.] - July 26, 1990, CF01405-012, Container CF01405, 1990-07-26. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426394."
   },
   {
     "id": "source-candidate-470426399",
@@ -1951,7 +1951,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Israel leadership, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with the Amir of Kuwait - September 28, 1990, CF01405-017, Container CF01405, 1990-09-28, NAID 470426399."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Meeting with the Amir of Kuwait - September 28, 1990, CF01405-017, Container CF01405, 1990-09-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426399."
   },
   {
     "id": "source-candidate-470426369",
@@ -1995,7 +1995,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Egyptian] President [Hosni] Mubarak - April 3-5, 1989, CF01404-016, Container CF01404, 1989-04-03/1989-04-05, NAID 470426369."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Egyptian] President [Hosni] Mubarak - April 3-5, 1989, CF01404-016, Container CF01404, 1989-04-03/1989-04-05. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426369."
   },
   {
     "id": "source-candidate-470426384",
@@ -2039,7 +2039,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Egyptian] President [Hosni] Mubarak - October 2, 1989, CF01405-002, Container CF01405, 1989-10-02, NAID 470426384."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Egyptian] President [Hosni] Mubarak - October 2, 1989, CF01405-002, Container CF01405, 1989-10-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426384."
   },
   {
     "id": "source-candidate-470426367",
@@ -2091,7 +2091,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Israeli Defense] Minister [Yitzhak] Rabin - May 24, 1989, CF01404-014, Container CF01404, 1989-05-24, NAID 470426367."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Israeli Defense] Minister [Yitzhak] Rabin - May 24, 1989, CF01404-014, Container CF01404, 1989-05-24. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426367."
   },
   {
     "id": "source-candidate-470426370",
@@ -2137,7 +2137,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Israeli] Prime Minister [Yitzhak] Shamir - April 6, 1989, CF01404-017, Container CF01404, 1989-04-06, NAID 470426370."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Israeli] Prime Minister [Yitzhak] Shamir - April 6, 1989, CF01404-017, Container CF01404, 1989-04-06. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426370."
   },
   {
     "id": "source-candidate-470426404",
@@ -2183,7 +2183,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Israeli] Prime Minister [Yitzhak] Shamir - December 11, 1990, CF01405-022, Container CF01405, 1990-12-11, NAID 470426404."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Israeli] Prime Minister [Yitzhak] Shamir - December 11, 1990, CF01405-022, Container CF01405, 1990-12-11. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426404."
   },
   {
     "id": "source-candidate-470426383",
@@ -2229,7 +2229,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Israeli] Prime Minister [Yitzhak] Shamir - November 15, 1989, CF01405-001, Container CF01405, 1989-11-15, NAID 470426383."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Israeli] Prime Minister [Yitzhak] Shamir - November 15, 1989, CF01405-001, Container CF01405, 1989-11-15. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426383."
   },
   {
     "id": "source-candidate-470426379",
@@ -2275,7 +2275,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Jordanian] Crown Prince Hassan - December 13, 1989, CF01404-026, Container CF01404, 1989-12-13, NAID 470426379."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Jordanian] Crown Prince Hassan - December 13, 1989, CF01404-026, Container CF01404, 1989-12-13. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426379."
   },
   {
     "id": "source-candidate-470426385",
@@ -2319,7 +2319,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Jordanian] Crown Prince Hassan - September 12, 1989, CF01405-003, Container CF01405, 1989-09-12, NAID 470426385."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Jordanian] Crown Prince Hassan - September 12, 1989, CF01405-003, Container CF01405, 1989-09-12. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426385."
   },
   {
     "id": "source-candidate-470426372",
@@ -2363,7 +2363,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Saudi Foreign Minister] Prince Saud al-Faisal - June 14, 1989, CF01404-019, Container CF01404, 1989-06-14, NAID 470426372."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Saudi Foreign Minister] Prince Saud al-Faisal - June 14, 1989, CF01404-019, Container CF01404, 1989-06-14. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426372."
   },
   {
     "id": "source-candidate-470426374",
@@ -2399,7 +2399,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Saudi] Prince Salman [Governor of Riyadh] - July 27, 1989, CF01404-021, Container CF01404, 1989-07-27, NAID 470426374."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with [Saudi] Prince Salman [Governor of Riyadh] - July 27, 1989, CF01404-021, Container CF01404, 1989-07-27. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426374."
   },
   {
     "id": "source-candidate-470426412",
@@ -2445,7 +2445,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Amir of Bahrain [1], CF01405-030, Container CF01405, NAID 470426412."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Amir of Bahrain [1], CF01405-030, Container CF01405. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426412."
   },
   {
     "id": "source-candidate-470426413",
@@ -2481,7 +2481,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Amir of Bahrain [2], CF01405-031, Container CF01405, NAID 470426413."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Amir of Bahrain [2], CF01405-031, Container CF01405. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426413."
   },
   {
     "id": "source-candidate-470426389",
@@ -2517,7 +2517,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Israel leadership, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Egyptian [Defense] Minister Abu Talib - August 8, 1989, CF01405-007, Container CF01405, 1989-08-08, NAID 470426389."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Egyptian [Defense] Minister Abu Talib - August 8, 1989, CF01405-007, Container CF01405, 1989-08-08. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426389."
   },
   {
     "id": "source-candidate-470426375",
@@ -2563,7 +2563,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Foreign Minister Abdel Meguid of Egypt - June 26, 1990, CF01404-022, Container CF01404, 1990-06-26, NAID 470426375."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Foreign Minister Abdel Meguid of Egypt - June 26, 1990, CF01404-022, Container CF01404, 1990-06-26. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426375."
   },
   {
     "id": "source-candidate-470426387",
@@ -2605,7 +2605,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with King Fahd [of Saudi Arabia] - September 14, 1989, CF01405-005, Container CF01405, 1989-09-14, NAID 470426387."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with King Fahd [of Saudi Arabia] - September 14, 1989, CF01405-005, Container CF01405, 1989-09-14. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426387."
   },
   {
     "id": "source-candidate-470426405",
@@ -2647,7 +2647,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with King Fahd of Saudi Arabia - November 21, 1990, CF01405-023, Container CF01405, 1990-11-21, NAID 470426405."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with King Fahd of Saudi Arabia - November 21, 1990, CF01405-023, Container CF01405, 1990-11-21. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426405."
   },
   {
     "id": "source-candidate-470426409",
@@ -2695,7 +2695,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with King Hassan [of Morocco] - September 26, 1991 [1], CF01405-027, Container CF01405, 1991-09-26, NAID 470426409."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with King Hassan [of Morocco] - September 26, 1991 [1], CF01405-027, Container CF01405, 1991-09-26. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426409."
   },
   {
     "id": "source-candidate-470426410",
@@ -2745,7 +2745,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with King Hassan [of Morocco] - September 26, 1991 [2], CF01405-028, Container CF01405, 1991-09-26, NAID 470426410."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with King Hassan [of Morocco] - September 26, 1991 [2], CF01405-028, Container CF01405, 1991-09-26. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426410."
   },
   {
     "id": "source-candidate-470426371",
@@ -2795,7 +2795,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with King Hussein [of Jordan] - April 19, 1989, CF01404-018, Container CF01404, 1989-04-19, NAID 470426371."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with King Hussein [of Jordan] - April 19, 1989, CF01404-018, Container CF01404, 1989-04-19. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426371."
   },
   {
     "id": "source-candidate-470426391",
@@ -2841,7 +2841,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with President 'Ali 'Abdallah Saleh of Yemen - January 24, 1990 [1], CF01405-009, Container CF01405, 1990-01-24, NAID 470426391."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with President 'Ali 'Abdallah Saleh of Yemen - January 24, 1990 [1], CF01405-009, Container CF01405, 1990-01-24. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426391."
   },
   {
     "id": "source-candidate-470426392",
@@ -2893,7 +2893,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with President 'Ali 'Abdallah Saleh of Yemen - January 24, 1990 [2], CF01405-010, Container CF01405, 1990-01-24, NAID 470426392."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with President 'Ali 'Abdallah Saleh of Yemen - January 24, 1990 [2], CF01405-010, Container CF01405, 1990-01-24. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426392."
   },
   {
     "id": "source-candidate-470426403",
@@ -2941,7 +2941,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with President [Hafez al] Assad of Syria - November 23, 1990, CF01405-021, Container CF01405, 1990-11-23, NAID 470426403."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with President [Hafez al] Assad of Syria - November 23, 1990, CF01405-021, Container CF01405, 1990-11-23. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426403."
   },
   {
     "id": "source-candidate-470426376",
@@ -2989,7 +2989,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with President Ben Ali of Tunisia - May 15, 1990, CF01404-023, Container CF01404, 1990-05-15, NAID 470426376."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with President Ben Ali of Tunisia - May 15, 1990, CF01404-023, Container CF01404, 1990-05-15. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426376."
   },
   {
     "id": "source-candidate-470426408",
@@ -3031,7 +3031,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Syria/Lebanon. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with President Hraoui of Lebanon - September 24, 1991, CF01405-026, Container CF01405, 1991-09-24, NAID 470426408."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with President Hraoui of Lebanon - September 24, 1991, CF01405-026, Container CF01405, 1991-09-24. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426408."
   },
   {
     "id": "source-candidate-470426259",
@@ -3083,7 +3083,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Prime Minister Rabin of Israel - August 9, 1992 [1], CF01447-017, Container CF01447, 1992-08-09, NAID 470426259."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Prime Minister Rabin of Israel - August 9, 1992 [1], CF01447-017, Container CF01447, 1992-08-09. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426259."
   },
   {
     "id": "source-candidate-470426260",
@@ -3135,7 +3135,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Prime Minister Rabin of Israel - August 9, 1992 [2], CF01447-018, Container CF01447, 1992-08-09, NAID 470426260."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Prime Minister Rabin of Israel - August 9, 1992 [2], CF01447-018, Container CF01447, 1992-08-09. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426260."
   },
   {
     "id": "source-candidate-470426261",
@@ -3187,7 +3187,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Prime Minister Rabin of Israel - August 9, 1992 [3], CF01447-019, Container CF01447, 1992-08-09, NAID 470426261."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Prime Minister Rabin of Israel - August 9, 1992 [3], CF01447-019, Container CF01447, 1992-08-09. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426261."
   },
   {
     "id": "source-candidate-470426407",
@@ -3220,7 +3220,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Prince Bandar [of Saudi Arabia] - July 8, 1991, CF01405-025, Container CF01405, 1991-07-08, NAID 470426407."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with Prince Bandar [of Saudi Arabia] - July 8, 1991, CF01405-025, Container CF01405, 1991-07-08. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426407."
   },
   {
     "id": "source-candidate-470426406",
@@ -3256,7 +3256,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with the Amir of Kuwait - November 21, 1990, CF01405-024, Container CF01405, 1990-11-21, NAID 470426406."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Presidential Visit with the Amir of Kuwait - November 21, 1990, CF01405-024, Container CF01405, 1990-11-21. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426406."
   },
   {
     "id": "source-candidate-470426469",
@@ -3302,7 +3302,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Richard N. Haass' Presidential Meeting Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Richard Haass Bilateral Peace Process Meetings - July 18-24, 1992, CF01937-013, Container CF01937, 1992-07-18/1992-07-24, NAID 470426469."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Presidential Meeting Files, Richard Haass Bilateral Peace Process Meetings - July 18-24, 1992, CF01937-013, Container CF01937, 1992-07-18/1992-07-24. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426469."
   },
   {
     "id": "source-candidate-470768967",
@@ -3335,7 +3335,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Background Book: The NATO Summit, Rome Italy 11/6-8/91 [2], CF01693-012, Container CF01693, 1991-11-06/1991-11-08, NAID 470768967."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Background Book: The NATO Summit, Rome Italy 11/6-8/91 [2], CF01693-012, Container CF01693, 1991-11-06/1991-11-08. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768967."
   },
   {
     "id": "source-candidate-470768968",
@@ -3374,7 +3374,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Background Book: The NATO Summit, Rome Italy 11/6-8/91 [3], CF01693-013, Container CF01693, 1991-11-06/1991-11-08, NAID 470768968."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Background Book: The NATO Summit, Rome Italy 11/6-8/91 [3], CF01693-013, Container CF01693, 1991-11-06/1991-11-08. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768968."
   },
   {
     "id": "source-candidate-470768985",
@@ -3422,7 +3422,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Background Book: The Participation of President Bush at the Economic Summit, London, England 7/14-17/91, CF01695-002, Container CF01695, 1991-07-14/1991-07-17, NAID 470768985."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Background Book: The Participation of President Bush at the Economic Summit, London, England 7/14-17/91, CF01695-002, Container CF01695, 1991-07-14/1991-07-17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768985."
   },
   {
     "id": "source-candidate-470768972",
@@ -3458,7 +3458,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Background Book: The President's Participation in the Economic Summit, Munich, Germany 7/5-8/92, CF01693-017, Container CF01693, 1992-07-05/1992-07-08, NAID 470768972."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Background Book: The President's Participation in the Economic Summit, Munich, Germany 7/5-8/92, CF01693-017, Container CF01693, 1992-07-05/1992-07-08. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768972."
   },
   {
     "id": "source-candidate-470768948",
@@ -3506,7 +3506,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing and Background Book: NATO Summit, Rome Italy, 11/6-8/91, CF01692-004, Container CF01692, 1991-11-06/1991-11-08, NAID 470768948."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing and Background Book: NATO Summit, Rome Italy, 11/6-8/91, CF01692-004, Container CF01692, 1991-11-06/1991-11-08. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768948."
   },
   {
     "id": "source-candidate-470768973",
@@ -3548,7 +3548,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Jordan/King Hussein, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: Economic Summit, Munich, Germany 7/5-8/92, CF01693-018, Container CF01693, 1992-07-05/1992-07-08, NAID 470768973."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: Economic Summit, Munich, Germany 7/5-8/92, CF01693-018, Container CF01693, 1992-07-05/1992-07-08. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768973."
   },
   {
     "id": "source-candidate-470768945",
@@ -3594,7 +3594,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: Opening Session of Mid-East Peace Conference, Madrid, Spain 10/29-30/91 [1], CF01692-001, Container CF01692, 1991-10-29/1991-10-30, NAID 470768945."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: Opening Session of Mid-East Peace Conference, Madrid, Spain 10/29-30/91 [1], CF01692-001, Container CF01692, 1991-10-29/1991-10-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768945."
   },
   {
     "id": "source-candidate-470768946",
@@ -3646,7 +3646,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: Opening Session of Mid-East Peace Conference, Madrid, Spain 10/29-30/91 [2], CF01692-002, Container CF01692, 1991-10-29/1991-10-30, NAID 470768946."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: Opening Session of Mid-East Peace Conference, Madrid, Spain 10/29-30/91 [2], CF01692-002, Container CF01692, 1991-10-29/1991-10-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768946."
   },
   {
     "id": "source-candidate-470768947",
@@ -3698,7 +3698,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: Opening Session of Mid-East Peace Conference, Madrid, Spain 10/29-30/91 [3], CF01692-003, Container CF01692, 1991-10-29/1991-10-30, NAID 470768947."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: Opening Session of Mid-East Peace Conference, Madrid, Spain 10/29-30/91 [3], CF01692-003, Container CF01692, 1991-10-29/1991-10-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768947."
   },
   {
     "id": "source-candidate-470768984",
@@ -3742,7 +3742,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The Participation of President Bush at the Economic Summit, London, England 7/14-17/91, CF01695-001, Container CF01695, 1991-07-14/1991-07-17, NAID 470768984."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The Participation of President Bush at the Economic Summit, London, England 7/14-17/91, CF01695-001, Container CF01695, 1991-07-14/1991-07-17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768984."
   },
   {
     "id": "source-candidate-470769007",
@@ -3784,7 +3784,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Trip to France for the CSCE [Conference on Security and Cooperation in Europe] Summit 11/18-21/90 [4], CF01697-005, Container CF01697, 1990-11-18/1990-11-21, NAID 470769007."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Trip to France for the CSCE [Conference on Security and Cooperation in Europe] Summit 11/18-21/90 [4], CF01697-005, Container CF01697, 1990-11-18/1990-11-21. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470769007."
   },
   {
     "id": "source-candidate-470769008",
@@ -3820,7 +3820,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Trip to Mexico 11/26-27/90 - The President [1], CF01697-006, Container CF01697, 1990-11-26/1990-11-27, NAID 470769008."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Trip to Mexico 11/26-27/90 - The President [1], CF01697-006, Container CF01697, 1990-11-26/1990-11-27. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470769008."
   },
   {
     "id": "source-candidate-470768981",
@@ -3872,7 +3872,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Trip to Ottawa, Canada, Martinique and Bermuda 3/13-17/91 [1], CF01694-008, Container CF01694, 1991-03-13/1991-03-17, NAID 470768981."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Trip to Ottawa, Canada, Martinique and Bermuda 3/13-17/91 [1], CF01694-008, Container CF01694, 1991-03-13/1991-03-17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768981."
   },
   {
     "id": "source-candidate-470768970",
@@ -3922,7 +3922,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Trip to Paris, France for the CSCE [Conference on Security and Cooperation in Europe] Summit 11/18-21/90 - John Sununu [1], CF01693-015, Container CF01693, 1990-11-18/1990-11-21, NAID 470768970."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Trip to Paris, France for the CSCE [Conference on Security and Cooperation in Europe] Summit 11/18-21/90 - John Sununu [1], CF01693-015, Container CF01693, 1990-11-18/1990-11-21. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768970."
   },
   {
     "id": "source-candidate-470768971",
@@ -3964,7 +3964,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Trip to Paris, France for the CSCE [Conference on Security and Cooperation in Europe] Summit 11/18-21/90 - John Sununu [2], CF01693-016, Container CF01693, 1990-11-18/1990-11-21, NAID 470768971."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Trip to Paris, France for the CSCE [Conference on Security and Cooperation in Europe] Summit 11/18-21/90 - John Sununu [2], CF01693-016, Container CF01693, 1990-11-18/1990-11-21. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768971."
   },
   {
     "id": "source-candidate-470768974",
@@ -4012,7 +4012,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the 45th United Nations General Assembly (UNGA) 10/1/90 [1], CF01694-001, Container CF01694, 1990-10-01, NAID 470768974."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the 45th United Nations General Assembly (UNGA) 10/1/90 [1], CF01694-001, Container CF01694, 1990-10-01. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768974."
   },
   {
     "id": "source-candidate-470768975",
@@ -4056,7 +4056,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Arab-Israeli, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the 45th United Nations General Assembly (UNGA) 10/1/90 [2], CF01694-002, Container CF01694, 1990-10-01, NAID 470768975."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the 45th United Nations General Assembly (UNGA) 10/1/90 [2], CF01694-002, Container CF01694, 1990-10-01. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768975."
   },
   {
     "id": "source-candidate-470768976",
@@ -4095,7 +4095,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Jordan/King Hussein, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the 45th United Nations General Assembly (UNGA) 10/1/90 [3], CF01694-003, Container CF01694, 1990-10-01, NAID 470768976."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the 45th United Nations General Assembly (UNGA) 10/1/90 [3], CF01694-003, Container CF01694, 1990-10-01. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768976."
   },
   {
     "id": "source-candidate-470768989",
@@ -4139,7 +4139,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the 46th United Nations General Assembly (UNGA) 9/23-24/91 [1], CF01695-006, Container CF01695, 1991-09-23/1991-09-24, NAID 470768989."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the 46th United Nations General Assembly (UNGA) 9/23-24/91 [1], CF01695-006, Container CF01695, 1991-09-23/1991-09-24. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768989."
   },
   {
     "id": "source-candidate-470768990",
@@ -4175,7 +4175,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the 46th United Nations General Assembly (UNGA) 9/23-24/91 [2], CF01695-007, Container CF01695, 1991-09-23/1991-09-24, NAID 470768990."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the 46th United Nations General Assembly (UNGA) 9/23-24/91 [2], CF01695-007, Container CF01695, 1991-09-23/1991-09-24. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768990."
   },
   {
     "id": "source-candidate-470768991",
@@ -4217,7 +4217,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Israel leadership, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the 46th United Nations General Assembly (UNGA) 9/23-24/91 [3], CF01695-008, Container CF01695, 1991-09-23/1991-09-24, NAID 470768991."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the 46th United Nations General Assembly (UNGA) 9/23-24/91 [3], CF01695-008, Container CF01695, 1991-09-23/1991-09-24. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768991."
   },
   {
     "id": "source-candidate-470768969",
@@ -4265,7 +4265,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Middle East peace, Israel leadership, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to The Hague, The Netherlands 11/8-9/91, CF01693-014, Container CF01693, 1991-11-08/1991-11-09, NAID 470768969."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to The Hague, The Netherlands 11/8-9/91, CF01693-014, Container CF01693, 1991-11-08/1991-11-09. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768969."
   },
   {
     "id": "source-candidate-470769010",
@@ -4307,7 +4307,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the United Nations (UN) 9/29-30/90 [1], CF01697-008, Container CF01697, 1990-09-29/1990-09-30, NAID 470769010."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the United Nations (UN) 9/29-30/90 [1], CF01697-008, Container CF01697, 1990-09-29/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470769010."
   },
   {
     "id": "source-candidate-470769011",
@@ -4346,7 +4346,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Madrid, Jordan/King Hussein, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the United Nations (UN) 9/29-30/90 [2], CF01697-009, Container CF01697, 1990-09-29/1990-09-30, NAID 470769011."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the United Nations (UN) 9/29-30/90 [2], CF01697-009, Container CF01697, 1990-09-29/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470769011."
   },
   {
     "id": "source-candidate-470769012",
@@ -4390,7 +4390,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the United Nations (UN) 9/29-30/90 [3], CF01697-010, Container CF01697, 1990-09-29/1990-09-30, NAID 470769012."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The President's Visit to the United Nations (UN) 9/29-30/90 [3], CF01697-010, Container CF01697, 1990-09-29/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470769012."
   },
   {
     "id": "source-candidate-470768987",
@@ -4429,7 +4429,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Palestinian channel, Syria/Lebanon, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The Visit of President Bush to Greece and Turkey 7/18-22/91 [2], CF01695-004, Container CF01695, 1991-07-18/1991-07-22, NAID 470768987."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, Presidential Briefing Book: The Visit of President Bush to Greece and Turkey 7/18-22/91 [2], CF01695-004, Container CF01695, 1991-07-18/1991-07-22. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768987."
   },
   {
     "id": "source-candidate-470768936",
@@ -4465,7 +4465,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, The President's Trip to Australia and Singapore - December 30, 1991 to January 5, 1992 - Briefing Book [1], 20703-001, Container 20703, 1991-12-30/1992-01-05, NAID 470768936."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, The President's Trip to Australia and Singapore - December 30, 1991 to January 5, 1992 - Briefing Book [1], 20703-001, Container 20703, 1991-12-30/1992-01-05. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768936."
   },
   {
     "id": "source-candidate-470768937",
@@ -4501,7 +4501,7 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, The President's Trip to Australia and Singapore - December 30, 1991 to January 5, 1992 - Briefing Book [2], 20703-002, Container 20703, 1991-12-30/1992-01-05, NAID 470768937."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, The President's Trip to Australia and Singapore - December 30, 1991 to January 5, 1992 - Briefing Book [2], 20703-002, Container 20703, 1991-12-30/1992-01-05. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768937."
   },
   {
     "id": "source-candidate-470768941",
@@ -4537,6 +4537,6 @@ window.MEPP_GAP_REMEDIATION_CANDIDATES = [
     ],
     "scopeAndContentNote": "Gap-remediation OCR/topic markers: Middle East peace, Egypt/Arab regional. Inspect the linked PDF for document-level selection.",
     "reason": "High-value Bush Library gap-remediation file from Summit Briefing Books Files; verify PDF/OCR before treating as compiler evidence.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, The President's Trip to Australia and the Far East - December 30, 1991 to January 10, 1992 - Background Book [2], 20703-006, Container 20703, 1991-12-30/1992-01-10, NAID 470768941."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Summit Briefing Books Files, The President's Trip to Australia and the Far East - December 30, 1991 to January 10, 1992 - Background Book [2], 20703-006, Container 20703, 1991-12-30/1992-01-10. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470768941."
   }
 ];

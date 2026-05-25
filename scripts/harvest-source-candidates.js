@@ -139,6 +139,17 @@ function toCandidate(record, queryInfo) {
   const collection = ancestor(record, "collection");
   const object = (record.digitalObjects || []).find((item) => item.objectUrl);
   const text = sourceText(record);
+  const localIdentifier = record.localIdentifier || "";
+  const repositoryLabel = queryInfo.lane.includes("WHORM")
+    ? "Source: George H.W. Bush Library, White House Office of Records Management"
+    : "Source: George H.W. Bush Library";
+  const sourceNoteParts = [
+    repositoryLabel,
+    collection?.title || "",
+    series?.title || "",
+    record.title || `Catalog record ${record.naId}`,
+    localIdentifier
+  ].filter(Boolean);
   return {
     id: `source-candidate-${record.naId}`,
     naid: String(record.naId),
@@ -151,13 +162,14 @@ function toCandidate(record, queryInfo) {
     catalogUrl: `https://catalog.archives.gov/id/${record.naId}`,
     hasDigitalObject: Boolean(object),
     digitalObjectUrl: object?.objectUrl || "",
-    localIdentifier: record.localIdentifier || "",
+    localIdentifier,
     scopeAndContentNote: clean(record.scopeAndContentNote || ""),
     sourceSeries: series?.title || "",
     sourceSeriesNaid: series?.naid || "",
     collection: collection?.title || "",
     collectionNaid: collection?.naid || "",
-    reason: `Candidate from ${queryInfo.lane}; verify scope, date range, and availability before treating as compiler evidence.`
+    reason: `Candidate from ${queryInfo.lane}; verify scope, date range, and availability before treating as compiler evidence.`,
+    sourceNote: `${sourceNoteParts.join(", ")}. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID ${record.naId}.`
   };
 }
 

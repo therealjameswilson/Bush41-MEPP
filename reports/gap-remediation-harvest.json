@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T12:24:02.109Z",
+  "generatedAt": "2026-05-25T11:20:23.274Z",
   "requestedSeries": [
     "https://catalog.archives.gov/id/2554869",
     "https://catalog.archives.gov/id/376217868",
@@ -48,6 +48,6 @@
   "mediumPriority": 0,
   "reviewPriority": 0,
   "digitalObjects": 105,
-  "mergedSourceCandidates": 1002,
+  "mergedSourceCandidates": 997,
   "note": "Gap-remediation candidates add high-value Bush Library series not covered by the first Haass harvest, especially presidential meeting files and Madrid briefing books."
 }

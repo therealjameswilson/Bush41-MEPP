@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T12:23:55.110Z",
+  "generatedAt": "2026-05-25T11:20:12.126Z",
   "queries": [
     {
       "lane": "State/Baker/Ross",
@@ -345,7 +345,7 @@
       "error": ""
     }
   ],
-  "candidates": 332,
-  "highPriority": 34,
-  "digitalObjects": 332
+  "candidates": 327,
+  "highPriority": 33,
+  "digitalObjects": 327
 }

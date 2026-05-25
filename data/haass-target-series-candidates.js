@@ -54,7 +54,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - April 1989 [1], CF01304-005, Container CF01304, 1989-04-01/1989-04-30, NAID 470426591."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - April 1989 [1], CF01304-005, Container CF01304, 1989-04-01/1989-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426591."
   },
   {
     "id": "source-candidate-470426592",
@@ -111,7 +111,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - April 1989 [2], CF01304-006, Container CF01304, 1989-04-01/1989-04-30, NAID 470426592."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - April 1989 [2], CF01304-006, Container CF01304, 1989-04-01/1989-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426592."
   },
   {
     "id": "source-candidate-470426289",
@@ -146,7 +146,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - April 1990, CF01353-012, Container CF01353, 1990-04-01/1990-04-30, NAID 470426289."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - April 1990, CF01353-012, Container CF01353, 1990-04-01/1990-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426289."
   },
   {
     "id": "source-candidate-470426301",
@@ -197,7 +197,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - April 1991, CF01503-004, Container CF01503, 1991-04-01/1991-04-30, NAID 470426301."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - April 1991, CF01503-004, Container CF01503, 1991-04-01/1991-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426301."
   },
   {
     "id": "source-candidate-470426314",
@@ -250,7 +250,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - April 1992, CF01503-017, Container CF01503, 1992-04-01/1992-04-30, NAID 470426314."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - April 1992, CF01503-017, Container CF01503, 1992-04-01/1992-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426314."
   },
   {
     "id": "source-candidate-470426281",
@@ -295,7 +295,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Loan guarantees/settlements, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Loan guarantees/settlements, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - August 1989, CF01353-004, Container CF01353, 1989-08-01/1989-08-31, NAID 470426281."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - August 1989, CF01353-004, Container CF01353, 1989-08-01/1989-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426281."
   },
   {
     "id": "source-candidate-470426293",
@@ -330,7 +330,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - August 1990, CF01353-016, Container CF01353, 1990-08-01/1990-08-31, NAID 470426293."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - August 1990, CF01353-016, Container CF01353, 1990-08-01/1990-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426293."
   },
   {
     "id": "source-candidate-470426305",
@@ -379,7 +379,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - August 1991, CF01503-008, Container CF01503, 1991-08-01/1991-08-31, NAID 470426305."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - August 1991, CF01503-008, Container CF01503, 1991-08-01/1991-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426305."
   },
   {
     "id": "source-candidate-470426327",
@@ -420,7 +420,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - August 1992, CF01478-011, Container CF01478, 1992-08-01/1992-08-31, NAID 470426327."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - August 1992, CF01478-011, Container CF01478, 1992-08-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426327."
   },
   {
     "id": "source-candidate-470426285",
@@ -463,7 +463,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - December 1989, CF01353-008, Container CF01353, 1989-12-01/1989-12-31, NAID 470426285."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - December 1989, CF01353-008, Container CF01353, 1989-12-01/1989-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426285."
   },
   {
     "id": "source-candidate-470426297",
@@ -501,7 +501,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - December 1990, CF01353-020, Container CF01353, 1990-12-01/1990-12-31, NAID 470426297."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - December 1990, CF01353-020, Container CF01353, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426297."
   },
   {
     "id": "source-candidate-470426310",
@@ -544,7 +544,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - December 1991, CF01503-013, Container CF01503, 1991-12-01/1991-12-31, NAID 470426310."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - December 1991, CF01503-013, Container CF01503, 1991-12-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426310."
   },
   {
     "id": "source-candidate-470426331",
@@ -603,7 +603,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - December 1992, CF01478-015, Container CF01478, 1992-12-01/1992-12-31, NAID 470426331."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - December 1992, CF01478-015, Container CF01478, 1992-12-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426331."
   },
   {
     "id": "source-candidate-470426588",
@@ -658,7 +658,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - February 1989, CF01304-002, Container CF01304, 1989-02-01/1989-02-28, NAID 470426588."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - February 1989, CF01304-002, Container CF01304, 1989-02-01/1989-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426588."
   },
   {
     "id": "source-candidate-470426287",
@@ -711,7 +711,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - February 1990, CF01353-010, Container CF01353, 1990-02-01/1990-02-28, NAID 470426287."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - February 1990, CF01353-010, Container CF01353, 1990-02-01/1990-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426287."
   },
   {
     "id": "source-candidate-470426299",
@@ -770,7 +770,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - February 1991, CF01503-002, Container CF01503, 1991-02-01/1991-02-28, NAID 470426299."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - February 1991, CF01503-002, Container CF01503, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426299."
   },
   {
     "id": "source-candidate-470426312",
@@ -813,7 +813,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - February 1992, CF01503-015, Container CF01503, 1992-02-01/1992-02-29, NAID 470426312."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - February 1992, CF01503-015, Container CF01503, 1992-02-01/1992-02-29. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426312."
   },
   {
     "id": "source-candidate-470426286",
@@ -868,7 +868,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - January 1990, CF01353-009, Container CF01353, 1990-01-01/1990-01-31, NAID 470426286."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - January 1990, CF01353-009, Container CF01353, 1990-01-01/1990-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426286."
   },
   {
     "id": "source-candidate-470426298",
@@ -903,7 +903,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - January 1991, CF01503-001, Container CF01503, 1991-01-01/1991-01-31, NAID 470426298."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - January 1991, CF01503-001, Container CF01503, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426298."
   },
   {
     "id": "source-candidate-470426311",
@@ -960,7 +960,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - January 1992, CF01503-014, Container CF01503, 1992-01-01/1992-01-31, NAID 470426311."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - January 1992, CF01503-014, Container CF01503, 1992-01-01/1992-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426311."
   },
   {
     "id": "source-candidate-470426280",
@@ -1009,7 +1009,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - July 1989, CF01353-003, Container CF01353, 1989-07-01/1989-07-31, NAID 470426280."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - July 1989, CF01353-003, Container CF01353, 1989-07-01/1989-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426280."
   },
   {
     "id": "source-candidate-470426292",
@@ -1056,7 +1056,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - July 1990, CF01353-015, Container CF01353, 1990-07-01/1990-07-31, NAID 470426292."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - July 1990, CF01353-015, Container CF01353, 1990-07-01/1990-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426292."
   },
   {
     "id": "source-candidate-470426304",
@@ -1111,7 +1111,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - July 1991, CF01503-007, Container CF01503, 1991-07-01/1991-07-31, NAID 470426304."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - July 1991, CF01503-007, Container CF01503, 1991-07-01/1991-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426304."
   },
   {
     "id": "source-candidate-470426326",
@@ -1152,7 +1152,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - July 1992, CF01478-010, Container CF01478, 1992-07-01/1992-07-31, NAID 470426326."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - July 1992, CF01478-010, Container CF01478, 1992-07-01/1992-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426326."
   },
   {
     "id": "source-candidate-470426279",
@@ -1201,7 +1201,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - June 1989, CF01353-002, Container CF01353, 1989-06-01/1989-06-30, NAID 470426279."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - June 1989, CF01353-002, Container CF01353, 1989-06-01/1989-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426279."
   },
   {
     "id": "source-candidate-470426291",
@@ -1239,7 +1239,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - June 1990, CF01353-014, Container CF01353, 1990-06-01/1990-06-30, NAID 470426291."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - June 1990, CF01353-014, Container CF01353, 1990-06-01/1990-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426291."
   },
   {
     "id": "source-candidate-470426303",
@@ -1298,7 +1298,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - June 1991, CF01503-006, Container CF01503, 1991-06-01/1991-06-30, NAID 470426303."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - June 1991, CF01503-006, Container CF01503, 1991-06-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426303."
   },
   {
     "id": "source-candidate-470426316",
@@ -1333,7 +1333,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - June 1992 [Empty], CF01503-019, Container CF01503, 1992-06-01/1992-06-30, NAID 470426316."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - June 1992 [Empty], CF01503-019, Container CF01503, 1992-06-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426316."
   },
   {
     "id": "source-candidate-470426589",
@@ -1388,7 +1388,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - March 1989 [1], CF01304-003, Container CF01304, 1989-03-01/1989-03-31, NAID 470426589."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - March 1989 [1], CF01304-003, Container CF01304, 1989-03-01/1989-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426589."
   },
   {
     "id": "source-candidate-470426590",
@@ -1437,7 +1437,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Lebanon context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Lebanon context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - March 1989 [2], CF01304-004, Container CF01304, 1989-03-01/1989-03-31, NAID 470426590."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - March 1989 [2], CF01304-004, Container CF01304, 1989-03-01/1989-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426590."
   },
   {
     "id": "source-candidate-470426288",
@@ -1488,7 +1488,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements, Lebanon context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements, Lebanon context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - March 1990, CF01353-011, Container CF01353, 1990-03-01/1990-03-31, NAID 470426288."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - March 1990, CF01353-011, Container CF01353, 1990-03-01/1990-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426288."
   },
   {
     "id": "source-candidate-470426300",
@@ -1541,7 +1541,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - March 1991, CF01503-003, Container CF01503, 1991-03-01/1991-03-31, NAID 470426300."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - March 1991, CF01503-003, Container CF01503, 1991-03-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426300."
   },
   {
     "id": "source-candidate-470426313",
@@ -1576,7 +1576,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - March 1992 [Empty], CF01503-016, Container CF01503, 1992-03-01/1992-03-31, NAID 470426313."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - March 1992 [Empty], CF01503-016, Container CF01503, 1992-03-01/1992-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426313."
   },
   {
     "id": "source-candidate-470426278",
@@ -1629,7 +1629,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - May 1989, CF01353-001, Container CF01353, 1989-05-01/1989-05-31, NAID 470426278."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - May 1989, CF01353-001, Container CF01353, 1989-05-01/1989-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426278."
   },
   {
     "id": "source-candidate-470426290",
@@ -1676,7 +1676,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Loan guarantees/settlements, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Loan guarantees/settlements, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - May 1990, CF01353-013, Container CF01353, 1990-05-01/1990-05-31, NAID 470426290."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - May 1990, CF01353-013, Container CF01353, 1990-05-01/1990-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426290."
   },
   {
     "id": "source-candidate-470426302",
@@ -1733,7 +1733,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - May 1991, CF01503-005, Container CF01503, 1991-05-01/1991-05-31, NAID 470426302."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - May 1991, CF01503-005, Container CF01503, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426302."
   },
   {
     "id": "source-candidate-470426315",
@@ -1768,7 +1768,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - May 1992 [Empty], CF01503-018, Container CF01503, 1992-05-01/1992-05-31, NAID 470426315."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - May 1992 [Empty], CF01503-018, Container CF01503, 1992-05-01/1992-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426315."
   },
   {
     "id": "source-candidate-470426284",
@@ -1815,7 +1815,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - November 1989, CF01353-007, Container CF01353, 1989-11-01/1989-11-30, NAID 470426284."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - November 1989, CF01353-007, Container CF01353, 1989-11-01/1989-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426284."
   },
   {
     "id": "source-candidate-470426296",
@@ -1858,7 +1858,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - November 1990, CF01353-019, Container CF01353, 1990-11-01/1990-11-30, NAID 470426296."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - November 1990, CF01353-019, Container CF01353, 1990-11-01/1990-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426296."
   },
   {
     "id": "source-candidate-470426309",
@@ -1917,7 +1917,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - November 1991, CF01503-012, Container CF01503, 1991-11-01/1991-11-30, NAID 470426309."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - November 1991, CF01503-012, Container CF01503, 1991-11-01/1991-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426309."
   },
   {
     "id": "source-candidate-470426330",
@@ -1955,7 +1955,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - November 1992, CF01478-014, Container CF01478, 1992-11-01/1992-11-30, NAID 470426330."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - November 1992, CF01478-014, Container CF01478, 1992-11-01/1992-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426330."
   },
   {
     "id": "source-candidate-470426283",
@@ -2004,7 +2004,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - October 1989, CF01353-006, Container CF01353, 1989-10-01/1989-10-31, NAID 470426283."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - October 1989, CF01353-006, Container CF01353, 1989-10-01/1989-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426283."
   },
   {
     "id": "source-candidate-470426295",
@@ -2042,7 +2042,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - October 1990, CF01353-018, Container CF01353, 1990-10-01/1990-10-31, NAID 470426295."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - October 1990, CF01353-018, Container CF01353, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426295."
   },
   {
     "id": "source-candidate-470426307",
@@ -2097,7 +2097,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - October 1991 [1], CF01503-010, Container CF01503, 1991-10-01/1991-10-31, NAID 470426307."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - October 1991 [1], CF01503-010, Container CF01503, 1991-10-01/1991-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426307."
   },
   {
     "id": "source-candidate-470426308",
@@ -2152,7 +2152,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - October 1991 [2], CF01503-011, Container CF01503, 1991-10-01/1991-10-31, NAID 470426308."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - October 1991 [2], CF01503-011, Container CF01503, 1991-10-01/1991-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426308."
   },
   {
     "id": "source-candidate-470426329",
@@ -2187,7 +2187,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - October 1992, CF01478-013, Container CF01478, 1992-10-01/1992-10-31, NAID 470426329."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - October 1992, CF01478-013, Container CF01478, 1992-10-01/1992-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426329."
   },
   {
     "id": "source-candidate-470426587",
@@ -2222,7 +2222,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - Pre-administration, CF01304-001, Container CF01304, NAID 470426587."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - Pre-administration, CF01304-001, Container CF01304. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426587."
   },
   {
     "id": "source-candidate-470426282",
@@ -2265,7 +2265,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - September 1989, CF01353-005, Container CF01353, 1989-09-01/1989-09-30, NAID 470426282."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - September 1989, CF01353-005, Container CF01353, 1989-09-01/1989-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426282."
   },
   {
     "id": "source-candidate-470426294",
@@ -2300,7 +2300,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - September 1990 [Empty], CF01353-017, Container CF01353, 1990-09-01/1990-09-30, NAID 470426294."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - September 1990 [Empty], CF01353-017, Container CF01353, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426294."
   },
   {
     "id": "source-candidate-470426306",
@@ -2349,7 +2349,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - September 1991, CF01503-009, Container CF01503, 1991-09-01/1991-09-30, NAID 470426306."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - September 1991, CF01503-009, Container CF01503, 1991-09-01/1991-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426306."
   },
   {
     "id": "source-candidate-470426328",
@@ -2402,7 +2402,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - September 1992, CF01478-012, Container CF01478, 1992-09-01/1992-09-30, NAID 470426328."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, [Middle East] Peace Process - September 1992, CF01478-012, Container CF01478, 1992-09-01/1992-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426328."
   },
   {
     "id": "source-candidate-470426332",
@@ -2453,7 +2453,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, Middle East Peace Process (Miscellaneous) - January 1989-January 1993 [1], CF01478-016, Container CF01478, 1989-01-01/1993-01-31, NAID 470426332."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, Middle East Peace Process (Miscellaneous) - January 1989-January 1993 [1], CF01478-016, Container CF01478, 1989-01-01/1993-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426332."
   },
   {
     "id": "source-candidate-470426333",
@@ -2512,7 +2512,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, Middle East Peace Process (Miscellaneous) - January 1989-January 1993 [2], CF01478-017, Container CF01478, 1989-01-01/1993-01-31, NAID 470426333."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard Haass' Middle East Peace Process Files, Middle East Peace Process (Miscellaneous) - January 1989-January 1993 [2], CF01478-017, Container CF01478, 1989-01-01/1993-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426333."
   },
   {
     "id": "source-candidate-470426119",
@@ -2563,7 +2563,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - April 1992-June 1992 [1], CF80033-006, Container CF80033, 1992-04-01/1992-06-30, NAID 470426119."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - April 1992-June 1992 [1], CF80033-006, Container CF80033, 1992-04-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426119."
   },
   {
     "id": "source-candidate-470426120",
@@ -2612,7 +2612,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - April 1992-June 1992 [2], CF80033-007, Container CF80033, 1992-04-01/1992-06-30, NAID 470426120."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - April 1992-June 1992 [2], CF80033-007, Container CF80033, 1992-04-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426120."
   },
   {
     "id": "source-candidate-470426121",
@@ -2665,7 +2665,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - April 1992-June 1992 [3], CF80033-008, Container CF80033, 1992-04-01/1992-06-30, NAID 470426121."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - April 1992-June 1992 [3], CF80033-008, Container CF80033, 1992-04-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426121."
   },
   {
     "id": "source-candidate-470426122",
@@ -2712,7 +2712,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - April 1992-June 1992 [4], CF80034-001, Container CF80034, 1992-04-01/1992-06-30, NAID 470426122."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - April 1992-June 1992 [4], CF80034-001, Container CF80034, 1992-04-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426122."
   },
   {
     "id": "source-candidate-470426123",
@@ -2759,7 +2759,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - April 1992-June 1992 [5], CF80034-002, Container CF80034, 1992-04-01/1992-06-30, NAID 470426123."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - April 1992-June 1992 [5], CF80034-002, Container CF80034, 1992-04-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426123."
   },
   {
     "id": "source-candidate-470426066",
@@ -2802,7 +2802,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [1], CF80027-001, Container CF80027, 1989-08-01/1989-12-31, NAID 470426066."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [1], CF80027-001, Container CF80027, 1989-08-01/1989-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426066."
   },
   {
     "id": "source-candidate-470426067",
@@ -2849,7 +2849,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [2], CF80027-002, Container CF80027, 1989-08-01/1989-12-31, NAID 470426067."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [2], CF80027-002, Container CF80027, 1989-08-01/1989-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426067."
   },
   {
     "id": "source-candidate-470426068",
@@ -2892,7 +2892,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Lebanon context, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Israel leadership, Palestinian channel, Lebanon context, Iraq/Gulf context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [3], CF80027-003, Container CF80027, 1989-08-01/1989-12-31, NAID 470426068."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [3], CF80027-003, Container CF80027, 1989-08-01/1989-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426068."
   },
   {
     "id": "source-candidate-470426069",
@@ -2943,7 +2943,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [4], CF80027-004, Container CF80027, 1989-08-01/1989-12-31, NAID 470426069."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [4], CF80027-004, Container CF80027, 1989-08-01/1989-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426069."
   },
   {
     "id": "source-candidate-470426070",
@@ -2988,7 +2988,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Lebanon context, Iraq/Gulf context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Israel leadership, Palestinian channel, Lebanon context, Iraq/Gulf context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [5], CF80027-005, Container CF80027, NAID 470426070."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [5], CF80027-005, Container CF80027. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426070."
   },
   {
     "id": "source-candidate-470426071",
@@ -3031,7 +3031,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Israel leadership, Palestinian channel, Lebanon context, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Arab-Israeli, Israel leadership, Palestinian channel, Lebanon context, Iraq/Gulf context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [6], CF80027-006, Container CF80027, 1989-08-01/1989-12-31, NAID 470426071."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [6], CF80027-006, Container CF80027, 1989-08-01/1989-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426071."
   },
   {
     "id": "source-candidate-470426072",
@@ -3069,7 +3069,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Arab-Israeli, Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [7], CF80027-007, Container CF80027, 1989-08-01/1989-12-31, NAID 470426072."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - August 1989-December 1989 [7], CF80027-007, Container CF80027, 1989-08-01/1989-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426072."
   },
   {
     "id": "source-candidate-470426073",
@@ -3126,7 +3126,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [1], CF80027-008, Container CF80027, 1990-01-01/1990-06-30, NAID 470426073."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [1], CF80027-008, Container CF80027, 1990-01-01/1990-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426073."
   },
   {
     "id": "source-candidate-470426075",
@@ -3177,7 +3177,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [3], CF80028-001, Container CF80028, 1990-01-01/1990-06-30, NAID 470426075."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [3], CF80028-001, Container CF80028, 1990-01-01/1990-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426075."
   },
   {
     "id": "source-candidate-470426076",
@@ -3224,7 +3224,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [4], CF80028-002, Container CF80028, 1990-01-01/1990-06-30, NAID 470426076."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [4], CF80028-002, Container CF80028, 1990-01-01/1990-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426076."
   },
   {
     "id": "source-candidate-470426077",
@@ -3275,7 +3275,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [5], CF80028-003, Container CF80028, 1990-01-01/1990-06-30, NAID 470426077."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [5], CF80028-003, Container CF80028, 1990-01-01/1990-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426077."
   },
   {
     "id": "source-candidate-470426078",
@@ -3322,7 +3322,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [6], CF80028-004, Container CF80028, 1990-01-01/1990-06-30, NAID 470426078."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [6], CF80028-004, Container CF80028, 1990-01-01/1990-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426078."
   },
   {
     "id": "source-candidate-470426079",
@@ -3371,7 +3371,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [7], CF80028-005, Container CF80028, 1990-01-01/1990-06-30, NAID 470426079."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [7], CF80028-005, Container CF80028, 1990-01-01/1990-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426079."
   },
   {
     "id": "source-candidate-470426080",
@@ -3420,7 +3420,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Israel leadership, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [8], CF80028-006, Container CF80028, 1990-01-01/1990-06-30, NAID 470426080."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [8], CF80028-006, Container CF80028, 1990-01-01/1990-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426080."
   },
   {
     "id": "source-candidate-470426096",
@@ -3467,7 +3467,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Palestinian channel, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Palestinian channel, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-June 1991 [1], CF80030-007, Container CF80030, 1991-01-01/1991-06-30, NAID 470426096."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-June 1991 [1], CF80030-007, Container CF80030, 1991-01-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426096."
   },
   {
     "id": "source-candidate-470426098",
@@ -3512,7 +3512,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-June 1991 [3], CF80031-001, Container CF80031, 1991-01-01/1991-06-30, NAID 470426098."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-June 1991 [3], CF80031-001, Container CF80031, 1991-01-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426098."
   },
   {
     "id": "source-candidate-470426100",
@@ -3565,7 +3565,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-June 1991 [5], CF80031-003, Container CF80031, 1991-01-01/1991-06-30, NAID 470426100."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-June 1991 [5], CF80031-003, Container CF80031, 1991-01-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426100."
   },
   {
     "id": "source-candidate-470426090",
@@ -3608,7 +3608,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [2], CF80030-001, Container CF80030, 1991-01-01/1991-03-31, NAID 470426090."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [2], CF80030-001, Container CF80030, 1991-01-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426090."
   },
   {
     "id": "source-candidate-470426094",
@@ -3651,7 +3651,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Palestinian channel, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Israel leadership, Palestinian channel, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [6], CF80030-005, Container CF80030, 1991-01-01/1991-03-31, NAID 470426094."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [6], CF80030-005, Container CF80030, 1991-01-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426094."
   },
   {
     "id": "source-candidate-470426114",
@@ -3694,7 +3694,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Syria/Assad, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Syria/Assad, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1992-March 1992 [1], CF80033-001, Container CF80033, 1992-01-01/1992-03-31, NAID 470426114."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1992-March 1992 [1], CF80033-001, Container CF80033, 1992-01-01/1992-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426114."
   },
   {
     "id": "source-candidate-470426115",
@@ -3735,7 +3735,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1992-March 1992 [2], CF80033-002, Container CF80033, 1992-01-01/1992-03-31, NAID 470426115."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1992-March 1992 [2], CF80033-002, Container CF80033, 1992-01-01/1992-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426115."
   },
   {
     "id": "source-candidate-470426116",
@@ -3776,7 +3776,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1992-March 1992 [3], CF80033-003, Container CF80033, 1992-01-01/1992-03-31, NAID 470426116."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1992-March 1992 [3], CF80033-003, Container CF80033, 1992-01-01/1992-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426116."
   },
   {
     "id": "source-candidate-470426118",
@@ -3814,7 +3814,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1992-March 1992 [5], CF80033-005, Container CF80033, 1992-01-01/1992-03-31, NAID 470426118."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1992-March 1992 [5], CF80033-005, Container CF80033, 1992-01-01/1992-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426118."
   },
   {
     "id": "source-candidate-470426081",
@@ -3855,7 +3855,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Palestinian channel, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Israel leadership, Palestinian channel, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-December 1990 [1], CF80028-007, Container CF80028, 1990-07-01/1990-12-31, NAID 470426081."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-December 1990 [1], CF80028-007, Container CF80028, 1990-07-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426081."
   },
   {
     "id": "source-candidate-470426082",
@@ -3902,7 +3902,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-December 1990 [2], CF80029-001, Container CF80029, 1990-07-01/1990-12-31, NAID 470426082."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-December 1990 [2], CF80029-001, Container CF80029, 1990-07-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426082."
   },
   {
     "id": "source-candidate-470426083",
@@ -3953,7 +3953,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-December 1990 [3], CF80029-002, Container CF80029, 1990-07-01/1990-12-31, NAID 470426083."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-December 1990 [3], CF80029-002, Container CF80029, 1990-07-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426083."
   },
   {
     "id": "source-candidate-470426084",
@@ -4002,7 +4002,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-December 1990 [4], CF80029-003, Container CF80029, 1990-07-01/1990-12-31, NAID 470426084."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-December 1990 [4], CF80029-003, Container CF80029, 1990-07-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426084."
   },
   {
     "id": "source-candidate-470426085",
@@ -4049,7 +4049,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-January 1991 [1], CF80029-004, Container CF80029, 1990-07-01/1991-01-31, NAID 470426085."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-January 1991 [1], CF80029-004, Container CF80029, 1990-07-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426085."
   },
   {
     "id": "source-candidate-470426086",
@@ -4092,7 +4092,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-January 1991 [2], CF80029-005, Container CF80029, 1990-07-01/1991-01-31, NAID 470426086."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-January 1991 [2], CF80029-005, Container CF80029, 1990-07-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426086."
   },
   {
     "id": "source-candidate-470426087",
@@ -4139,7 +4139,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Israel leadership, Jordan/King Hussein, Loan guarantees/settlements, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Israel leadership, Jordan/King Hussein, Loan guarantees/settlements, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-January 1991 [3], CF80029-006, Container CF80029, 1990-07-01/1991-01-31, NAID 470426087."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-January 1991 [3], CF80029-006, Container CF80029, 1990-07-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426087."
   },
   {
     "id": "source-candidate-470426103",
@@ -4184,7 +4184,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [2], CF80031-006, Container CF80031, 1991-06-01/1991-09-30, NAID 470426103."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [2], CF80031-006, Container CF80031, 1991-06-01/1991-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426103."
   },
   {
     "id": "source-candidate-470426105",
@@ -4231,7 +4231,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [4], CF80031-008, Container CF80031, 1991-06-01/1991-09-30, NAID 470426105."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [4], CF80031-008, Container CF80031, 1991-06-01/1991-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426105."
   },
   {
     "id": "source-candidate-470426106",
@@ -4278,7 +4278,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Israel leadership, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Israel leadership, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [5], CF80032-001, Container CF80032, 1991-06-01/1991-09-30, NAID 470426106."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [5], CF80032-001, Container CF80032, 1991-06-01/1991-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426106."
   },
   {
     "id": "source-candidate-470426107",
@@ -4323,7 +4323,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [6], CF80032-002, Container CF80032, 1991-06-01/1991-09-30, NAID 470426107."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [6], CF80032-002, Container CF80032, 1991-06-01/1991-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426107."
   },
   {
     "id": "source-candidate-470426108",
@@ -4370,7 +4370,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [7], CF80032-003, Container CF80032, 1991-06-01/1991-09-30, NAID 470426108."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [7], CF80032-003, Container CF80032, 1991-06-01/1991-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426108."
   },
   {
     "id": "source-candidate-470426124",
@@ -4415,7 +4415,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [1], CF80034-003, Container CF80034, 1992-06-01/1992-08-31, NAID 470426124."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [1], CF80034-003, Container CF80034, 1992-06-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426124."
   },
   {
     "id": "source-candidate-470426126",
@@ -4466,7 +4466,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [3], CF80034-005, Container CF80034, 1992-06-01/1992-08-31, NAID 470426126."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [3], CF80034-005, Container CF80034, 1992-06-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426126."
   },
   {
     "id": "source-candidate-470426127",
@@ -4513,7 +4513,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [4], CF80034-006, Container CF80034, 1992-06-01/1992-08-31, NAID 470426127."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [4], CF80034-006, Container CF80034, 1992-06-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426127."
   },
   {
     "id": "source-candidate-470426128",
@@ -4556,7 +4556,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [5], CF80034-007, Container CF80034, 1992-06-01/1992-08-31, NAID 470426128."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [5], CF80034-007, Container CF80034, 1992-06-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426128."
   },
   {
     "id": "source-candidate-470426109",
@@ -4601,7 +4601,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - October 1991-December 1991 [1], CF80032-004, Container CF80032, 1991-10-01/1991-12-31, NAID 470426109."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - October 1991-December 1991 [1], CF80032-004, Container CF80032, 1991-10-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426109."
   },
   {
     "id": "source-candidate-470426110",
@@ -4646,7 +4646,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - October 1991-December 1991 [2], CF80032-005, Container CF80032, 1991-10-01/1991-12-31, NAID 470426110."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - October 1991-December 1991 [2], CF80032-005, Container CF80032, 1991-10-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426110."
   },
   {
     "id": "source-candidate-470426111",
@@ -4697,7 +4697,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - October 1991-December 1991 [3], CF80032-006, Container CF80032, 1991-10-01/1991-12-31, NAID 470426111."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - October 1991-December 1991 [3], CF80032-006, Container CF80032, 1991-10-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426111."
   },
   {
     "id": "source-candidate-470426112",
@@ -4748,7 +4748,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - October 1991-December 1991 [4], CF80032-007, Container CF80032, 1991-10-01/1991-12-31, NAID 470426112."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - October 1991-December 1991 [4], CF80032-007, Container CF80032, 1991-10-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426112."
   },
   {
     "id": "source-candidate-470426113",
@@ -4797,7 +4797,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - October 1991-December 1991 [5], CF80032-008, Container CF80032, 1991-10-01/1991-12-31, NAID 470426113."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - October 1991-December 1991 [5], CF80032-008, Container CF80032, 1991-10-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426113."
   },
   {
     "id": "source-candidate-470426131",
@@ -4846,7 +4846,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [1], CF80035-002, Container CF80035, 1992-09-01/1992-12-31, NAID 470426131."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [1], CF80035-002, Container CF80035, 1992-09-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426131."
   },
   {
     "id": "source-candidate-470426132",
@@ -4889,7 +4889,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [2], CF80035-003, Container CF80035, 1992-09-01/1992-12-31, NAID 470426132."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [2], CF80035-003, Container CF80035, 1992-09-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426132."
   },
   {
     "id": "source-candidate-470426133",
@@ -4938,7 +4938,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [3], CF80035-004, Container CF80035, 1992-09-01/1992-12-31, NAID 470426133."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [3], CF80035-004, Container CF80035, 1992-09-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426133."
   },
   {
     "id": "source-candidate-470426134",
@@ -4991,7 +4991,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [4], CF80035-005, Container CF80035, 1992-09-01/1992-12-31, NAID 470426134."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [4], CF80035-005, Container CF80035, 1992-09-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426134."
   },
   {
     "id": "source-candidate-470426135",
@@ -5044,7 +5044,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [5], CF80035-006, Container CF80035, 1992-09-01/1992-12-31, NAID 470426135."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [5], CF80035-006, Container CF80035, 1992-09-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426135."
   },
   {
     "id": "source-candidate-470426136",
@@ -5093,7 +5093,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [6], CF80035-007, Container CF80035, 1992-09-01/1992-12-31, NAID 470426136."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [6], CF80035-007, Container CF80035, 1992-09-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426136."
   },
   {
     "id": "source-candidate-470426138",
@@ -5134,7 +5134,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Palestinian channel, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Israel leadership, Palestinian channel, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, [July phone messages (1992)], CF01479-001, Container CF01479, 1992-07-01/1992-07-31, NAID 470426138."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, [July phone messages (1992)], CF01479-001, Container CF01479, 1992-07-01/1992-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426138."
   },
   {
     "id": "source-candidate-470426145",
@@ -5169,7 +5169,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Loan guarantees/settlements, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Loan guarantees/settlements, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters on Kashmir, CF01479-008, Container CF01479, NAID 470426145."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters on Kashmir, CF01479-008, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426145."
   },
   {
     "id": "source-candidate-470426140",
@@ -5222,7 +5222,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters to General Scowcroft Re: War in Iraq [2], CF01479-003, Container CF01479, NAID 470426140."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters to General Scowcroft Re: War in Iraq [2], CF01479-003, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426140."
   },
   {
     "id": "source-candidate-470426141",
@@ -5271,7 +5271,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters to General Scowcroft Re: War in Iraq [3], CF01479-004, Container CF01479, NAID 470426141."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters to General Scowcroft Re: War in Iraq [3], CF01479-004, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426141."
   },
   {
     "id": "source-candidate-470426142",
@@ -5322,7 +5322,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters to General Scowcroft Re: War in Iraq [4], CF01479-005, Container CF01479, NAID 470426142."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters to General Scowcroft Re: War in Iraq [4], CF01479-005, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426142."
   },
   {
     "id": "source-candidate-470426143",
@@ -5371,7 +5371,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters to General Scowcroft Re: War in Iraq [5], CF01479-006, Container CF01479, NAID 470426143."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters to General Scowcroft Re: War in Iraq [5], CF01479-006, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426143."
   },
   {
     "id": "source-candidate-470426144",
@@ -5420,7 +5420,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters to General Scowcroft Re: War in Iraq [6], CF01479-007, Container CF01479, NAID 470426144."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters to General Scowcroft Re: War in Iraq [6], CF01479-007, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426144."
   },
   {
     "id": "source-candidate-470426139",
@@ -5473,7 +5473,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters to General Scowcroft Re: War in Iraq+ [1], CF01479-002, Container CF01479, NAID 470426139."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Letters to General Scowcroft Re: War in Iraq+ [1], CF01479-002, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426139."
   },
   {
     "id": "source-candidate-470426146",
@@ -5526,7 +5526,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #1 [answered by Richard Haass] [1], CF01479-009, Container CF01479, NAID 470426146."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #1 [answered by Richard Haass] [1], CF01479-009, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426146."
   },
   {
     "id": "source-candidate-470426147",
@@ -5585,7 +5585,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #1 [answered by Richard Haass] [2], CF01479-010, Container CF01479, NAID 470426147."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #1 [answered by Richard Haass] [2], CF01479-010, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426147."
   },
   {
     "id": "source-candidate-470426148",
@@ -5644,7 +5644,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #1 [answered by Richard Haass] [3], CF01479-011, Container CF01479, NAID 470426148."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #1 [answered by Richard Haass] [3], CF01479-011, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426148."
   },
   {
     "id": "source-candidate-470426149",
@@ -5707,7 +5707,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, Haass notes/notebooks, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, Haass notes/notebooks, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #2 [answered by Richard Haass] [1], CF01479-012, Container CF01479, NAID 470426149."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #2 [answered by Richard Haass] [1], CF01479-012, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426149."
   },
   {
     "id": "source-candidate-470426150",
@@ -5766,7 +5766,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #2 [answered by Richard Haass] [2], CF01479-013, Container CF01479, NAID 470426150."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #2 [answered by Richard Haass] [2], CF01479-013, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426150."
   },
   {
     "id": "source-candidate-470426151",
@@ -5823,7 +5823,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #2 [answered by Richard Haass] [3], CF01479-014, Container CF01479, NAID 470426151."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #2 [answered by Richard Haass] [3], CF01479-014, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426151."
   },
   {
     "id": "source-candidate-470426152",
@@ -5880,7 +5880,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #2 [answered by Richard Haass] [4], CF01479-015, Container CF01479, NAID 470426152."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Correspondence Files, Miscellaneous Correspondence #2 [answered by Richard Haass] [4], CF01479-015, Container CF01479. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426152."
   },
   {
     "id": "source-candidate-470426256",
@@ -5935,7 +5935,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, 1991 - Speech File (President and General), CF01447-014, Container CF01447, 1991-01-01/1991-12-31, NAID 470426256."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, 1991 - Speech File (President and General), CF01447-014, Container CF01447, 1991-01-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426256."
   },
   {
     "id": "source-candidate-470426255",
@@ -5976,7 +5976,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Afghanistan - Charles, CF01447-013, Container CF01447, NAID 470426255."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Afghanistan - Charles, CF01447-013, Container CF01447. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426255."
   },
   {
     "id": "source-candidate-470426210",
@@ -6017,7 +6017,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - July 1, 1992 Re: Iraq, CF01618-036, Container CF01618, 1992-07-01, NAID 470426210."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - July 1, 1992 Re: Iraq, CF01618-036, Container CF01618, 1992-07-01. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426210."
   },
   {
     "id": "source-candidate-470426190",
@@ -6070,7 +6070,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Minutes August 1990-May 1991 Re: Persian Gulf, CF01618-016, Container CF01618, 1990-08-01/1991-05-31, NAID 470426190."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Minutes August 1990-May 1991 Re: Persian Gulf, CF01618-016, Container CF01618, 1990-08-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426190."
   },
   {
     "id": "source-candidate-470426241",
@@ -6115,7 +6115,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Teleconference - November 23, 1990 Re: U.S. Presence in Kuwait, Iraq, and Region, CF01625-030, Container CF01625, 1990-11-23, NAID 470426241."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Teleconference - November 23, 1990 Re: U.S. Presence in Kuwait, Iraq, and Region, CF01625-030, Container CF01625, 1990-11-23. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426241."
   },
   {
     "id": "source-candidate-470426243",
@@ -6164,7 +6164,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Incoming Presidential Correspondence - 1991, CF01447-001, Container CF01447, 1991-01-01/1991-12-31, NAID 470426243."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Incoming Presidential Correspondence - 1991, CF01447-001, Container CF01447, 1991-01-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426243."
   },
   {
     "id": "source-candidate-470426213",
@@ -6205,7 +6205,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - March 29, 1989 re: Middle East Peace Process, CF01625-002, Container CF01625, 1989-03-29, NAID 470426213."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - March 29, 1989 re: Middle East Peace Process, CF01625-002, Container CF01625, 1989-03-29. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426213."
   },
   {
     "id": "source-candidate-470426211",
@@ -6240,7 +6240,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - March 27-29, 1992 re: Middle East Peace Process, CF01618-037, Container CF01618, 1992-03-27/1992-03-29, NAID 470426211."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - March 27-29, 1992 re: Middle East Peace Process, CF01618-037, Container CF01618, 1992-03-27/1992-03-29. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426211."
   },
   {
     "id": "source-candidate-470426240",
@@ -6285,7 +6285,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC Meeting - October 9, 1990 Re: Pakistan, CF01625-029, Container CF01625, 1990-10-09, NAID 470426240."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC Meeting - October 9, 1990 Re: Pakistan, CF01625-029, Container CF01625, 1990-10-09. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426240."
   },
   {
     "id": "source-candidate-470426244",
@@ -6340,7 +6340,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Outgoing Presidential Correspondence - 1991 [1], CF01447-002, Container CF01447, 1991-01-01/1991-12-31, NAID 470426244."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Outgoing Presidential Correspondence - 1991 [1], CF01447-002, Container CF01447, 1991-01-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426244."
   },
   {
     "id": "source-candidate-470426245",
@@ -6391,7 +6391,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Outgoing Presidential Correspondence - 1991 [2], CF01447-003, Container CF01447, 1991-01-01/1991-12-31, NAID 470426245."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Outgoing Presidential Correspondence - 1991 [2], CF01447-003, Container CF01447, 1991-01-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426245."
   },
   {
     "id": "source-candidate-470426246",
@@ -6448,7 +6448,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Outgoing Presidential Correspondence - 1991 [3], CF01447-004, Container CF01447, 1991-01-01/1991-12-31, NAID 470426246."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Outgoing Presidential Correspondence - 1991 [3], CF01447-004, Container CF01447, 1991-01-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426246."
   },
   {
     "id": "source-candidate-470426247",
@@ -6499,7 +6499,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Outgoing Presidential Correspondence - 1991 [4], CF01447-005, Container CF01447, 1991-01-01/1991-12-31, NAID 470426247."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Outgoing Presidential Correspondence - 1991 [4], CF01447-005, Container CF01447, 1991-01-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426247."
   },
   {
     "id": "source-candidate-470426262",
@@ -6546,7 +6546,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with [Egyptian President Hosni] Mubarak - June 15, 1992, CF01447-020, Container CF01447, 1992-06-15, NAID 470426262."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with [Egyptian President Hosni] Mubarak - June 15, 1992, CF01447-020, Container CF01447, 1992-06-15. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426262."
   },
   {
     "id": "source-candidate-470426257",
@@ -6593,7 +6593,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with Cardinal [John] O'Connor - September 16, 1992, CF01447-015, Container CF01447, 1992-09-16, NAID 470426257."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with Cardinal [John] O'Connor - September 16, 1992, CF01447-015, Container CF01447, 1992-09-16. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426257."
   },
   {
     "id": "source-candidate-470426273",
@@ -6648,7 +6648,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with King Hussein [of Jordan] - December 16, 1992, CF01726-007, Container CF01726, 1992-12-16, NAID 470426273."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with King Hussein [of Jordan] - December 16, 1992, CF01726-007, Container CF01726, 1992-12-16. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426273."
   },
   {
     "id": "source-candidate-470426276",
@@ -6707,7 +6707,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with King Hussein of Jordan - March 12, 1992, CF01726-010, Container CF01726, 1992-03-12, NAID 470426276."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with King Hussein of Jordan - March 12, 1992, CF01726-010, Container CF01726, 1992-03-12. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426276."
   },
   {
     "id": "source-candidate-470426264",
@@ -6752,7 +6752,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Loan guarantees/settlements, Iraq/Gulf context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Israel leadership, Loan guarantees/settlements, Iraq/Gulf context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with Max Fisher - March 10, 1992, CF01447-022, Container CF01447, 1992-03-10, NAID 470426264."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with Max Fisher - March 10, 1992, CF01447-022, Container CF01447, 1992-03-10. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426264."
   },
   {
     "id": "source-candidate-470426272",
@@ -6813,7 +6813,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with MEP [Middle East Peace] Delegations - December 17, 1992, CF01726-006, Container CF01726, 1992-12-17, NAID 470426272."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with MEP [Middle East Peace] Delegations - December 17, 1992, CF01726-006, Container CF01726, 1992-12-17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426272."
   },
   {
     "id": "source-candidate-470426266",
@@ -6856,7 +6856,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with Prime Minister Zia of Bangladesh - March 19, 1992, CF01447-024, Container CF01447, 1992-03-19, NAID 470426266."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with Prime Minister Zia of Bangladesh - March 19, 1992, CF01447-024, Container CF01447, 1992-03-19. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426266."
   },
   {
     "id": "source-candidate-470426265",
@@ -6899,7 +6899,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with Rabbi Shapiro - March 9, 1992, CF01447-023, Container CF01447, 1992-03-09, NAID 470426265."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with Rabbi Shapiro - March 9, 1992, CF01447-023, Container CF01447, 1992-03-09. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426265."
   },
   {
     "id": "source-candidate-470426271",
@@ -6956,7 +6956,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with the Palestinian Delegation - December 18, 1992, CF01726-005, Container CF01726, 1992-12-18, NAID 470426271."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with the Palestinian Delegation - December 18, 1992, CF01726-005, Container CF01726, 1992-12-18. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426271."
   },
   {
     "id": "source-candidate-470426251",
@@ -6997,7 +6997,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Palestinian channel, Jordan/King Hussein, Lebanon context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Palestinian channel, Jordan/King Hussein, Lebanon context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Presidential Correspondence - 1989, CF01447-009, Container CF01447, 1989-01-01/1989-12-31, NAID 470426251."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Presidential Correspondence - 1989, CF01447-009, Container CF01447, 1989-01-01/1989-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426251."
   },
   {
     "id": "source-candidate-470426267",
@@ -7044,7 +7044,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Presidential Participation in UNSC [United Nations Security Council] Summit - January 31, 1992, CF01447-025, Container CF01447, 1992-01-31, NAID 470426267."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Presidential Participation in UNSC [United Nations Security Council] Summit - January 31, 1992, CF01447-025, Container CF01447, 1992-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426267."
   },
   {
     "id": "source-candidate-470426249",
@@ -7099,7 +7099,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Presidential Telephone Calls - 1990 [1], CF01447-007, Container CF01447, 1990-01-01/1990-12-31, NAID 470426249."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Presidential Telephone Calls - 1990 [1], CF01447-007, Container CF01447, 1990-01-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426249."
   },
   {
     "id": "source-candidate-470426250",
@@ -7146,7 +7146,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Presidential Telephone Calls - 1990 [2], CF01447-008, Container CF01447, 1990-01-01/1990-12-31, NAID 470426250."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Presidential Telephone Calls - 1990 [2], CF01447-008, Container CF01447, 1990-01-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426250."
   },
   {
     "id": "source-candidate-470426248",
@@ -7201,7 +7201,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Presidential Telephone Calls - 1991, CF01447-006, Container CF01447, 1991-01-01/1991-12-31, NAID 470426248."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Presidential Telephone Calls - 1991, CF01447-006, Container CF01447, 1991-01-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426248."
   },
   {
     "id": "source-candidate-470426263",
@@ -7239,7 +7239,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Israel leadership, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Presidential Visit with Mayor Teddy Kolleck of Jerusalem - May 27,1992, CF01447-021, Container CF01447, 1992-05-27, NAID 470426263."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Presidential Visit with Mayor Teddy Kolleck of Jerusalem - May 27,1992, CF01447-021, Container CF01447, 1992-05-27. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426263."
   },
   {
     "id": "source-candidate-470426479",
@@ -7282,7 +7282,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Jordan/King Hussein, Lebanon context, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Jordan/King Hussein, Lebanon context, Iraq/Gulf context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [1], CF01937-023, Container CF01937, NAID 470426479."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [1], CF01937-023, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426479."
   },
   {
     "id": "source-candidate-470426488",
@@ -7335,7 +7335,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [10], CF01937-032, Container CF01937, NAID 470426488."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [10], CF01937-032, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426488."
   },
   {
     "id": "source-candidate-470426489",
@@ -7382,7 +7382,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [11], CF01937-033, Container CF01937, NAID 470426489."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [11], CF01937-033, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426489."
   },
   {
     "id": "source-candidate-470426482",
@@ -7431,7 +7431,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [4], CF01937-026, Container CF01937, NAID 470426482."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [4], CF01937-026, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426482."
   },
   {
     "id": "source-candidate-470426483",
@@ -7486,7 +7486,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [5], CF01937-027, Container CF01937, NAID 470426483."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [5], CF01937-027, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426483."
   },
   {
     "id": "source-candidate-470426484",
@@ -7543,7 +7543,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [6], CF01937-028, Container CF01937, NAID 470426484."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [6], CF01937-028, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426484."
   },
   {
     "id": "source-candidate-470426448",
@@ -7596,7 +7596,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, 1990 - Presidential Correspondence [1], CF01551-009, Container CF01551, 1990-01-01/1990-12-31, NAID 470426448."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, 1990 - Presidential Correspondence [1], CF01551-009, Container CF01551, 1990-01-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426448."
   },
   {
     "id": "source-candidate-470426449",
@@ -7649,7 +7649,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, 1990 - Presidential Correspondence [2], CF01551-010, Container CF01551, 1990-01-01/1990-12-31, NAID 470426449."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, 1990 - Presidential Correspondence [2], CF01551-010, Container CF01551, 1990-01-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426449."
   },
   {
     "id": "source-candidate-470426441",
@@ -7708,7 +7708,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Arab-Americans - November 15, 1991, CF01551-002, Container CF01551, 1991-11-15, NAID 470426441."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Arab-Americans - November 15, 1991, CF01551-002, Container CF01551, 1991-11-15. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426441."
   },
   {
     "id": "source-candidate-470426453",
@@ -7757,7 +7757,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Concurrences - January/February 1991 [2], CF01551-014, Container CF01551, 1991-01-01/1991-02-28, NAID 470426453."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Concurrences - January/February 1991 [2], CF01551-014, Container CF01551, 1991-01-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426453."
   },
   {
     "id": "source-candidate-470426447",
@@ -7810,7 +7810,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Congressional Meetings, CF01551-008, Container CF01551, NAID 470426447."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Congressional Meetings, CF01551-008, Container CF01551. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426447."
   },
   {
     "id": "source-candidate-470426443",
@@ -7861,7 +7861,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, President's Meeting with Jewish Leaders - November 21, 1991, CF01551-004, Container CF01551, 1991-11-21, NAID 470426443."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, President's Meeting with Jewish Leaders - November 21, 1991, CF01551-004, Container CF01551, 1991-11-21. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426443."
   },
   {
     "id": "source-candidate-470426442",
@@ -7908,7 +7908,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Presidential Determinations, CF01551-003, Container CF01551, NAID 470426442."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Presidential Determinations, CF01551-003, Container CF01551. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426442."
   },
   {
     "id": "source-candidate-470426455",
@@ -7959,7 +7959,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Presidential Meetings (Public Relations), CF01551-016, Container CF01551, NAID 470426455."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Presidential Meetings (Public Relations), CF01551-016, Container CF01551. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426455."
   },
   {
     "id": "source-candidate-470426445",
@@ -8004,7 +8004,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Reports to Congress [Iran, Iraq, Pakistan], CF01551-006, Container CF01551, NAID 470426445."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Reports to Congress [Iran, Iraq, Pakistan], CF01551-006, Container CF01551. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426445."
   },
   {
     "id": "source-candidate-470426465",
@@ -8049,7 +8049,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, The Iraq/Kuwait Crisis: United States Policy in the Middle East by Saad Saleh Jabr, CF01937-009, Container CF01937, NAID 470426465."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, The Iraq/Kuwait Crisis: United States Policy in the Middle East by Saad Saleh Jabr, CF01937-009, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426465."
   },
   {
     "id": "source-candidate-470426490",
@@ -8096,7 +8096,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [1], CF01616-001, Container CF01616, NAID 470426490."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [1], CF01616-001, Container CF01616. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426490."
   },
   {
     "id": "source-candidate-470426491",
@@ -8137,7 +8137,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Jordan/King Hussein, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Israel leadership, Jordan/King Hussein, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [2], CF01616-002, Container CF01616, NAID 470426491."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [2], CF01616-002, Container CF01616. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426491."
   },
   {
     "id": "source-candidate-470426492",
@@ -8175,7 +8175,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Israel leadership, Iraq/Gulf context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [3], CF01616-003, Container CF01616, NAID 470426492."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [3], CF01616-003, Container CF01616. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426492."
   },
   {
     "id": "source-candidate-470426495",
@@ -8220,7 +8220,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [6], CF01616-006, Container CF01616, NAID 470426495."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [6], CF01616-006, Container CF01616. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426495."
   },
   {
     "id": "source-candidate-470426157",
@@ -8261,7 +8261,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Palestinian channel, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Palestinian channel, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: Trip Materials - Visit of Gates, Kelly, and Haass to South Asia - May 1990 [2 of 6], CF01939-004, Container CF01939, 1990-05-01/1990-05-31, NAID 470426157."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: Trip Materials - Visit of Gates, Kelly, and Haass to South Asia - May 1990 [2 of 6], CF01939-004, Container CF01939, 1990-05-01/1990-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426157."
   },
   {
     "id": "source-candidate-470426161",
@@ -8302,7 +8302,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Palestinian channel, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Palestinian channel, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: Trip Materials - Visit of Gates, Kelly, and Haass to South Asia - May 1990 [6 of 6], CF01939-008, Container CF01939, 1990-05-01/1990-05-31, NAID 470426161."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: Trip Materials - Visit of Gates, Kelly, and Haass to South Asia - May 1990 [6 of 6], CF01939-008, Container CF01939, 1990-05-01/1990-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426161."
   },
   {
     "id": "source-candidate-470426474",
@@ -8337,7 +8337,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to Boston, Massachusetts - November 27, 1991, CF01937-018, Container CF01937, 1991-11-27, NAID 470426474."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to Boston, Massachusetts - November 27, 1991, CF01937-018, Container CF01937, 1991-11-27. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426474."
   },
   {
     "id": "source-candidate-470426476",
@@ -8369,7 +8369,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to Madrid - October 28-30, 1991, CF01937-020, Container CF01937, 1991-10-28/1991-10-30, NAID 470426476."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to Madrid - October 28-30, 1991, CF01937-020, Container CF01937, 1991-10-28/1991-10-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426476."
   },
   {
     "id": "source-candidate-470426470",
@@ -8410,7 +8410,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Iraq/Gulf context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Iraq/Gulf context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to New York, New York - April 13, 1992, CF01937-014, Container CF01937, 1992-04-13, NAID 470426470."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to New York, New York - April 13, 1992, CF01937-014, Container CF01937, 1992-04-13. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426470."
   },
   {
     "id": "source-candidate-470426471",
@@ -8459,7 +8459,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Loan guarantees/settlements, Iraq/Gulf context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Loan guarantees/settlements, Iraq/Gulf context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to Portland, Oregon - February 13-17, 1992, CF01937-015, Container CF01937, 1992-02-13/1992-02-17, NAID 470426471."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to Portland, Oregon - February 13-17, 1992, CF01937-015, Container CF01937, 1992-02-13/1992-02-17. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426471."
   },
   {
     "id": "source-candidate-470426514",
@@ -8500,7 +8500,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Lebanon context, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Lebanon context, Iraq/Gulf context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, South Asia Trip - September 21-28, 1989, CF01352-019, Container CF01352, 1989-09-21/1989-09-28, NAID 470426514."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, South Asia Trip - September 21-28, 1989, CF01352-019, Container CF01352, 1989-09-21/1989-09-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426514."
   },
   {
     "id": "source-candidate-470426515",
@@ -8541,7 +8541,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Lebanon context, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Lebanon context, Iraq/Gulf context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to England and France - March 27, 1990-April 1, 1990, CF01352-020, Container CF01352, 1990-03-27/1990-04-01, NAID 470426515."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to England and France - March 27, 1990-April 1, 1990, CF01352-020, Container CF01352, 1990-03-27/1990-04-01. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426515."
   },
   {
     "id": "source-candidate-470426499",
@@ -8594,7 +8594,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Middle East - November 3-10, 1990 (with Secretary Baker), CF01352-003, Container CF01352, 1990-11-03/1990-11-10, NAID 470426499."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Middle East - November 3-10, 1990 (with Secretary Baker), CF01352-003, Container CF01352, 1990-11-03/1990-11-10. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426499."
   },
   {
     "id": "source-candidate-470426505",
@@ -8632,7 +8632,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to New York - May 10-13, 1991, CF01352-009, Container CF01352, 1991-05-10/1991-05-13, NAID 470426505."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to New York - May 10-13, 1991, CF01352-009, Container CF01352, 1991-05-10/1991-05-13. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426505."
   },
   {
     "id": "source-candidate-470426507",
@@ -8683,7 +8683,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to NY, Germany, and Turkey - June 6-11, 1991, CF01352-011, Container CF01352, 1991-06-06/1991-06-11, NAID 470426507."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to NY, Germany, and Turkey - June 6-11, 1991, CF01352-011, Container CF01352, 1991-06-06/1991-06-11. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426507."
   },
   {
     "id": "source-candidate-470426509",
@@ -8732,7 +8732,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Saudi Arabia, Bahrain, UAE, Iraq, Kuwait - May 10-19, 1990, CF01352-013, Container CF01352, 1990-05-10/1990-05-19, NAID 470426509."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Saudi Arabia, Bahrain, UAE, Iraq, Kuwait - May 10-19, 1990, CF01352-013, Container CF01352, 1990-05-10/1990-05-19. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426509."
   },
   {
     "id": "source-candidate-470426464",
@@ -8781,7 +8781,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Travel Vouchers for William Burns, CF01937-008, Container CF01937, NAID 470426464."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Travel Vouchers for William Burns, CF01937-008, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426464."
   },
   {
     "id": "source-candidate-470426335",
@@ -8832,7 +8832,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Haass, Richard N. - Personnel File, CF01478-019, Container CF01478, NAID 470426335."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Haass, Richard N. - Personnel File, CF01478-019, Container CF01478. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426335."
   },
   {
     "id": "source-candidate-470426340",
@@ -8883,7 +8883,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [1], CF01478-024, Container CF01478, 1990-08-02/1990-12-31, NAID 470426340."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [1], CF01478-024, Container CF01478, 1990-08-02/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426340."
   },
   {
     "id": "source-candidate-470426341",
@@ -8932,7 +8932,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [2], CF01478-025, Container CF01478, 1990-08-02/1990-12-31, NAID 470426341."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [2], CF01478-025, Container CF01478, 1990-08-02/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426341."
   },
   {
     "id": "source-candidate-470426342",
@@ -8975,7 +8975,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [3], CF01478-026, Container CF01478, 1990-08-02/1990-12-31, NAID 470426342."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [3], CF01478-026, Container CF01478, 1990-08-02/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426342."
   },
   {
     "id": "source-candidate-470426343",
@@ -9022,7 +9022,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [4], CF01478-027, Container CF01478, 1990-08-02/1990-12-31, NAID 470426343."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [4], CF01478-027, Container CF01478, 1990-08-02/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426343."
   },
   {
     "id": "source-candidate-470426344",
@@ -9079,7 +9079,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [5], CF01478-028, Container CF01478, 1990-08-02/1990-12-31, NAID 470426344."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [5], CF01478-028, Container CF01478, 1990-08-02/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426344."
   },
   {
     "id": "source-candidate-470426345",
@@ -9126,7 +9126,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [6], CF01478-029, Container CF01478, 1990-08-02/1990-12-31, NAID 470426345."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [6], CF01478-029, Container CF01478, 1990-08-02/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426345."
   },
   {
     "id": "source-candidate-470426347",
@@ -9177,7 +9177,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [8], CF01478-031, Container CF01478, 1990-08-02/1990-12-31, NAID 470426347."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [8], CF01478-031, Container CF01478, 1990-08-02/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426347."
   },
   {
     "id": "source-candidate-470426541",
@@ -9226,7 +9226,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1990 [1], CF01584-022, Container CF01584, 1990-12-01/1990-12-31, NAID 470426541."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1990 [1], CF01584-022, Container CF01584, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426541."
   },
   {
     "id": "source-candidate-470426542",
@@ -9277,7 +9277,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1990 [2], CF01584-023, Container CF01584, 1990-12-01/1990-12-31, NAID 470426542."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1990 [2], CF01584-023, Container CF01584, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426542."
   },
   {
     "id": "source-candidate-470426543",
@@ -9326,7 +9326,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1990 [3], CF01584-024, Container CF01584, 1990-12-01/1990-12-31, NAID 470426543."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1990 [3], CF01584-024, Container CF01584, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426543."
   },
   {
     "id": "source-candidate-470426544",
@@ -9375,7 +9375,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Loan guarantees/settlements, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Loan guarantees/settlements, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1990 [4], CF01584-025, Container CF01584, 1990-12-01/1990-12-31, NAID 470426544."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1990 [4], CF01584-025, Container CF01584, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426544."
   },
   {
     "id": "source-candidate-470426545",
@@ -9430,7 +9430,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1990 [5], CF01584-026, Container CF01584, 1990-12-01/1990-12-31, NAID 470426545."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1990 [5], CF01584-026, Container CF01584, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426545."
   },
   {
     "id": "source-candidate-470426522",
@@ -9487,7 +9487,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [1], CF01584-003, Container CF01584, 1991-02-01/1991-02-28, NAID 470426522."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [1], CF01584-003, Container CF01584, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426522."
   },
   {
     "id": "source-candidate-470426523",
@@ -9538,7 +9538,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [2], CF01584-004, Container CF01584, 1991-02-01/1991-02-28, NAID 470426523."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [2], CF01584-004, Container CF01584, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426523."
   },
   {
     "id": "source-candidate-470426524",
@@ -9589,7 +9589,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [3], CF01584-005, Container CF01584, 1991-02-01/1991-02-28, NAID 470426524."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [3], CF01584-005, Container CF01584, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426524."
   },
   {
     "id": "source-candidate-470426525",
@@ -9640,7 +9640,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [4], CF01584-006, Container CF01584, 1991-02-01/1991-02-28, NAID 470426525."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [4], CF01584-006, Container CF01584, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426525."
   },
   {
     "id": "source-candidate-470426526",
@@ -9691,7 +9691,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [5], CF01584-007, Container CF01584, 1991-02-01/1991-02-28, NAID 470426526."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [5], CF01584-007, Container CF01584, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426526."
   },
   {
     "id": "source-candidate-470426527",
@@ -9742,7 +9742,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [6], CF01584-008, Container CF01584, 1991-02-01/1991-02-28, NAID 470426527."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [6], CF01584-008, Container CF01584, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426527."
   },
   {
     "id": "source-candidate-470426528",
@@ -9789,7 +9789,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [7], CF01584-009, Container CF01584, 1991-02-01/1991-02-28, NAID 470426528."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1991 [7], CF01584-009, Container CF01584, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426528."
   },
   {
     "id": "source-candidate-470426529",
@@ -9834,7 +9834,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [1], CF01584-010, Container CF01584, 1991-01-01/1991-01-31, NAID 470426529."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [1], CF01584-010, Container CF01584, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426529."
   },
   {
     "id": "source-candidate-470426538",
@@ -9877,7 +9877,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [10], CF01584-019, Container CF01584, 1991-01-01/1991-01-31, NAID 470426538."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [10], CF01584-019, Container CF01584, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426538."
   },
   {
     "id": "source-candidate-470426539",
@@ -9926,7 +9926,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [11], CF01584-020, Container CF01584, 1991-01-01/1991-01-31, NAID 470426539."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [11], CF01584-020, Container CF01584, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426539."
   },
   {
     "id": "source-candidate-470426540",
@@ -9981,7 +9981,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [12], CF01584-021, Container CF01584, 1991-01-01/1991-01-31, NAID 470426540."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [12], CF01584-021, Container CF01584, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426540."
   },
   {
     "id": "source-candidate-470426531",
@@ -10036,7 +10036,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [3], CF01584-012, Container CF01584, 1991-01-01/1991-01-31, NAID 470426531."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [3], CF01584-012, Container CF01584, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426531."
   },
   {
     "id": "source-candidate-470426533",
@@ -10081,7 +10081,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [5], CF01584-014, Container CF01584, 1991-01-01/1991-01-31, NAID 470426533."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [5], CF01584-014, Container CF01584, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426533."
   },
   {
     "id": "source-candidate-470426535",
@@ -10122,7 +10122,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Israel leadership, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Arab-Israeli, Israel leadership, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [7], CF01584-016, Container CF01584, 1991-01-01/1991-01-31, NAID 470426535."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [7], CF01584-016, Container CF01584, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426535."
   },
   {
     "id": "source-candidate-470426537",
@@ -10169,7 +10169,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [9], CF01584-018, Container CF01584, 1991-01-01/1991-01-31, NAID 470426537."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [9], CF01584-018, Container CF01584, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426537."
   },
   {
     "id": "source-candidate-470426568",
@@ -10212,7 +10212,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1992, CF01585-013, Container CF01585, 1992-01-01/1992-01-31, NAID 470426568."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1992, CF01585-013, Container CF01585, 1992-01-01/1992-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426568."
   },
   {
     "id": "source-candidate-470426561",
@@ -10257,7 +10257,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - July 1991 [2], CF01585-006, Container CF01585, 1991-07-01/1991-07-31, NAID 470426561."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - July 1991 [2], CF01585-006, Container CF01585, 1991-07-01/1991-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426561."
   },
   {
     "id": "source-candidate-470426558",
@@ -10300,7 +10300,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East regional, Israel leadership, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East regional, Israel leadership, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - June 1991 [1], CF01585-003, Container CF01585, 1991-06-01/1991-06-30, NAID 470426558."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - June 1991 [1], CF01585-003, Container CF01585, 1991-06-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426558."
   },
   {
     "id": "source-candidate-470426577",
@@ -10341,7 +10341,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - June 1992, CF01585-022, Container CF01585, 1992-06-01/1992-06-30, NAID 470426577."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - June 1992, CF01585-022, Container CF01585, 1992-06-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426577."
   },
   {
     "id": "source-candidate-470426573",
@@ -10384,7 +10384,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - March 1991 [1], CF01585-018, Container CF01585, 1991-03-01/1991-03-31, NAID 470426573."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - March 1991 [1], CF01585-018, Container CF01585, 1991-03-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426573."
   },
   {
     "id": "source-candidate-470426574",
@@ -10437,7 +10437,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - March 1991 [2], CF01585-019, Container CF01585, 1991-03-01/1991-03-31, NAID 470426574."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - March 1991 [2], CF01585-019, Container CF01585, 1991-03-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426574."
   },
   {
     "id": "source-candidate-470426547",
@@ -10496,7 +10496,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - November 1990 [1], CF01584-028, Container CF01584, 1990-11-01/1990-11-30, NAID 470426547."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - November 1990 [1], CF01584-028, Container CF01584, 1990-11-01/1990-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426547."
   },
   {
     "id": "source-candidate-470426566",
@@ -10539,7 +10539,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - November 1991, CF01585-011, Container CF01585, 1991-11-01/1991-11-30, NAID 470426566."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - November 1991, CF01585-011, Container CF01585, 1991-11-01/1991-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426566."
   },
   {
     "id": "source-candidate-470426550",
@@ -10588,7 +10588,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1990 [1], CF01584-031, Container CF01584, 1990-10-01/1990-10-31, NAID 470426550."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1990 [1], CF01584-031, Container CF01584, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426550."
   },
   {
     "id": "source-candidate-470426551",
@@ -10633,7 +10633,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1990 [2], CF01584-032, Container CF01584, 1990-10-01/1990-10-31, NAID 470426551."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1990 [2], CF01584-032, Container CF01584, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426551."
   },
   {
     "id": "source-candidate-470426552",
@@ -10686,7 +10686,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1990 [3], CF01584-033, Container CF01584, 1990-10-01/1990-10-31, NAID 470426552."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1990 [3], CF01584-033, Container CF01584, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426552."
   },
   {
     "id": "source-candidate-470426553",
@@ -10739,7 +10739,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1990 [4], CF01584-034, Container CF01584, 1990-10-01/1990-10-31, NAID 470426553."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1990 [4], CF01584-034, Container CF01584, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426553."
   },
   {
     "id": "source-candidate-470426554",
@@ -10790,7 +10790,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1990 [5], CF01584-035, Container CF01584, 1990-10-01/1990-10-31, NAID 470426554."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1990 [5], CF01584-035, Container CF01584, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426554."
   },
   {
     "id": "source-candidate-470426555",
@@ -10837,7 +10837,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1990 [6], CF01584-036, Container CF01584, 1990-10-01/1990-10-31, NAID 470426555."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1990 [6], CF01584-036, Container CF01584, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426555."
   },
   {
     "id": "source-candidate-470426584",
@@ -10880,7 +10880,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1992, CF01585-029, Container CF01585, 1992-10-01/1992-10-31, NAID 470426584."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1992, CF01585-029, Container CF01585, 1992-10-01/1992-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426584."
   },
   {
     "id": "source-candidate-470426336",
@@ -10935,7 +10935,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1990 [1], CF01478-020, Container CF01478, 1990-09-01/1990-09-30, NAID 470426336."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1990 [1], CF01478-020, Container CF01478, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426336."
   },
   {
     "id": "source-candidate-470426337",
@@ -10986,7 +10986,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1990 [2], CF01478-021, Container CF01478, 1990-09-01/1990-09-30, NAID 470426337."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1990 [2], CF01478-021, Container CF01478, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426337."
   },
   {
     "id": "source-candidate-470426338",
@@ -11035,7 +11035,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1990 [3], CF01478-022, Container CF01478, 1990-09-01/1990-09-30, NAID 470426338."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1990 [3], CF01478-022, Container CF01478, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426338."
   },
   {
     "id": "source-candidate-470426339",
@@ -11086,7 +11086,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1990 [4], CF01478-023, Container CF01478, 1990-09-01/1990-09-30, NAID 470426339."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1990 [4], CF01478-023, Container CF01478, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426339."
   },
   {
     "id": "source-candidate-470426564",
@@ -11129,7 +11129,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1991 [2], CF01585-009, Container CF01585, 1991-09-01/1991-09-30, NAID 470426564."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1991 [2], CF01585-009, Container CF01585, 1991-09-01/1991-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426564."
   },
   {
     "id": "source-candidate-470426583",
@@ -11176,7 +11176,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1992, CF01585-028, Container CF01585, 1992-09-01/1992-09-30, NAID 470426583."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1992, CF01585-028, Container CF01585, 1992-09-01/1992-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426583."
   },
   {
     "id": "source-candidate-470426457",
@@ -11225,7 +11225,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq Pre 8/2/90 [1], CF01937-001, Container CF01937, 1990-08-02, NAID 470426457."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq Pre 8/2/90 [1], CF01937-001, Container CF01937, 1990-08-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426457."
   },
   {
     "id": "source-candidate-470426458",
@@ -11280,7 +11280,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq Pre 8/2/90 [2], CF01937-002, Container CF01937, 1990-08-02, NAID 470426458."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq Pre 8/2/90 [2], CF01937-002, Container CF01937, 1990-08-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426458."
   },
   {
     "id": "source-candidate-470426459",
@@ -11329,7 +11329,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq Pre 8/2/90 [3], CF01937-003, Container CF01937, 1990-08-02, NAID 470426459."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq Pre 8/2/90 [3], CF01937-003, Container CF01937, 1990-08-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426459."
   },
   {
     "id": "source-candidate-470426461",
@@ -11382,7 +11382,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq Pre 8/2/90 [5], CF01937-005, Container CF01937, 1990-08-02, NAID 470426461."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq Pre 8/2/90 [5], CF01937-005, Container CF01937, 1990-08-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426461."
   },
   {
     "id": "source-candidate-470426462",
@@ -11431,7 +11431,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq Pre 8/2/90 [6], CF01937-006, Container CF01937, 1990-08-02, NAID 470426462."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq Pre 8/2/90 [6], CF01937-006, Container CF01937, 1990-08-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426462."
   },
   {
     "id": "source-candidate-470426557",
@@ -11484,7 +11484,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Madrid, Middle East regional, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Minutes for DC Meetings on Gulf [2], CF01585-002, Container CF01585, NAID 470426557."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Minutes for DC Meetings on Gulf [2], CF01585-002, Container CF01585. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426557."
   },
   {
     "id": "source-candidate-470426597",
@@ -11525,7 +11525,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Afghanistan 1989-1992 [2], CF01304-011, Container CF01304, 1989-01-01/1992-12-31, NAID 470426597."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Afghanistan 1989-1992 [2], CF01304-011, Container CF01304, 1989-01-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426597."
   },
   {
     "id": "source-candidate-470426599",
@@ -11568,7 +11568,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Palestinian channel, Lebanon context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional, Israel leadership, Palestinian channel, Lebanon context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Hostages 1989-1992 [1], CF01304-013, Container CF01304, 1989-01-01/1992-12-31, NAID 470426599."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Hostages 1989-1992 [1], CF01304-013, Container CF01304, 1989-01-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426599."
   },
   {
     "id": "source-candidate-470426600",
@@ -11611,7 +11611,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Israel leadership, Lebanon context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Israel leadership, Lebanon context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Hostages 1989-1992 [2], CF01304-014, Container CF01304, 1989-01-01/1992-12-31, NAID 470426600."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Hostages 1989-1992 [2], CF01304-014, Container CF01304, 1989-01-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426600."
   },
   {
     "id": "source-candidate-470426594",
@@ -11652,7 +11652,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East peace, Middle East regional, Iraq/Gulf context, UN context marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - India / Pakistan 1989-1992, CF01304-008, Container CF01304, 1989-01-01/1992-12-31, NAID 470426594."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - India / Pakistan 1989-1992, CF01304-008, Container CF01304, 1989-01-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426594."
   },
   {
     "id": "source-candidate-470426074",
@@ -11695,7 +11695,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [2], CF80027-009, Container CF80027, 1990-01-01/1990-06-30, NAID 470426074."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1990-June 1990 [2], CF80027-009, Container CF80027, 1990-01-01/1990-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426074."
   },
   {
     "id": "source-candidate-470426097",
@@ -11740,7 +11740,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-June 1991 [2], CF80030-008, Container CF80030, 1991-01-01/1991-06-30, NAID 470426097."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-June 1991 [2], CF80030-008, Container CF80030, 1991-01-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426097."
   },
   {
     "id": "source-candidate-470426099",
@@ -11785,7 +11785,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-June 1991 [4], CF80031-002, Container CF80031, 1991-01-01/1991-06-30, NAID 470426099."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-June 1991 [4], CF80031-002, Container CF80031, 1991-01-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426099."
   },
   {
     "id": "source-candidate-470426101",
@@ -11826,7 +11826,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-June 1991 [6], CF80031-004, Container CF80031, 1991-01-01/1991-06-30, NAID 470426101."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-June 1991 [6], CF80031-004, Container CF80031, 1991-01-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426101."
   },
   {
     "id": "source-candidate-470426089",
@@ -11864,7 +11864,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [1], CF80029-008, Container CF80029, 1991-01-01/1991-03-31, NAID 470426089."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [1], CF80029-008, Container CF80029, 1991-01-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426089."
   },
   {
     "id": "source-candidate-470426091",
@@ -11905,7 +11905,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [3], CF80030-002, Container CF80030, 1991-01-01/1991-03-31, NAID 470426091."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [3], CF80030-002, Container CF80030, 1991-01-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426091."
   },
   {
     "id": "source-candidate-470426092",
@@ -11946,7 +11946,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [4], CF80030-003, Container CF80030, 1991-01-01/1991-03-31, NAID 470426092."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [4], CF80030-003, Container CF80030, 1991-01-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426092."
   },
   {
     "id": "source-candidate-470426093",
@@ -11984,7 +11984,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [5], CF80030-004, Container CF80030, 1991-01-01/1991-03-31, NAID 470426093."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [5], CF80030-004, Container CF80030, 1991-01-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426093."
   },
   {
     "id": "source-candidate-470426095",
@@ -12022,7 +12022,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Lebanon context, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [7], CF80030-006, Container CF80030, 1991-01-01/1991-03-31, NAID 470426095."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1991-March 1991 [7], CF80030-006, Container CF80030, 1991-01-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426095."
   },
   {
     "id": "source-candidate-470426117",
@@ -12065,7 +12065,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1992-March 1992 [4], CF80033-004, Container CF80033, 1992-01-01/1992-03-31, NAID 470426117."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - January 1992-March 1992 [4], CF80033-004, Container CF80033, 1992-01-01/1992-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426117."
   },
   {
     "id": "source-candidate-470426088",
@@ -12108,7 +12108,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-January 1991 [4], CF80029-007, Container CF80029, 1990-07-01/1991-01-31, NAID 470426088."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - July 1990-January 1991 [4], CF80029-007, Container CF80029, 1990-07-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426088."
   },
   {
     "id": "source-candidate-470426102",
@@ -12149,7 +12149,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [1], CF80031-005, Container CF80031, 1991-06-01/1991-09-30, NAID 470426102."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [1], CF80031-005, Container CF80031, 1991-06-01/1991-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426102."
   },
   {
     "id": "source-candidate-470426104",
@@ -12187,7 +12187,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [3], CF80031-007, Container CF80031, 1991-06-01/1991-09-30, NAID 470426104."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1991-September 1991 [3], CF80031-007, Container CF80031, 1991-06-01/1991-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426104."
   },
   {
     "id": "source-candidate-470426125",
@@ -12225,7 +12225,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [2], CF80034-004, Container CF80034, 1992-06-01/1992-08-31, NAID 470426125."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [2], CF80034-004, Container CF80034, 1992-06-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426125."
   },
   {
     "id": "source-candidate-470426129",
@@ -12260,7 +12260,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [6], CF80034-008, Container CF80034, 1992-06-01/1992-08-31, NAID 470426129."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [6], CF80034-008, Container CF80034, 1992-06-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426129."
   },
   {
     "id": "source-candidate-470426130",
@@ -12303,7 +12303,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [7], CF80035-001, Container CF80035, 1992-06-01/1992-08-31, NAID 470426130."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - June 1992-August 1992 [7], CF80035-001, Container CF80035, 1992-06-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426130."
   },
   {
     "id": "source-candidate-470426137",
@@ -12348,7 +12348,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [7], CF80035-008, Container CF80035, 1992-09-01/1992-12-31, NAID 470426137."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Cleared Crosshatch Files, Cleared Crosshatches - September 1992-December 1992 [7], CF80035-008, Container CF80035, 1992-09-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426137."
   },
   {
     "id": "source-candidate-470426254",
@@ -12389,7 +12389,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, [Presidential Press Conferences, Statements, Speeches on Iraq - August 1990], CF01447-012, Container CF01447, 1990-08-01/1990-08-31, NAID 470426254."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, [Presidential Press Conferences, Statements, Speeches on Iraq - August 1990], CF01447-012, Container CF01447, 1990-08-01/1990-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426254."
   },
   {
     "id": "source-candidate-470426175",
@@ -12424,7 +12424,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - April 10, 1991 re: Weapons of Mass Destruction, CF01618-001, Container CF01618, 1991-04-10, NAID 470426175."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - April 10, 1991 re: Weapons of Mass Destruction, CF01618-001, Container CF01618, 1991-04-10. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426175."
   },
   {
     "id": "source-candidate-470426177",
@@ -12456,7 +12456,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - April 23, 1991 Re: Iraqi Refugees, CF01618-003, Container CF01618, 1991-04-23, NAID 470426177."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - April 23, 1991 Re: Iraqi Refugees, CF01618-003, Container CF01618, 1991-04-23. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426177."
   },
   {
     "id": "source-candidate-470426179",
@@ -12488,7 +12488,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - January 3, 1992 re: Afghanistan, CF01618-005, Container CF01618, 1992-01-03, NAID 470426179."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - January 3, 1992 re: Afghanistan, CF01618-005, Container CF01618, 1992-01-03. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426179."
   },
   {
     "id": "source-candidate-470426196",
@@ -12520,7 +12520,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - July 19, 1991 re: Iraq, CF01618-022, Container CF01618, 1991-07-19, NAID 470426196."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - July 19, 1991 re: Iraq, CF01618-022, Container CF01618, 1991-07-19. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426196."
   },
   {
     "id": "source-candidate-470426197",
@@ -12555,7 +12555,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - June 4, 1991 Re: Iraq, CF01618-023, Container CF01618, 1991-06-04, NAID 470426197."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - June 4, 1991 Re: Iraq, CF01618-023, Container CF01618, 1991-06-04. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426197."
   },
   {
     "id": "source-candidate-470426205",
@@ -12590,7 +12590,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - March 11, 1992 Re: Iraq, CF01618-031, Container CF01618, 1992-03-11, NAID 470426205."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Meeting - March 11, 1992 Re: Iraq, CF01618-031, Container CF01618, 1992-03-11. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426205."
   },
   {
     "id": "source-candidate-470426277",
@@ -12622,7 +12622,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Small Group on Iraq - December 18, 1992, CF01726-011, Container CF01726, 1992-12-18, NAID 470426277."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, DC [Deputies Committee] Small Group on Iraq - December 18, 1992, CF01726-011, Container CF01726, 1992-12-18. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426277."
   },
   {
     "id": "source-candidate-470426200",
@@ -12654,7 +12654,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Deputies Meeting -September 16, 1991 Re: The [Persian] Gulf, CF01618-026, Container CF01618, 1991-09-16, NAID 470426200."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Deputies Meeting -September 16, 1991 Re: The [Persian] Gulf, CF01618-026, Container CF01618, 1991-09-16. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426200."
   },
   {
     "id": "source-candidate-470426217",
@@ -12689,7 +12689,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Lebanon context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Lebanon context, Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Iran Experts Meeting with President - August 11, 1989, CF01625-006, Container CF01625, 1989-08-11, NAID 470426217."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Iran Experts Meeting with President - August 11, 1989, CF01625-006, Container CF01625, 1989-08-11. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426217."
   },
   {
     "id": "source-candidate-470426176",
@@ -12721,7 +12721,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - April 30, 1991 Re: [Persian] Gulf, CF01618-002, Container CF01618, 1991-04-30, NAID 470426176."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - April 30, 1991 Re: [Persian] Gulf, CF01618-002, Container CF01618, 1991-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426176."
   },
   {
     "id": "source-candidate-470426193",
@@ -12762,7 +12762,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - August 2, 1990 Re: Iraqi Invasion of Kuwait, CF01618-019, Container CF01618, 1990-08-02, NAID 470426193."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - August 2, 1990 Re: Iraqi Invasion of Kuwait, CF01618-019, Container CF01618, 1990-08-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426193."
   },
   {
     "id": "source-candidate-470426191",
@@ -12794,7 +12794,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - August 4, 1990 re: Iraqi Invasion of Kuwait, CF01618-017, Container CF01618, 1990-08-04, NAID 470426191."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - August 4, 1990 re: Iraqi Invasion of Kuwait, CF01618-017, Container CF01618, 1990-08-04. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426191."
   },
   {
     "id": "source-candidate-470426189",
@@ -12839,7 +12839,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - August 5, 1990 Re: Iraqi Invasion of Kuwait, CF01618-015, Container CF01618, 1990-08-05, NAID 470426189."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - August 5, 1990 Re: Iraqi Invasion of Kuwait, CF01618-015, Container CF01618, 1990-08-05. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426189."
   },
   {
     "id": "source-candidate-470426188",
@@ -12877,7 +12877,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - August 6, 1990 Re: Iraqi Invasion of Kuwait, CF01618-014, Container CF01618, 1990-08-06, NAID 470426188."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - August 6, 1990 Re: Iraqi Invasion of Kuwait, CF01618-014, Container CF01618, 1990-08-06. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426188."
   },
   {
     "id": "source-candidate-470426184",
@@ -12909,7 +12909,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - June 21, 1989 Re: Persian Gulf, CF01618-010, Container CF01618, 1989-06-21, NAID 470426184."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - June 21, 1989 Re: Persian Gulf, CF01618-010, Container CF01618, 1989-06-21. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426184."
   },
   {
     "id": "source-candidate-470426215",
@@ -12941,7 +12941,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - May 2, 1989 re: Libya, CF01625-004, Container CF01625, 1989-05-02, NAID 470426215."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Meeting - May 2, 1989 re: Libya, CF01625-004, Container CF01625, 1989-05-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426215."
   },
   {
     "id": "source-candidate-470426209",
@@ -12973,7 +12973,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Principal Meeting - June 10, 1992 Re: Iraq, CF01618-035, Container CF01618, 1992-06-10, NAID 470426209."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Principal Meeting - June 10, 1992 Re: Iraq, CF01618-035, Container CF01618, 1992-06-10. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426209."
   },
   {
     "id": "source-candidate-470426202",
@@ -13005,7 +13005,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Principals Meeting - December 20, 1991 Re: Iraq, CF01618-028, Container CF01618, 1991-12-20, NAID 470426202."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Principals Meeting - December 20, 1991 Re: Iraq, CF01618-028, Container CF01618, 1991-12-20. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426202."
   },
   {
     "id": "source-candidate-470426194",
@@ -13037,7 +13037,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Principles Meeting - June 12, 1991 re: U.S. Withdrawal from Northern Iraq, CF01618-020, Container CF01618, 1991-06-12, NAID 470426194."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC Principles Meeting - June 12, 1991 re: U.S. Withdrawal from Northern Iraq, CF01618-020, Container CF01618, 1991-06-12. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426194."
   },
   {
     "id": "source-candidate-470426206",
@@ -13072,7 +13072,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - April 1, 1992 re: Iraq, CF01618-032, Container CF01618, 1992-04-01, NAID 470426206."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - April 1, 1992 re: Iraq, CF01618-032, Container CF01618, 1992-04-01. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426206."
   },
   {
     "id": "source-candidate-470426186",
@@ -13104,7 +13104,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - April 16, 1990 Re: Iraq, CF01618-012, Container CF01618, 1990-04-16, NAID 470426186."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - April 16, 1990 Re: Iraq, CF01618-012, Container CF01618, 1990-04-16. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426186."
   },
   {
     "id": "source-candidate-470426207",
@@ -13139,7 +13139,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - April 23, 1992 Re: Iraq, CF01618-033, Container CF01618, 1992-04-23, NAID 470426207."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - April 23, 1992 Re: Iraq, CF01618-033, Container CF01618, 1992-04-23. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426207."
   },
   {
     "id": "source-candidate-470426192",
@@ -13171,7 +13171,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - August 3, 1990 re: Persian Gulf, CF01618-018, Container CF01618, 1990-08-03, NAID 470426192."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - August 3, 1990 re: Persian Gulf, CF01618-018, Container CF01618, 1990-08-03. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426192."
   },
   {
     "id": "source-candidate-470426222",
@@ -13203,7 +13203,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Lebanon context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Lebanon context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - December 6, 1989 re: Lebanon, CF01625-011, Container CF01625, 1989-12-06, NAID 470426222."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - December 6, 1989 re: Lebanon, CF01625-011, Container CF01625, 1989-12-06. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426222."
   },
   {
     "id": "source-candidate-470426180",
@@ -13235,7 +13235,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - February 3, 1992 re: Israel Relay Station, CF01618-006, Container CF01618, 1992-02-03, NAID 470426180."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - February 3, 1992 re: Israel Relay Station, CF01618-006, Container CF01618, 1992-02-03. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426180."
   },
   {
     "id": "source-candidate-470426195",
@@ -13267,7 +13267,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - July 12, 1991 Re: Iraq, CF01618-021, Container CF01618, 1991-07-12, NAID 470426195."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - July 12, 1991 Re: Iraq, CF01618-021, Container CF01618, 1991-07-12. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426195."
   },
   {
     "id": "source-candidate-470426182",
@@ -13299,7 +13299,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Middle East regional marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - March 27 & 29, 1992 re: Middle East Process, CF01618-008, Container CF01618, 1992-03-27/1992-03-29, NAID 470426182."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - March 27 & 29, 1992 re: Middle East Process, CF01618-008, Container CF01618, 1992-03-27/1992-03-29. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426182."
   },
   {
     "id": "source-candidate-470426185",
@@ -13331,7 +13331,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - May 29, 1990 Re: Iraq, CF01618-011, Container CF01618, 1990-05-29, NAID 470426185."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - May 29, 1990 Re: Iraq, CF01618-011, Container CF01618, 1990-05-29. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426185."
   },
   {
     "id": "source-candidate-470426221",
@@ -13363,7 +13363,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Lebanon context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Lebanon context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - November 6, 1989 re: Lebanon, CF01625-010, Container CF01625, 1989-11-06, NAID 470426221."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting - November 6, 1989 re: Lebanon, CF01625-010, Container CF01625, 1989-11-06. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426221."
   },
   {
     "id": "source-candidate-470426178",
@@ -13395,7 +13395,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting May 2, 1991 Re: [Persian] Gulf Security, CF01618-004, Container CF01618, 1991-05-02, NAID 470426178."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Meeting May 2, 1991 Re: [Persian] Gulf Security, CF01618-004, Container CF01618, 1991-05-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426178."
   },
   {
     "id": "source-candidate-470426226",
@@ -13427,7 +13427,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Teleconference - April 4, 1990 Re: Kashmir, CF01625-015, Container CF01625, 1990-04-04, NAID 470426226."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Teleconference - April 4, 1990 Re: Kashmir, CF01625-015, Container CF01625, 1990-04-04. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426226."
   },
   {
     "id": "source-candidate-470426224",
@@ -13459,7 +13459,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Lebanon context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Lebanon context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Teleconference - December 9, 1989 re: Lebanon, CF01625-013, Container CF01625, 1989-12-09, NAID 470426224."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, NSC/DC [Deputies Committee] Teleconference - December 9, 1989 re: Lebanon, CF01625-013, Container CF01625, 1989-12-09. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426224."
   },
   {
     "id": "source-candidate-470426198",
@@ -13494,7 +13494,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, PCC [Policy Coordinating Committee] on Iraq - August 15, 1991, CF01618-024, Container CF01618, 1991-08-15, NAID 470426198."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, PCC [Policy Coordinating Committee] on Iraq - August 15, 1991, CF01618-024, Container CF01618, 1991-08-15. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426198."
   },
   {
     "id": "source-candidate-470426274",
@@ -13529,7 +13529,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with Ambassador Al-Sabah of Kuwait - December 27, 1992, CF01726-008, Container CF01726, 1992-12-27, NAID 470426274."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with Ambassador Al-Sabah of Kuwait - December 27, 1992, CF01726-008, Container CF01726, 1992-12-27. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426274."
   },
   {
     "id": "source-candidate-470426275",
@@ -13564,7 +13564,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Jordan/King Hussein, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Jordan/King Hussein, Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with King Hussein [of Jordan] - December 1992, CF01726-009, Container CF01726, 1992-12-01/1992-12-31, NAID 470426275."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, President's Meeting with King Hussein [of Jordan] - December 1992, CF01726-009, Container CF01726, 1992-12-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426275."
   },
   {
     "id": "source-candidate-470426208",
@@ -13596,7 +13596,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Small Group Meeting - May 4, 1992 Re: Iraq, CF01618-034, Container CF01618, 1992-05-04, NAID 470426208."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Small Group Meeting - May 4, 1992 Re: Iraq, CF01618-034, Container CF01618, 1992-05-04. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426208."
   },
   {
     "id": "source-candidate-470426204",
@@ -13628,7 +13628,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Small Group Meeting - November 18, 1991 Re: Iraq, CF01618-030, Container CF01618, 1991-11-18, NAID 470426204."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Small Group Meeting - November 18, 1991 Re: Iraq, CF01618-030, Container CF01618, 1991-11-18. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426204."
   },
   {
     "id": "source-candidate-470426201",
@@ -13660,7 +13660,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Small Group Meeting - October 28, 1991 Re: Iraq, CF01618-027, Container CF01618, 1991-10-28, NAID 470426201."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Meeting Files, Small Group Meeting - October 28, 1991 Re: Iraq, CF01618-027, Container CF01618, 1991-10-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426201."
   },
   {
     "id": "source-candidate-470426480",
@@ -13705,7 +13705,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [2], CF01937-024, Container CF01937, NAID 470426480."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [2], CF01937-024, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426480."
   },
   {
     "id": "source-candidate-470426481",
@@ -13740,7 +13740,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Lebanon context, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Lebanon context, Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [3], CF01937-025, Container CF01937, NAID 470426481."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [3], CF01937-025, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426481."
   },
   {
     "id": "source-candidate-470426485",
@@ -13783,7 +13783,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [7], CF01937-029, Container CF01937, NAID 470426485."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [7], CF01937-029, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426485."
   },
   {
     "id": "source-candidate-470426486",
@@ -13824,7 +13824,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [8], CF01937-030, Container CF01937, NAID 470426486."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [8], CF01937-030, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426486."
   },
   {
     "id": "source-candidate-470426487",
@@ -13856,7 +13856,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [9], CF01937-031, Container CF01937, NAID 470426487."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, [Loose: Iraq Documents Pulled from Office Files for Lacey Subpoena] [9], CF01937-031, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426487."
   },
   {
     "id": "source-candidate-470426450",
@@ -13903,7 +13903,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, 1990 - Presidential Correspondence [3], CF01551-011, Container CF01551, 1990-01-01/1990-12-31, NAID 470426450."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, 1990 - Presidential Correspondence [3], CF01551-011, Container CF01551, 1990-01-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426450."
   },
   {
     "id": "source-candidate-470426451",
@@ -13941,7 +13941,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Coalition Ambassadors - Military, CF01551-012, Container CF01551, NAID 470426451."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Coalition Ambassadors - Military, CF01551-012, Container CF01551. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426451."
   },
   {
     "id": "source-candidate-470426452",
@@ -13990,7 +13990,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Concurrences - January/February 1991 [1], CF01551-013, Container CF01551, 1991-01-01/1991-02-28, NAID 470426452."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Concurrences - January/February 1991 [1], CF01551-013, Container CF01551, 1991-01-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426452."
   },
   {
     "id": "source-candidate-470426454",
@@ -14025,7 +14025,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Concurrences - January/February 1991 [3], CF01551-015, Container CF01551, 1991-01-01/1991-02-28, NAID 470426454."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Concurrences - January/February 1991 [3], CF01551-015, Container CF01551, 1991-01-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426454."
   },
   {
     "id": "source-candidate-470426446",
@@ -14057,7 +14057,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Group - Charles, CF01551-007, Container CF01551, NAID 470426446."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Group - Charles, CF01551-007, Container CF01551. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426446."
   },
   {
     "id": "source-candidate-470426466",
@@ -14095,7 +14095,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Multinational Force Presence in Saudi Arabia and the Persian Gulf Area, CF01937-010, Container CF01937, NAID 470426466."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Multinational Force Presence in Saudi Arabia and the Persian Gulf Area, CF01937-010, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426466."
   },
   {
     "id": "source-candidate-470426444",
@@ -14127,7 +14127,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, President's Meeting with Senators - September 10, 1991, CF01551-005, Container CF01551, 1991-09-10, NAID 470426444."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, President's Meeting with Senators - September 10, 1991, CF01551-005, Container CF01551, 1991-09-10. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426444."
   },
   {
     "id": "source-candidate-470426270",
@@ -14170,7 +14170,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Somalia Coalition - December 1992, CF01726-004, Container CF01726, 1992-12-01/1992-12-31, NAID 470426270."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Somalia Coalition - December 1992, CF01726-004, Container CF01726, 1992-12-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426270."
   },
   {
     "id": "source-candidate-470426440",
@@ -14202,7 +14202,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Visa Forms, CF01551-001, Container CF01551, NAID 470426440."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Subject Files, Visa Forms, CF01551-001, Container CF01551. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426440."
   },
   {
     "id": "source-candidate-470426493",
@@ -14240,7 +14240,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [4], CF01616-004, Container CF01616, NAID 470426493."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [4], CF01616-004, Container CF01616. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426493."
   },
   {
     "id": "source-candidate-470426494",
@@ -14283,7 +14283,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [5], CF01616-005, Container CF01616, NAID 470426494."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [5], CF01616-005, Container CF01616. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426494."
   },
   {
     "id": "source-candidate-470426496",
@@ -14324,7 +14324,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Jordan/King Hussein, Lebanon context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Jordan/King Hussein, Lebanon context, UN context, Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [7], CF01616-007, Container CF01616, NAID 470426496."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Telephone Listings Files, Phone Listings (Richard Haass) [7], CF01616-007, Container CF01616. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426496."
   },
   {
     "id": "source-candidate-470426463",
@@ -14365,7 +14365,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [GATT / Newt Gingrich Correspondence], CF01937-007, Container CF01937, NAID 470426463."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [GATT / Newt Gingrich Correspondence], CF01937-007, Container CF01937. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426463."
   },
   {
     "id": "source-candidate-470426155",
@@ -14403,7 +14403,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: [Memo from Richard Haass to Brent Scowcroft - April 6, 1990 re: Three Ideas: Democracy/Markets, Afghanistan, India/Pakistan], CF01939-002, Container CF01939, 1990-04-06, NAID 470426155."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: [Memo from Richard Haass to Brent Scowcroft - April 6, 1990 re: Three Ideas: Democracy/Markets, Afghanistan, India/Pakistan], CF01939-002, Container CF01939, 1990-04-06. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426155."
   },
   {
     "id": "source-candidate-470426154",
@@ -14441,7 +14441,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: [Memo from Richard Haass to Brent Scowcroft - February 5, 1991 re: The New World Order: A Presidential Speech?], CF01939-001, Container CF01939, 1991-02-05, NAID 470426154."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: [Memo from Richard Haass to Brent Scowcroft - February 5, 1991 re: The New World Order: A Presidential Speech?], CF01939-001, Container CF01939, 1991-02-05. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426154."
   },
   {
     "id": "source-candidate-470426156",
@@ -14479,7 +14479,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Jordan/King Hussein, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Jordan/King Hussein, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: Trip Materials - Visit of Gates, Kelly, and Haass to South Asia - May 1990 [1 of 6], CF01939-003, Container CF01939, 1990-05-01/1990-05-31, NAID 470426156."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: Trip Materials - Visit of Gates, Kelly, and Haass to South Asia - May 1990 [1 of 6], CF01939-003, Container CF01939, 1990-05-01/1990-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426156."
   },
   {
     "id": "source-candidate-470426158",
@@ -14514,7 +14514,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: Trip Materials - Visit of Gates, Kelly, and Haass to South Asia - May 1990 [3 of 6], CF01939-005, Container CF01939, 1990-05-01/1990-05-31, NAID 470426158."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: Trip Materials - Visit of Gates, Kelly, and Haass to South Asia - May 1990 [3 of 6], CF01939-005, Container CF01939, 1990-05-01/1990-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426158."
   },
   {
     "id": "source-candidate-470426159",
@@ -14552,7 +14552,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Jordan/King Hussein, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Jordan/King Hussein, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: Trip Materials - Visit of Gates, Kelly, and Haass to South Asia - May 1990 [4 of 6], CF01939-006, Container CF01939, 1990-05-01/1990-05-31, NAID 470426159."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, [Loose]: Trip Materials - Visit of Gates, Kelly, and Haass to South Asia - May 1990 [4 of 6], CF01939-006, Container CF01939, 1990-05-01/1990-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426159."
   },
   {
     "id": "source-candidate-470426513",
@@ -14587,7 +14587,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with UN context, Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Abba Eban Tribute Dinner - June 6, 1990, CF01352-018, Container CF01352, 1990-06-06, NAID 470426513."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Abba Eban Tribute Dinner - June 6, 1990, CF01352-018, Container CF01352, 1990-06-06. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426513."
   },
   {
     "id": "source-candidate-470426512",
@@ -14630,7 +14630,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Global Business Forum - June 11, 1989, CF01352-016, Container CF01352, 1989-06-11, NAID 470426512."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Global Business Forum - June 11, 1989, CF01352-016, Container CF01352, 1989-06-11. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426512."
   },
   {
     "id": "source-candidate-470426467",
@@ -14665,7 +14665,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Jordan/King Hussein, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Jordan/King Hussein, Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to Helsinki with President - September 7-9, 1990, CF01937-011, Container CF01937, 1990-09-07/1990-09-09, NAID 470426467."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to Helsinki with President - September 7-9, 1990, CF01937-011, Container CF01937, 1990-09-07/1990-09-09. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426467."
   },
   {
     "id": "source-candidate-470426468",
@@ -14697,7 +14697,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC file with Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to Kennebunkport [Israeli Prime Minister Rabin Visit] - August 10-11, 1992, CF01937-012, Container CF01937, 1992-08-10/1992-08-11, NAID 470426468."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to Kennebunkport [Israeli Prime Minister Rabin Visit] - August 10-11, 1992, CF01937-012, Container CF01937, 1992-08-10/1992-08-11. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426468."
   },
   {
     "id": "source-candidate-470426472",
@@ -14738,7 +14738,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to Moscow - January 25-31, 1992, CF01937-016, Container CF01937, 1992-01-25/1992-01-31, NAID 470426472."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to Moscow - January 25-31, 1992, CF01937-016, Container CF01937, 1992-01-25/1992-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426472."
   },
   {
     "id": "source-candidate-470426473",
@@ -14773,7 +14773,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to New York, New York - December 18, 1991, CF01937-017, Container CF01937, 1991-12-18, NAID 470426473."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to New York, New York - December 18, 1991, CF01937-017, Container CF01937, 1991-12-18. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426473."
   },
   {
     "id": "source-candidate-470426475",
@@ -14805,7 +14805,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to New York, New York - November 12, 1991, CF01937-019, Container CF01937, 1991-11-12, NAID 470426475."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to New York, New York - November 12, 1991, CF01937-019, Container CF01937, 1991-11-12. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426475."
   },
   {
     "id": "source-candidate-470426478",
@@ -14840,7 +14840,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with UN context, Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to New York, New York - October 10-11, 1991, CF01937-022, Container CF01937, 1991-10-10/1991-10-11, NAID 470426478."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass Trip to New York, New York - October 10-11, 1991, CF01937-022, Container CF01937, 1991-10-10/1991-10-11. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426478."
   },
   {
     "id": "source-candidate-470426500",
@@ -14887,7 +14887,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context, Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip Folder - November 3-10, 1990, CF01352-004, Container CF01352, 1990-11-03/1990-11-10, NAID 470426500."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip Folder - November 3-10, 1990, CF01352-004, Container CF01352, 1990-11-03/1990-11-10. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426500."
   },
   {
     "id": "source-candidate-470426501",
@@ -14919,7 +14919,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Cherry Point, North Carolina with President Bush - February 1, 1991, CF01352-005, Container CF01352, 1991-02-01, NAID 470426501."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Cherry Point, North Carolina with President Bush - February 1, 1991, CF01352-005, Container CF01352, 1991-02-01. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426501."
   },
   {
     "id": "source-candidate-470426503",
@@ -14954,7 +14954,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Cleveland, OH - April 29-30, 1991, CF01352-007, Container CF01352, 1991-04-29/1991-04-30, NAID 470426503."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Cleveland, OH - April 29-30, 1991, CF01352-007, Container CF01352, 1991-04-29/1991-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426503."
   },
   {
     "id": "source-candidate-470426498",
@@ -14995,7 +14995,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Syria/Assad, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Syria/Assad, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Middle East and Europe - November 20-23, 1990, CF01352-002, Container CF01352, 1990-11-20/1990-11-23, NAID 470426498."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Middle East and Europe - November 20-23, 1990, CF01352-002, Container CF01352, 1990-11-20/1990-11-23. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426498."
   },
   {
     "id": "source-candidate-470426497",
@@ -15033,7 +15033,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context, Jewish/Israel-adjacent. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context, Jewish/Israel-adjacent marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to New York - December 10, 1990, CF01352-001, Container CF01352, 1990-12-10, NAID 470426497."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to New York - December 10, 1990, CF01352-001, Container CF01352, 1990-12-10. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426497."
   },
   {
     "id": "source-candidate-470426516",
@@ -15065,7 +15065,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to NY, Consultations at United Nations - March 2, 1990, CF01352-021, Container CF01352, 1990-03-02, NAID 470426516."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to NY, Consultations at United Nations - March 2, 1990, CF01352-021, Container CF01352, 1990-03-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426516."
   },
   {
     "id": "source-candidate-470426518",
@@ -15106,7 +15106,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, UN context, Jewish/Israel-adjacent, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, UN context, Jewish/Israel-adjacent, Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to NY, National Jewish Community Council - April 19, 1990, CF01352-023, Container CF01352, 1990-04-19, NAID 470426518."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to NY, National Jewish Community Council - April 19, 1990, CF01352-023, Container CF01352, 1990-04-19. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426518."
   },
   {
     "id": "source-candidate-470426506",
@@ -15141,7 +15141,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Pease Air Force Base with President Bush - May 29, 1991, CF01352-010, Container CF01352, 1991-05-29, NAID 470426506."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Pease Air Force Base with President Bush - May 29, 1991, CF01352-010, Container CF01352, 1991-05-29. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426506."
   },
   {
     "id": "source-candidate-470426504",
@@ -15173,7 +15173,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Saudi Arabia - March 26-28, 1991, CF01352-008, Container CF01352, 1991-03-26/1991-03-28, NAID 470426504."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Trip Files, Richard Haass, Trip to Saudi Arabia - March 26-28, 1991, CF01352-008, Container CF01352, 1991-03-26/1991-03-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426504."
   },
   {
     "id": "source-candidate-470426323",
@@ -15205,7 +15205,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Haass notes/notebooks. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Haass notes/notebooks marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Notebook #1 - Richard Haass Notes - January 1989], CF01478-007, Container CF01478, 1989-01-01/1989-01-31, NAID 470426323."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Notebook #1 - Richard Haass Notes - January 1989], CF01478-007, Container CF01478, 1989-01-01/1989-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426323."
   },
   {
     "id": "source-candidate-470426324",
@@ -15237,7 +15237,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Haass notes/notebooks. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Haass notes/notebooks marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Notebook #2 - Richard Haass Notes - February 1989], CF01478-008, Container CF01478, 1989-02-01/1989-02-28, NAID 470426324."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Notebook #2 - Richard Haass Notes - February 1989], CF01478-008, Container CF01478, 1989-02-01/1989-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426324."
   },
   {
     "id": "source-candidate-470426325",
@@ -15269,7 +15269,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Haass notes/notebooks. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Haass notes/notebooks marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Notebook #3 - Richard Haass Notes - May 1989], CF01478-009, Container CF01478, 1989-05-01/1989-05-31, NAID 470426325."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Notebook #3 - Richard Haass Notes - May 1989], CF01478-009, Container CF01478, 1989-05-01/1989-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426325."
   },
   {
     "id": "source-candidate-470426322",
@@ -15301,7 +15301,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Haass notes/notebooks. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Haass notes/notebooks marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Steno Pad of Notes taken by Richard Haass - August 10, 1990-September 18, 1990], CF01478-006, Container CF01478, 1990-08-10/1990-09-18, NAID 470426322."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Steno Pad of Notes taken by Richard Haass - August 10, 1990-September 18, 1990], CF01478-006, Container CF01478, 1990-08-10/1990-09-18. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426322."
   },
   {
     "id": "source-candidate-470426320",
@@ -15333,7 +15333,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Haass notes/notebooks. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Haass notes/notebooks marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Steno Pad of Notes taken by Richard Haass - January 24, 1990-May 1990], CF01478-004, Container CF01478, 1990-01-24/1990-05-31, NAID 470426320."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Steno Pad of Notes taken by Richard Haass - January 24, 1990-May 1990], CF01478-004, Container CF01478, 1990-01-24/1990-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426320."
   },
   {
     "id": "source-candidate-470426319",
@@ -15365,7 +15365,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Haass notes/notebooks. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Haass notes/notebooks marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Steno Pad of Notes taken by Richard Haass - November 9, 1989-January 24, 1990], CF01478-003, Container CF01478, 1989-11-09/1990-01-24, NAID 470426319."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Steno Pad of Notes taken by Richard Haass - November 9, 1989-January 24, 1990], CF01478-003, Container CF01478, 1989-11-09/1990-01-24. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426319."
   },
   {
     "id": "source-candidate-470426321",
@@ -15397,7 +15397,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Haass notes/notebooks. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Haass notes/notebooks marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Steno Pad of Notes taken by Richard Haass - October 23, 1989-November 8, 1989], CF01478-005, Container CF01478, 1989-10-23/1989-11-08, NAID 470426321."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Steno Pad of Notes taken by Richard Haass - October 23, 1989-November 8, 1989], CF01478-005, Container CF01478, 1989-10-23/1989-11-08. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426321."
   },
   {
     "id": "source-candidate-470426317",
@@ -15429,7 +15429,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Haass notes/notebooks. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Haass notes/notebooks marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Steno Pad of Notes taken by Richard Haass in Meetings - August 1989], CF01478-001, Container CF01478, 1989-08-01/1989-08-31, NAID 470426317."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Steno Pad of Notes taken by Richard Haass in Meetings - August 1989], CF01478-001, Container CF01478, 1989-08-01/1989-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426317."
   },
   {
     "id": "source-candidate-470426318",
@@ -15461,7 +15461,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Haass notes/notebooks. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Haass notes/notebooks marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Steno Pad of Notes taken by Richard Haass in Meetings - July 1989], CF01478-002, Container CF01478, 1989-07-01/1989-07-31, NAID 470426318."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, [Steno Pad of Notes taken by Richard Haass in Meetings - July 1989], CF01478-002, Container CF01478, 1989-07-01/1989-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426318."
   },
   {
     "id": "source-candidate-470426520",
@@ -15504,7 +15504,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - April 1991 [1], CF01584-001, Container CF01584, 1991-04-01/1991-04-30, NAID 470426520."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - April 1991 [1], CF01584-001, Container CF01584, 1991-04-01/1991-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426520."
   },
   {
     "id": "source-candidate-470426521",
@@ -15542,7 +15542,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - April 1991 [2], CF01584-002, Container CF01584, 1991-04-01/1991-04-30, NAID 470426521."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - April 1991 [2], CF01584-002, Container CF01584, 1991-04-01/1991-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426521."
   },
   {
     "id": "source-candidate-470426571",
@@ -15580,7 +15580,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - April 1992, CF01585-016, Container CF01585, 1992-04-01/1992-04-30, NAID 470426571."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - April 1992, CF01585-016, Container CF01585, 1992-04-01/1992-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426571."
   },
   {
     "id": "source-candidate-470426562",
@@ -15612,7 +15612,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 1991, CF01585-007, Container CF01585, 1991-08-01/1991-08-31, NAID 470426562."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 1991, CF01585-007, Container CF01585, 1991-08-01/1991-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426562."
   },
   {
     "id": "source-candidate-470426580",
@@ -15659,7 +15659,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 1992 [1], CF01585-025, Container CF01585, 1992-08-01/1992-08-31, NAID 470426580."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 1992 [1], CF01585-025, Container CF01585, 1992-08-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426580."
   },
   {
     "id": "source-candidate-470426581",
@@ -15700,7 +15700,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 1992 [2], CF01585-026, Container CF01585, 1992-08-01/1992-08-31, NAID 470426581."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 1992 [2], CF01585-026, Container CF01585, 1992-08-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426581."
   },
   {
     "id": "source-candidate-470426582",
@@ -15741,7 +15741,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 1992 [3], CF01585-027, Container CF01585, 1992-08-01/1992-08-31, NAID 470426582."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 1992 [3], CF01585-027, Container CF01585, 1992-08-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426582."
   },
   {
     "id": "source-candidate-470426346",
@@ -15786,7 +15786,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context, Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [7], CF01478-030, Container CF01478, 1990-08-02/1990-12-31, NAID 470426346."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - August 2, 1990 - December 1990 [7], CF01478-030, Container CF01478, 1990-08-02/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426346."
   },
   {
     "id": "source-candidate-470426546",
@@ -15831,7 +15831,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1990 [6], CF01584-027, Container CF01584, 1990-12-01/1990-12-31, NAID 470426546."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1990 [6], CF01584-027, Container CF01584, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426546."
   },
   {
     "id": "source-candidate-470426567",
@@ -15866,7 +15866,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1991, CF01585-012, Container CF01585, 1991-12-01/1991-12-31, NAID 470426567."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1991, CF01585-012, Container CF01585, 1991-12-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426567."
   },
   {
     "id": "source-candidate-470426586",
@@ -15901,7 +15901,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1992, CF01585-031, Container CF01585, 1992-12-01/1992-12-31, NAID 470426586."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - December 1992, CF01585-031, Container CF01585, 1992-12-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426586."
   },
   {
     "id": "source-candidate-470426569",
@@ -15942,7 +15942,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1992, CF01585-014, Container CF01585, 1992-02-01/1992-02-29, NAID 470426569."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - February 1992, CF01585-014, Container CF01585, 1992-02-01/1992-02-29. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426569."
   },
   {
     "id": "source-candidate-470426530",
@@ -15980,7 +15980,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Iraq/Gulf context, Presidential correspondence. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Iraq/Gulf context, Presidential correspondence marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [2], CF01584-011, Container CF01584, 1991-01-01/1991-01-31, NAID 470426530."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [2], CF01584-011, Container CF01584, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426530."
   },
   {
     "id": "source-candidate-470426532",
@@ -16023,7 +16023,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [4], CF01584-013, Container CF01584, 1991-01-01/1991-01-31, NAID 470426532."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [4], CF01584-013, Container CF01584, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426532."
   },
   {
     "id": "source-candidate-470426534",
@@ -16061,7 +16061,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [6], CF01584-015, Container CF01584, 1991-01-01/1991-01-31, NAID 470426534."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [6], CF01584-015, Container CF01584, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426534."
   },
   {
     "id": "source-candidate-470426536",
@@ -16093,7 +16093,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [8], CF01584-017, Container CF01584, 1991-01-01/1991-01-31, NAID 470426536."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - January 1991 [8], CF01584-017, Container CF01584, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426536."
   },
   {
     "id": "source-candidate-470426560",
@@ -16131,7 +16131,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - July 1991 [1], CF01585-005, Container CF01585, 1991-07-01/1991-07-31, NAID 470426560."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - July 1991 [1], CF01585-005, Container CF01585, 1991-07-01/1991-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426560."
   },
   {
     "id": "source-candidate-470426578",
@@ -16172,7 +16172,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - July 1992 [1], CF01585-023, Container CF01585, 1992-07-01/1992-07-31, NAID 470426578."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - July 1992 [1], CF01585-023, Container CF01585, 1992-07-01/1992-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426578."
   },
   {
     "id": "source-candidate-470426579",
@@ -16215,7 +16215,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - July 1992 [2], CF01585-024, Container CF01585, 1992-07-01/1992-07-31, NAID 470426579."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - July 1992 [2], CF01585-024, Container CF01585, 1992-07-01/1992-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426579."
   },
   {
     "id": "source-candidate-470426559",
@@ -16253,7 +16253,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - June 1991 [2], CF01585-004, Container CF01585, 1991-06-01/1991-06-30, NAID 470426559."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - June 1991 [2], CF01585-004, Container CF01585, 1991-06-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426559."
   },
   {
     "id": "source-candidate-470426570",
@@ -16291,7 +16291,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - March 1992, CF01585-015, Container CF01585, 1992-03-01/1992-03-31, NAID 470426570."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - March 1992, CF01585-015, Container CF01585, 1992-03-01/1992-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426570."
   },
   {
     "id": "source-candidate-470426575",
@@ -16326,7 +16326,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - May 1991 [1], CF01585-020, Container CF01585, 1991-05-01/1991-05-31, NAID 470426575."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - May 1991 [1], CF01585-020, Container CF01585, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426575."
   },
   {
     "id": "source-candidate-470426576",
@@ -16367,7 +16367,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - May 1991 [2], CF01585-021, Container CF01585, 1991-05-01/1991-05-31, NAID 470426576."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - May 1991 [2], CF01585-021, Container CF01585, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426576."
   },
   {
     "id": "source-candidate-470426572",
@@ -16399,7 +16399,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - May 1992, CF01585-017, Container CF01585, 1992-05-01/1992-05-31, NAID 470426572."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - May 1992, CF01585-017, Container CF01585, 1992-05-01/1992-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426572."
   },
   {
     "id": "source-candidate-470426548",
@@ -16444,7 +16444,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Jordan/King Hussein, Syria/Assad, Lebanon context, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - November 1990 [2], CF01584-029, Container CF01584, 1990-11-01/1990-11-30, NAID 470426548."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - November 1990 [2], CF01584-029, Container CF01584, 1990-11-01/1990-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426548."
   },
   {
     "id": "source-candidate-470426549",
@@ -16489,7 +16489,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Syria/Assad, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - November 1990 [3], CF01584-030, Container CF01584, 1990-11-01/1990-11-30, NAID 470426549."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - November 1990 [3], CF01584-030, Container CF01584, 1990-11-01/1990-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426549."
   },
   {
     "id": "source-candidate-470426585",
@@ -16521,7 +16521,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - November 1992, CF01585-030, Container CF01585, 1992-11-01/1992-11-30, NAID 470426585."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - November 1992, CF01585-030, Container CF01585, 1992-11-01/1992-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426585."
   },
   {
     "id": "source-candidate-470426565",
@@ -16559,7 +16559,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1991, CF01585-010, Container CF01585, 1991-10-01/1991-10-31, NAID 470426565."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - October 1991, CF01585-010, Container CF01585, 1991-10-01/1991-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426565."
   },
   {
     "id": "source-candidate-470426563",
@@ -16597,7 +16597,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1991 [1], CF01585-008, Container CF01585, 1991-09-01/1991-09-30, NAID 470426563."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq - September 1991 [1], CF01585-008, Container CF01585, 1991-09-01/1991-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426563."
   },
   {
     "id": "source-candidate-470426460",
@@ -16640,7 +16640,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Middle East regional, Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq Pre 8/2/90 [4], CF01937-004, Container CF01937, 1990-08-02, NAID 470426460."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Iraq Pre 8/2/90 [4], CF01937-004, Container CF01937, 1990-08-02. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426460."
   },
   {
     "id": "source-candidate-470426556",
@@ -16681,7 +16681,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Israel leadership, Jordan/King Hussein, Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Minutes for DC Meetings on Gulf [1], CF01585-001, Container CF01585, NAID 470426556."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Minutes for DC Meetings on Gulf [1], CF01585-001, Container CF01585. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426556."
   },
   {
     "id": "source-candidate-470426596",
@@ -16716,7 +16716,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Afghanistan 1989-1992 [1], CF01304-010, Container CF01304, 1989-01-01/1992-12-31, NAID 470426596."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Afghanistan 1989-1992 [1], CF01304-010, Container CF01304, 1989-01-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426596."
   },
   {
     "id": "source-candidate-470426598",
@@ -16751,7 +16751,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Iraq/Gulf context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Iraq/Gulf context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Afghanistan 1989-1992 [3], CF01304-012, Container CF01304, 1989-01-01/1992-12-31, NAID 470426598."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Afghanistan 1989-1992 [3], CF01304-012, Container CF01304, 1989-01-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426598."
   },
   {
     "id": "source-candidate-470426593",
@@ -16786,7 +16786,7 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Lebanon context, UN context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Lebanon context, UN context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Iran 1989-1992, CF01304-007, Container CF01304, 1989-01-01/1992-12-31, NAID 470426593."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Iran 1989-1992, CF01304-007, Container CF01304, 1989-01-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426593."
   },
   {
     "id": "source-candidate-470426595",
@@ -16818,6 +16818,6 @@ window.MEPP_HAASS_TARGET_SERIES_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Lebanon context. Inspect the linked PDF for document-level selection.",
     "reason": "Second-pass Haass context file with Lebanon context marker(s); inspect for Gulf War linkage, Lebanon/Syria context, or staff-note evidence before exclusion.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Lebanon 1989-1992, CF01304-009, Container CF01304, 1989-01-01/1992-12-31, NAID 470426595."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Working Files, Working Files - Lebanon 1989-1992, CF01304-009, Container CF01304, 1989-01-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426595."
   }
 ];

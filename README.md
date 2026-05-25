@@ -21,6 +21,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Additional gap-remediation candidates from Haass Presidential Meeting Files and Madrid briefing-book series
 - Princeton James A. Baker III Papers candidates from the MC197 EAD finding aid
 - Source-candidate review metadata, including page/image counts where practical and explicit large-PDF/manual-review flags
+- FRUS-style source note generation and audit checks for presidential records and source candidates
 - GitHub Actions validation and GitHub Pages deployment workflow
 - Reproducible harvest scripts and JSON/JS data bundles for GitHub Pages
 
@@ -52,6 +53,7 @@ node scripts/enrich-record-pdfs.js
 node scripts/enrich-source-candidate-reviews.js
 node scripts/link-public-private.js
 node scripts/build-supporting-data.js
+node scripts/audit-frus-source-notes.js
 ```
 
 The Public Papers, NARA source-candidate, and Princeton finding-aid harvests cache downloaded source material in `.cache/`, which is intentionally ignored by git.
@@ -79,5 +81,6 @@ node --check app.js
 node --check scripts/harvest-presidential-conversations.js
 node --check scripts/harvest-public-statements.js
 node --check scripts/build-supporting-data.js
+node scripts/audit-frus-source-notes.js
 npm test
 ```

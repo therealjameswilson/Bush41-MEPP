@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T12:24:00.606Z",
+  "generatedAt": "2026-05-25T11:20:21.219Z",
   "requestedSeries": [
     "https://catalog.archives.gov/id/2554859",
     "https://catalog.archives.gov/id/2554865",
@@ -113,6 +113,6 @@
   "mediumPriority": 140,
   "reviewPriority": 0,
   "digitalObjects": 382,
-  "mergedSourceCandidates": 904,
+  "mergedSourceCandidates": 899,
   "note": "Targeted Haass file-series candidates are selected by direct series relevance, title markers, and OCR/topic markers. OCR snippets are directional and must be verified against PDFs before FRUS selection."
 }

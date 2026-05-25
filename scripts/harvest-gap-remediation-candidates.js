@@ -221,7 +221,7 @@ function toCandidate(record, series) {
       ? `Gap-remediation OCR/topic markers: ${terms.join(", ")}. Inspect the linked PDF for document-level selection.`
       : `Gap-remediation candidate from ${sourceSeries}; inspect the linked PDF for document-level selection.`,
     reason: `High-value Bush Library gap-remediation file from ${sourceSeries}; verify PDF/OCR before treating as compiler evidence.`,
-    sourceNote: `Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, ${sourceSeries}, ${record.title || `Catalog record ${record.naId}`}${localIdentifier ? `, ${localIdentifier}` : ""}${date ? `, ${date}` : ""}, NAID ${record.naId}.`
+    sourceNote: `Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, ${sourceSeries}, ${record.title || `Catalog record ${record.naId}`}${localIdentifier ? `, ${localIdentifier}` : ""}${date ? `, ${date}` : ""}. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID ${record.naId}.`
   };
 }
 

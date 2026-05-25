@@ -442,6 +442,7 @@ function toSiteRecord(match) {
       shortName: series.shortName,
       url: `https://catalog.archives.gov/id/${series.naid}`
     },
+    sourceNoteLocation: notes.sourceNoteLocation,
     sourceNote: notes.sourceNote,
     frusSourceNote: notes.sourceNote,
     catalogTrail: notes.catalogTrail,
@@ -558,4 +559,3 @@ main().catch((error) => {
   console.error(error);
   process.exitCode = 1;
 });
-

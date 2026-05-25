@@ -42,7 +42,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1989, CF80001-001, Container CF80001, 1989-01-01/1989-01-31, NAID 470425861."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1989, CF80001-001, Container CF80001, 1989-01-01/1989-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425861."
   },
   {
     "id": "haass-chron-470425862",
@@ -87,7 +87,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1989 [1], CF80001-002, Container CF80001, 1989-02-01/1989-02-28, NAID 470425862."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1989 [1], CF80001-002, Container CF80001, 1989-02-01/1989-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425862."
   },
   {
     "id": "haass-chron-470425863",
@@ -130,7 +130,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1989 [2], CF80001-003, Container CF80001, 1989-02-01/1989-02-28, NAID 470425863."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1989 [2], CF80001-003, Container CF80001, 1989-02-01/1989-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425863."
   },
   {
     "id": "haass-chron-470425864",
@@ -173,7 +173,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1989 [1], CF80001-004, Container CF80001, 1989-03-01/1989-03-31, NAID 470425864."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1989 [1], CF80001-004, Container CF80001, 1989-03-01/1989-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425864."
   },
   {
     "id": "haass-chron-470425865",
@@ -214,7 +214,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1989 [2], CF80001-005, Container CF80001, 1989-03-01/1989-03-31, NAID 470425865."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1989 [2], CF80001-005, Container CF80001, 1989-03-01/1989-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425865."
   },
   {
     "id": "haass-chron-470425866",
@@ -252,7 +252,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1989 [3], CF80001-006, Container CF80001, 1989-03-01/1989-03-31, NAID 470425866."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1989 [3], CF80001-006, Container CF80001, 1989-03-01/1989-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425866."
   },
   {
     "id": "haass-chron-470425867",
@@ -301,7 +301,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1989 [1], CF80001-007, Container CF80001, 1989-04-01/1989-04-30, NAID 470425867."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1989 [1], CF80001-007, Container CF80001, 1989-04-01/1989-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425867."
   },
   {
     "id": "haass-chron-470425868",
@@ -344,7 +344,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1989 [2], CF80001-008, Container CF80001, 1989-04-01/1989-04-30, NAID 470425868."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1989 [2], CF80001-008, Container CF80001, 1989-04-01/1989-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425868."
   },
   {
     "id": "haass-chron-470425869",
@@ -387,7 +387,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1989 [3], CF80002-001, Container CF80002, 1989-04-01/1989-04-30, NAID 470425869."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1989 [3], CF80002-001, Container CF80002, 1989-04-01/1989-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425869."
   },
   {
     "id": "haass-chron-470425870",
@@ -434,7 +434,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1989 [4], CF80002-002, Container CF80002, 1989-04-01/1989-04-30, NAID 470425870."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1989 [4], CF80002-002, Container CF80002, 1989-04-01/1989-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425870."
   },
   {
     "id": "haass-chron-470425871",
@@ -481,7 +481,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1989 [5], CF80002-003, Container CF80002, 1989-04-01/1989-04-30, NAID 470425871."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1989 [5], CF80002-003, Container CF80002, 1989-04-01/1989-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425871."
   },
   {
     "id": "haass-chron-470425872",
@@ -528,7 +528,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1989 [1], CF80002-004, Container CF80002, 1989-05-01/1989-05-31, NAID 470425872."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1989 [1], CF80002-004, Container CF80002, 1989-05-01/1989-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425872."
   },
   {
     "id": "haass-chron-470425873",
@@ -569,7 +569,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1989 [2], CF80002-005, Container CF80002, 1989-05-01/1989-05-31, NAID 470425873."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1989 [2], CF80002-005, Container CF80002, 1989-05-01/1989-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425873."
   },
   {
     "id": "haass-chron-470425874",
@@ -607,7 +607,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1989 [3], CF80002-006, Container CF80002, 1989-05-01/1989-05-31, NAID 470425874."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1989 [3], CF80002-006, Container CF80002, 1989-05-01/1989-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425874."
   },
   {
     "id": "haass-chron-470425875",
@@ -642,7 +642,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1989 [4], CF80002-007, Container CF80002, 1989-05-01/1989-05-31, NAID 470425875."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1989 [4], CF80002-007, Container CF80002, 1989-05-01/1989-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425875."
   },
   {
     "id": "haass-chron-470425876",
@@ -685,7 +685,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1989 [1], CF80003-001, Container CF80003, 1989-06-01/1989-06-30, NAID 470425876."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1989 [1], CF80003-001, Container CF80003, 1989-06-01/1989-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425876."
   },
   {
     "id": "haass-chron-470425877",
@@ -723,7 +723,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1989 [2], CF80003-002, Container CF80003, 1989-06-01/1989-06-30, NAID 470425877."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1989 [2], CF80003-002, Container CF80003, 1989-06-01/1989-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425877."
   },
   {
     "id": "haass-chron-470425878",
@@ -755,7 +755,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1989 [3], CF80003-003, Container CF80003, 1989-06-01/1989-06-30, NAID 470425878."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1989 [3], CF80003-003, Container CF80003, 1989-06-01/1989-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425878."
   },
   {
     "id": "haass-chron-470425879",
@@ -793,7 +793,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1989 [4], CF80003-004, Container CF80003, 1989-06-01/1989-06-30, NAID 470425879."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1989 [4], CF80003-004, Container CF80003, 1989-06-01/1989-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425879."
   },
   {
     "id": "haass-chron-470425880",
@@ -836,7 +836,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1989 [5], CF80003-005, Container CF80003, 1989-06-01/1989-06-30, NAID 470425880."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1989 [5], CF80003-005, Container CF80003, 1989-06-01/1989-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425880."
   },
   {
     "id": "haass-chron-470425881",
@@ -881,7 +881,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1989 [1], CF80003-006, Container CF80003, 1989-07-01/1989-07-31, NAID 470425881."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1989 [1], CF80003-006, Container CF80003, 1989-07-01/1989-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425881."
   },
   {
     "id": "haass-chron-470425882",
@@ -926,7 +926,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1989 [2], CF80003-007, Container CF80003, 1989-07-01/1989-07-31, NAID 470425882."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1989 [2], CF80003-007, Container CF80003, 1989-07-01/1989-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425882."
   },
   {
     "id": "haass-chron-470425883",
@@ -969,7 +969,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1989 [3], CF80003-008, Container CF80003, 1989-07-01/1989-07-31, NAID 470425883."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1989 [3], CF80003-008, Container CF80003, 1989-07-01/1989-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425883."
   },
   {
     "id": "haass-chron-470425884",
@@ -1007,7 +1007,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1989 [1], CF80004-001, Container CF80004, 1989-08-01/1989-08-31, NAID 470425884."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1989 [1], CF80004-001, Container CF80004, 1989-08-01/1989-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425884."
   },
   {
     "id": "haass-chron-470425885",
@@ -1050,7 +1050,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1989 [2], CF80004-002, Container CF80004, 1989-08-01/1989-08-31, NAID 470425885."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1989 [2], CF80004-002, Container CF80004, 1989-08-01/1989-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425885."
   },
   {
     "id": "haass-chron-470425886",
@@ -1095,7 +1095,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1989 [3], CF80004-003, Container CF80004, 1989-08-01/1989-08-31, NAID 470425886."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1989 [3], CF80004-003, Container CF80004, 1989-08-01/1989-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425886."
   },
   {
     "id": "haass-chron-470425887",
@@ -1142,7 +1142,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1989 [4], CF80004-004, Container CF80004, 1989-08-01/1989-08-31, NAID 470425887."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1989 [4], CF80004-004, Container CF80004, 1989-08-01/1989-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425887."
   },
   {
     "id": "haass-chron-470425888",
@@ -1187,7 +1187,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1989 [5], CF80004-005, Container CF80004, 1989-08-01/1989-08-31, NAID 470425888."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1989 [5], CF80004-005, Container CF80004, 1989-08-01/1989-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425888."
   },
   {
     "id": "haass-chron-470425889",
@@ -1230,7 +1230,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1989 [1], CF80004-006, Container CF80004, 1989-09-01/1989-09-30, NAID 470425889."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1989 [1], CF80004-006, Container CF80004, 1989-09-01/1989-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425889."
   },
   {
     "id": "haass-chron-470425890",
@@ -1271,7 +1271,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1989 [2], CF80004-007, Container CF80004, 1989-09-01/1989-09-30, NAID 470425890."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1989 [2], CF80004-007, Container CF80004, 1989-09-01/1989-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425890."
   },
   {
     "id": "haass-chron-470425891",
@@ -1312,7 +1312,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1989 [1], CF80005-001, Container CF80005, 1989-10-01/1989-10-31, NAID 470425891."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1989 [1], CF80005-001, Container CF80005, 1989-10-01/1989-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425891."
   },
   {
     "id": "haass-chron-470425892",
@@ -1359,7 +1359,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1989 [2], CF80005-002, Container CF80005, 1989-10-01/1989-10-31, NAID 470425892."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1989 [2], CF80005-002, Container CF80005, 1989-10-01/1989-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425892."
   },
   {
     "id": "haass-chron-470425893",
@@ -1400,7 +1400,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1989 [3], CF80005-003, Container CF80005, 1989-10-01/1989-10-31, NAID 470425893."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1989 [3], CF80005-003, Container CF80005, 1989-10-01/1989-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425893."
   },
   {
     "id": "haass-chron-470425894",
@@ -1432,7 +1432,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1989 [4], CF80005-004, Container CF80005, 1989-10-01/1989-10-31, NAID 470425894."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1989 [4], CF80005-004, Container CF80005, 1989-10-01/1989-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425894."
   },
   {
     "id": "haass-chron-470425895",
@@ -1475,7 +1475,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1989 [1], CF80005-005, Container CF80005, 1989-11-01/1989-11-30, NAID 470425895."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1989 [1], CF80005-005, Container CF80005, 1989-11-01/1989-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425895."
   },
   {
     "id": "haass-chron-470425896",
@@ -1518,7 +1518,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1989 [2], CF80005-006, Container CF80005, 1989-11-01/1989-11-30, NAID 470425896."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1989 [2], CF80005-006, Container CF80005, 1989-11-01/1989-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425896."
   },
   {
     "id": "haass-chron-470425897",
@@ -1563,7 +1563,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1989 [3], CF80005-007, Container CF80005, 1989-11-01/1989-11-30, NAID 470425897."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1989 [3], CF80005-007, Container CF80005, 1989-11-01/1989-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425897."
   },
   {
     "id": "haass-chron-470425898",
@@ -1606,7 +1606,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1989 [1], CF80006-001, Container CF80006, 1989-12-01/1989-12-31, NAID 470425898."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1989 [1], CF80006-001, Container CF80006, 1989-12-01/1989-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425898."
   },
   {
     "id": "haass-chron-470425899",
@@ -1647,7 +1647,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1989 [2], CF80006-002, Container CF80006, 1989-12-01/1989-12-31, NAID 470425899."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1989 [2], CF80006-002, Container CF80006, 1989-12-01/1989-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425899."
   },
   {
     "id": "haass-chron-470425900",
@@ -1688,7 +1688,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1990 [1], CF80006-003, Container CF80006, 1990-01-01/1990-01-31, NAID 470425900."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1990 [1], CF80006-003, Container CF80006, 1990-01-01/1990-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425900."
   },
   {
     "id": "haass-chron-470425901",
@@ -1731,7 +1731,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1990 [2], CF80006-004, Container CF80006, 1990-01-01/1990-01-31, NAID 470425901."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1990 [2], CF80006-004, Container CF80006, 1990-01-01/1990-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425901."
   },
   {
     "id": "haass-chron-470425902",
@@ -1776,7 +1776,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1990 [1], CF80006-005, Container CF80006, 1990-02-01/1990-02-28, NAID 470425902."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1990 [1], CF80006-005, Container CF80006, 1990-02-01/1990-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425902."
   },
   {
     "id": "haass-chron-470425903",
@@ -1814,7 +1814,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1990 [2], CF80006-006, Container CF80006, 1990-02-01/1990-02-28, NAID 470425903."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1990 [2], CF80006-006, Container CF80006, 1990-02-01/1990-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425903."
   },
   {
     "id": "haass-chron-470425904",
@@ -1846,7 +1846,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1990 [3], CF80006-007, Container CF80006, 1990-02-01/1990-02-28, NAID 470425904."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1990 [3], CF80006-007, Container CF80006, 1990-02-01/1990-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425904."
   },
   {
     "id": "haass-chron-470425905",
@@ -1893,7 +1893,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1990 [4], CF80006-008, Container CF80006, 1990-02-01/1990-02-28, NAID 470425905."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1990 [4], CF80006-008, Container CF80006, 1990-02-01/1990-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425905."
   },
   {
     "id": "haass-chron-470425906",
@@ -1940,7 +1940,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1990 [1], CF80007-001, Container CF80007, 1990-03-01/1990-03-31, NAID 470425906."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1990 [1], CF80007-001, Container CF80007, 1990-03-01/1990-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425906."
   },
   {
     "id": "haass-chron-470425907",
@@ -1987,7 +1987,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1990 [2], CF80007-002, Container CF80007, 1990-03-01/1990-03-31, NAID 470425907."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1990 [2], CF80007-002, Container CF80007, 1990-03-01/1990-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425907."
   },
   {
     "id": "haass-chron-470425908",
@@ -2028,7 +2028,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israeli-Palestinian, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israeli-Palestinian, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1990 [3], CF80007-003, Container CF80007, 1990-03-01/1990-03-31, NAID 470425908."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1990 [3], CF80007-003, Container CF80007, 1990-03-01/1990-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425908."
   },
   {
     "id": "haass-chron-470425909",
@@ -2069,7 +2069,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israeli-Palestinian, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1990 [4], CF80007-004, Container CF80007, 1990-03-01/1990-03-31, NAID 470425909."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1990 [4], CF80007-004, Container CF80007, 1990-03-01/1990-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425909."
   },
   {
     "id": "haass-chron-470425910",
@@ -2112,7 +2112,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1990 [1], CF80007-005, Container CF80007, 1990-04-01/1990-04-30, NAID 470425910."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1990 [1], CF80007-005, Container CF80007, 1990-04-01/1990-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425910."
   },
   {
     "id": "haass-chron-470425911",
@@ -2150,7 +2150,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1990 [2], CF80007-006, Container CF80007, 1990-04-01/1990-04-30, NAID 470425911."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1990 [2], CF80007-006, Container CF80007, 1990-04-01/1990-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425911."
   },
   {
     "id": "haass-chron-470425912",
@@ -2195,7 +2195,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1990 [3], CF80007-007, Container CF80007, 1990-04-01/1990-04-30, NAID 470425912."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1990 [3], CF80007-007, Container CF80007, 1990-04-01/1990-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425912."
   },
   {
     "id": "haass-chron-470425913",
@@ -2238,7 +2238,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Palestinian channel, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Palestinian channel, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1990 [4], CF80007-008, Container CF80007, 1990-04-01/1990-04-30, NAID 470425913."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1990 [4], CF80007-008, Container CF80007, 1990-04-01/1990-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425913."
   },
   {
     "id": "haass-chron-470425914",
@@ -2283,7 +2283,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israeli-Palestinian, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israeli-Palestinian, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1990 [1], CF80008-001, Container CF80008, 1990-05-01/1990-05-31, NAID 470425914."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1990 [1], CF80008-001, Container CF80008, 1990-05-01/1990-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425914."
   },
   {
     "id": "haass-chron-470425915",
@@ -2330,7 +2330,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1990 [2], CF80008-002, Container CF80008, 1990-05-01/1990-05-31, NAID 470425915."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1990 [2], CF80008-002, Container CF80008, 1990-05-01/1990-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425915."
   },
   {
     "id": "haass-chron-470425916",
@@ -2377,7 +2377,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1990 [3], CF80008-003, Container CF80008, 1990-05-01/1990-05-31, NAID 470425916."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1990 [3], CF80008-003, Container CF80008, 1990-05-01/1990-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425916."
   },
   {
     "id": "haass-chron-470425917",
@@ -2420,7 +2420,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1990 [1], CF80008-004, Container CF80008, 1990-06-01/1990-06-30, NAID 470425917."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1990 [1], CF80008-004, Container CF80008, 1990-06-01/1990-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425917."
   },
   {
     "id": "haass-chron-470425918",
@@ -2469,7 +2469,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1990 [2], CF80008-005, Container CF80008, 1990-06-01/1990-06-30, NAID 470425918."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1990 [2], CF80008-005, Container CF80008, 1990-06-01/1990-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425918."
   },
   {
     "id": "haass-chron-470425919",
@@ -2512,7 +2512,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1990 [3], CF80008-006, Container CF80008, 1990-06-01/1990-06-30, NAID 470425919."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1990 [3], CF80008-006, Container CF80008, 1990-06-01/1990-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425919."
   },
   {
     "id": "haass-chron-470425920",
@@ -2555,7 +2555,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1990 [1], CF80008-007, Container CF80008, 1990-07-01/1990-07-31, NAID 470425920."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1990 [1], CF80008-007, Container CF80008, 1990-07-01/1990-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425920."
   },
   {
     "id": "haass-chron-470425921",
@@ -2600,7 +2600,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1990 [2], CF80008-008, Container CF80008, 1990-07-01/1990-07-31, NAID 470425921."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1990 [2], CF80008-008, Container CF80008, 1990-07-01/1990-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425921."
   },
   {
     "id": "haass-chron-470425922",
@@ -2635,7 +2635,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1990 [1], CF80009-001, Container CF80009, 1990-08-01/1990-08-31, NAID 470425922."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1990 [1], CF80009-001, Container CF80009, 1990-08-01/1990-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425922."
   },
   {
     "id": "haass-chron-470425923",
@@ -2673,7 +2673,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1990 [2], CF80009-002, Container CF80009, 1990-08-01/1990-08-31, NAID 470425923."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1990 [2], CF80009-002, Container CF80009, 1990-08-01/1990-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425923."
   },
   {
     "id": "haass-chron-470425924",
@@ -2720,7 +2720,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1990 [3], CF80009-003, Container CF80009, 1990-08-01/1990-08-31, NAID 470425924."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1990 [3], CF80009-003, Container CF80009, 1990-08-01/1990-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425924."
   },
   {
     "id": "haass-chron-470425925",
@@ -2752,7 +2752,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [1], CF80009-004, Container CF80009, 1990-09-01/1990-09-30, NAID 470425925."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [1], CF80009-004, Container CF80009, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425925."
   },
   {
     "id": "haass-chron-470425926",
@@ -2793,7 +2793,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [2], CF80009-005, Container CF80009, 1990-09-01/1990-09-30, NAID 470425926."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [2], CF80009-005, Container CF80009, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425926."
   },
   {
     "id": "haass-chron-470425927",
@@ -2825,7 +2825,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [3], CF80009-006, Container CF80009, 1990-09-01/1990-09-30, NAID 470425927."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [3], CF80009-006, Container CF80009, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425927."
   },
   {
     "id": "haass-chron-470425928",
@@ -2868,7 +2868,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [4], CF80009-007, Container CF80009, 1990-09-01/1990-09-30, NAID 470425928."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [4], CF80009-007, Container CF80009, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425928."
   },
   {
     "id": "haass-chron-470425929",
@@ -2909,7 +2909,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [5], CF80009-008, Container CF80009, 1990-09-01/1990-09-30, NAID 470425929."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [5], CF80009-008, Container CF80009, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425929."
   },
   {
     "id": "haass-chron-470425930",
@@ -2941,7 +2941,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [6], CF80010-001, Container CF80010, 1990-09-01/1990-09-30, NAID 470425930."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [6], CF80010-001, Container CF80010, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425930."
   },
   {
     "id": "haass-chron-470425931",
@@ -2982,7 +2982,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [7], CF80010-002, Container CF80010, 1990-09-01/1990-09-30, NAID 470425931."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [7], CF80010-002, Container CF80010, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425931."
   },
   {
     "id": "haass-chron-470425932",
@@ -3010,7 +3010,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     "evidenceSnippets": [],
     "scopeAndContentNote": "Chronological file folder in Richard Haass' NSC series; no high-confidence MEPP topic marker in OCR, but included for date-range completeness.",
     "reason": "Date-range file from Haass' NSC chronological series; inspect before excluding from compiler review.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [8], CF80010-003, Container CF80010, 1990-09-01/1990-09-30, NAID 470425932."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1990 [8], CF80010-003, Container CF80010, 1990-09-01/1990-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425932."
   },
   {
     "id": "haass-chron-470425933",
@@ -3051,7 +3051,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [1], CF80010-004, Container CF80010, 1990-10-01/1990-10-31, NAID 470425933."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [1], CF80010-004, Container CF80010, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425933."
   },
   {
     "id": "haass-chron-470425934",
@@ -3086,7 +3086,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [2], CF80010-005, Container CF80010, 1990-10-01/1990-10-31, NAID 470425934."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [2], CF80010-005, Container CF80010, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425934."
   },
   {
     "id": "haass-chron-470425935",
@@ -3124,7 +3124,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [3], CF80010-006, Container CF80010, 1990-10-01/1990-10-31, NAID 470425935."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [3], CF80010-006, Container CF80010, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425935."
   },
   {
     "id": "haass-chron-470425936",
@@ -3159,7 +3159,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [4], CF80010-007, Container CF80010, 1990-10-01/1990-10-31, NAID 470425936."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [4], CF80010-007, Container CF80010, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425936."
   },
   {
     "id": "haass-chron-470425937",
@@ -3202,7 +3202,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [5], CF80010-008, Container CF80010, 1990-10-01/1990-10-31, NAID 470425937."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [5], CF80010-008, Container CF80010, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425937."
   },
   {
     "id": "haass-chron-470425938",
@@ -3234,7 +3234,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [6], CF80010-009, Container CF80010, 1990-10-01/1990-10-31, NAID 470425938."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [6], CF80010-009, Container CF80010, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425938."
   },
   {
     "id": "haass-chron-470425939",
@@ -3277,7 +3277,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [7], CF80011-001, Container CF80011, 1990-10-01/1990-10-31, NAID 470425939."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [7], CF80011-001, Container CF80011, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425939."
   },
   {
     "id": "haass-chron-470425940",
@@ -3309,7 +3309,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [8], CF80011-002, Container CF80011, 1990-10-01/1990-10-31, NAID 470425940."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1990 [8], CF80011-002, Container CF80011, 1990-10-01/1990-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425940."
   },
   {
     "id": "haass-chron-470425941",
@@ -3337,7 +3337,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     "evidenceSnippets": [],
     "scopeAndContentNote": "Chronological file folder in Richard Haass' NSC series; no high-confidence MEPP topic marker in OCR, but included for date-range completeness.",
     "reason": "Date-range file from Haass' NSC chronological series; inspect before excluding from compiler review.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [1], CF80011-003, Container CF80011, 1990-11-01/1990-11-30, NAID 470425941."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [1], CF80011-003, Container CF80011, 1990-11-01/1990-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425941."
   },
   {
     "id": "haass-chron-470425942",
@@ -3375,7 +3375,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [2], CF80011-004, Container CF80011, 1990-11-01/1990-11-30, NAID 470425942."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [2], CF80011-004, Container CF80011, 1990-11-01/1990-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425942."
   },
   {
     "id": "haass-chron-470425943",
@@ -3407,7 +3407,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [3], CF80011-005, Container CF80011, 1990-11-01/1990-11-30, NAID 470425943."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [3], CF80011-005, Container CF80011, 1990-11-01/1990-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425943."
   },
   {
     "id": "haass-chron-470425944",
@@ -3435,7 +3435,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     "evidenceSnippets": [],
     "scopeAndContentNote": "Chronological file folder in Richard Haass' NSC series; no high-confidence MEPP topic marker in OCR, but included for date-range completeness.",
     "reason": "Date-range file from Haass' NSC chronological series; inspect before excluding from compiler review.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [4], CF80011-006, Container CF80011, 1990-11-01/1990-11-30, NAID 470425944."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [4], CF80011-006, Container CF80011, 1990-11-01/1990-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425944."
   },
   {
     "id": "haass-chron-470425945",
@@ -3476,7 +3476,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Palestinian channel, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Palestinian channel, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [5], CF80011-007, Container CF80011, 1990-11-01/1990-11-30, NAID 470425945."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [5], CF80011-007, Container CF80011, 1990-11-01/1990-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425945."
   },
   {
     "id": "haass-chron-470425946",
@@ -3514,7 +3514,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [6], CF80011-008, Container CF80011, 1990-11-01/1990-11-30, NAID 470425946."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [6], CF80011-008, Container CF80011, 1990-11-01/1990-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425946."
   },
   {
     "id": "haass-chron-470425947",
@@ -3552,7 +3552,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Palestinian channel, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Palestinian channel, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [7], CF80012-001, Container CF80012, 1990-11-01/1990-11-30, NAID 470425947."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [7], CF80012-001, Container CF80012, 1990-11-01/1990-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425947."
   },
   {
     "id": "haass-chron-470425948",
@@ -3593,7 +3593,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [8], CF80012-002, Container CF80012, 1990-11-01/1990-11-30, NAID 470425948."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1990 [8], CF80012-002, Container CF80012, 1990-11-01/1990-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425948."
   },
   {
     "id": "haass-chron-470425949",
@@ -3625,7 +3625,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [1], CF80012-003, Container CF80012, 1990-12-01/1990-12-31, NAID 470425949."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [1], CF80012-003, Container CF80012, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425949."
   },
   {
     "id": "haass-chron-470425950",
@@ -3657,7 +3657,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [2], CF80012-004, Container CF80012, 1990-12-01/1990-12-31, NAID 470425950."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [2], CF80012-004, Container CF80012, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425950."
   },
   {
     "id": "haass-chron-470425951",
@@ -3689,7 +3689,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [3], CF80012-005, Container CF80012, 1990-12-01/1990-12-31, NAID 470425951."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [3], CF80012-005, Container CF80012, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425951."
   },
   {
     "id": "haass-chron-470425952",
@@ -3730,7 +3730,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [4], CF80012-006, Container CF80012, 1990-12-01/1990-12-31, NAID 470425952."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [4], CF80012-006, Container CF80012, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425952."
   },
   {
     "id": "haass-chron-470425953",
@@ -3762,7 +3762,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [5], CF80012-007, Container CF80012, 1990-12-01/1990-12-31, NAID 470425953."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [5], CF80012-007, Container CF80012, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425953."
   },
   {
     "id": "haass-chron-470425954",
@@ -3805,7 +3805,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [6], CF80012-008, Container CF80012, 1990-12-01/1990-12-31, NAID 470425954."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [6], CF80012-008, Container CF80012, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425954."
   },
   {
     "id": "haass-chron-470425955",
@@ -3833,7 +3833,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     "evidenceSnippets": [],
     "scopeAndContentNote": "Chronological file folder in Richard Haass' NSC series; no high-confidence MEPP topic marker in OCR, but included for date-range completeness.",
     "reason": "Date-range file from Haass' NSC chronological series; inspect before excluding from compiler review.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [7], CF80013-001, Container CF80013, 1990-12-01/1990-12-31, NAID 470425955."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [7], CF80013-001, Container CF80013, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425955."
   },
   {
     "id": "haass-chron-470425956",
@@ -3861,7 +3861,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     "evidenceSnippets": [],
     "scopeAndContentNote": "Chronological file folder in Richard Haass' NSC series; no high-confidence MEPP topic marker in OCR, but included for date-range completeness.",
     "reason": "Date-range file from Haass' NSC chronological series; inspect before excluding from compiler review.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [8], CF80013-002, Container CF80013, 1990-12-01/1990-12-31, NAID 470425956."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1990 [8], CF80013-002, Container CF80013, 1990-12-01/1990-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425956."
   },
   {
     "id": "haass-chron-470425957",
@@ -3893,7 +3893,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [1], CF80013-003, Container CF80013, 1991-01-01/1991-01-31, NAID 470425957."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [1], CF80013-003, Container CF80013, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425957."
   },
   {
     "id": "haass-chron-470425958",
@@ -3931,7 +3931,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [2], CF80013-004, Container CF80013, 1991-01-01/1991-01-31, NAID 470425958."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [2], CF80013-004, Container CF80013, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425958."
   },
   {
     "id": "haass-chron-470425959",
@@ -3972,7 +3972,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [3], CF80013-005, Container CF80013, 1991-01-01/1991-01-31, NAID 470425959."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [3], CF80013-005, Container CF80013, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425959."
   },
   {
     "id": "haass-chron-470425960",
@@ -4013,7 +4013,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [4], CF80013-006, Container CF80013, 1991-01-01/1991-01-31, NAID 470425960."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [4], CF80013-006, Container CF80013, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425960."
   },
   {
     "id": "haass-chron-470425961",
@@ -4048,7 +4048,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Palestinian channel, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Palestinian channel, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [5], CF80013-007, Container CF80013, 1991-01-01/1991-01-31, NAID 470425961."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [5], CF80013-007, Container CF80013, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425961."
   },
   {
     "id": "haass-chron-470425962",
@@ -4083,7 +4083,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [6], CF80013-008, Container CF80013, 1991-01-01/1991-01-31, NAID 470425962."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [6], CF80013-008, Container CF80013, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425962."
   },
   {
     "id": "haass-chron-470425963",
@@ -4115,7 +4115,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [7], CF80013-009, Container CF80013, 1991-01-01/1991-01-31, NAID 470425963."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1991 [7], CF80013-009, Container CF80013, 1991-01-01/1991-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425963."
   },
   {
     "id": "haass-chron-470425964",
@@ -4160,7 +4160,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1991 [1], CF80014-001, Container CF80014, 1991-02-01/1991-02-28, NAID 470425964."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1991 [1], CF80014-001, Container CF80014, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425964."
   },
   {
     "id": "haass-chron-470425965",
@@ -4192,7 +4192,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1991 [2], CF80014-002, Container CF80014, 1991-02-01/1991-02-28, NAID 470425965."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1991 [2], CF80014-002, Container CF80014, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425965."
   },
   {
     "id": "haass-chron-470425966",
@@ -4235,7 +4235,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1991 [3], CF80014-003, Container CF80014, 1991-02-01/1991-02-28, NAID 470425966."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1991 [3], CF80014-003, Container CF80014, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425966."
   },
   {
     "id": "haass-chron-470425967",
@@ -4276,7 +4276,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Palestinian channel, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Palestinian channel, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1991 [4], CF80014-004, Container CF80014, 1991-02-01/1991-02-28, NAID 470425967."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1991 [4], CF80014-004, Container CF80014, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425967."
   },
   {
     "id": "haass-chron-470425968",
@@ -4314,7 +4314,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1991 [5], CF80014-005, Container CF80014, 1991-02-01/1991-02-28, NAID 470425968."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1991 [5], CF80014-005, Container CF80014, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425968."
   },
   {
     "id": "haass-chron-470425969",
@@ -4352,7 +4352,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1991 [6], CF80014-006, Container CF80014, 1991-02-01/1991-02-28, NAID 470425969."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1991 [6], CF80014-006, Container CF80014, 1991-02-01/1991-02-28. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425969."
   },
   {
     "id": "haass-chron-470425970",
@@ -4397,7 +4397,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1991 [1], CF80014-007, Container CF80014, 1991-03-01/1991-03-31, NAID 470425970."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1991 [1], CF80014-007, Container CF80014, 1991-03-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425970."
   },
   {
     "id": "haass-chron-470425971",
@@ -4438,7 +4438,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1991 [2], CF80014-008, Container CF80014, 1991-03-01/1991-03-31, NAID 470425971."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1991 [2], CF80014-008, Container CF80014, 1991-03-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425971."
   },
   {
     "id": "haass-chron-470425972",
@@ -4479,7 +4479,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1991 [3], CF80014-009, Container CF80014, 1991-03-01/1991-03-31, NAID 470425972."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1991 [3], CF80014-009, Container CF80014, 1991-03-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425972."
   },
   {
     "id": "haass-chron-470425973",
@@ -4520,7 +4520,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1991 [4], CF80015-001, Container CF80015, 1991-03-01/1991-03-31, NAID 470425973."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1991 [4], CF80015-001, Container CF80015, 1991-03-01/1991-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425973."
   },
   {
     "id": "haass-chron-470425974",
@@ -4563,7 +4563,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1991 [1], CF80015-002, Container CF80015, 1991-04-01/1991-04-30, NAID 470425974."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1991 [1], CF80015-002, Container CF80015, 1991-04-01/1991-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425974."
   },
   {
     "id": "haass-chron-470425975",
@@ -4606,7 +4606,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1991 [2], CF80015-003, Container CF80015, 1991-04-01/1991-04-30, NAID 470425975."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1991 [2], CF80015-003, Container CF80015, 1991-04-01/1991-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425975."
   },
   {
     "id": "haass-chron-470425976",
@@ -4647,7 +4647,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1991 [3], CF80015-004, Container CF80015, 1991-04-01/1991-04-30, NAID 470425976."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1991 [3], CF80015-004, Container CF80015, 1991-04-01/1991-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425976."
   },
   {
     "id": "haass-chron-470425977",
@@ -4690,7 +4690,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1991 [4], CF80015-005, Container CF80015, 1991-04-01/1991-04-30, NAID 470425977."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1991 [4], CF80015-005, Container CF80015, 1991-04-01/1991-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425977."
   },
   {
     "id": "haass-chron-470425978",
@@ -4728,7 +4728,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1991 [5], CF80015-006, Container CF80015, 1991-04-01/1991-04-30, NAID 470425978."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1991 [5], CF80015-006, Container CF80015, 1991-04-01/1991-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425978."
   },
   {
     "id": "haass-chron-470425979",
@@ -4766,7 +4766,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israeli-Palestinian, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israeli-Palestinian, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1991 [6], CF80015-007, Container CF80015, 1991-04-01/1991-04-30, NAID 470425979."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1991 [6], CF80015-007, Container CF80015, 1991-04-01/1991-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425979."
   },
   {
     "id": "haass-chron-470425980",
@@ -4813,7 +4813,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [1], CF80016-001, Container CF80016, 1991-05-01/1991-05-31, NAID 470425980."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [1], CF80016-001, Container CF80016, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425980."
   },
   {
     "id": "haass-chron-470425989",
@@ -4856,7 +4856,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [10], CF80017-002, Container CF80017, 1991-05-01/1991-05-31, NAID 470425989."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [10], CF80017-002, Container CF80017, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425989."
   },
   {
     "id": "haass-chron-470425990",
@@ -4899,7 +4899,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [11], CF80017-003, Container CF80017, 1991-05-01/1991-05-31, NAID 470425990."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [11], CF80017-003, Container CF80017, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425990."
   },
   {
     "id": "haass-chron-470425981",
@@ -4927,7 +4927,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     "evidenceSnippets": [],
     "scopeAndContentNote": "Chronological file folder in Richard Haass' NSC series; no high-confidence MEPP topic marker in OCR, but included for date-range completeness.",
     "reason": "Date-range file from Haass' NSC chronological series; inspect before excluding from compiler review.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [2], CF80016-002, Container CF80016, 1991-05-01/1991-05-31, NAID 470425981."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [2], CF80016-002, Container CF80016, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425981."
   },
   {
     "id": "haass-chron-470425982",
@@ -4955,7 +4955,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     "evidenceSnippets": [],
     "scopeAndContentNote": "Chronological file folder in Richard Haass' NSC series; no high-confidence MEPP topic marker in OCR, but included for date-range completeness.",
     "reason": "Date-range file from Haass' NSC chronological series; inspect before excluding from compiler review.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [3], CF80016-003, Container CF80016, 1991-05-01/1991-05-31, NAID 470425982."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [3], CF80016-003, Container CF80016, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425982."
   },
   {
     "id": "haass-chron-470425983",
@@ -4993,7 +4993,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [4], CF80016-004, Container CF80016, 1991-05-01/1991-05-31, NAID 470425983."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [4], CF80016-004, Container CF80016, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425983."
   },
   {
     "id": "haass-chron-470425984",
@@ -5036,7 +5036,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [5], CF80016-005, Container CF80016, 1991-05-01/1991-05-31, NAID 470425984."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [5], CF80016-005, Container CF80016, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425984."
   },
   {
     "id": "haass-chron-470425985",
@@ -5077,7 +5077,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [6], CF80016-006, Container CF80016, 1991-05-01/1991-05-31, NAID 470425985."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [6], CF80016-006, Container CF80016, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425985."
   },
   {
     "id": "haass-chron-470425986",
@@ -5124,7 +5124,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [7], CF80016-007, Container CF80016, 1991-05-01/1991-05-31, NAID 470425986."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [7], CF80016-007, Container CF80016, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425986."
   },
   {
     "id": "haass-chron-470425987",
@@ -5171,7 +5171,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [8], CF80016-008, Container CF80016, 1991-05-01/1991-05-31, NAID 470425987."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [8], CF80016-008, Container CF80016, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425987."
   },
   {
     "id": "haass-chron-470425988",
@@ -5216,7 +5216,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [9], CF80017-001, Container CF80017, 1991-05-01/1991-05-31, NAID 470425988."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1991 [9], CF80017-001, Container CF80017, 1991-05-01/1991-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425988."
   },
   {
     "id": "haass-chron-470425991",
@@ -5251,7 +5251,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1991 [1], CF80017-004, Container CF80017, 1991-06-01/1991-06-30, NAID 470425991."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1991 [1], CF80017-004, Container CF80017, 1991-06-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425991."
   },
   {
     "id": "haass-chron-470425992",
@@ -5294,7 +5294,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Palestinian channel, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Palestinian channel, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1991 [2], CF80017-005, Container CF80017, 1991-06-01/1991-06-30, NAID 470425992."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1991 [2], CF80017-005, Container CF80017, 1991-06-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425992."
   },
   {
     "id": "haass-chron-470425993",
@@ -5339,7 +5339,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1991 [3], CF80017-006, Container CF80017, 1991-06-01/1991-06-30, NAID 470425993."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1991 [3], CF80017-006, Container CF80017, 1991-06-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425993."
   },
   {
     "id": "haass-chron-470425994",
@@ -5382,7 +5382,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1991 [4], CF80017-007, Container CF80017, 1991-06-01/1991-06-30, NAID 470425994."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1991 [4], CF80017-007, Container CF80017, 1991-06-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425994."
   },
   {
     "id": "haass-chron-470425995",
@@ -5427,7 +5427,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1991 [5], CF80017-008, Container CF80017, 1991-06-01/1991-06-30, NAID 470425995."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1991 [5], CF80017-008, Container CF80017, 1991-06-01/1991-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425995."
   },
   {
     "id": "haass-chron-470425996",
@@ -5470,7 +5470,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israeli-Palestinian, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israeli-Palestinian, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1991 [1], CF80018-001, Container CF80018, 1991-07-01/1991-07-31, NAID 470425996."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1991 [1], CF80018-001, Container CF80018, 1991-07-01/1991-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425996."
   },
   {
     "id": "haass-chron-470425997",
@@ -5513,7 +5513,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1991 [2], CF80018-002, Container CF80018, 1991-07-01/1991-07-31, NAID 470425997."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1991 [2], CF80018-002, Container CF80018, 1991-07-01/1991-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425997."
   },
   {
     "id": "haass-chron-470425998",
@@ -5556,7 +5556,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1991 [3], CF80018-003, Container CF80018, 1991-07-01/1991-07-31, NAID 470425998."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1991 [3], CF80018-003, Container CF80018, 1991-07-01/1991-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425998."
   },
   {
     "id": "haass-chron-470425999",
@@ -5599,7 +5599,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1991 [4], CF80018-004, Container CF80018, 1991-07-01/1991-07-31, NAID 470425999."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1991 [4], CF80018-004, Container CF80018, 1991-07-01/1991-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470425999."
   },
   {
     "id": "haass-chron-470426000",
@@ -5642,7 +5642,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1991 [5], CF80018-005, Container CF80018, 1991-07-01/1991-07-31, NAID 470426000."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1991 [5], CF80018-005, Container CF80018, 1991-07-01/1991-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426000."
   },
   {
     "id": "haass-chron-470426001",
@@ -5689,7 +5689,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1991 [1], CF80018-006, Container CF80018, 1991-08-01/1991-08-31, NAID 470426001."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1991 [1], CF80018-006, Container CF80018, 1991-08-01/1991-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426001."
   },
   {
     "id": "haass-chron-470426002",
@@ -5734,7 +5734,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1991 [2], CF80018-007, Container CF80018, 1991-08-01/1991-08-31, NAID 470426002."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1991 [2], CF80018-007, Container CF80018, 1991-08-01/1991-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426002."
   },
   {
     "id": "haass-chron-470426003",
@@ -5772,7 +5772,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1991 [3], CF80018-008, Container CF80018, 1991-08-01/1991-08-31, NAID 470426003."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1991 [3], CF80018-008, Container CF80018, 1991-08-01/1991-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426003."
   },
   {
     "id": "haass-chron-470426004",
@@ -5815,7 +5815,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1991 [1], CF80019-001, Container CF80019, 1991-09-01/1991-09-30, NAID 470426004."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1991 [1], CF80019-001, Container CF80019, 1991-09-01/1991-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426004."
   },
   {
     "id": "haass-chron-470426005",
@@ -5858,7 +5858,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1991 [2], CF80019-002, Container CF80019, 1991-09-01/1991-09-30, NAID 470426005."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1991 [2], CF80019-002, Container CF80019, 1991-09-01/1991-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426005."
   },
   {
     "id": "haass-chron-470426006",
@@ -5899,7 +5899,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1991 [1], CF80019-003, Container CF80019, 1991-10-01/1991-10-31, NAID 470426006."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1991 [1], CF80019-003, Container CF80019, 1991-10-01/1991-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426006."
   },
   {
     "id": "haass-chron-470426007",
@@ -5944,7 +5944,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1991 [2], CF80019-004, Container CF80019, 1991-10-01/1991-10-31, NAID 470426007."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1991 [2], CF80019-004, Container CF80019, 1991-10-01/1991-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426007."
   },
   {
     "id": "haass-chron-470426008",
@@ -5991,7 +5991,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israeli-Palestinian, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1991 [3], CF80019-005, Container CF80019, 1991-10-01/1991-10-31, NAID 470426008."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1991 [3], CF80019-005, Container CF80019, 1991-10-01/1991-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426008."
   },
   {
     "id": "haass-chron-470426009",
@@ -6032,7 +6032,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1991 [4], CF80019-006, Container CF80019, 1991-10-01/1991-10-31, NAID 470426009."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1991 [4], CF80019-006, Container CF80019, 1991-10-01/1991-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426009."
   },
   {
     "id": "haass-chron-470426010",
@@ -6075,7 +6075,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1991 [1], CF80019-007, Container CF80019, 1991-11-01/1991-11-30, NAID 470426010."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1991 [1], CF80019-007, Container CF80019, 1991-11-01/1991-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426010."
   },
   {
     "id": "haass-chron-470426011",
@@ -6118,7 +6118,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1991 [2], CF80019-008, Container CF80019, 1991-11-01/1991-11-30, NAID 470426011."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1991 [2], CF80019-008, Container CF80019, 1991-11-01/1991-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426011."
   },
   {
     "id": "haass-chron-470426012",
@@ -6159,7 +6159,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1991, CF80020-001, Container CF80020, 1991-12-01/1991-12-31, NAID 470426012."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1991, CF80020-001, Container CF80020, 1991-12-01/1991-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426012."
   },
   {
     "id": "haass-chron-470426013",
@@ -6206,7 +6206,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1992 [1], CF80020-002, Container CF80020, 1992-01-01/1992-01-31, NAID 470426013."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1992 [1], CF80020-002, Container CF80020, 1992-01-01/1992-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426013."
   },
   {
     "id": "haass-chron-470426014",
@@ -6249,7 +6249,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1992 [2], CF80020-003, Container CF80020, 1992-01-01/1992-01-31, NAID 470426014."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1992 [2], CF80020-003, Container CF80020, 1992-01-01/1992-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426014."
   },
   {
     "id": "haass-chron-470426015",
@@ -6294,7 +6294,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1992 [3], CF80020-004, Container CF80020, 1992-01-01/1992-01-31, NAID 470426015."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1992 [3], CF80020-004, Container CF80020, 1992-01-01/1992-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426015."
   },
   {
     "id": "haass-chron-470426016",
@@ -6337,7 +6337,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1992 [1], CF80020-005, Container CF80020, 1992-02-01/1992-02-29, NAID 470426016."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1992 [1], CF80020-005, Container CF80020, 1992-02-01/1992-02-29. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426016."
   },
   {
     "id": "haass-chron-470426017",
@@ -6382,7 +6382,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1992 [2], CF80020-006, Container CF80020, 1992-02-01/1992-02-29, NAID 470426017."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1992 [2], CF80020-006, Container CF80020, 1992-02-01/1992-02-29. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426017."
   },
   {
     "id": "haass-chron-470426018",
@@ -6425,7 +6425,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1992 [3], CF80020-007, Container CF80020, 1992-02-01/1992-02-29, NAID 470426018."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1992 [3], CF80020-007, Container CF80020, 1992-02-01/1992-02-29. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426018."
   },
   {
     "id": "haass-chron-470426019",
@@ -6453,7 +6453,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     "evidenceSnippets": [],
     "scopeAndContentNote": "Chronological file folder in Richard Haass' NSC series; no high-confidence MEPP topic marker in OCR, but included for date-range completeness.",
     "reason": "Date-range file from Haass' NSC chronological series; inspect before excluding from compiler review.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1992 [4], CF80020-008, Container CF80020, 1992-02-01/1992-02-29, NAID 470426019."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: February 1992 [4], CF80020-008, Container CF80020, 1992-02-01/1992-02-29. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426019."
   },
   {
     "id": "haass-chron-470426020",
@@ -6498,7 +6498,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1992 [1], CF80021-001, Container CF80021, 1992-03-01/1992-03-31, NAID 470426020."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1992 [1], CF80021-001, Container CF80021, 1992-03-01/1992-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426020."
   },
   {
     "id": "haass-chron-470426021",
@@ -6539,7 +6539,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1992 [2], CF80021-002, Container CF80021, 1992-03-01/1992-03-31, NAID 470426021."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1992 [2], CF80021-002, Container CF80021, 1992-03-01/1992-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426021."
   },
   {
     "id": "haass-chron-470426022",
@@ -6586,7 +6586,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1992 [3], CF80021-003, Container CF80021, 1992-03-01/1992-03-31, NAID 470426022."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1992 [3], CF80021-003, Container CF80021, 1992-03-01/1992-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426022."
   },
   {
     "id": "haass-chron-470426023",
@@ -6633,7 +6633,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1992 [4], CF80021-004, Container CF80021, 1992-03-01/1992-03-31, NAID 470426023."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: March 1992 [4], CF80021-004, Container CF80021, 1992-03-01/1992-03-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426023."
   },
   {
     "id": "haass-chron-470426024",
@@ -6676,7 +6676,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1992 [1], CF80021-005, Container CF80021, 1992-04-01/1992-04-30, NAID 470426024."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1992 [1], CF80021-005, Container CF80021, 1992-04-01/1992-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426024."
   },
   {
     "id": "haass-chron-470426025",
@@ -6723,7 +6723,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1992 [2], CF80021-006, Container CF80021, 1992-04-01/1992-04-30, NAID 470426025."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1992 [2], CF80021-006, Container CF80021, 1992-04-01/1992-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426025."
   },
   {
     "id": "haass-chron-470426026",
@@ -6766,7 +6766,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1992 [3], CF80021-007, Container CF80021, 1992-04-01/1992-04-30, NAID 470426026."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1992 [3], CF80021-007, Container CF80021, 1992-04-01/1992-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426026."
   },
   {
     "id": "haass-chron-470426027",
@@ -6804,7 +6804,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1992 [4], CF80021-008, Container CF80021, 1992-04-01/1992-04-30, NAID 470426027."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: April 1992 [4], CF80021-008, Container CF80021, 1992-04-01/1992-04-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426027."
   },
   {
     "id": "haass-chron-470426028",
@@ -6839,7 +6839,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1992 [1], CF80022-001, Container CF80022, 1992-05-01/1992-05-31, NAID 470426028."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1992 [1], CF80022-001, Container CF80022, 1992-05-01/1992-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426028."
   },
   {
     "id": "haass-chron-470426029",
@@ -6884,7 +6884,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1992 [2], CF80022-002, Container CF80022, 1992-05-01/1992-05-31, NAID 470426029."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1992 [2], CF80022-002, Container CF80022, 1992-05-01/1992-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426029."
   },
   {
     "id": "haass-chron-470426030",
@@ -6929,7 +6929,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1992 [3], CF80022-003, Container CF80022, 1992-05-01/1992-05-31, NAID 470426030."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1992 [3], CF80022-003, Container CF80022, 1992-05-01/1992-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426030."
   },
   {
     "id": "haass-chron-470426031",
@@ -6978,7 +6978,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1992 [4], CF80022-004, Container CF80022, 1992-05-01/1992-05-31, NAID 470426031."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: May 1992 [4], CF80022-004, Container CF80022, 1992-05-01/1992-05-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426031."
   },
   {
     "id": "haass-chron-470426032",
@@ -7025,7 +7025,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1992 [1], CF80022-005, Container CF80022, 1992-06-01/1992-06-30, NAID 470426032."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1992 [1], CF80022-005, Container CF80022, 1992-06-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426032."
   },
   {
     "id": "haass-chron-470426033",
@@ -7068,7 +7068,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Israel leadership, Palestinian channel, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1992 [2], CF80022-006, Container CF80022, 1992-06-01/1992-06-30, NAID 470426033."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1992 [2], CF80022-006, Container CF80022, 1992-06-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426033."
   },
   {
     "id": "haass-chron-470426034",
@@ -7111,7 +7111,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Jordan/King Hussein, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Jordan/King Hussein, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1992 [3], CF80022-007, Container CF80022, 1992-06-01/1992-06-30, NAID 470426034."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1992 [3], CF80022-007, Container CF80022, 1992-06-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426034."
   },
   {
     "id": "haass-chron-470426035",
@@ -7149,7 +7149,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1992 [4], CF80022-008, Container CF80022, 1992-06-01/1992-06-30, NAID 470426035."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1992 [4], CF80022-008, Container CF80022, 1992-06-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426035."
   },
   {
     "id": "haass-chron-470426036",
@@ -7194,7 +7194,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1992 [5], CF80023-001, Container CF80023, 1992-06-01/1992-06-30, NAID 470426036."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1992 [5], CF80023-001, Container CF80023, 1992-06-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426036."
   },
   {
     "id": "haass-chron-470426037",
@@ -7235,7 +7235,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1992 [6], CF80023-002, Container CF80023, 1992-06-01/1992-06-30, NAID 470426037."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: June 1992 [6], CF80023-002, Container CF80023, 1992-06-01/1992-06-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426037."
   },
   {
     "id": "haass-chron-470426038",
@@ -7270,7 +7270,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1992 [1], CF80023-003, Container CF80023, 1992-07-01/1992-07-31, NAID 470426038."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1992 [1], CF80023-003, Container CF80023, 1992-07-01/1992-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426038."
   },
   {
     "id": "haass-chron-470426039",
@@ -7315,7 +7315,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1992 [2], CF80023-004, Container CF80023, 1992-07-01/1992-07-31, NAID 470426039."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1992 [2], CF80023-004, Container CF80023, 1992-07-01/1992-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426039."
   },
   {
     "id": "haass-chron-470426040",
@@ -7353,7 +7353,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1992 [3], CF80023-005, Container CF80023, 1992-07-01/1992-07-31, NAID 470426040."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1992 [3], CF80023-005, Container CF80023, 1992-07-01/1992-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426040."
   },
   {
     "id": "haass-chron-470426041",
@@ -7391,7 +7391,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1992 [4], CF80023-006, Container CF80023, 1992-07-01/1992-07-31, NAID 470426041."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: July 1992 [4], CF80023-006, Container CF80023, 1992-07-01/1992-07-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426041."
   },
   {
     "id": "haass-chron-470426042",
@@ -7434,7 +7434,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1992 [1], CF80023-007, Container CF80023, 1992-08-01/1992-08-31, NAID 470426042."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1992 [1], CF80023-007, Container CF80023, 1992-08-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426042."
   },
   {
     "id": "haass-chron-470426043",
@@ -7479,7 +7479,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1992 [2], CF80024-001, Container CF80024, 1992-08-01/1992-08-31, NAID 470426043."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1992 [2], CF80024-001, Container CF80024, 1992-08-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426043."
   },
   {
     "id": "haass-chron-470426044",
@@ -7522,7 +7522,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1992 [3], CF80024-002, Container CF80024, 1992-08-01/1992-08-31, NAID 470426044."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1992 [3], CF80024-002, Container CF80024, 1992-08-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426044."
   },
   {
     "id": "haass-chron-470426045",
@@ -7563,7 +7563,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1992 [4], CF80024-003, Container CF80024, 1992-08-01/1992-08-31, NAID 470426045."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1992 [4], CF80024-003, Container CF80024, 1992-08-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426045."
   },
   {
     "id": "haass-chron-470426046",
@@ -7604,7 +7604,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1992 [5], CF80024-004, Container CF80024, 1992-08-01/1992-08-31, NAID 470426046."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: August 1992 [5], CF80024-004, Container CF80024, 1992-08-01/1992-08-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426046."
   },
   {
     "id": "haass-chron-470426047",
@@ -7651,7 +7651,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1992 [1], CF80024-005, Container CF80024, 1992-09-01/1992-09-30, NAID 470426047."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1992 [1], CF80024-005, Container CF80024, 1992-09-01/1992-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426047."
   },
   {
     "id": "haass-chron-470426048",
@@ -7692,7 +7692,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1992 [2], CF80024-006, Container CF80024, 1992-09-01/1992-09-30, NAID 470426048."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1992 [2], CF80024-006, Container CF80024, 1992-09-01/1992-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426048."
   },
   {
     "id": "haass-chron-470426049",
@@ -7730,7 +7730,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1992 [3], CF80024-007, Container CF80024, 1992-09-01/1992-09-30, NAID 470426049."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1992 [3], CF80024-007, Container CF80024, 1992-09-01/1992-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426049."
   },
   {
     "id": "haass-chron-470426050",
@@ -7765,7 +7765,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Palestinian channel. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Palestinian channel marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1992 [4], CF80024-008, Container CF80024, 1992-09-01/1992-09-30, NAID 470426050."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1992 [4], CF80024-008, Container CF80024, 1992-09-01/1992-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426050."
   },
   {
     "id": "haass-chron-470426051",
@@ -7806,7 +7806,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1992 [5], CF80025-001, Container CF80025, 1992-09-01/1992-09-30, NAID 470426051."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: September 1992 [5], CF80025-001, Container CF80025, 1992-09-01/1992-09-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426051."
   },
   {
     "id": "haass-chron-470426052",
@@ -7841,7 +7841,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1992 [1], CF80025-002, Container CF80025, 1992-10-01/1992-10-31, NAID 470426052."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1992 [1], CF80025-002, Container CF80025, 1992-10-01/1992-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426052."
   },
   {
     "id": "haass-chron-470426053",
@@ -7876,7 +7876,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1992 [2], CF80025-003, Container CF80025, 1992-10-01/1992-10-31, NAID 470426053."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1992 [2], CF80025-003, Container CF80025, 1992-10-01/1992-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426053."
   },
   {
     "id": "haass-chron-470426054",
@@ -7917,7 +7917,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Arab-Israeli, Israel leadership, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Arab-Israeli, Israel leadership, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1992 [3], CF80025-004, Container CF80025, 1992-10-01/1992-10-31, NAID 470426054."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1992 [3], CF80025-004, Container CF80025, 1992-10-01/1992-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426054."
   },
   {
     "id": "haass-chron-470426055",
@@ -7958,7 +7958,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1992 [4], CF80025-005, Container CF80025, 1992-10-01/1992-10-31, NAID 470426055."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1992 [4], CF80025-005, Container CF80025, 1992-10-01/1992-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426055."
   },
   {
     "id": "haass-chron-470426056",
@@ -8003,7 +8003,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Arab-Israeli, Israel leadership, Palestinian channel, Loan guarantees/settlements marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1992 [5], CF80025-006, Container CF80025, 1992-10-01/1992-10-31, NAID 470426056."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: October 1992 [5], CF80025-006, Container CF80025, 1992-10-01/1992-10-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426056."
   },
   {
     "id": "haass-chron-470426057",
@@ -8038,7 +8038,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1992 [1], CF80025-007, Container CF80025, 1992-11-01/1992-11-30, NAID 470426057."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1992 [1], CF80025-007, Container CF80025, 1992-11-01/1992-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426057."
   },
   {
     "id": "haass-chron-470426058",
@@ -8073,7 +8073,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1992 [2], CF80025-008, Container CF80025, 1992-11-01/1992-11-30, NAID 470426058."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1992 [2], CF80025-008, Container CF80025, 1992-11-01/1992-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426058."
   },
   {
     "id": "haass-chron-470426059",
@@ -8118,7 +8118,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1992 [3], CF80026-001, Container CF80026, 1992-11-01/1992-11-30, NAID 470426059."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1992 [3], CF80026-001, Container CF80026, 1992-11-01/1992-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426059."
   },
   {
     "id": "haass-chron-470426060",
@@ -8159,7 +8159,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1992 [4], CF80026-002, Container CF80026, 1992-11-01/1992-11-30, NAID 470426060."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1992 [4], CF80026-002, Container CF80026, 1992-11-01/1992-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426060."
   },
   {
     "id": "haass-chron-470426061",
@@ -8200,7 +8200,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1992 [5], CF80026-003, Container CF80026, 1992-11-01/1992-11-30, NAID 470426061."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: November 1992 [5], CF80026-003, Container CF80026, 1992-11-01/1992-11-30. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426061."
   },
   {
     "id": "haass-chron-470426062",
@@ -8238,7 +8238,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1992 [1], CF80026-004, Container CF80026, 1992-12-01/1992-12-31, NAID 470426062."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1992 [1], CF80026-004, Container CF80026, 1992-12-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426062."
   },
   {
     "id": "haass-chron-470426063",
@@ -8283,7 +8283,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Assad marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1992 [2], CF80026-005, Container CF80026, 1992-12-01/1992-12-31, NAID 470426063."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1992 [2], CF80026-005, Container CF80026, 1992-12-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426063."
   },
   {
     "id": "haass-chron-470426064",
@@ -8326,7 +8326,7 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1992 [3], CF80026-006, Container CF80026, 1992-12-01/1992-12-31, NAID 470426064."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: December 1992 [3], CF80026-006, Container CF80026, 1992-12-01/1992-12-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426064."
   },
   {
     "id": "haass-chron-470426065",
@@ -8367,6 +8367,6 @@ window.MEPP_HAASS_CHRONOLOGICAL_CANDIDATES = [
     ],
     "scopeAndContentNote": "OCR/topic markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein. Inspect the linked PDF for document-level selection.",
     "reason": "Haass NSC chronological file with Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein marker(s); inspect PDF/OCR for document-level FRUS selection.",
-    "sourceNote": "Source candidate: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1993, CF80026-007, Container CF80026, 1993-01-01/1993-01-31, NAID 470426065."
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, National Security Council, Richard N. Haass' Chronological Files, Chron File: January 1993, CF80026-007, Container CF80026, 1993-01-01/1993-01-31. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID 470426065."
   }
 ];
