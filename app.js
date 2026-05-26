@@ -251,7 +251,9 @@ function sourceCandidateSearchText(candidate) {
     candidate.reason,
     candidate.sourceNote,
     ...(candidate.evidenceSnippets || []),
-    ...(candidate.matchedQueries || [])
+    ...(candidate.matchedQueries || []),
+    ...(candidate.relatedRecordTitles || []),
+    ...(candidate.relatedRecords || []).map((record) => [record.title, record.date, record.chapter].join(" "))
   ]
     .filter(Boolean)
     .join(" ")
@@ -645,7 +647,18 @@ function renderSourceCandidateCard(candidate) {
       }
       ${
         candidate.evidenceSnippets?.length
-          ? `<div class="note-box"><h4>OCR Evidence</h4><p>${escapeHtml(candidate.evidenceSnippets.join(" ... "))}</p></div>`
+          ? `<div class="note-box"><h4>Evidence</h4><p>${escapeHtml(candidate.evidenceSnippets.join(" ... "))}</p></div>`
+          : ""
+      }
+      ${
+        candidate.relatedRecords?.length
+          ? `<div class="note-box"><h4>Related FRUS Meetings/Calls</h4><ul class="note-list">${candidate.relatedRecords
+              .slice(0, 8)
+              .map(
+                (record) =>
+                  `<li>${escapeHtml([record.date, record.title, record.chapter].filter(Boolean).join(" - "))}</li>`
+              )
+              .join("")}</ul></div>`
           : ""
       }
       ${candidate.pdfReview ? `<div class="note-box"><h4>Review Metadata</h4><p>${escapeHtml(sourceCandidateReviewSummary(candidate))}</p></div>` : ""}
@@ -868,6 +881,7 @@ function exportVisibleSourceCandidates() {
       "digital_object_url",
       "source_note",
       "evidence_snippets",
+      "related_frus_records",
       "matched_queries"
     ],
     ...visibleSourceCandidates.map((candidate) => [
@@ -884,6 +898,7 @@ function exportVisibleSourceCandidates() {
       candidate.digitalObjectUrl,
       candidate.sourceNote,
       (candidate.evidenceSnippets || []).join(" ... "),
+      (candidate.relatedRecordTitles || []).join("; "),
       (candidate.matchedQueries || []).join("; ")
     ])
   ]);

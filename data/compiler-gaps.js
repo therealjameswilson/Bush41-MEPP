@@ -5,7 +5,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "Critical",
     "category": "Source base",
     "chapter": "Madrid-Multilateral Track",
-    "status": "Remediated as an actionable queue: 33 high-priority public NARA source candidates, 205 Haass chronological-file candidates, 383 targeted Haass file-series candidates, 105 additional Bush Library gap-remediation candidates, and 58 Princeton Baker candidates are harvested. Offline State lot files remain explicitly queued for compiler-side access rather than hidden as an unknown.",
+    "status": "Remediated as an actionable queue: 33 high-priority public NARA source candidates, 205 Haass chronological-file candidates, 383 targeted Haass file-series candidates, 105 additional Bush Library gap-remediation candidates, 244 Presidential Daily Diary/Backup cross-references, and 58 Princeton Baker candidates are harvested. Offline State lot files remain explicitly queued for compiler-side access rather than hidden as an unknown.",
     "evidence": "Presidential conversations show the high-level endpoints, but Baker/Ross negotiation files are needed for the invitation formula, letters of assurance, and bilateral track mechanics.",
     "nextStep": "Use the harvested candidates for online triage, then request or inspect State Department Policy Planning, NEA, S/S, and Secretary Baker lot files for final document-level selection."
   },
@@ -15,7 +15,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "High",
     "category": "Metadata QA",
     "chapter": "All chapters",
-    "status": "Remediated for triage: 165 presidential PDFs counted, 1055 source candidates carry review metadata, 72 source-candidate digital objects have page/image counts, and 927 PDF folder scans are explicitly flagged for manual review.",
+    "status": "Remediated for triage: 165 presidential PDFs counted, 1299 source candidates carry review metadata, 111 source-candidate digital objects have page/image counts, and 1171 PDF folder scans are explicitly flagged for manual review.",
     "evidence": "NARA Catalog metadata gives direct PDFs but not a compiler-ready count of substantive pages, excisions, attachments, or distribution data.",
     "nextStep": "Use source-candidate review status to prioritize manual PDF inspection; large folder scans are flagged instead of treated as reviewed."
   },
@@ -25,7 +25,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "High",
     "category": "Coverage",
     "chapter": "Palestinian-Jordanian Track",
-    "status": "Remediated for triage: 553 source candidates harvested across presidential, Haass, Baker, WHORM/search, and gap-remediation lanes; indirect Palestinian contacts still require document-level confirmation.",
+    "status": "Remediated for triage: 612 source candidates harvested across presidential, Haass, Baker, WHORM/search, and gap-remediation lanes; indirect Palestinian contacts still require document-level confirmation.",
     "evidence": "The public presidential series is stronger for heads of state than for indirect PLO or Palestinian delegation contacts.",
     "nextStep": "Review harvested Palestinian delegation, PLO, West Bank, Gaza, Jordanian-Palestinian, Husseini, and Ashrawi hits before final selection."
   },
@@ -35,7 +35,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "High",
     "category": "Coverage",
     "chapter": "Syria-Lebanon Track",
-    "status": "Remediated for triage: 311 Syria/Lebanon candidates harvested, including Haass second-pass Lebanon context and Madrid briefing-book material; State/NSC document-level reconstruction remains the review task.",
+    "status": "Remediated for triage: 345 Syria/Lebanon candidates harvested, including Haass second-pass Lebanon context and Madrid briefing-book material; State/NSC document-level reconstruction remains the review task.",
     "evidence": "Assad conversations alone will not show the full policy chain for Syria, Lebanon, and regional security guarantees.",
     "nextStep": "Pair Assad records with harvested Syria/Lebanon candidates, then verify NEA, NSC, CIA briefing, and coalition diplomacy files during compiler review."
   },
@@ -45,7 +45,7 @@ window.MEPP_COMPILER_GAPS = [
     "priority": "Medium",
     "category": "Chronology",
     "chapter": "All chapters",
-    "status": "Remediated as a working crosswalk: 112 presidential records and 155 Public Papers references carry date/track/term linkage candidates.",
+    "status": "Remediated as a working crosswalk: 112 presidential records and 155 Public Papers references carry date/track/term linkage candidates, with 244 Presidential Daily Diary/Backup files available for schedule, meeting, and call verification.",
     "evidence": "The public record captures talking points, press framing, and congressional messaging that often bracket private pressure.",
     "nextStep": "Use the crosswalk as chronology glue, then mark exact public/private pairings during document selection."
   },

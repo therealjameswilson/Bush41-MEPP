@@ -36,6 +36,7 @@ function main() {
   const haassChronologicalCandidates = readJson("haass-chronological-candidates.json");
   const haassTargetSeriesCandidates = readJson("haass-target-series-candidates.json");
   const gapRemediationCandidates = readJson("gap-remediation-candidates.json");
+  const dailyDiaryCandidates = readJson("daily-diary-candidates.json");
 
   assert(records.length >= 100, `Expected at least 100 records; found ${records.length}`);
   assert(statements.length >= 100, `Expected at least 100 public statements; found ${statements.length}`);
@@ -60,6 +61,10 @@ function main() {
     gapRemediationCandidates.length >= 20,
     `Expected at least 20 gap-remediation candidates; found ${gapRemediationCandidates.length}`
   );
+  assert(
+    dailyDiaryCandidates.length >= 100,
+    `Expected at least 100 daily diary/backup candidates; found ${dailyDiaryCandidates.length}`
+  );
 
   assertUnique(records, "id", "records");
   assertUnique(statements, "id", "public statements");
@@ -69,6 +74,7 @@ function main() {
   assertUnique(haassChronologicalCandidates, "id", "Haass chronological candidates");
   assertUnique(haassTargetSeriesCandidates, "id", "targeted Haass series candidates");
   assertUnique(gapRemediationCandidates, "id", "gap-remediation candidates");
+  assertUnique(dailyDiaryCandidates, "id", "daily diary/backup candidates");
 
   const missingPdf = records.filter((record) => !record.pdfUrl || !record.catalogUrl || !record.frusSourceNote);
   assert(missingPdf.length === 0, `${missingPdf.length} records missing PDF/catalog/source-note basics`);
@@ -149,6 +155,32 @@ function main() {
     `${missingMergedGapRemediation.length} gap-remediation candidates missing from merged source-candidate list`
   );
 
+  const missingDailyDiaryContext = dailyDiaryCandidates.filter(
+    (candidate) =>
+      candidate.sourceSeriesNaid !== "186322" ||
+      candidate.lane !== "Presidential Daily Diary/Backup" ||
+      !candidate.date ||
+      !candidate.sourceNote ||
+      !candidate.catalogUrl ||
+      (!candidate.relatedRecordIds?.length && !candidate.evidenceSnippets?.length)
+  );
+  assert(
+    missingDailyDiaryContext.length === 0,
+    `${missingDailyDiaryContext.length} daily diary/backup candidates missing source or crosswalk context`
+  );
+
+  const missingMergedDailyDiary = dailyDiaryCandidates.filter((candidate) => !mergedIds.has(candidate.id));
+  assert(
+    missingMergedDailyDiary.length === 0,
+    `${missingMergedDailyDiary.length} daily diary/backup candidates missing from merged source-candidate list`
+  );
+
+  const mergedDailyDiaryCandidates = sourceCandidates.filter((candidate) => candidate.lane === "Presidential Daily Diary/Backup");
+  assert(
+    mergedDailyDiaryCandidates.length === dailyDiaryCandidates.length,
+    `Merged source-candidate list has ${mergedDailyDiaryCandidates.length} daily diary/backup candidates; expected ${dailyDiaryCandidates.length}`
+  );
+
   const missingSourceCandidateReview = sourceCandidates.filter((candidate) => !candidate.pdfReview?.status);
   assert(
     missingSourceCandidateReview.length === 0,
@@ -173,6 +205,7 @@ function main() {
     haassChronologicalCandidates: haassChronologicalCandidates.length,
     haassTargetSeriesCandidates: haassTargetSeriesCandidates.length,
     gapRemediationCandidates: gapRemediationCandidates.length,
+    dailyDiaryCandidates: dailyDiaryCandidates.length,
     reviewedSourceCandidates: sourceCandidates.filter((candidate) => candidate.pdfReview?.status).length,
     pageCountedSourceCandidates: pageCountedSourceCandidates.length,
     linkedRecords: linkedRecords.length,

@@ -628,6 +628,16 @@ select:focus {
   line-height: 1.48;
 }
 
+.note-list {
+  display: grid;
+  gap: 6px;
+  margin: 0;
+  padding-left: 18px;
+  color: #3a464d;
+  font-size: 0.91rem;
+  line-height: 1.45;
+}
+
 .review-toggle {
   white-space: nowrap;
 }

@@ -96,11 +96,12 @@ function main() {
   const haassChronologicalCandidates = readJson("haass-chronological-candidates.json");
   const haassTargetSeriesCandidates = readJson("haass-target-series-candidates.json");
   const gapRemediationCandidates = readJson("gap-remediation-candidates.json");
+  const dailyDiaryCandidates = readJson("daily-diary-candidates.json");
   const haassTargetLanes = new Set(haassTargetSeriesCandidates.map((candidate) => candidate.lane));
   const gapRemediationLanes = new Set(gapRemediationCandidates.map((candidate) => candidate.lane));
   const baseNaraSourceCandidates = sourceCandidates.filter(
     (candidate) =>
-      !["Baker Princeton Papers", "Richard Haass Chronological Files"].includes(candidate.lane) &&
+      !["Baker Princeton Papers", "Richard Haass Chronological Files", "Presidential Daily Diary/Backup"].includes(candidate.lane) &&
       !haassTargetLanes.has(candidate.lane) &&
       !gapRemediationLanes.has(candidate.lane)
   );
@@ -327,7 +328,7 @@ function main() {
       category: "Source base",
       chapter: "Madrid-Multilateral Track",
       status: highPrioritySourceCandidates || gapRemediationCandidates.length
-        ? `Remediated as an actionable queue: ${highPrioritySourceCandidates} high-priority public NARA source candidates, ${haassChronologicalCandidates.length} Haass chronological-file candidates, ${haassTargetSeriesCandidates.length} targeted Haass file-series candidates, ${gapRemediationCandidates.length} additional Bush Library gap-remediation candidates, and ${bakerPrincetonCandidates.length} Princeton Baker candidates are harvested. Offline State lot files remain explicitly queued for compiler-side access rather than hidden as an unknown.`
+        ? `Remediated as an actionable queue: ${highPrioritySourceCandidates} high-priority public NARA source candidates, ${haassChronologicalCandidates.length} Haass chronological-file candidates, ${haassTargetSeriesCandidates.length} targeted Haass file-series candidates, ${gapRemediationCandidates.length} additional Bush Library gap-remediation candidates, ${dailyDiaryCandidates.length} Presidential Daily Diary/Backup cross-references, and ${bakerPrincetonCandidates.length} Princeton Baker candidates are harvested. Offline State lot files remain explicitly queued for compiler-side access rather than hidden as an unknown.`
         : "Open: no source-candidate harvest has been run yet.",
       evidence: "Presidential conversations show the high-level endpoints, but Baker/Ross negotiation files are needed for the invitation formula, letters of assurance, and bilateral track mechanics.",
       nextStep: "Use the harvested candidates for online triage, then request or inspect State Department Policy Planning, NEA, S/S, and Secretary Baker lot files for final document-level selection."
@@ -371,7 +372,7 @@ function main() {
       priority: "Medium",
       category: "Chronology",
       chapter: "All chapters",
-      status: `Remediated as a working crosswalk: ${linkedRecords} presidential records and ${linkedStatements} Public Papers references carry date/track/term linkage candidates.`,
+      status: `Remediated as a working crosswalk: ${linkedRecords} presidential records and ${linkedStatements} Public Papers references carry date/track/term linkage candidates, with ${dailyDiaryCandidates.length} Presidential Daily Diary/Backup files available for schedule, meeting, and call verification.`,
       evidence: "The public record captures talking points, press framing, and congressional messaging that often bracket private pressure.",
       nextStep: "Use the crosswalk as chronology glue, then mark exact public/private pairings during document selection."
     },
@@ -409,6 +410,18 @@ function main() {
       whyItMatters: "Essential for Israeli restraint, Gulf War calls, Madrid follow-up, loan guarantees, and late-transition diplomacy.",
       searchTerms: ["Shamir", "Mubarak", "King Hussein", "Rabin", "Israel", "peace process"],
       url: "https://catalog.archives.gov/id/321498139"
+    },
+    {
+      id: "presidential-daily-diary-backup",
+      title: "Presidential Daily Diary and Backup Materials",
+      repository: "George H.W. Bush Library / National Archives Catalog",
+      naid: "186322",
+      status: "Harvested",
+      chapter: "All chapters",
+      whyItMatters: "Daily diary and backup folders cross-reference selected FRUS meetings and calls by date, helping the compiler verify schedules, call timing, appointments, and backup materials adjacent to presidential conversations.",
+      candidateCount: dailyDiaryCandidates.length,
+      searchTerms: ["Presidential Daily Diary", "Presidential Daily Backup", "Shamir", "Rabin", "King Hussein", "Assad", "Mubarak", "Madrid"],
+      url: "https://catalog.archives.gov/id/186322"
     },
     {
       id: "nsc-staff-files",
@@ -523,6 +536,7 @@ function main() {
         haassChronologicalCandidates: haassChronologicalCandidates.length,
         haassTargetSeriesCandidates: haassTargetSeriesCandidates.length,
         gapRemediationCandidates: gapRemediationCandidates.length,
+        dailyDiaryCandidates: dailyDiaryCandidates.length,
         pageCountedRecords,
         reviewedSourceCandidates,
         pageCountedSourceCandidates,

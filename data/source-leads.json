@@ -37,6 +37,27 @@
     "url": "https://catalog.archives.gov/id/321498139"
   },
   {
+    "id": "presidential-daily-diary-backup",
+    "title": "Presidential Daily Diary and Backup Materials",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "naid": "186322",
+    "status": "Harvested",
+    "chapter": "All chapters",
+    "whyItMatters": "Daily diary and backup folders cross-reference selected FRUS meetings and calls by date, helping the compiler verify schedules, call timing, appointments, and backup materials adjacent to presidential conversations.",
+    "candidateCount": 244,
+    "searchTerms": [
+      "Presidential Daily Diary",
+      "Presidential Daily Backup",
+      "Shamir",
+      "Rabin",
+      "King Hussein",
+      "Assad",
+      "Mubarak",
+      "Madrid"
+    ],
+    "url": "https://catalog.archives.gov/id/186322"
+  },
+  {
     "id": "nsc-staff-files",
     "title": "NSC staff and country files",
     "repository": "George H.W. Bush Library / National Archives Catalog",

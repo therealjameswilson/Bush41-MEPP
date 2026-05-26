@@ -19,6 +19,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Richard N. Haass' Chronological Files candidates from NARA Catalog series NAID 2554857
 - Targeted Richard N. Haass file-series candidates from NARA Catalog series NAIDs 2554859, 2554865, 2554866, 2554868, 2554871, 2554875, 2554876, and 2554877
 - Additional gap-remediation candidates from Haass Presidential Meeting Files and Madrid briefing-book series
+- Presidential Daily Diary and Backup Materials candidates from NARA Catalog series NAID 186322, crosswalked to selected FRUS meeting and call dates
 - Princeton James A. Baker III Papers candidates from the MC197 EAD finding aid
 - Source-candidate review metadata, including page/image counts where practical and explicit large-PDF/manual-review flags
 - FRUS-style source note generation and audit checks for presidential records and source candidates
@@ -48,6 +49,7 @@ node scripts/harvest-source-candidates.js
 node scripts/harvest-haass-chronological-files.js
 node scripts/harvest-haass-target-series.js
 node scripts/harvest-gap-remediation-candidates.js
+node scripts/harvest-daily-diary-candidates.js
 node scripts/harvest-baker-princeton.js
 node scripts/enrich-record-pdfs.js
 node scripts/enrich-source-candidate-reviews.js
@@ -70,6 +72,7 @@ The Public Papers, NARA source-candidate, and Princeton finding-aid harvests cac
 - `data/haass-chronological-candidates.json`: Richard N. Haass' Chronological Files candidates
 - `data/haass-target-series-candidates.json`: targeted Richard N. Haass file-series candidates
 - `data/gap-remediation-candidates.json`: additional high-value Bush Library gap-remediation candidates
+- `data/daily-diary-candidates.json`: Presidential Daily Diary/Backup date crosswalk and meeting/call candidates
 - `data/baker-princeton-candidates.json`: Princeton James A. Baker III Papers candidates
 
 ## Verification
@@ -80,6 +83,7 @@ Useful checks:
 node --check app.js
 node --check scripts/harvest-presidential-conversations.js
 node --check scripts/harvest-public-statements.js
+node --check scripts/harvest-daily-diary-candidates.js
 node --check scripts/build-supporting-data.js
 node scripts/audit-frus-source-notes.js
 npm test

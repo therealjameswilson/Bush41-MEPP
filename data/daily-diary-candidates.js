@@ -1,0 +1,13185 @@
+window.MEPP_DAILY_DIARY_CANDIDATES = [
+  {
+    "id": "source-candidate-415889621",
+    "naid": "415889621",
+    "title": "[Presidential Daily Backup] 1/31/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12789-024, Container 12789",
+    "date": "1989-01-31",
+    "catalogUrl": "https://catalog.archives.gov/id/415889621",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-01_31_89-12789-024_415889621.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-01-31"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079821"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hassan of Morocco, January 31, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079821",
+        "title": "Telephone Conversation with King Hassan of Morocco, January 31, 1989",
+        "date": "1989-01-31",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079821"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-01-31 - Telephone Conversation with King Hassan of Morocco, January 31, 1989 (Egypt-Arab Regional Track).",
+      "Telephone Telephone Memorandum [personal privacy information 01/31/89 (b)(6) Memo redacted] (2 pp.) 03a.",
+      "Lincoln Bedroom SCHEDULE OF THE PRESIDENT Tuesday, January 31, 1989 8:00 am Intelligence Briefing Oval Office (15 min) (Scowcroft/Sununu) 8:15 am National Security Briefing Oval Office (30 min) (Scowcroft/Sununu) 8:45 am Meeting with Governor Sununu Oval Office (30 min) 9:15 am Personal Staff Time Oval Office (20 min) 9:35 am Depart for Visit to Norfolk South Lawn Naval Base, Norfolk, Virginia (Studdert) (TAB A) 10:50 am Arrive Norfolk Naval Base 12:15 pm Depart Norfolk Naval Base 1:30 pm Arrive",
+      "Telephone Telephone Memorandum [personal privacy information 01/31/89 (b)(6) Memo redacted] (2 pp.) Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 01/31/89 Date Closed: 5/22/2002 OA/ID Number: 12789-024 FOIA/SYS Case #: 2002-1005-S Appeal Case #: Re-review Case #: Appeal Disposition: P-2/P-5 Review Case #: Disposition Date: AR Case #: MR Ca",
+      "WASHINGTON TELEPHONE MEMORANDUM WEST WING OFFICE Tuesday, January 31 80 .",
+      "TELEPHONE MEMORANDUM JANUARY 31 , 1989 PRESIDENT TIME NAME ACTION PLACED DISC OUT 8:58 AM 9:02 AMB.",
+      "TELEPHONE MEMORANDUM JANUARY 31 PRESIDENT ."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Hassan of Morocco, January 31, 1989. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-01-31; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 1/31/1989, 12789-024, Container 12789, 1989-01-31. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889621; https://catalog.archives.gov/id/415889621; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-01_31_89-12789-024_415889621.pdf."
+  },
+  {
+    "id": "source-candidate-415889620",
+    "naid": "415889620",
+    "title": "[Presidential Daily Diary] 1/31/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12789-023, Container 12789",
+    "date": "1989-01-31",
+    "catalogUrl": "https://catalog.archives.gov/id/415889620",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-01_31_89-12789-023_415889620.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-01-31"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079821"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hassan of Morocco, January 31, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079821",
+        "title": "Telephone Conversation with King Hassan of Morocco, January 31, 1989",
+        "date": "1989-01-31",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079821"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-01-31 - Telephone Conversation with King Hassan of Morocco, January 31, 1989 (Egypt-Arab Regional Track).",
+      "7:46 7:59 The President met with his Assistant for Communications, David F.",
+      "Sununu 8:30 8:53 The President met with: Vice President Quayle Mr.",
+      "9:01 9:17 The President met with the First Lady.",
+      "9:18 9:23 P The President talked on a conference call with: Chadli Bendjedid, President of the Democratic and Popular Republic of Algeria Sandra Charles, Director, Near East and continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 2 LOCATION DATE JANUARY 31, 1989 THE WHITE HOUSE TIME DAY WASHINGTON, D.C.",
+      "TUESDAY IN OUT PHONE ACTIVITY South Asian Affairs, National Security Council (NSC) Alec Toumayan, interpreter, Department of State 9:20 9:28 The President met with Mr.",
+      "1:33 1:38 The President met with Dr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Hassan of Morocco, January 31, 1989. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-01-31; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 1/31/1989, 12789-023, Container 12789, 1989-01-31. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889620; https://catalog.archives.gov/id/415889620; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-01_31_89-12789-023_415889620.pdf."
+  },
+  {
+    "id": "source-candidate-415889744",
+    "naid": "415889744",
+    "title": "[Presidential Daily Diary] 4/3/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12794-001, Container 12794",
+    "date": "1989-04-03",
+    "catalogUrl": "https://catalog.archives.gov/id/415889744",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_03_89-12794-001_415889744.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Sununu 10:57 11:35 The President met with: Mohammed Hosni Mubarak, President of the Arab Republic of Egypt Richard N."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 4/3/1989, 12794-001, Container 12794, 1989-04-03. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889744; https://catalog.archives.gov/id/415889744; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_03_89-12794-001_415889744.pdf."
+  },
+  {
+    "id": "source-candidate-415889761",
+    "naid": "415889761",
+    "title": "[Presidential Daily Backup] 4/11/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12794-018, Container 12794",
+    "date": "1989-04-11",
+    "catalogUrl": "https://catalog.archives.gov/id/415889761",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_11_89-12794-018_415889761.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "TLKD-OK INC 8:16PM 8:17 (b)(6) OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM GPO : 1983 0 - 405-660 : QL 2 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD April 11 , 19 89 TIME NAME ACTION PLACED DISC OUT AM Conference Call: Tlkd-ok King Fahd bin Saud 4:27 PM Residence, Riyadh, Saudi Arabia XNE 4:20 PM 4:43 (b)(6) out AM Ms."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/11/1989, 12794-018, Container 12794, 1989-04-11. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889761; https://catalog.archives.gov/id/415889761; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_11_89-12794-018_415889761.pdf."
+  },
+  {
+    "id": "source-candidate-415889878",
+    "naid": "415889878",
+    "title": "[Presidential Daily Diary] 6/9/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12799-001, Container 12799",
+    "date": "1989-06-09",
+    "catalogUrl": "https://catalog.archives.gov/id/415889878",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_09_89-12799-001_415889878.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-06-09",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080059"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Mohammad Hosni Mubarak of Egypt, June 9, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080059",
+        "title": "Telephone Conversation with President Mohammad Hosni Mubarak of Egypt, June 9, 1989",
+        "date": "1989-06-09",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080059"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-06-09 - Telephone Conversation with President Mohammad Hosni Mubarak of Egypt, June 9, 1989 (Egypt-Arab Regional Track).",
+      "7:46 7:47 The President met with: Donald C.",
+      "Sununu 9:34 9:43 The President met with his Assistant and Press Secretary, M.",
+      "The President met with: 10:00 10:04 Richard G.",
+      "Sununu 10:57 10:59 The President met with Mr.",
+      "10:59 11:12 The President met to receive the Gold Medal of the Complutense University of Madrid, continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 3 LOCATION DATE JUNE 9, 1989 THE WHITE HOUSE TIME DAY WASHINGTON, D.C.",
+      "Wray, Deputy Assistant and Director of Political Affairs 11:41 11:45 The President met with: Thomas P."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Mohammad Hosni Mubarak of Egypt, June 9, 1989. OCR/catalog markers: Madrid, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-06-09; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 6/9/1989, 12799-001, Container 12799, 1989-06-09. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889878; https://catalog.archives.gov/id/415889878; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_09_89-12799-001_415889878.pdf."
+  },
+  {
+    "id": "source-candidate-415889888",
+    "naid": "415889888",
+    "title": "[Presidential Daily Diary] 6/14/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12799-011, Container 12799",
+    "date": "1989-06-14",
+    "catalogUrl": "https://catalog.archives.gov/id/415889888",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_14_89-12799-011_415889888.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-06-14"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080041"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Prince Saud al-Faisal Foreign Minister of Saudi Arabia, June 14, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080041",
+        "title": "Meeting with Prince Saud al-Faisal Foreign Minister of Saudi Arabia, June 14, 1989",
+        "date": "1989-06-14",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080041"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-06-14 - Meeting with Prince Saud al-Faisal Foreign Minister of Saudi Arabia, June 14, 1989 (Egypt-Arab Regional Track).",
+      "7:26 7:31 The President met with his Chief of Staff, John H.",
+      "7:32 7:44 The President met with his Special Assistant and Director of White House Operations, Rose M.",
+      "7:45 7:51 The President met with his Deputy Director of Appointments, Katherine Super.",
+      "7:52 7:54 The President met with Dr.",
+      "Gates The President met with Mr.",
+      "The President met with: 10:02 10:04 James A."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Prince Saud al-Faisal Foreign Minister of Saudi Arabia, June 14, 1989. OCR/catalog markers: Egypt/Arab regional, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-06-14; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 6/14/1989, 12799-011, Container 12799, 1989-06-14. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889888; https://catalog.archives.gov/id/415889888; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_14_89-12799-011_415889888.pdf."
+  },
+  {
+    "id": "source-candidate-415889927",
+    "naid": "415889927",
+    "title": "[Presidential Daily Backup] 7/3/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12801-008, Container 12801",
+    "date": "1989-07-03",
+    "catalogUrl": "https://catalog.archives.gov/id/415889927",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_03_89-12801-008_415889927.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-07-03"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080109"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation King Hassan of Morocco, July 3, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080109",
+        "title": "Telephone Conversation King Hassan of Morocco, July 3, 1989",
+        "date": "1989-07-03",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080109"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-07-03 - Telephone Conversation King Hassan of Morocco, July 3, 1989 (Egypt-Arab Regional Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD July 3.",
+      "Raynor Tlkd-ok Office, Kennebunkport, Maine 7:04 AM INC 207-967-3494 PM OUT 7:03AM Mr.",
+      "Marvin Bush PRESUS Cancel Residence, Alexandria, Virginia 7:09 AM XNC PM (b)(6) OUT 7:25 AM 8:05 Conference Call: Tlkd-ok King Hassan II 7:54 AM Palace, Rabat, Morocco XNC PM 60744 OUT AM Mr.",
+      "Alec Toumayan White House Situation Room INC PM 395-6313 OUT 7:36 AM 7:43 Conference Call: Tlkd-ok Prime Minister Turgat Ozal 7:38 AM XNC PM Office, 302606 Istanbul, Turkey OUT AM Mr.",
+      "Booth Chick Tlkd-ok Residence, Kennebunkport, Maine 7:51 AM INC PM (b)(6) OUT 8:50 AM 8:55 Mr.",
+      "Robert Holt Tlkd-ok Residence, Reudose, New Mexico 8:51 AM XNC PM (b)(6) OUT 9:00 AM 9:05 Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation King Hassan of Morocco, July 3, 1989. OCR/catalog markers: Egypt/Arab regional, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-07-03; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 7/3/1989, 12801-008, Container 12801, 1989-07-03. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889927; https://catalog.archives.gov/id/415889927; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_03_89-12801-008_415889927.pdf."
+  },
+  {
+    "id": "source-candidate-415889975",
+    "naid": "415889975",
+    "title": "[Presidential Daily Backup] 7/27/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12802-016, Container 12802",
+    "date": "1989-07-27",
+    "catalogUrl": "https://catalog.archives.gov/id/415889975",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_27_89-12802-016_415889975.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "BACKGROUND Prince Salman bin Abd al-Aziz, the younger brother of Saudi King Fahd and the senior most SAG official to visit Washington thus far, is in Washington this week to open the Saudi cultural exhibit, \"Saudi Arabia Yesterday and Today\" on Friday, July 28."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 7/27/1989, 12802-016, Container 12802, 1989-07-27. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889975; https://catalog.archives.gov/id/415889975; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_27_89-12802-016_415889975.pdf."
+  },
+  {
+    "id": "source-candidate-415889987",
+    "naid": "415889987",
+    "title": "[Presidential Daily Backup] 8/2/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12803-002, Container 12803",
+    "date": "1989-08-02",
+    "catalogUrl": "https://catalog.archives.gov/id/415889987",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-08-02",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080131",
+      "conversation-428080159",
+      "conversation-428080157"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Foreign Minister Mohammed bin Mubarak, August 2, 1989",
+      "President Bush's Telephone Call to King Hassan II, August 2, 1989",
+      "Telephone Conversation with King Fahd of Saudi Arabia, August 2, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080131",
+        "title": "Meeting with Foreign Minister Mohammed bin Mubarak, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080131"
+      },
+      {
+        "id": "conversation-428080159",
+        "title": "President Bush's Telephone Call to King Hassan II, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080159"
+      },
+      {
+        "id": "conversation-428080157",
+        "title": "Telephone Conversation with King Fahd of Saudi Arabia, August 2, 1989",
+        "date": "1989-08-02",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080157"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-08-02 - Meeting with Foreign Minister Mohammed bin Mubarak, August 2, 1989 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1989-08-02 - President Bush's Telephone Call to King Hassan II, August 2, 1989 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1989-08-02 - Telephone Conversation with King Fahd of Saudi Arabia, August 2, 1989 (Egypt-Arab Regional Track).",
+      "Memo with John Sununu to POTUS, Re: meeting with Gregg Petersmeyer (8 08/01/89 P-5 Attachment pp.) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 08/02/89 Pinksheet Number: RML270 OA/ID Number: 12803-002 Date Closed: 6/25/2002 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Wednesd",
+      "THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM AUGUST 2nd , 19 89 E.D.T.",
+      "TIM McBRIDE RES: WASHINGTON, DC 8:14 PM 8:15 (b)(6) TLKD OK INC GPO : 1982 o - 370-008 : QL 2 JG/JN THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM AUGUST 2nd 1989 E.D.T.",
+      "ROS-LEHTINAN PHONE BUSY RES: MIAMI, FL (b)(6) TEKD OK 9:31AM **** 9:27 RMX 9:34 JG/JN GPO : 1982 O - 370-008 : QL 2 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM AUGUST 2nd , 1989 E.D.T.",
+      "780 INCX 5:06 PM 5:07 OUT AM INC PM OUT AM INC PM GPO : 1982 0 - 370-008 : QL 2 JG/JN THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM AUGUST 2nd .",
+      "JEB BUSH RES: MIAMI, FL INC 9:59 PM 10:04 (b)(6) TLKD OK OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM GPO : 1982 0 - 370-008 : QL 2 JG/JN THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD August 2 ."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 3 selected FRUS meeting/call records: Meeting with Foreign Minister Mohammed bin Mubarak, August 2, 1989; President Bush's Telephone Call to King Hassan II, August 2, 1989; Telephone Conversation with King Fahd of Saudi Arabia, August 2, 1989. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-08-02; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/2/1989, 12803-002, Container 12803, 1989-08-02. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889987; https://catalog.archives.gov/id/415889987; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_02_89-12803-002_415889987.pdf."
+  },
+  {
+    "id": "source-candidate-415889991",
+    "naid": "415889991",
+    "title": "[Presidential Daily Backup] 8/4/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12803-006, Container 12803",
+    "date": "1989-08-04",
+    "catalogUrl": "https://catalog.archives.gov/id/415889991",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_04_89-12803-006_415889991.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Baltimore, MD 21202 (301) 396-3100 (0) POLITICAL BACKGROUND REPORT Page Four DEMOGRAPHIC BACKGROUND MOST RECENT TRIPS: PRESIDENT BUSH: The President visited Baltimore Memorial Stadium during the visit of President Mubarak of Egypt to watch the Baltimore Orioles."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/4/1989, 12803-006, Container 12803, 1989-08-04. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889991; https://catalog.archives.gov/id/415889991; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_04_89-12803-006_415889991.pdf."
+  },
+  {
+    "id": "source-candidate-415889999",
+    "naid": "415889999",
+    "title": "[Presidential Daily Backup] 8/8/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12803-014, Container 12803",
+    "date": "1989-08-08",
+    "catalogUrl": "https://catalog.archives.gov/id/415889999",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_08_89-12803-014_415889999.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-08-08",
+      "Middle East Peace"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Egypt/Arab regional",
+      "Loan guarantees/settlements",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080133"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with General Youssef Abu Talib, Defense Minister of Egypt"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080133",
+        "title": "Meeting with General Youssef Abu Talib, Defense Minister of Egypt",
+        "date": "1989-08-08",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080133"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-08-08 - Meeting with General Youssef Abu Talib, Defense Minister of Egypt (Egypt-Arab Regional Track).",
+      "SCHEDULE OF THE PRESIDENT Tuesday, August 8, 1989 7:55 am Photo with Vernon Midgley Oval Office (5 min) (Hagin) (TAB A) 8:00 am Intelligence Briefing Oval Office (15 min) (Scowcroft/Sununu) 8:15 am National Security Briefing Oval Office (30 min) (Scowcroft/Sununu) 8:45 am Meeting with Governor Sununu Oval Office (30 min) 9:15 am Administrative Time Oval Office (45 min) 10:00 am Meeting with Egyptian Defense Oval Office (15 min) Minister Abu Taleb (Scowcroft) opup (Distributed Separately) 10:15 a",
+      "2:40 pm Arrives White House South Lawn 2:40 pm Personal Staff Time Oval Office (35 min) 3:15 pm Administrative Time Oval Office (30 min) 3:45 pm Meeting with Governor Sununu Oval Office (30 min) 4:15 pm Haircut W.",
+      "THE WHITE HOUSE WASHINGTON TELEPHONE memorandum AUGUST 8th 19 89 E.D.T.",
+      "NANCY ELLIS RES: LINCOLN, MA BUSY 617-259-8153 TLKD OK 9:32 INXX 9:31 RMX 9:34 GPO : 1983 0 - 405-660 : QL 2 THE WHITE HOUSE WASHINGTON TELEPHONE memorandum AUGUST 8th E.D.T.",
+      "BAKER OUT TILL INC 8:49 PM 10:50 (b)(6) 9:30PM OUT AM SECURE LINE TLKD OK 10:44PM INC PM OUT AM INC PM GPO : 1983 0 - 405-660 : QL 2 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM AUGUST 8th , 19 89 E.D.T.",
+      "PRESIDENT BUSH TIME NAME ACTION PLACED DISC OUT XAM GENERAL BRENT SCOWCROFT RES: WASHINGTON, DC WHITE HOUSE SIGNAL TLKD OK INCXX 10:51PM 10:54 OUT AM INC PM OUT XAM SECRETARY JAMES BAKER HOUSTON, TX INXXX 10:55 PM 10:59 (b)(6) (6) TLKD OK OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM GPO : 1983 0 - 405-660 : QL 2 THE WHITE HOUSE WASHINGTON TELEPHONE memorandum SIGNAL SWITCHBOARD August 8 ."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with General Youssef Abu Talib, Defense Minister of Egypt. OCR/catalog markers: Middle East peace, Israel leadership, Palestinian channel, Egypt/Arab regional, Loan guarantees/settlements, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-08-08; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/8/1989, 12803-014, Container 12803, 1989-08-08. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889999; https://catalog.archives.gov/id/415889999; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_08_89-12803-014_415889999.pdf."
+  },
+  {
+    "id": "source-candidate-415889998",
+    "naid": "415889998",
+    "title": "[Presidential Daily Diary] 8/8/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12803-013, Container 12803",
+    "date": "1989-08-08",
+    "catalogUrl": "https://catalog.archives.gov/id/415889998",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_08_89-12803-013_415889998.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-08-08"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080133"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with General Youssef Abu Talib, Defense Minister of Egypt"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080133",
+        "title": "Meeting with General Youssef Abu Talib, Defense Minister of Egypt",
+        "date": "1989-08-08",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080133"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-08-08 - Meeting with General Youssef Abu Talib, Defense Minister of Egypt (Egypt-Arab Regional Track).",
+      "The President met with: 7:11 7:16 John H.",
+      "7:57 8:01 The President met with: Vernon E.",
+      "Gates The President met with: 8:45 9:03 Vice President Quayle continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 2 LOCATION DATE AUGUST 8, 1989 THE WHITE HOUSE TIME DAY WASHINGTON, D.C.",
+      "9:13 9:30 The President met with Mr.",
+      "The President met with: 9:37 10:04 Mr.",
+      "9:47 10:01 P The President talked on a conference call with: James A."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with General Youssef Abu Talib, Defense Minister of Egypt. OCR/catalog markers: Israel leadership, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-08-08; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 8/8/1989, 12803-013, Container 12803, 1989-08-08. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889998; https://catalog.archives.gov/id/415889998; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_08_89-12803-013_415889998.pdf."
+  },
+  {
+    "id": "source-candidate-415890000",
+    "naid": "415890000",
+    "title": "[Presidential Daily Diary] 8/9/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12803-015, Container 12803",
+    "date": "1989-08-09",
+    "catalogUrl": "https://catalog.archives.gov/id/415890000",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_09_89-12803-015_415890000.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-08-09",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080205",
+      "conversation-428080173"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with Prime Minister Yitzhak Shamir of Israel, August 9, 1989",
+      "Telephone Conversation with - President Mubarak of Egypt, August 9, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080205",
+        "title": "Telephone Conversation with Prime Minister Yitzhak Shamir of Israel, August 9, 1989",
+        "date": "1989-08-09",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080205"
+      },
+      {
+        "id": "conversation-428080173",
+        "title": "Telephone Conversation with - President Mubarak of Egypt, August 9, 1989",
+        "date": "1989-08-09",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080173"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-08-09 - Telephone Conversation with Prime Minister Yitzhak Shamir of Israel, August 9, 1989 (Israel Track).",
+      "FRUS date cross-reference: 1989-08-09 - Telephone Conversation with - President Mubarak of Egypt, August 9, 1989 (Egypt-Arab Regional Track).",
+      "8:03 8:06 The President met with Secretary of Defense Richard B.",
+      "Gates 8:52 8:59 The President met with: 8:52 8:59 Vice President Quayle 8:52 8:59 Mr.",
+      "WEDNESDAY IN OUT PHONE ACTIVITY 9:04 The President went to the Main Exhibit Entrance and was greeted by: Prince Bandar bin Sultan, Ambassador of the Kingdom of Saudi Arabia to the U.S.",
+      "Badar Bakhsh, Charge D'Affairs, Kingdom of Saudi Arabia 9:05 9:46 The President participated in a tour of the Saudi Arabian Cultural Exhibition.",
+      "9:59 10:17 The President met with Mr.",
+      "For a list of attendees, see APPENDIX \"A.\" The President met with: 10:43 10:48 Nicholas F."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Telephone Conversation with Prime Minister Yitzhak Shamir of Israel, August 9, 1989; Telephone Conversation with - President Mubarak of Egypt, August 9, 1989. OCR/catalog markers: Israel leadership, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-08-09; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 8/9/1989, 12803-015, Container 12803, 1989-08-09. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890000; https://catalog.archives.gov/id/415890000; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-08_09_89-12803-015_415890000.pdf."
+  },
+  {
+    "id": "source-candidate-415890053",
+    "naid": "415890053",
+    "title": "[Presidential Daily Backup] 9/4/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12804-042, Container 12804",
+    "date": "1989-09-04",
+    "catalogUrl": "https://catalog.archives.gov/id/415890053",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_04_89-12804-042_415890053.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Middle East peace",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "King Fahd has postponed his visit (again, this is the second delay) to the United States \"due to the pursuit of the peace process%M through the Arab League, \" Marlin said."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/4/1989, 12804-042, Container 12804, 1989-09-04. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890053; https://catalog.archives.gov/id/415890053; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_04_89-12804-042_415890053.pdf."
+  },
+  {
+    "id": "source-candidate-415890073",
+    "naid": "415890073",
+    "title": "[Presidential Daily Backup] 9/14/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12805-018, Container 12805",
+    "date": "1989-09-14",
+    "catalogUrl": "https://catalog.archives.gov/id/415890073",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_14_89-12805-018_415890073.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "BACKGROUND During the most recent Republican Congressional Leadership meeting, Senator Domenici indicated that he travelled to the Middle East during the August recess, where, among others, he met with Egyptian President Hosni Mubarak."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/14/1989, 12805-018, Container 12805, 1989-09-14. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890073; https://catalog.archives.gov/id/415890073; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_14_89-12805-018_415890073.pdf."
+  },
+  {
+    "id": "source-candidate-415890108",
+    "naid": "415890108",
+    "title": "[Presidential Daily Diary] 10/2/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12807-007, Container 12807",
+    "date": "1989-10-02",
+    "catalogUrl": "https://catalog.archives.gov/id/415890108",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_02_89-12807-007_415890108.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-10-02",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080271",
+      "conversation-428080243"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with Prime Minister Yitzhak Shamir of Israel, October 2, 1989",
+      "Meeting with President Mubarak of Egypt, October 2, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080271",
+        "title": "Telephone Conversation with Prime Minister Yitzhak Shamir of Israel, October 2, 1989",
+        "date": "1989-10-02",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080271"
+      },
+      {
+        "id": "conversation-428080243",
+        "title": "Meeting with President Mubarak of Egypt, October 2, 1989",
+        "date": "1989-10-02",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080243"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-10-02 - Telephone Conversation with Prime Minister Yitzhak Shamir of Israel, October 2, 1989 (Israel Track).",
+      "FRUS date cross-reference: 1989-10-02 - Meeting with President Mubarak of Egypt, October 2, 1989 (Egypt-Arab Regional Track).",
+      "7:58 8:02 The President met with the First Lady.",
+      "For a list of attendees, see APPENDIX \"A.\" The President met with: 9:30 10:55 James A.",
+      "MONDAY IN PHONE ACTIVITY OUT 10:13 10:22 P The President talked on a conference call with: Yitzhak Shamir, Prime Minister of the State of Israel C.",
+      "11:01 11:45 The President participated in a meeting with U.S.",
+      "The President met with: 11:45 12:17 Mohammed Hosni Mubarak, President of the Arab Republic of Egypt 12:02 12:04 Barbara Bush, The First Lady 12:10 12:19 Mr.",
+      "Marlin Fitzwater, Assistant and Press Secretary Members of Press in/out The President met with: 12:27 12:30 Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Telephone Conversation with Prime Minister Yitzhak Shamir of Israel, October 2, 1989; Meeting with President Mubarak of Egypt, October 2, 1989. OCR/catalog markers: Israel leadership, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-10-02; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 10/2/1989, 12807-007, Container 12807, 1989-10-02. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890108; https://catalog.archives.gov/id/415890108; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_02_89-12807-007_415890108.pdf."
+  },
+  {
+    "id": "source-candidate-415890141",
+    "naid": "415890141",
+    "title": "[Presidential Daily Backup] 10/18/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12808-018, Container 12808",
+    "date": "1989-10-18",
+    "catalogUrl": "https://catalog.archives.gov/id/415890141",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_18_89-12808-018_415890141.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-10-18",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080303"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Mubarak of Egypt, October 18, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080303",
+        "title": "Telephone Conversation with President Mubarak of Egypt, October 18, 1989",
+        "date": "1989-10-18",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080303"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-10-18 - Telephone Conversation with President Mubarak of Egypt, October 18, 1989 (Egypt-Arab Regional Track).",
+      "Diagram Security diagram trip to Madison Hotel (2 pp.) 10/18/89 (b)(7)(e) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 10/18/89 Pinksheet Number: RML354 OA/ID Number: 12808-018 Date Closed: 7/18/2002 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Wednesday, October 18, 1989 7:45",
+      "1:30 pm Meeting with Secretary Baker Oval Office (30 min) 2:00 pm Joint Award Ceremony for East Room (20 min) National Medal of Science and of Technology (Bates) open.",
+      "(TAB F) 2:20 pm Personal Staff Time Oval Office (25 min) 2:45 pm Staff Time Oval Office (15 min) (Bromley) (Provided Later) 3:00 pm Meeting with Governor Sununu Oval Office (30 min) 3:30 pm Administrative Time NSC - sit Rom Oval Office (90 min) 6:40 pm The President departs for South Lawn Drop by at Fundraising Recep- tion for Senator Ted Stevens (Card/Rogich) (TAB G - Trip Schedule) 7:10 pm Arrives White House South Lawn 7:57 add summer 7.57 Sanuar ont; add Diace Holden + Harold + amina Windber",
+      "THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM OCTOBER 18th E.D.T.PRESIDENT BUSH , 19 89 TIME NAME PLACED DISC ACTION OUTX 6:31 AM 6:34 CONGRESSMAN TOM CAMPBELL SANTA CRUZ, CA.",
+      "INC PM (b)(6) TLKD-OK 6:31 PM.",
+      "TLKD-OK XXX 7:20 7:31 WHITE HOUSE SIGNAL 7:29 PM."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Mubarak of Egypt, October 18, 1989. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-10-18; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 10/18/1989, 12808-018, Container 12808, 1989-10-18. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890141; https://catalog.archives.gov/id/415890141; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_18_89-12808-018_415890141.pdf."
+  },
+  {
+    "id": "source-candidate-415890140",
+    "naid": "415890140",
+    "title": "[Presidential Daily Diary] 10/18/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12808-017, Container 12808",
+    "date": "1989-10-18",
+    "catalogUrl": "https://catalog.archives.gov/id/415890140",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_18_89-12808-017_415890140.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-10-18",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080303"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Mubarak of Egypt, October 18, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080303",
+        "title": "Telephone Conversation with President Mubarak of Egypt, October 18, 1989",
+        "date": "1989-10-18",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080303"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-10-18 - Telephone Conversation with President Mubarak of Egypt, October 18, 1989 (Egypt-Arab Regional Track).",
+      "6:30 6:37 The President met with his Assistant and Deputy to the Chief of Staff, James W.",
+      "7:57 7:57 The President met with Mr.",
+      "7:57 8:00 The President met with: Grace Holden, daughter of the President's cousin, Betty Walker Holden Harold Windberg, personal friend of Grace Holden Mrs.",
+      "The President met with: 9:00 9:12 Mr.",
+      "Scowcroft 9:03 9:05 P The President talked on a conference call with: Prime Minister Gandhi Stephanie S.",
+      "Sullivan, Duty Officer, The Situation Room Sandra Charles, Director, Near East and South Asia Affairs, National Security Council (NSC) 9:13 9:26 R The President was telephoned by Mohammed Hosni Mubarak, President of the Arab Republic of Egypt."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Mubarak of Egypt, October 18, 1989. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-10-18; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 10/18/1989, 12808-017, Container 12808, 1989-10-18. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890140; https://catalog.archives.gov/id/415890140; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_18_89-12808-017_415890140.pdf."
+  },
+  {
+    "id": "source-candidate-415890151",
+    "naid": "415890151",
+    "title": "[Presidential Daily Backup] 10/23/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12809-008, Container 12809",
+    "date": "1989-10-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415890151",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_23_89-12809-008_415890151.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-10-23"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080305"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Fahd of Saudi Arabia, October 23, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080305",
+        "title": "Telephone Conversation with King Fahd of Saudi Arabia, October 23, 1989",
+        "date": "1989-10-23",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080305"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-10-23 - Telephone Conversation with King Fahd of Saudi Arabia, October 23, 1989 (Egypt-Arab Regional Track).",
+      "SCHEDULE OF THE PRESIDENT Monday, October 23, 1989 7:00 am Meeting with Dr.",
+      "Allan Smith (Lee) 8:00 am Intelligence Briefing (15 min) Oval Office (Scowcroft/Sununu) 8:15 am (30 min) National Security Briefing Oval Office (Scowcroft/Sununu) 8:45 am Meeting with Governor Sununu (30 min) Oval Office 9:15 am Administrative Time (45 min) Oval Office 10:00 am NSC Meeting (60 min) Oval Office (Scowcroft) (Distributed Separately) 11:00 am Photo with Crystal Yandell (5 min) Oval Office (Demarest) (TAB A) 11:05 am Photo with Dick Herman (5 min) Oval Office (Hagin) (TAB B) 11:15 am",
+      "THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM OCTOBER 23rd 89 .",
+      "TLKD-OK 7:38 PM.",
+      "TLKD-OK 8:02 AM.",
+      "INCXILL:24 XPM 11:26 (b)(6) TLKD-OK OUT AM INC PM OUT AM MRS."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Fahd of Saudi Arabia, October 23, 1989. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-10-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 10/23/1989, 12809-008, Container 12809, 1989-10-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890151; https://catalog.archives.gov/id/415890151; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_23_89-12809-008_415890151.pdf."
+  },
+  {
+    "id": "source-candidate-415890150",
+    "naid": "415890150",
+    "title": "[Presidential Daily Diary] 10/23/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12809-007, Container 12809",
+    "date": "1989-10-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415890150",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_23_89-12809-007_415890150.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-10-23"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080305"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Fahd of Saudi Arabia, October 23, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080305",
+        "title": "Telephone Conversation with King Fahd of Saudi Arabia, October 23, 1989",
+        "date": "1989-10-23",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080305"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-10-23 - Telephone Conversation with King Fahd of Saudi Arabia, October 23, 1989 (Egypt-Arab Regional Track).",
+      "7:28 7:34 The President met with his Assistant and Press Secretary, M.",
+      "8:00 8:04 The President met with his Personal Assistant, Donald C.",
+      "Gates, Deputy Assistant for National Security Affairs 8:17 8:48 The President met with: Mr.",
+      "Gates The President met with: 8:48 9:05 Mr.",
+      "Scowcroft 9:03 9:27 R The President talked on a conference call with: Helmut Kohl, Chancellor of the Federal Republic of Germany (FRG) Robert L.",
+      "TIME 9:03 a.mDAY MONDAY IN OUT PHONE ACTIVITY Department of State 10:02 10:03 The President met with Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Fahd of Saudi Arabia, October 23, 1989. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-10-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 10/23/1989, 12809-007, Container 12809, 1989-10-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890150; https://catalog.archives.gov/id/415890150; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_23_89-12809-007_415890150.pdf."
+  },
+  {
+    "id": "source-candidate-415890201",
+    "naid": "415890201",
+    "title": "[Presidential Daily Backup] 11/17/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12811-014, Container 12811",
+    "date": "1989-11-17",
+    "catalogUrl": "https://catalog.archives.gov/id/415890201",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_17_89-12811-014_415890201.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-11-17",
+      "Middle East Peace",
+      "Prime Minister Shamir",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080341"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Hosni Mubarak of Egypt, November 17, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080341",
+        "title": "Telephone Conversation with President Hosni Mubarak of Egypt, November 17, 1989",
+        "date": "1989-11-17",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080341"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-11-17 - Telephone Conversation with President Hosni Mubarak of Egypt, November 17, 1989 (Egypt-Arab Regional Track).",
+      "Memo Sichan Siv to POTUS, Re: meeting with Black Leadership 11/17/89 P-5 Forum (6 pp.) 06.",
+      "Helicopter Secret Service agent name redacted (1 pp.) 11/17/89 (b)(7)(f) Manifest Page 2 of 2 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 11/17/89 Pinksheet Number: RML402 OA/ID Number: 12811-014 Date Closed: 7/25/2002 FOIA/Sys Case #: 2002-1005-S Re-review Case #: 2005-0140-S P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Friday, Nove",
+      "11:50 am Proclamation Signing and (10 min) Presentation of Thanks- Rose Garden giving Turkey (Demarest) (opea) (TAB H) 12:00 pm B National Medal of the Arts (90 min) Luncheon State Floor (Cicconi/Firestone) opup (TAB I) 1:30 pm (30 min) Meeting with Secretary Baker Oval Office 2:00 pm Trip Briefing - stills (60 min) (Scowcroft) Oval Office (Distributed Separately) 3:00 pm Administrative Time (30 min) Oval Office 3:30 pm Meeting with Governor Sununu (30 min) Oval Office B Depart for Camp David So",
+      "THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM NOVEMBER 17th PRESIDENT BUSH .",
+      "VA PRESOCK INC 304-647-3400 8:31 XXXI OUT AM INC PM OUT AM CONGRESSMAN SONNY MONTGOMERY OFC: WASHINGTON, DC 225-5031 TLKD-OK INCO 9:28 XPM 9:31 OUT AM INC PM OUT-X AM SECRETARY ROBERT A.",
+      "NEW YORK, NY TLKD WITH BRIDGET INC 1:13 PM (b)(6) MONTAGNE OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD November 17 , 1989 TIME NAME ACTION PLACED DISC QUI 7:46 AM 8:14 Conference Call: Tlkd-ok Chancellor Helmut Kohl 7:47 AM Office, Bonn, West Germany INC PM 562-001 OUT AM Mrs."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Hosni Mubarak of Egypt, November 17, 1989. OCR/catalog markers: Middle East peace, Israel leadership, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-11-17; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/17/1989, 12811-014, Container 12811, 1989-11-17. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890201; https://catalog.archives.gov/id/415890201; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_17_89-12811-014_415890201.pdf."
+  },
+  {
+    "id": "source-candidate-415890365",
+    "naid": "415890365",
+    "title": "[Presidential Daily Backup] 2/7/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12817-012, Container 12817",
+    "date": "1990-02-07",
+    "catalogUrl": "https://catalog.archives.gov/id/415890365",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_07_90-12817-012_415890365.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-02-07",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080515"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to President Mubarak, February 7, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080515",
+        "title": "Telephone Call to President Mubarak, February 7, 1990",
+        "date": "1990-02-07",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080515"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-02-07 - Telephone Call to President Mubarak, February 7, 1990 (Egypt-Arab Regional Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD February 7 , 19 90 TIME PLACED DIS",
+      "Patty Presock Tlkd-ok Office, Washington, D.C.",
+      "Brock Hornby Tlkd-ok Office, Portland, Maine 11:51 AM XNC PM 207-879-4894 OUT AM Congressman Dick Schultze Left Message Residence, Washington, D.C.",
+      "on Answering Machine INC 7:09 PM 8:19 (b)(6) 7:09 PM OUT AM Tlkd-ok 8:15 PM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH FEBRUARY 7th , 19.",
+      "PST THE WHITE HOUSE Office of the Press Secretary (San Francisco, California) For Immediate Release February 7, 1990 REMARKS BY THE PRESIDENT IN QUESTION AND ANSWER SESSION WITH MEMBERS OF THE COMMONWEALTH CLUB San Francisco Hilton Hotel San Francisco, California 12:59 P.M.",
+      "They see it in every institution the cardinal sin for a politician is doubletalk, vascillation, and hypocracy.\" GEORGE CONDON Copley News Service GEORGE HACKETT Newsweek # # # 1990-02-07 Telephone Call to President Mubarak, February 7, 1990 Telephone Call to President Mubarak, February 7, 1990 Egypt-Arab Regional Track Hosni Mubarak Egypt"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to President Mubarak, February 7, 1990. OCR/catalog markers: Israel leadership, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-02-07; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 2/7/1990, 12817-012, Container 12817, 1990-02-07. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890365; https://catalog.archives.gov/id/415890365; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_07_90-12817-012_415890365.pdf."
+  },
+  {
+    "id": "source-candidate-415890364",
+    "naid": "415890364",
+    "title": "[Presidential Daily Diary] 2/7/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12817-011, Container 12817",
+    "date": "1990-02-07",
+    "catalogUrl": "https://catalog.archives.gov/id/415890364",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_07_90-12817-011_415890364.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-02-07",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080515"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to President Mubarak, February 7, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080515",
+        "title": "Telephone Call to President Mubarak, February 7, 1990",
+        "date": "1990-02-07",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080515"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-02-07 - Telephone Call to President Mubarak, February 7, 1990 (Egypt-Arab Regional Track).",
+      "12:33 1:30 The President addressed approximately 2,500 members of the Commonwealth Club and then the President participated in a question and answer session.",
+      "WEDNESDAY IN OUT PHONE ACTIVITY 1:50 2:05 The President met with: John H.",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 1990-02-07 Telephone Call to President Mubarak, February 7, 1990 Telephone Call to President Mubarak,"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to President Mubarak, February 7, 1990. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-02-07; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 2/7/1990, 12817-011, Container 12817, 1990-02-07. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890364; https://catalog.archives.gov/id/415890364; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_07_90-12817-011_415890364.pdf."
+  },
+  {
+    "id": "source-candidate-415890440",
+    "naid": "415890440",
+    "title": "[Presidential Daily Diary] 3/17/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12821-007, Container 12821",
+    "date": "1990-03-17",
+    "catalogUrl": "https://catalog.archives.gov/id/415890440",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_17_90-12821-007_415890440.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-03-17",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080611"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Mubarak of Egypt, March 17, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080611",
+        "title": "Telephone Conversation with President Mubarak of Egypt, March 17, 1990",
+        "date": "1990-03-17",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080611"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-03-17 - Telephone Conversation with President Mubarak of Egypt, March 17, 1990 (Egypt-Arab Regional Track).",
+      "SATURDAY IN OUT PHONE ACTIVITY 7:27 7:32 R The President talked on a conference call with: Mohammed Hosni Mubarak, President of the Arab Republic of Egypt Dennis W.",
+      "8:00? The President and the First Lady watched the movie \"Rosalie Goes Shopping.\" 1990-03-17 Telephone Conversation with President Mubarak of Egypt, March 17, 1990 Telephone Conversation with President Mubarak of Egypt, March 17, 1990 Egypt-Arab Regional Track Hosni Mubarak Egypt"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Mubarak of Egypt, March 17, 1990. OCR/catalog markers: Egypt/Arab regional, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-03-17; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 3/17/1990, 12821-007, Container 12821, 1990-03-17. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890440; https://catalog.archives.gov/id/415890440; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-03_17_90-12821-007_415890440.pdf."
+  },
+  {
+    "id": "source-candidate-415890536",
+    "naid": "415890536",
+    "title": "[Presidential Daily Diary] 5/4/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12826-001, Container 12826",
+    "date": "1990-05-04",
+    "catalogUrl": "https://catalog.archives.gov/id/415890536",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_04_90-12826-001_415890536.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-05-04",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080709"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Mubarak of Egypt, May 4, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080709",
+        "title": "Telephone Conversation with President Mubarak of Egypt, May 4, 1990",
+        "date": "1990-05-04",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080709"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-05-04 - Telephone Conversation with President Mubarak of Egypt, May 4, 1990 (Egypt-Arab Regional Track).",
+      "7:33 7:39 The President met with the First Lady.",
+      "Gates 8:46 9:26 The President met with: Vice President Quayle Mr.",
+      "9:43 9:47 The President met with Mr.",
+      "9:43 P The President telephoned the President of the Arab Republic of Egypt Mohammed Hosni Mubarak.",
+      "9:47 9:57 The President met with his Counsel, C.",
+      "10:29 10:36 P The President talked on a conference call continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 2 LOCATION DATE MAY 4, 1990 THE WHITE HOUSE TIME DAY WASHINGTON, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Mubarak of Egypt, May 4, 1990. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-05-04; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 5/4/1990, 12826-001, Container 12826, 1990-05-04. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890536; https://catalog.archives.gov/id/415890536; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_04_90-12826-001_415890536.pdf."
+  },
+  {
+    "id": "source-candidate-415890575",
+    "naid": "415890575",
+    "title": "[Presidential Daily Backup] 5/23/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12827-018, Container 12827",
+    "date": "1990-05-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415890575",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_23_90-12827-018_415890575.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-05-23",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080711"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Mubarak of Egypt, May 23, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080711",
+        "title": "Telephone Conversation with President Mubarak of Egypt, May 23, 1990",
+        "date": "1990-05-23",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080711"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-05-23 - Telephone Conversation with President Mubarak of Egypt, May 23, 1990 (Egypt-Arab Regional Track).",
+      "Schedule Motorcade Assignments redacted (1 pp.) 05/23/90 (b)(7)(c), (b)(7)(e), (b)(7)(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 05/23/90 Pinksheet Number: KO0389 OA/ID Number: 12827-018 Date Closed: 10/22/1990 FOIA/Sys Case #: 2002-1005-S Re-review Case #: 2005-0140-S P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Wedn",
+      "Eddie Marinzel (Newman) 11:45 am Audio/Video Taping Session Roosevelt Room (10 min) for Congressman Elton Gallegly and Congressman Jerry Lewis (Demarest) (TAB B) 12:00 pm Lunch Oval Office (75 min) 1:15 pm Personal Staff Time Oval Office (45 min) 2:00 pm Ceremony to highlight World Trade Rose Garden (20 min) Week and present \"E-Star\" Awards (Bates) (open) (TAB C) 2:30 pm Meeting with Governor Sununu Oval Office (30 min) UNP 05/22/90 6:00 pm Withdrawal/Redaction Sheet (George Bush Library) Docume",
+      "Queen's Bedroom THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM MAY 23rd PRESIDENT BUSH .",
+      "295-4799 INEX XRM TLKD-OK 7:30 A.M.",
+      "ING PM 225-5604 TLKD-OK 9:49 A.M.",
+      "609 TLKD-OK 1:41 P.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Mubarak of Egypt, May 23, 1990. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-05-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 5/23/1990, 12827-018, Container 12827, 1990-05-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890575; https://catalog.archives.gov/id/415890575; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-05_23_90-12827-018_415890575.pdf."
+  },
+  {
+    "id": "source-candidate-415890607",
+    "naid": "415890607",
+    "title": "[Presidential Daily Backup] 6/8/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12829-004, Container 12829",
+    "date": "1990-06-08",
+    "catalogUrl": "https://catalog.archives.gov/id/415890607",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_08_90-12829-004_415890607.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-06-08",
+      "Middle East Peace",
+      "Prime Minister Shamir",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080771"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Mubarak of Egypt, June 8, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080771",
+        "title": "Telephone Conversation with President Mubarak of Egypt, June 8, 1990",
+        "date": "1990-06-08",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080771"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-06-08 - Telephone Conversation with President Mubarak of Egypt, June 8, 1990 (Egypt-Arab Regional Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells SCHEDULE OF THE PRESIDENT Friday, June 8, 1990 7:45 am Fundraising Breakfast for Des Moines Branstad ",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD June 8 .",
+      "Bush Tlkd-ok Residence, Washington, D.C.",
+      "Bennett WCL Chestertown, New York 6:45 AM (b)6) Tlkd-ok INC PM 9:24 AM OUT 6:45 AM 6:56 Governor John H.",
+      "Sununu Tlkd-ok Office, Washington, D.C.",
+      "6:47 AM White House Signal 2-2287 INC PM OUT 7:22 AM 9:24 General Brent Scowcroft Tlkd-ok Office, Washington, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Mubarak of Egypt, June 8, 1990. OCR/catalog markers: Middle East peace, Israel leadership, Palestinian channel, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-06-08; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 6/8/1990, 12829-004, Container 12829, 1990-06-08. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890607; https://catalog.archives.gov/id/415890607; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_08_90-12829-004_415890607.pdf."
+  },
+  {
+    "id": "source-candidate-415890606",
+    "naid": "415890606",
+    "title": "[Presidential Daily Diary] 6/8/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12829-003, Container 12829",
+    "date": "1990-06-08",
+    "catalogUrl": "https://catalog.archives.gov/id/415890606",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_08_90-12829-003_415890606.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-06-08",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080771"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Mubarak of Egypt, June 8, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080771",
+        "title": "Telephone Conversation with President Mubarak of Egypt, June 8, 1990",
+        "date": "1990-06-08",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080771"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-06-08 - Telephone Conversation with President Mubarak of Egypt, June 8, 1990 (Egypt-Arab Regional Track).",
+      "7:35 7:41 The President met with: Governor Terry Brandstad, (R-Iowa) Mrs.",
+      "9:37 9:44 P The President talked on a conference call with: Mohammed Hosni Mubarak, President of the Arab Republic of Egypt C.",
+      "9:58 10:02 P The President talked on a conference call with: Prime Minister Manley David A.",
+      "For a list of passengers, see APPENDIX \"B.\" 10:40? ? The President participated in a question and answer session with members of the press.",
+      "6:47 7:03 The President met with his Assistant for National Security Affairs, Brent Scowcroft.",
+      "7:03 7:48 The President participated in a meeting with continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 6 LOCATION DATE JUNE 8, 1990 THE WHITE HOUSE TIME DAY WASHINGTON, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Mubarak of Egypt, June 8, 1990. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-06-08; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 6/8/1990, 12829-003, Container 12829, 1990-06-08. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890606; https://catalog.archives.gov/id/415890606; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_08_90-12829-003_415890606.pdf."
+  },
+  {
+    "id": "source-candidate-415890615",
+    "naid": "415890615",
+    "title": "[Presidential Daily Backup] 6/12/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12829-012, Container 12829",
+    "date": "1990-06-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415890615",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_12_90-12829-012_415890615.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-06-12",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080801"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Mubarak of Egypt, June 12, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080801",
+        "title": "Telephone Conversation with President Mubarak of Egypt, June 12, 1990",
+        "date": "1990-06-12",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080801"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-06-12 - Telephone Conversation with President Mubarak of Egypt, June 12, 1990 (Egypt-Arab Regional Track).",
+      "Diagrams Security diagrams - trip to Washington Convention Center (2 pp.) 06/12/90 (b)(1) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 06/12/90 Pinksheet Number: KO0393 OA/ID Number: 12829-012 Date Closed: 10/29/2004 FOIA/Sys Case #: 2002-1005-S Re-review Case #: 2005-0140-S P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Tue",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 1:15 pm Meeting with Bill Moss Oval Office (10 min) (Holiday) (TAB D) 1:25 pm Personal Staff Time Ova",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH JUNE 12th .",
+      "INC XXPM 338-2855 TLKD-OK 6:55 A.M.",
+      "339 TLKD-OK 7:08 A.M.",
+      "500 TLKD-OK OUT AM INC PM OUR 8:23 AM MRS."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Mubarak of Egypt, June 12, 1990. OCR/catalog markers: Palestinian channel, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-06-12; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 6/12/1990, 12829-012, Container 12829, 1990-06-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890615; https://catalog.archives.gov/id/415890615; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_12_90-12829-012_415890615.pdf."
+  },
+  {
+    "id": "source-candidate-415890637",
+    "naid": "415890637",
+    "title": "[Presidential Daily Backup] 6/23/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12830-012, Container 12830",
+    "date": "1990-06-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415890637",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_23_90-12830-012_415890637.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-06-23",
+      "King Hussein",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080805",
+      "conversation-428080807"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, June 23, 1990",
+      "Telephone Conversation with President Mubarak of Egypt, June 23, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080805",
+        "title": "Telephone Conversation with King Hussein of Jordan, June 23, 1990",
+        "date": "1990-06-23",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080805"
+      },
+      {
+        "id": "conversation-428080807",
+        "title": "Telephone Conversation with President Mubarak of Egypt, June 23, 1990",
+        "date": "1990-06-23",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080807"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-06-23 - Telephone Conversation with King Hussein of Jordan, June 23, 1990 (Palestinian-Jordanian Track).",
+      "FRUS date cross-reference: 1990-06-23 - Telephone Conversation with President Mubarak of Egypt, June 23, 1990 (Egypt-Arab Regional Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD June 23 .",
+      "1990 TIME NAME ACTION PLACED DISC OUT 7:30 AM 7:41 Conference Call: Tlkd-ok King Hussein Ibn Talal 7:36 AM (b) (6) INC PM OUT AM Mr.",
+      "Graul White House Situation Room INC PM White House Signal 2-2262 OUT 8:07 AM 8:15 Conference Call: Tlkd-ok President Hosni Mubarak 8:10 AM Residence, Cairo, Egypt INC PM 912-048 OUT AM Mr.",
+      "Simpson Tlkd-ok Residence, Washington, D.C.",
+      "8:15 AM (b) (6) INC PM OUT 8:31 AM 9:08 General Brent Scowcroft Tlkd-ok Office, Washington, D.C.",
+      "Bush Tlkd-ok Residence, Monterey, California 8:33 AM 408-624-8150 INC PM OUT 10:09 AM 10:16 Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Telephone Conversation with King Hussein of Jordan, June 23, 1990; Telephone Conversation with President Mubarak of Egypt, June 23, 1990. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Egypt/Arab regional, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-06-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 6/23/1990, 12830-012, Container 12830, 1990-06-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890637; https://catalog.archives.gov/id/415890637; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_23_90-12830-012_415890637.pdf."
+  },
+  {
+    "id": "source-candidate-415890636",
+    "naid": "415890636",
+    "title": "[Presidential Daily Diary] 6/23/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12830-011, Container 12830",
+    "date": "1990-06-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415890636",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_23_90-12830-011_415890636.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-06-23",
+      "King Hussein",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080805",
+      "conversation-428080807"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, June 23, 1990",
+      "Telephone Conversation with President Mubarak of Egypt, June 23, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080805",
+        "title": "Telephone Conversation with King Hussein of Jordan, June 23, 1990",
+        "date": "1990-06-23",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080805"
+      },
+      {
+        "id": "conversation-428080807",
+        "title": "Telephone Conversation with President Mubarak of Egypt, June 23, 1990",
+        "date": "1990-06-23",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080807"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-06-23 - Telephone Conversation with King Hussein of Jordan, June 23, 1990 (Palestinian-Jordanian Track).",
+      "FRUS date cross-reference: 1990-06-23 - Telephone Conversation with President Mubarak of Egypt, June 23, 1990 (Egypt-Arab Regional Track).",
+      "SATURDAY IN OUT PHONE ACTIVITY 7:36 7:41 P The President talked on a conference call with: King Hussein I, King of the Hashemite Kingdom of Jordan C.",
+      "Graul, Duty Officer, The Situation Room, National Security Council (NSC) 8:10 8:15 P The President talked on a conference call with: Hosni Mubarak, President of the Arab Republic of Egypt Mr.",
+      "The President and the First Lady watched the movie \"Cadillac Man.\" 1990-06-23 Telephone Conversation with King Hussein of Jordan, June 23, 1990 Telephone Conversation with King Hussein of Jordan, June 23, 1990 Palestinian-Jordanian Track King Hussein Jordan 1990-06-23 Telephone Conversation with President Mubarak of Egypt, June 23, 1990 Telephone Conversation with President Mubarak of Egypt, June 23, 1990 Egypt-Arab Regional Track Hosni Mubarak Egypt"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Telephone Conversation with King Hussein of Jordan, June 23, 1990; Telephone Conversation with President Mubarak of Egypt, June 23, 1990. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Egypt/Arab regional, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-06-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 6/23/1990, 12830-011, Container 12830, 1990-06-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890636; https://catalog.archives.gov/id/415890636; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_23_90-12830-011_415890636.pdf."
+  },
+  {
+    "id": "source-candidate-415890717",
+    "naid": "415890717",
+    "title": "[Presidential Daily Backup] 8/2/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12833-018, Container 12833",
+    "date": "1990-08-02",
+    "catalogUrl": "https://catalog.archives.gov/id/415890717",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_02_90-12833-018_415890717.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-08-02",
+      "King Hussein",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080869",
+      "conversation-428080867"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan and President Mubarak of Egypt, August 2, 1990",
+      "Telecon with King Fahd of Saudi Arabia, August 2, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080869",
+        "title": "Telephone Conversation with King Hussein of Jordan and President Mubarak of Egypt, August 2, 1990",
+        "date": "1990-08-02",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080869"
+      },
+      {
+        "id": "conversation-428080867",
+        "title": "Telecon with King Fahd of Saudi Arabia, August 2, 1990",
+        "date": "1990-08-02",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080867"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-08-02 - Telephone Conversation with King Hussein of Jordan and President Mubarak of Egypt, August 2, 1990 (Palestinian-Jordanian Track).",
+      "FRUS date cross-reference: 1990-08-02 - Telecon with King Fahd of Saudi Arabia, August 2, 1990 (Egypt-Arab Regional Track).",
+      "List White House Room List (2 pp.) 8/2-3/90 (b)(7)(c), (b)(7)(e), (b)(7)(f) Page 2 of 2 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 8/2/1990 Pinksheet Number: LT9977 OA/ID Number: 12833-018 Date Closed: 3/9/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Thursday, August 2",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM AUGUST 2 PRESIDENT BUSH .",
+      "PICKERING RES: NEW YORK, NY INC (b) (6) MM TLKD-OK 6:39AM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM JN/JG THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD August 2 .",
+      "19 90 TIME NAME ACTION PLACED DISC OUT 7:08 AM 7:26 Conference Call: Tlkd-ok Mr.",
+      "Watson White House Situation Room White House Signal 2-2264 INC PM OUT 7:35 AM 7:52 Conference Call: Tlkd-ok Secretary James A.",
+      "Secure Voice x7100 INC PM OUT 11:18 AM 11:32 Conference Call: Tlkd-ok King Hussein I 11:20 AM President Mubarak's Office via Secure Satellite INC PM OUT AM Alexandria, Egypt Phone Passed to 356-1004 President Mohammed Hosni Mubarak INC PM 11:27 AM OUT AM President Mohammed Hosni Mubarak Tlkd-ok Office, Alexandria, Egypt 11:27 AM 356-1004 INC PM OUT AM Dr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Telephone Conversation with King Hussein of Jordan and President Mubarak of Egypt, August 2, 1990; Telecon with King Fahd of Saudi Arabia, August 2, 1990. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-08-02; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/2/1990, 12833-018, Container 12833, 1990-08-02. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890717; https://catalog.archives.gov/id/415890717; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_02_90-12833-018_415890717.pdf."
+  },
+  {
+    "id": "source-candidate-415890720",
+    "naid": "415890720",
+    "title": "[Presidential Daily Diary] 8/4/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12833-021, Container 12833",
+    "date": "1990-08-04",
+    "catalogUrl": "https://catalog.archives.gov/id/415890720",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_04_90-12833-021_415890720.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-08-04"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080887"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with King Fahd of Saudi Arabia, August 4, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080887",
+        "title": "Telcon with King Fahd of Saudi Arabia, August 4, 1990",
+        "date": "1990-08-04",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080887"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-08-04 - Telcon with King Fahd of Saudi Arabia, August 4, 1990 (Egypt-Arab Regional Track).",
+      "1:51 2:42 R The President talked on a conference line with: Saud Fahd bin 'Abd al-'Aziz Al, King of the Kingdom of Saudi Arabia Mr.",
+      "4:38 5:00 P The President talked on a conference call with: Turgut Ozal, President of the Republic of Turkey Mr.",
+      "5:16 5:31 P The President talked on a conference call with: al-Ahmad al-Jabir Al Sabah Jabir, Amir of the State of Kuwait Shaikh Saud Nasir Al-Sabah, Ambassador of the State of Kuwait to the U.S.",
+      "Charles 5:37 5:56 P The President talked on a conference call with: Brian Mulroney, Prime Minister of Canada Ralph H.",
+      "APPENDICES FOR PRESIDENTIAL DIARY OF SATURDAY, AUGUST 4, 1990 MEETING WITH CORE GROUP APPENDIX \"A\" August 4, 1990 Attendance not confirmed."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with King Fahd of Saudi Arabia, August 4, 1990. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-08-04; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 8/4/1990, 12833-021, Container 12833, 1990-08-04. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890720; https://catalog.archives.gov/id/415890720; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_04_90-12833-021_415890720.pdf."
+  },
+  {
+    "id": "source-candidate-415890726",
+    "naid": "415890726",
+    "title": "[Presidential Daily Diary] 8/7/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12834-001, Container 12834",
+    "date": "1990-08-07",
+    "catalogUrl": "https://catalog.archives.gov/id/415890726",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_07_90-12834-001_415890726.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-08-07",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080877",
+      "conversation-428080905"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Hosni Mubarak, August 7, 1990",
+      "Telephone Conversation with King Hassan of Morocco, August 7, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080877",
+        "title": "Telephone Call to Hosni Mubarak, August 7, 1990",
+        "date": "1990-08-07",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080877"
+      },
+      {
+        "id": "conversation-428080905",
+        "title": "Telephone Conversation with King Hassan of Morocco, August 7, 1990",
+        "date": "1990-08-07",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080905"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-08-07 - Telephone Call to Hosni Mubarak, August 7, 1990 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1990-08-07 - Telephone Conversation with King Hassan of Morocco, August 7, 1990 (Egypt-Arab Regional Track).",
+      "2:38 2:54 P The President talked on a conference call with: Francois Mitterrand, President of the French Republic Condoleezza Rice, Director, European and Soviet Affairs, National Security Council (NSC) Mr.",
+      "Radi Alec Toumayan, interpreter, Department of State 2:56 3:03 P The President talked on a conference call with: Mohammed Hosni Mubarak, President of the Arab Republic of Egypt Mr.",
+      "The President met with: 7:58 8:04 Mr.",
+      "Scowcroft The President met with: 8:32 9:19 Mr.",
+      "9:19 10:03 The President met with: Mr.",
+      "9:24 10:23 P The President talked on a conference call with: President Salih C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Telephone Call to Hosni Mubarak, August 7, 1990; Telephone Conversation with King Hassan of Morocco, August 7, 1990. OCR/catalog markers: Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-08-07; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 8/7/1990, 12834-001, Container 12834, 1990-08-07. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890726; https://catalog.archives.gov/id/415890726; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_07_90-12834-001_415890726.pdf."
+  },
+  {
+    "id": "source-candidate-415890735",
+    "naid": "415890735",
+    "title": "[Presidential Daily Backup] 8/11/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12834-010, Container 12834",
+    "date": "1990-08-11",
+    "catalogUrl": "https://catalog.archives.gov/id/415890735",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_11_90-12834-010_415890735.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-08-11",
+      "King Hussein",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080931"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Hosni Mubarak, August 11, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080931",
+        "title": "Telephone Call to Hosni Mubarak, August 11, 1990",
+        "date": "1990-08-11",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080931"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-08-11 - Telephone Call to Hosni Mubarak, August 11, 1990 (Egypt-Arab Regional Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD August 11 .",
+      "Baker III Tlkd-ok Residence, Washington, D.C.",
+      "Marlin Fitzwater Tlkd-ok Nonantum Portside Hotel 9:05 AM Kennebunkport, Maine INC PM Kennebunkport Signal x285 OUT 11:19 AM Secretary Robert A.",
+      "11:19 AM Tlkd-ok INC PM 7:06 White House Signal 2-3115 6:59 PM OUT 11:35 AM Conference Call: Tlkd-ok King Saud Fahd 12:35 PM President Mubarak's Office INC PM 12:51 OUT AM Cairo, Egypt 673-005 INC PM OUT AM Ms.",
+      "Dorothy LeBlond Tlkd with Residence, Bethesda, Maryland Major Caughman (b) (6) 12:44 PM INC 12:44 PM 2:42 OUT AM Tlkd-ok 2:37 PM INC PM OUT AM Mrs.",
+      "Bush Walker's Point Tlkd-ok Kennebunkport, Maine 5:42 PM Had 5:41 PM 5:42 Kennebunkport Signal x1300 (b) (7)(F) OUT AM Lt."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to Hosni Mubarak, August 11, 1990. OCR/catalog markers: Jordan/King Hussein, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-08-11; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/11/1990, 12834-010, Container 12834, 1990-08-11. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890735; https://catalog.archives.gov/id/415890735; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_11_90-12834-010_415890735.pdf."
+  },
+  {
+    "id": "source-candidate-415890745",
+    "naid": "415890745",
+    "title": "[Presidential Daily Backup] 8/16/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12834-020, Container 12834",
+    "date": "1990-08-16",
+    "catalogUrl": "https://catalog.archives.gov/id/415890745",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_16_90-12834-020_415890745.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-08-16",
+      "King Hussein",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080955"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Mubarak of Egypt, August 16, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080955",
+        "title": "Telephone Conversation with President Mubarak of Egypt, August 16, 1990",
+        "date": "1990-08-16",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080955"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-08-16 - Telephone Conversation with President Mubarak of Egypt, August 16, 1990 (Egypt-Arab Regional Track).",
+      "(b)(7)(c), (b)(7)(e), (b)(7)(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 8/16/1990 Pinksheet Number: LT9989 OA/ID Number: 12834-020 Date Closed: 3/10/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Thursday, August 16, 1990 B Kennebunkport 12:00 pm Meeting w",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD August 16 .",
+      "19 90 TIME NAME ACTION PLACED DISC OUT 6:14AM 6:15 (b) (7)(C), (b) (7)(E), (b) (7)(F) Tlkd-ok Rhumbline Inn 6:14 AM Kennebunkport, Maine XNE PM Kennebunkport Signal x230 OUT 7:13AM 7:14 Mrs.",
+      "Barbara Bush Tlkd-ok Residence, Kennebunkport, Maine 7:13 AM XNC PM Kennebunkport Signal x1300 (b) (7)(F) OUT 7:44AM 7:59 congressmen Senator G.",
+      "Montgomery Tlkd-ok 49 Residence, Brilliant, Mississippi 7:46 AM MXXX PM 601-485-8876 OUT 7:56AM 7:59 Ms.",
+      "Patty Presock Tlkd-ok Fairtax Residence, Herndon, Virginia 7:57 AM INC PM White House Signal 2-3804 OUT 8:00AM 8:15 Conference Call: Tlkd-ok President Turgut Ozal 8:04 AM Office, Ankara, Turkey XNC PM 407-212 OUT AM Mrs."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Mubarak of Egypt, August 16, 1990. OCR/catalog markers: Jordan/King Hussein, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-08-16; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/16/1990, 12834-020, Container 12834, 1990-08-16. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890745; https://catalog.archives.gov/id/415890745; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_16_90-12834-020_415890745.pdf."
+  },
+  {
+    "id": "source-candidate-415890765",
+    "naid": "415890765",
+    "title": "[Presidential Daily Backup] 8/26/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12834-040, Container 12834",
+    "date": "1990-08-26",
+    "catalogUrl": "https://catalog.archives.gov/id/415890765",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_26_90-12834-040_415890765.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Orlando Frilles Tlkd-ok Walker's Point 8:45 AM Kennebunkport, Maine (b) (7)(F) INC PM Kennebunkport Signal x307 OUT AM Conference Call: Tlkd-ok President Mohammed Hosni Mubarak 1:05 PM Residence, Cairo, Egypt (b) (6) INC 1:02 PM 1:12 OUT AM Dr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/26/1990, 12834-040, Container 12834, 1990-08-26. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890765; https://catalog.archives.gov/id/415890765; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_26_90-12834-040_415890765.pdf."
+  },
+  {
+    "id": "source-candidate-415890767",
+    "naid": "415890767",
+    "title": "[Presidential Daily Backup] 8/27/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12834-042, Container 12834",
+    "date": "1990-08-27",
+    "catalogUrl": "https://catalog.archives.gov/id/415890767",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_27_90-12834-042_415890767.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "9:04 AM INXX PM White House Signal 2-2199 RXX 9:26 AM 9:38 Conference Call: Tlkd-ok President Hosni Mubarak 9:33 AM Residence, Cairo, Egypt INC PM (b) (6) OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/27/1990, 12834-042, Container 12834, 1990-08-27. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890767; https://catalog.archives.gov/id/415890767; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_27_90-12834-042_415890767.pdf."
+  },
+  {
+    "id": "source-candidate-415890774",
+    "naid": "415890774",
+    "title": "[Presidential Daily Diary] 8/31/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12835-007, Container 12835",
+    "date": "1990-08-31",
+    "catalogUrl": "https://catalog.archives.gov/id/415890774",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_31_90-12835-007_415890774.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-08-31"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081003"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Saudi King Fahd, August 31, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081003",
+        "title": "Telephone Call to Saudi King Fahd, August 31, 1990",
+        "date": "1990-08-31",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081003"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-08-31 - Telephone Call to Saudi King Fahd, August 31, 1990 (Egypt-Arab Regional Track).",
+      "DAY FRIDAY IN OUT PHONE ACTIVITY 5:45 P The President telephoned King Fahd bin 'Abd al-'Aziz Al Sa'ud of the Kingdom of Saudi Arabia.",
+      "6:08 6:39 P The President talked on a secure conference line with: King Fahd Sandra Charles, Director, Near East and South Asia Affairs, National Security Council (NSC) Shuckran Kamal, interpreter, Department of State 6:46 7:03 P The President talked on a conference call with: Margaret Thatcher, Prime Minister of the United Kingdom of Great Britain (UK) Adrian A.",
+      "Benko, Intelligence Analyst, Intelligence Support, National Security Council (NSC) 7:12 7:36 P The President talked on a conference call with: Francois Mitterrand, President of the Republic of France Mr.",
+      "1990-08-31 Telephone Call to Saudi King Fahd, August 31, 1990 Telephone Call to Saudi King Fahd, August 31, 1990 Egypt-Arab Regional Track King Fahd Saudi Arabia"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to Saudi King Fahd, August 31, 1990. OCR/catalog markers: Egypt/Arab regional, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-08-31; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 8/31/1990, 12835-007, Container 12835, 1990-08-31. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890774; https://catalog.archives.gov/id/415890774; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_31_90-12835-007_415890774.pdf."
+  },
+  {
+    "id": "source-candidate-415890777",
+    "naid": "415890777",
+    "title": "[Presidential Daily Backup] 9/1/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12835-010, Container 12835",
+    "date": "1990-09-01",
+    "catalogUrl": "https://catalog.archives.gov/id/415890777",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_01_90-12835-010_415890777.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-09-01",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081009"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Mubarak of Egypt, September 1, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081009",
+        "title": "Telephone Conversation with President Mubarak of Egypt, September 1, 1990",
+        "date": "1990-09-01",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081009"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-09-01 - Telephone Conversation with President Mubarak of Egypt, September 1, 1990 (Egypt-Arab Regional Track).",
+      "Telephone Telephone numbers redacted (2 pp.) 09/01/90 (b)(6)m (b)(7)(f) Memo Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 9/1/1990 Pinksheet Number: LT10004 OA/ID Number: 12835-010 Date Closed: 3/11/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Saturday, Septe",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD September 1 .",
+      "1990 TIME NAME ACTION PLACED DISC OUT 8:00 AM 8:58 Conference Call: Tlkd-ok President Ali Abdallah Salih 8:37 AM Office, Sanaa, Yemen INC PM 260-600 OUT AM Mr.",
+      "Herndon, Virginia (b) (6) INC PM OUT 9:16 AM 9:21 General Brent Scowcroft Tlkd-ok Pitch and Putt Driving Range 9:18 AM Kennebunkport, Maine (b) (7)(F) INC PM 301-509-7002 OUT 10:45 AM 10:46 Ms.",
+      "Casey Tlkd-ok Walker's Point 10:45 AM Kennebunkport, Maine (b) (7)(F) INE PM Kennebunkport Signal x350 DLN 10:58 AM 11:01 Ms.",
+      "Casey Tlkd-ok Walker's Point 10:59 AM Kennebunkport, Maine (b) (7)(F) INC PM Kennebunkport Signal x308 DLN 10:59 AM 11:05 Secretary James A."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Mubarak of Egypt, September 1, 1990. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-09-01; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/1/1990, 12835-010, Container 12835, 1990-09-01. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890777; https://catalog.archives.gov/id/415890777; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_01_90-12835-010_415890777.pdf."
+  },
+  {
+    "id": "source-candidate-415890795",
+    "naid": "415890795",
+    "title": "[Presidential Daily Backup] 9/10/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12835-028, Container 12835",
+    "date": "1990-09-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415890795",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_10_90-12835-028_415890795.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-09-10",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081049",
+      "conversation-428081047"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with King Fahd of Saudi Arabia, September 10, 1990",
+      "Telephone Call to Hosni Mubarak, September 10, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081049",
+        "title": "Telcon with King Fahd of Saudi Arabia, September 10, 1990",
+        "date": "1990-09-10",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081049"
+      },
+      {
+        "id": "conversation-428081047",
+        "title": "Telephone Call to Hosni Mubarak, September 10, 1990",
+        "date": "1990-09-10",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081047"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-09-10 - Telcon with King Fahd of Saudi Arabia, September 10, 1990 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1990-09-10 - Telephone Call to Hosni Mubarak, September 10, 1990 (Egypt-Arab Regional Track).",
+      "Telephone Telephone numbers redacted (3 pp.) 09/10/90 (b)(6) Memo Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 9/10/1990 Pinksheet Number: LT10012 OA/ID Number: 12835-028 Date Closed: 3/12/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Monday, September 10, 199",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SEPTEMBER 10th PRESIDENT BUSH .",
+      "696 TLKD-OK 1:49 P.M.",
+      "765 TLKD-OK 4:34 PM 4:36 OUT AM INC PM OUT XAM MRS.",
+      "551 TLKD-OK 6:01 P.M.",
+      "780 TLKD-OK OUT AM INC PM OUT AM MR."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Telcon with King Fahd of Saudi Arabia, September 10, 1990; Telephone Call to Hosni Mubarak, September 10, 1990. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-09-10; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/10/1990, 12835-028, Container 12835, 1990-09-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890795; https://catalog.archives.gov/id/415890795; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_10_90-12835-028_415890795.pdf."
+  },
+  {
+    "id": "source-candidate-415890852",
+    "naid": "415890852",
+    "title": "[Presidential Daily Diary] 10/9/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12838-019, Container 12838",
+    "date": "1990-10-09",
+    "catalogUrl": "https://catalog.archives.gov/id/415890852",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_09_90-12838-019_415890852.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-10-09"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081121"
+    ],
+    "relatedRecordTitles": [
+      "President's Meeting with Prince Saud AI-Faisal, Foreign Minister of Saudi Arabia"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081121",
+        "title": "President's Meeting with Prince Saud AI-Faisal, Foreign Minister of Saudi Arabia",
+        "date": "1990-10-09",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081121"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-10-09 - President's Meeting with Prince Saud AI-Faisal, Foreign Minister of Saudi Arabia (Egypt-Arab Regional Track).",
+      "The President met with: 7:01 7:30 John H.",
+      "Sununu 8:30 8:46 The President met with Mr.",
+      "The President met with: 9:54 10:28 Nicholas F.",
+      "11:13 11:18 The President met with: Mr.",
+      "The President met with: continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 4 LOCATION DATE OCTOBER 9, 1990 THE WHITE HOUSE TIME DAY WASHINGTON, D.C.",
+      "12:52 1:07 The President met with: Secretary Mosbacher Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: President's Meeting with Prince Saud AI-Faisal, Foreign Minister of Saudi Arabia. OCR/catalog markers: Egypt/Arab regional, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-10-09; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 10/9/1990, 12838-019, Container 12838, 1990-10-09. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890852; https://catalog.archives.gov/id/415890852; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_09_90-12838-019_415890852.pdf."
+  },
+  {
+    "id": "source-candidate-415890886",
+    "naid": "415890886",
+    "title": "[Presidential Daily Diary] 10/25/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12840-018, Container 12840",
+    "date": "1990-10-25",
+    "catalogUrl": "https://catalog.archives.gov/id/415890886",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_25_90-12840-018_415890886.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-10-25",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081159",
+      "conversation-428081157"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Mubarak, October 25, 1990",
+      "The President's Call to King Fahd of Saudi Arabia, October 25, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081159",
+        "title": "Telephone Conversation with President Mubarak, October 25, 1990",
+        "date": "1990-10-25",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081159"
+      },
+      {
+        "id": "conversation-428081157",
+        "title": "The President's Call to King Fahd of Saudi Arabia, October 25, 1990",
+        "date": "1990-10-25",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081157"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-10-25 - Telephone Conversation with President Mubarak, October 25, 1990 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1990-10-25 - The President's Call to King Fahd of Saudi Arabia, October 25, 1990 (Egypt-Arab Regional Track).",
+      "Sununu 8:45 9:19 The President met with: Vice President Quayle Mr.",
+      "Sununu The President met with: 9:19 9:31 Vice President Quayle 9:19 9:54 Mr.",
+      "Marlin Fitzwater, Assistant and Press Secretary 9:54 9:59 The President met with: Bo Derek, actress John Derek, film director and husband John Rousselot, former Representative (R-California) Karen Alcalde, guest of Ms.",
+      "10:23 10:27 The President met with Mr.",
+      "10:38 10:45 The President met with Mr.",
+      "11:44 11:46 The President met with his Assistant and Deputy to the Chief of Staff, Andrew H."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Telephone Conversation with President Mubarak, October 25, 1990; The President's Call to King Fahd of Saudi Arabia, October 25, 1990. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-10-25; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 10/25/1990, 12840-018, Container 12840, 1990-10-25. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890886; https://catalog.archives.gov/id/415890886; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_25_90-12840-018_415890886.pdf."
+  },
+  {
+    "id": "source-candidate-415890891",
+    "naid": "415890891",
+    "title": "[Presidential Daily Backup] 10/27/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12841-002, Container 12841",
+    "date": "1990-10-27",
+    "catalogUrl": "https://catalog.archives.gov/id/415890891",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_27_90-12841-002_415890891.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-10-27",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081167"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Hosni Mubarak of Egypt, October 27, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081167",
+        "title": "Telephone Conversation with President Hosni Mubarak of Egypt, October 27, 1990",
+        "date": "1990-10-27",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081167"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-10-27 - Telephone Conversation with President Hosni Mubarak of Egypt, October 27, 1990 (Egypt-Arab Regional Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells SCHEDULE OF THE PRESIDENT Saturday, October 27, 1990 10:00 am Plenary Session Summit of Honolulu (2 h",
+      "Major Caughman PM 395-1801 5:39 AM INC OUT AM Tlkd-ok 5:41 AM PM via Cellular Phone INC OUT 6:25 AM Mrs.",
+      "Barbara Bush WCL 7:14 AM Loews Anatole Hotel, Dallas, Texas Tlkd-ok INC PM 214-744-6801 7:55 AM OUT 7:36 AM General Brent Scowcroft PRESUS Cancel Hilton Hawaiian Village Hotel 7:36 AM Honolulu, Hawaii INC PM Honolulu Signal x316 OUT 7:37 AM 7:41 Ambassador Fred Zeder Tlkd-ok Hilton Hawaiian Village Hotel 7:39 AM Honolulu, Hawaii INC PM 808-949-4321 x60424 OUT 7:41 AM 7:55 Senator Jake Garn Tlkd-ok Office, Washington, D.C.",
+      "McClure Tlkd-ok Office, Washington, D.C.",
+      "Jeffords Tlkd-ok Office, Washington, D.C.",
+      "8:31 AM INC PM 224-5682 OUT 7:41 AM 8:52 Senator Phil Gramm Tlkd-ok Republican Leaders Club 8:48 AM Washington, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Hosni Mubarak of Egypt, October 27, 1990. OCR/catalog markers: Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-10-27; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 10/27/1990, 12841-002, Container 12841, 1990-10-27. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890891; https://catalog.archives.gov/id/415890891; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_27_90-12841-002_415890891.pdf."
+  },
+  {
+    "id": "source-candidate-415890890",
+    "naid": "415890890",
+    "title": "[Presidential Daily Diary] 10/27/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12841-001, Container 12841",
+    "date": "1990-10-27",
+    "catalogUrl": "https://catalog.archives.gov/id/415890890",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_27_90-12841-001_415890890.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-10-27",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081167"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Hosni Mubarak of Egypt, October 27, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081167",
+        "title": "Telephone Conversation with President Hosni Mubarak of Egypt, October 27, 1990",
+        "date": "1990-10-27",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081167"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-10-27 - Telephone Conversation with President Hosni Mubarak of Egypt, October 27, 1990 (Egypt-Arab Regional Track).",
+      "8:01 P The President telephoned Mohammed Hosni Mubarek, President of the Arab Republic of Egypt.",
+      "12:09 12:35 The President participated in a question and answer session with members of the press on the budget agreement and the Persian Gulf situation.",
+      "3:06 3:09 R The President talked on a conference call with: Representative Richard A.",
+      "3:33 3:35 R The President talked on a conference call with: Senator Dole Senator George J.",
+      "Huntington Hardisty, Commander in Chief, Pacific Command Baddley Devisi, Deputy Prime Minister of the Solomon Islands Crown Prince Tupouto, of the Kingdom of Tonga Bikenibeu Paeniu, Prime Minister of Tuvalu Geoffrey Arama Henry, Prime Minister of the Cook Islands Rabbie Langanai Namaliu, Prime Minister of Papua New Guinea Tofilau Eti Alesana, Prime Minister of Western Samoa APPENDIX \"B\" Page 2 10-27-90 Kamisese Mara, Prime Minister of the Republic of Fiji Bernard Dowiyogo, President of the Repub"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Hosni Mubarak of Egypt, October 27, 1990. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-10-27; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 10/27/1990, 12841-001, Container 12841, 1990-10-27. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890890; https://catalog.archives.gov/id/415890890; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_27_90-12841-001_415890890.pdf."
+  },
+  {
+    "id": "source-candidate-415891020",
+    "naid": "415891020",
+    "title": "[Presidential Daily Diary] 12/31/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12846-003, Container 12846",
+    "date": "1990-12-31",
+    "catalogUrl": "https://catalog.archives.gov/id/415891020",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_31_90-12846-003_415891020.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-12-31",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081289",
+      "conversation-428081293"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Fahd of Saudi Arabia, December 31, 1990",
+      "Telephone Conversation with President Hosni Mubarak of Egypt, December 31, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081289",
+        "title": "Telephone Conversation with King Fahd of Saudi Arabia, December 31, 1990",
+        "date": "1990-12-31",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081289"
+      },
+      {
+        "id": "conversation-428081293",
+        "title": "Telephone Conversation with President Hosni Mubarak of Egypt, December 31, 1990",
+        "date": "1990-12-31",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081293"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-12-31 - Telephone Conversation with King Fahd of Saudi Arabia, December 31, 1990 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1990-12-31 - Telephone Conversation with President Hosni Mubarak of Egypt, December 31, 1990 (Egypt-Arab Regional Track).",
+      "10:15 10:20 P The President talked on a conference call with: Mohammed Hosni Mubarak, President of the Arab Republic of Egypt Richard N.",
+      "11:03 11:08 P The President talked on a conference call with: Licenciado Salinas, President of Mexico David A.",
+      "2:00 2:25 P The President talked on a conference call with: Fahd bin 'Abd al-'Aziz Al Sa'ud, of the Kingdom of Saudi Arabia Mr.",
+      "7:01 7:12 R The President talked on a conference call with: Toshiki Kaifu, Prime Minister of Japan Karl D.",
+      "1990-12-31 Telephone Conversation with King Fahd of Saudi Arabia, December 31, 1990 Telephone Conversation with King Fahd of Saudi Arabia, December 31, 1990 Egypt-Arab Regional Track King Fahd Saudi Arabia 1990-12-31 Telephone Conversation with President Hosni Mubarak of Egypt, December 31, 1990 Telephone Conversation with President Hosni Mubarak of Egypt, December 31, 1990 Egypt-Arab Regional Track Hosni Mubarak Egypt"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Telephone Conversation with King Fahd of Saudi Arabia, December 31, 1990; Telephone Conversation with President Hosni Mubarak of Egypt, December 31, 1990. OCR/catalog markers: Egypt/Arab regional, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-12-31; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 12/31/1990, 12846-003, Container 12846, 1990-12-31. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891020; https://catalog.archives.gov/id/415891020; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_31_90-12846-003_415891020.pdf."
+  },
+  {
+    "id": "source-candidate-415891039",
+    "naid": "415891039",
+    "title": "[Presidential Daily Backup] 1/9/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12846-022, Container 12846",
+    "date": "1991-01-09",
+    "catalogUrl": "https://catalog.archives.gov/id/415891039",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_09_91-12846-022_415891039.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-01-09"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081275"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to King Fahd, January 9, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081275",
+        "title": "Telephone Call to King Fahd, January 9, 1991",
+        "date": "1991-01-09",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081275"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-01-09 - Telephone Call to King Fahd, January 9, 1991 (Egypt-Arab Regional Track).",
+      "Memorandum Telephone Memorandum Re: President Bush [personal privacy 1/9/91 (b)(6) information redacted] (2 pp.) 02.",
+      "Memorandum Telephone Memorandum Re: Signal Switchboard [personal 1/9/91 (b)(6) privacy information redacted] (2 pp.) 03.",
+      "Memorandum Telephone Memorandum Re: President Bush [personal 1/9/91 (b)(6) privacy information redacted] (2 pp.) Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 1/9/1991 Date Closed: 12/3/2024 OA/ID Number: 12846-022 FOIA/SYS Case #: 2002-1005-S Appeal Case #: Re-review Case #: Appeal Disposition: P-2/P-5 Review Case #: Dispositi",
+      "THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH JANUARY 9 th .",
+      "780 INC 7:12 PM 7:13 TLKD-OK OUT AM INC PM OUT AJM MS.",
+      "653 INC 7:14 PM 7:14 TLKD-OK OUT AM INC PM OUT AM SENATOR JOHN B."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to King Fahd, January 9, 1991. OCR/catalog markers: Middle East peace, Israel leadership, Palestinian channel, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-01-09; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 1/9/1991, 12846-022, Container 12846, 1991-01-09. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891039; https://catalog.archives.gov/id/415891039; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_09_91-12846-022_415891039.pdf."
+  },
+  {
+    "id": "source-candidate-415891038",
+    "naid": "415891038",
+    "title": "[Presidential Daily Diary] 1/9/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12846-021, Container 12846",
+    "date": "1991-01-09",
+    "catalogUrl": "https://catalog.archives.gov/id/415891038",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_09_91-12846-021_415891038.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-01-09"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081275"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to King Fahd, January 9, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081275",
+        "title": "Telephone Call to King Fahd, January 9, 1991",
+        "date": "1991-01-09",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081275"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-01-09 - Telephone Call to King Fahd, January 9, 1991 (Egypt-Arab Regional Track).",
+      "The President met with: 7:23 7:40 John H.",
+      "The President met with: 7:48 7:53 Mr.",
+      "Marlin Fitzwater, Assistant and Press Secretary 7:53 7:55 The President met with Mr.",
+      "7:55 7:56 The President met with Dr.",
+      "Sununu 8:33 9:00 The President met with: Vice President Quayle Mr.",
+      "Sununu 9:00 9:13 The President met with: Vice President Quayle Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to King Fahd, January 9, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-01-09; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 1/9/1991, 12846-021, Container 12846, 1991-01-09. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891038; https://catalog.archives.gov/id/415891038; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_09_91-12846-021_415891038.pdf."
+  },
+  {
+    "id": "source-candidate-415891053",
+    "naid": "415891053",
+    "title": "[Presidential Daily Backup] 1/16/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12847-002, Container 12847",
+    "date": "1991-01-16",
+    "catalogUrl": "https://catalog.archives.gov/id/415891053",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_16_91-12847-002_415891053.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-01-16",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081331"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Hosni Mubarak, January 16, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081331",
+        "title": "Telephone Call to Hosni Mubarak, January 16, 1991",
+        "date": "1991-01-16",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081331"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-01-16 - Telephone Call to Hosni Mubarak, January 16, 1991 (Egypt-Arab Regional Track).",
+      "Telephone Telephone number redacted (1 pp.) 1/16/91 (b)(6) Memo Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 01/16/1991 Pinksheet Number: LT10113 OA/ID Number: 12847-002 Date Closed: 4/6/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Wednesday, January 16, 1991",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM JNAUARY 16th PRESIDENT BUSH , 1991 TIME NAME ACTION P",
+      "(b) (6) TLKD-OK MXR XM OUT AM INC PM OUT 7:22 AM 7:59 MR.",
+      "202-224-9933 TLKD-OK 5:56 P.M.",
+      "201-825-9020 TLKD-OK XINC XXPM OUT AM INC PM OUT AM 8:47 8:55 MR.",
+      "TLKD-OK XINC XXM 912-430-8501 OUT AM INC PM OUT AM XXX 9:14 9:15 GENERAL BRENT SCOWCROFT OFC: WASHINGTON, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to Hosni Mubarak, January 16, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-01-16; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 1/16/1991, 12847-002, Container 12847, 1991-01-16. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891053; https://catalog.archives.gov/id/415891053; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_16_91-12847-002_415891053.pdf."
+  },
+  {
+    "id": "source-candidate-415891052",
+    "naid": "415891052",
+    "title": "[Presidential Daily Diary] 1/16/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12847-001, Container 12847",
+    "date": "1991-01-16",
+    "catalogUrl": "https://catalog.archives.gov/id/415891052",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_16_91-12847-001_415891052.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-01-16",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081331"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Hosni Mubarak, January 16, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081331",
+        "title": "Telephone Call to Hosni Mubarak, January 16, 1991",
+        "date": "1991-01-16",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081331"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-01-16 - Telephone Call to Hosni Mubarak, January 16, 1991 (Egypt-Arab Regional Track).",
+      "7:52 7:53 The President met with his Chief of Staff, John H.",
+      "The President met with: 7:59 8:04 Mr.",
+      "DAY WEDNESDAY IN OUT PHONE ACTIVITY The President met with: 9:04 9:42 Vice President Quayle 9:04 9:42 Mr.",
+      "The President met with: 9:43 10:22 Dan McGroarty, Speechwriter 9:44 9:45 Mr.",
+      "Sununu 10:22 10:43 The President met with Mr.",
+      "10:26 10:31 R The President talked on a conference call with: Helmut Kohl, Chancellor of Germany Robert L."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to Hosni Mubarak, January 16, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-01-16; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 1/16/1991, 12847-001, Container 12847, 1991-01-16. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891052; https://catalog.archives.gov/id/415891052; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_16_91-12847-001_415891052.pdf."
+  },
+  {
+    "id": "source-candidate-415891060",
+    "naid": "415891060",
+    "title": "[Presidential Daily Diary] 1/20/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12847-009, Container 12847",
+    "date": "1991-01-20",
+    "catalogUrl": "https://catalog.archives.gov/id/415891060",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_20_91-12847-009_415891060.pdf",
+    "digitalObjectCount": 3,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-01-20",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081363",
+      "conversation-428081339"
+    ],
+    "relatedRecordTitles": [
+      "Presirtential Phone Call to King Fahd of Saudi Arabia on January 20, 1991",
+      "Telephone Call to Hosni Mubarek, January 20, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081363",
+        "title": "Presirtential Phone Call to King Fahd of Saudi Arabia on January 20, 1991",
+        "date": "1991-01-20",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081363"
+      },
+      {
+        "id": "conversation-428081339",
+        "title": "Telephone Call to Hosni Mubarek, January 20, 1991",
+        "date": "1991-01-20",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081339"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-01-20 - Presirtential Phone Call to King Fahd of Saudi Arabia on January 20, 1991 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1991-01-20 - Telephone Call to Hosni Mubarek, January 20, 1991 (Egypt-Arab Regional Track).",
+      "He met with senior national security and defense advisors and spoke with British Prime Minister John Major, French President Francois Mitterand, Egyptian President Hosni Mubarak, and the King of Saudi Arabia.",
+      "1:17 1:34 R The President talked on a secure conference call with: Francois Mitterand, Pesident of the Republic of France Alec Toumayan, interpreter, Department of State Adrian A.",
+      "Graul 3:29 3:35 P The President talked on a secure conference call with: Mohammed Hosni Mubarak, President of the continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 2 LOCATION DATE JANUARY 20, 1991 CAMP DAVID, TIME DAY MARYLAND 3:29 p.m.",
+      "SUNDAY IN OUT PHONE ACTIVITY Arab Republic of Egypt Sandra Charles, Director, Near East and South Asia Affairs, National Security Council (NSC) 3:48 4:06 P The President talked on a secure conference call with: King Fahd bin 'Abd al-'Aziz Al Saud, of the Kingdom of Saudi Arabia Ms.",
+      "1991-01-20 Presirtential Phone Call to King Fahd of Saudi Arabia on January 20, 1991 Presirtential Phone Call to King Fahd of Saudi Arabia on January 20, 1991 Egypt-Arab Regional Track King Fahd Saudi Arabia 1991-01-20 Telephone Call to Hosni Mubarek, January 20, 1991 Telephone Call to Hosni Mubarek, January 20, 1991 Egypt-Arab Regional Track Egypt"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Presirtential Phone Call to King Fahd of Saudi Arabia on January 20, 1991; Telephone Call to Hosni Mubarek, January 20, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-01-20; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 1/20/1991, 12847-009, Container 12847, 1991-01-20. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891060; https://catalog.archives.gov/id/415891060; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_20_91-12847-009_415891060.pdf."
+  },
+  {
+    "id": "source-candidate-415891087",
+    "naid": "415891087",
+    "title": "[Presidential Daily Backup] 2/2/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12848-004, Container 12848",
+    "date": "1991-02-02",
+    "catalogUrl": "https://catalog.archives.gov/id/415891087",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_02_91-12848-004_415891087.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-02-02",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081409",
+      "conversation-428081405"
+    ],
+    "relatedRecordTitles": [
+      "President's Call to President Mubarak of Egypt on February 2, 1991",
+      "President's Call to the King of Saudi Arabia, February 2, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081409",
+        "title": "President's Call to President Mubarak of Egypt on February 2, 1991",
+        "date": "1991-02-02",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081409"
+      },
+      {
+        "id": "conversation-428081405",
+        "title": "President's Call to the King of Saudi Arabia, February 2, 1991",
+        "date": "1991-02-02",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081405"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-02-02 - President's Call to President Mubarak of Egypt on February 2, 1991 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1991-02-02 - President's Call to the King of Saudi Arabia, February 2, 1991 (Egypt-Arab Regional Track).",
+      "Telephone Telephone number redacted (1 pp.) 2/2/91 (b)(6) Memo Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 2/2/1991 Pinksheet Number: LT10131 OA/ID Number: 12848-004 Date Closed: 4/8/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Saturday, February 2, 1991 B C",
+      "Cheney Tlkd-ok White House Situation Room 7:10 AM INC PM White House Signal 2-2262 QUT 9:45 AM 9:55 General Brent Scowcroft Tlkd-ok Office, Washington, D.C.",
+      "9:46 AM INC PM White House Signal 2-2260 OUT 10:08 AM 10:10 General Brent Scowcroft Tlkd-ok Office, Washington, D.C.",
+      "Baker III Tlkd-ok Residence, Washington, D.C.",
+      "10:12 AM INC PM White House Signal 2-3103 OUT 10:20 AM 10:25 Reverend Billy Graham Tlkd-ok New York Hilton Hotel 10:22 AM New York City, New York INC PM 212-398-1900 OUT 10:25 AM 10:27 General Brent Scowcroft Tlkd-ok Office, Washington, D.C.",
+      "10:26 AM INC PM White House Signal 2-2260 OUT 10:25 AM 10:49 Conference Call: Tlkd-ok Prime Minister Nawaz Sharif Residence, Islamabad, Pakistan 10:30 AM INC PM 816-611 OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: President's Call to President Mubarak of Egypt on February 2, 1991; President's Call to the King of Saudi Arabia, February 2, 1991. OCR/catalog markers: Egypt/Arab regional, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-02-02; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 2/2/1991, 12848-004, Container 12848, 1991-02-02. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891087; https://catalog.archives.gov/id/415891087; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_02_91-12848-004_415891087.pdf."
+  },
+  {
+    "id": "source-candidate-415891086",
+    "naid": "415891086",
+    "title": "[Presidential Daily Diary] 2/2/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12848-003, Container 12848",
+    "date": "1991-02-02",
+    "catalogUrl": "https://catalog.archives.gov/id/415891086",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_02_91-12848-003_415891086.pdf",
+    "digitalObjectCount": 3,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-02-02",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081409",
+      "conversation-428081405"
+    ],
+    "relatedRecordTitles": [
+      "President's Call to President Mubarak of Egypt on February 2, 1991",
+      "President's Call to the King of Saudi Arabia, February 2, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081409",
+        "title": "President's Call to President Mubarak of Egypt on February 2, 1991",
+        "date": "1991-02-02",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081409"
+      },
+      {
+        "id": "conversation-428081405",
+        "title": "President's Call to the King of Saudi Arabia, February 2, 1991",
+        "date": "1991-02-02",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081405"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-02-02 - President's Call to President Mubarak of Egypt on February 2, 1991 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1991-02-02 - President's Call to the King of Saudi Arabia, February 2, 1991 (Egypt-Arab Regional Track).",
+      "[Presidential Daily Diary] 2/2/1991 At Camp David for the weekend, the President spoke with the Reverend Billy Graham, and then spoke on a conference call with the Prime Minister of Pakistan, the Amir of Qatar, King Fahd of Saudi Arabia, and Hosni Mubarak, President of Egypt.",
+      "10:30 10:49 P The President talked on a conference call with: Nawas Sharif, Prime Minister of the Islamic Republic of Pakistan Cornelius F.",
+      "2:00 2:22 P The President talked on a conference call with: Khalifa bin Hamad Al Thani, Amir of the State of Qatar Ms.",
+      "SATURDAY IN OUT PHONE ACTIVITY 2:33 2:41 P The President talked on a conference call with: Mohammed Hosni Mubarak, President of the Arab Republic of Egypt Ms.",
+      "Cheney Paul Clarke, Duty Officer, White House Situation Room 3:02 3:22 P The President talked on a conference call with: Fahd bin 'Abd al-'Aziz Al Sa'ud, King of the Kingdom of Saudi Arabia Ms.",
+      "1991-02-02 President's Call to President Mubarak of Egypt on February 2, 1991 President's Call to President Mubarak of Egypt on February 2, 1991 Egypt-Arab Regional Track Hosni Mubarak Egypt 1991-02-02 President's Call to the King of Saudi Arabia, February 2, 1991 President's Call to the King of Saudi Arabia, February 2, 1991 Egypt-Arab Regional Track Saudi Arabia"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: President's Call to President Mubarak of Egypt on February 2, 1991; President's Call to the King of Saudi Arabia, February 2, 1991. OCR/catalog markers: Egypt/Arab regional, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-02-02; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 2/2/1991, 12848-003, Container 12848, 1991-02-02. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891086; https://catalog.archives.gov/id/415891086; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_02_91-12848-003_415891086.pdf."
+  },
+  {
+    "id": "source-candidate-415891122",
+    "naid": "415891122",
+    "title": "[Presidential Daily Diary] 2/20/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12849-011, Container 12849",
+    "date": "1991-02-20",
+    "catalogUrl": "https://catalog.archives.gov/id/415891122",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_20_91-12849-011_415891122.pdf",
+    "digitalObjectCount": 15,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-02-20",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081471"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with President Mubarak of Egypt on February 20, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081471",
+        "title": "Telcon with President Mubarak of Egypt on February 20, 1991",
+        "date": "1991-02-20",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081471"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-02-20 - Telcon with President Mubarak of Egypt on February 20, 1991 (Egypt-Arab Regional Track).",
+      "[Presidential Daily Diary] 2/20/1991 The President began his day with a conference call with Hosni Mubarak, President of Egypt.",
+      "After lunch the President met with the Intelligence Oversight Board and with baseball player Nolan Ryan.",
+      "7:10 7:15 The President met with Secretary of State James A.",
+      "7:14 7:21 P The President talked on a conference call with: Hosni Mubarak, President of the Arab Republic of Egypt C.",
+      "O'Leary, Director, White House Situation Room, National Security Council (NSC) 7:15 7:29 The President met with his Assistant for National Security Affairs, Brent Scowcroft.",
+      "7:55 8:06 The President met with: Claire Wachtel, editor, Flight of the Avenger Donald C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with President Mubarak of Egypt on February 20, 1991. OCR/catalog markers: Jordan/King Hussein, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-02-20; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 2/20/1991, 12849-011, Container 12849, 1991-02-20. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891122; https://catalog.archives.gov/id/415891122; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_20_91-12849-011_415891122.pdf."
+  },
+  {
+    "id": "source-candidate-415891127",
+    "naid": "415891127",
+    "title": "[Presidential Daily Backup] 2/22/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12849-016, Container 12849",
+    "date": "1991-02-22",
+    "catalogUrl": "https://catalog.archives.gov/id/415891127",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_22_91-12849-016_415891127.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-02-22",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081483"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with President Mubarak of Egypt on February 22, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081483",
+        "title": "Telcon with President Mubarak of Egypt on February 22, 1991",
+        "date": "1991-02-22",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081483"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-02-22 - Telcon with President Mubarak of Egypt on February 22, 1991 (Egypt-Arab Regional Track).",
+      "Schedule Motorcade Assignments redacted (1 pp.) 2/22/91 (b)(7)(c), (b)(7)(e), (b)(7)(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 2/22/1991 Pinksheet Number: LT10151 OA/ID Number: 12849-016 Date Closed: 4/10/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Fri",
+      "Payton to the Oval Office 10:43 The President to the Rose Garden for announcement 10:47 The President to the Oval Office 10:48 The President departs White House en route Department of Labor for Lynn Martin swearing-in 11:31 The President arrives South Grounds, to the Oval Office 3:00 The President departs South Grounds aboard Marine One for Camp David THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD February 22 .",
+      "Patty Presock Tlkd-ok Office, Washington, D.C.",
+      "11:27 AM INKX PM White House Signal 2-2199 via YANKEE ZULU OUT 11:31 AM Conference Call: Tlkd-ok President Mikhail Gorbachev Office, Moscow, Soviet Union 11:31 AM INC.",
+      "INC PM 647-4266 OUT 11:41 AM Conference Call: WCB Prime Minister Brian Mulroney 12:05 PM Office, Ottawa, Canada Tlkd-ok INC PM 12:57 957-5508 12:50 PM OUT AM Mr.",
+      "O'Leary White House Situation Room INC PM White House Signal 2-2263 GPO : 1983 O - 405-660 : QL 2 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD February 22 ."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with President Mubarak of Egypt on February 22, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-02-22; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 2/22/1991, 12849-016, Container 12849, 1991-02-22. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891127; https://catalog.archives.gov/id/415891127; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_22_91-12849-016_415891127.pdf."
+  },
+  {
+    "id": "source-candidate-415891129",
+    "naid": "415891129",
+    "title": "[Presidential Daily Backup] 2/23/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12849-018, Container 12849",
+    "date": "1991-02-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415891129",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_23_91-12849-018_415891129.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-02-23",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081495"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with President Mubarak of Egypt on February 23, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081495",
+        "title": "Telcon with President Mubarak of Egypt on February 23, 1991",
+        "date": "1991-02-23",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081495"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-02-23 - Telcon with President Mubarak of Egypt on February 23, 1991 (Egypt-Arab Regional Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM FEBRUARY 23rd 91 PRESIDENT BUSH .",
+      "XX 8:41 8:47 202-225-6646 TLKD-OK 8:44 P.M.",
+      "INC 8:41 PM 8:49 (b) (6) TLKD-OK 8:47 P.M.",
+      "202-488-3265 TLKD-OK 8:49 P.M.",
+      "INCX 8:41 PM 8:54 202-546-5729 TLKD-OK 8:52 P.M.",
+      "516 TLKD-OK GPO : 1983 0 - 405-660 : QL 2 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM FEBRUARY 23rd , 19 91 PRESIDENT BSUH TIME NAME ACTION PLACED DISC OUT AM XX MR."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with President Mubarak of Egypt on February 23, 1991. OCR/catalog markers: Israel leadership, Egypt/Arab regional, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-02-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 2/23/1991, 12849-018, Container 12849, 1991-02-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891129; https://catalog.archives.gov/id/415891129; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_23_91-12849-018_415891129.pdf."
+  },
+  {
+    "id": "source-candidate-415891134",
+    "naid": "415891134",
+    "title": "[Presidential Daily Diary] 2/26/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12850-001, Container 12850",
+    "date": "1991-02-26",
+    "catalogUrl": "https://catalog.archives.gov/id/415891134",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_26_91-12850-001_415891134.pdf",
+    "digitalObjectCount": 22,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "O'Leary 3:03 3:09 P The President talked on a conference call with: Mohammed Hosni Mubarak, President of the Arab Republic of Egypt C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 2/26/1991, 12850-001, Container 12850, 1991-02-26. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891134; https://catalog.archives.gov/id/415891134; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_26_91-12850-001_415891134.pdf."
+  },
+  {
+    "id": "source-candidate-415891138",
+    "naid": "415891138",
+    "title": "[Presidential Daily Diary] 2/28/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12850-005, Container 12850",
+    "date": "1991-02-28",
+    "catalogUrl": "https://catalog.archives.gov/id/415891138",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_28_91-12850-005_415891138.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Charles Members of Press in/out The President and Prince Bandar participated in a question and answer session with members of the press.",
+      "6:58 7:19 P The President talked on a conference line with: King Fahd bin 'Abd al-'Aziz Al Saud, of the Kingdom of Saudi Arabia Prince Bandar C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 2/28/1991, 12850-005, Container 12850, 1991-02-28. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891138; https://catalog.archives.gov/id/415891138; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_28_91-12850-005_415891138.pdf."
+  },
+  {
+    "id": "source-candidate-415891141",
+    "naid": "415891141",
+    "title": "[Presidential Daily Backup] 3/1/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12850-008, Container 12850",
+    "date": "1991-03-01",
+    "catalogUrl": "https://catalog.archives.gov/id/415891141",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_01_91-12850-008_415891141.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-03-01",
+      "King Hussein",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081547"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call from Hosni Mubarak, March 1, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081547",
+        "title": "Telephone Call from Hosni Mubarak, March 1, 1991",
+        "date": "1991-03-01",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081547"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-03-01 - Telephone Call from Hosni Mubarak, March 1, 1991 (Egypt-Arab Regional Track).",
+      "Condoleezza Rice Oval Office (10 min) (Scowcroft) (TAB B) 8:00 am Intelligence Briefing Oval Office (15 min) (Scowcroft/Sununu) 8:15 am National Security Briefing Oval Office (30 min) (Scowcroft/Sununu) 8:45 am Meeting with Governor Sununu Oval Office (30 min) 9:15 am Radio Taping Oval Office (15 min) (Demarest/Rogich) (TAB C) 9:30 am Administrative Time Oval Office (30 min) 10:00 am Proclamation Signing for 30th Roosevelt Room (10 min) op/wp Anniversary of the Peace Corps (Holiday) (TAB D) 10:1",
+      "Meeting with Kristol and Lord WW Office (15 min) 8:15 a.m.",
+      "Meeting with President Bush Oval Office (30 min) and Governor Sununu 9:15 a.m.",
+      "Meeting with Philippine WW Office (30 min) Foreign Secretary Raul Manglapus (Lord) 10:30 a.m.",
+      "Meeting with President Bush Oval Office (10 min) and German Foreign Minister Genscher 10:45 a.m.",
+      "Meeting with President Bush, Oval Office (90 min) Secretaries Baker and Cheney and JCS Chairman Powell (02/28/91 5:00 p.m.) 12:30 p.m."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call from Hosni Mubarak, March 1, 1991. OCR/catalog markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-03-01; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 3/1/1991, 12850-008, Container 12850, 1991-03-01. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891141; https://catalog.archives.gov/id/415891141; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_01_91-12850-008_415891141.pdf."
+  },
+  {
+    "id": "source-candidate-415891140",
+    "naid": "415891140",
+    "title": "[Presidential Daily Diary]  3/1/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12850-007, Container 12850",
+    "date": "1991-03-01",
+    "catalogUrl": "https://catalog.archives.gov/id/415891140",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_01_91-12850-007_415891140.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-03-01",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081547"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call from Hosni Mubarak, March 1, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081547",
+        "title": "Telephone Call from Hosni Mubarak, March 1, 1991",
+        "date": "1991-03-01",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081547"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-03-01 - Telephone Call from Hosni Mubarak, March 1, 1991 (Egypt-Arab Regional Track).",
+      "7:30 7:39 The President met with his Chief of Staff, John H.",
+      "7:45 7:53 The President met with: William Cordes, grandson of Deitrich B.",
+      "Sununu The President met with: 8:50 9:17 Vice President Quayle 9:00 9:15 Mr.",
+      "FRIDAY IN OUT PHONE ACTIVITY The President met with: 10:32 10:42 Vice President Quayle 10:37 10:40 Secretary Baker 10:17 10:42 Mr.",
+      "10:42 11:00 The President met with Hans-Dietrich Genscher, Minister of Foreign Affairs of Germany.",
+      "1:25 1:33? The President met with: Senator Alan K."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call from Hosni Mubarak, March 1, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-03-01; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary]  3/1/1991, 12850-007, Container 12850, 1991-03-01. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891140; https://catalog.archives.gov/id/415891140; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_01_91-12850-007_415891140.pdf."
+  },
+  {
+    "id": "source-candidate-415891249",
+    "naid": "415891249",
+    "title": "[Presidential Daily Backup] 4/24/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12855-010, Container 12855",
+    "date": "1991-04-24",
+    "catalogUrl": "https://catalog.archives.gov/id/415891249",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_24_91-12855-010_415891249.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-04-24"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081625",
+      "conversation-428081623"
+    ],
+    "relatedRecordTitles": [
+      "Luncheon Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (2 of 2)",
+      "Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (1 of 2)"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081625",
+        "title": "Luncheon Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (2 of 2)",
+        "date": "1991-04-24",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081625"
+      },
+      {
+        "id": "conversation-428081623",
+        "title": "Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (1 of 2)",
+        "date": "1991-04-24",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081623"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-04-24 - Luncheon Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (2 of 2) (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1991-04-24 - Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (1 of 2) (Egypt-Arab Regional Track).",
+      "Report Ceremony & Reception \"Present of the Medal of Honor\" (4 pp.) 4/24/91 (b)()6) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 4/24/1991 Pinksheet Number: LT10209 OA/ID Number: 12855-010 Date Closed: 4/23/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Wednesd",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 2:20 pm Personal Staff Time Oval Office (25 min) 2:45 pm Photo with DACOWITS (Defense Rose Garden (5 ",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM APRIL 24th , 19 91 PRESIDENT BUSH TIME NAME ACTION PL",
+      "ING PM 301-271-7445 TLKD-OK XX OUT AM INC PM OUT 7:26 AM 10:54 MR.",
+      "212-456-7676 TLKD-OK 10:52 A.M.",
+      "TLKD-OK INC XXPM (b)(6) OUT AM INC PM OUT 10:00 AM 10:55 SENATOR JEFF BINGAMAN OFC: WASHINGTON, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Luncheon Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (2 of 2); Meeting with President Hassan Gouled of the Republic of Djibouti, April 24, 1991 (1 of 2). OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-04-24; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/24/1991, 12855-010, Container 12855, 1991-04-24. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891249; https://catalog.archives.gov/id/415891249; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_24_91-12855-010_415891249.pdf."
+  },
+  {
+    "id": "source-candidate-415891275",
+    "naid": "415891275",
+    "title": "[Presidential Daily Backup] 5/7/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12856-014, Container 12856",
+    "date": "1991-05-07",
+    "catalogUrl": "https://catalog.archives.gov/id/415891275",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_07_91-12856-014_415891275.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-05-07",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081631",
+      "conversation-428081661"
+    ],
+    "relatedRecordTitles": [
+      "Meeting between President Bush and Prince Bandar, Saudi Ambassador, May 7, 1991",
+      "Telephone Conversation with Hosni Mubarak, President of Egypt on May 7, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081631",
+        "title": "Meeting between President Bush and Prince Bandar, Saudi Ambassador, May 7, 1991",
+        "date": "1991-05-07",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081631"
+      },
+      {
+        "id": "conversation-428081661",
+        "title": "Telephone Conversation with Hosni Mubarak, President of Egypt on May 7, 1991",
+        "date": "1991-05-07",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081661"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-05-07 - Meeting between President Bush and Prince Bandar, Saudi Ambassador, May 7, 1991 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1991-05-07 - Telephone Conversation with Hosni Mubarak, President of Egypt on May 7, 1991 (Egypt-Arab Regional Track).",
+      "Report SBA Ceremony redacted (5 pp.) 5/7/91 (b)(6) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 5/7/1991 Pinksheet Number: LT10222 OA/ID Number: 12856-014 Date Closed: 4/27/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Tuesday, May 7, 1991 8:00 am Intelligence",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 3:00 pm Meeting with President (30 min) Oval Office Francesco Cossiga of Italy (Scowcroft) (Distribut",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM L PRESIDENT BUSH MAY $ th, 19.91 TIME NAME ACTION PLA",
+      "703-998-7711 TLKD-OK 9:44 A.M.",
+      "INC 2:22 PM 2:24 619-324-1763 TLKD-OK OUT AM INC PM our AWK MRS.",
+      "INC 5:01 PM 5:04 718-476-5200 TLKD-OK OUT AM INC PM OUT AM GENERAL BRENT SCOWCROFT OFC: WASHINGTON, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Meeting between President Bush and Prince Bandar, Saudi Ambassador, May 7, 1991; Telephone Conversation with Hosni Mubarak, President of Egypt on May 7, 1991. OCR/catalog markers: Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-05-07; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 5/7/1991, 12856-014, Container 12856, 1991-05-07. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891275; https://catalog.archives.gov/id/415891275; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_07_91-12856-014_415891275.pdf."
+  },
+  {
+    "id": "source-candidate-415891274",
+    "naid": "415891274",
+    "title": "[Presidential Daily Diary] 5/7/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12856-013, Container 12856",
+    "date": "1991-05-07",
+    "catalogUrl": "https://catalog.archives.gov/id/415891274",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_07_91-12856-013_415891274.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-05-07",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081631",
+      "conversation-428081661"
+    ],
+    "relatedRecordTitles": [
+      "Meeting between President Bush and Prince Bandar, Saudi Ambassador, May 7, 1991",
+      "Telephone Conversation with Hosni Mubarak, President of Egypt on May 7, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081631",
+        "title": "Meeting between President Bush and Prince Bandar, Saudi Ambassador, May 7, 1991",
+        "date": "1991-05-07",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081631"
+      },
+      {
+        "id": "conversation-428081661",
+        "title": "Telephone Conversation with Hosni Mubarak, President of Egypt on May 7, 1991",
+        "date": "1991-05-07",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081661"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-05-07 - Meeting between President Bush and Prince Bandar, Saudi Ambassador, May 7, 1991 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1991-05-07 - Telephone Conversation with Hosni Mubarak, President of Egypt on May 7, 1991 (Egypt-Arab Regional Track).",
+      "The President met with: 7:56 8:02 John H.",
+      "Sununu 8:17 8:19 The President met with: Mr.",
+      "Sununu The President met with: 8:30 8:57 Vice President Quayle 8:30 8:51 Mr.",
+      "9:57 9:59 The President met with Mr.",
+      "The President met with: 10:17 10:21 Senator Dale Bumpers, (D-Arkansas) 10:17 10:21 Representative Andy Ireland, (R-Florida) 10:17 10:21 Representative John LaFalce, (D-New York) 10:19 10:22 Mr.",
+      "10:22 10:45 The President met with a group of Bipartisan Senators to discuss Fast Track Authority."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Meeting between President Bush and Prince Bandar, Saudi Ambassador, May 7, 1991; Telephone Conversation with Hosni Mubarak, President of Egypt on May 7, 1991. OCR/catalog markers: Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-05-07; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 5/7/1991, 12856-013, Container 12856, 1991-05-07. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891274; https://catalog.archives.gov/id/415891274; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_07_91-12856-013_415891274.pdf."
+  },
+  {
+    "id": "source-candidate-415891294",
+    "naid": "415891294",
+    "title": "[Presidential Daily Diary] 5/17/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12857-019, Container 12857",
+    "date": "1991-05-17",
+    "catalogUrl": "https://catalog.archives.gov/id/415891294",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_17_91-12857-019_415891294.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Fitzwater 1:06 1:15 P The President talked on a conference call with: President Mubarak Cornelius F."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 5/17/1991, 12857-019, Container 12857, 1991-05-17. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891294; https://catalog.archives.gov/id/415891294; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_17_91-12857-019_415891294.pdf."
+  },
+  {
+    "id": "source-candidate-415891348",
+    "naid": "415891348",
+    "title": "[Presidential Daily Backup] 6/12/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12860-010, Container 12860",
+    "date": "1991-06-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415891348",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_12_91-12860-010_415891348.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-06-12",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081717"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with President Mubarak of Egypt on June 12, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081717",
+        "title": "Telcon with President Mubarak of Egypt on June 12, 1991",
+        "date": "1991-06-12",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081717"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-06-12 - Telcon with President Mubarak of Egypt on June 12, 1991 (Egypt-Arab Regional Track).",
+      "Memo w/ Brent Scowcroft to POTUS re: meeting with President Alfredo 6/11/91 (b)(1) S attachment Cristiani of El Salvador (26 pp.) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 6/12/1991 Pinksheet Number: LT10257 OA/ID Number: 12860-010 Date Closed: 5/4/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Rev",
+      "Scowcroft Out 2:35 Scowcroft In 2:37 scowcroft out UNP 06/11/91 5:00 pm 3:06 Gray, In 3:32 Bill WHON 3:41 Fitswater In Card, Demarest, Dorance smith, Petersmeyer 4:25 Demarest, Petersmeyer, card, smich, Fitzwater out 4:27 Firestone In 4:57 Firestone out 5:38 Demarest In 5:44 Demarest out 6:04 POTUS out WASHINGTON THE WHITE HOUSE THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM JUNE 12th .",
+      "INC PM 202-456-6288 TLKD-OK OUT AM INC PM XX OUT 7:03 AM 7:04 MEDICAL UNIT TLKD-OK WITH DR.",
+      "500 TLKD-OK OUT AM INC PM OUT 8:18 AM 8:19 SECRETARY JAMES A.",
+      "420 TLKD-OK 8:18 A.M.",
+      "202-877-1778 INC TLKD-OK XXPM OUT AM INC PM OUT AM 10:05 10:18 MR."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with President Mubarak of Egypt on June 12, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-06-12; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 6/12/1991, 12860-010, Container 12860, 1991-06-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891348; https://catalog.archives.gov/id/415891348; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_12_91-12860-010_415891348.pdf."
+  },
+  {
+    "id": "source-candidate-415891358",
+    "naid": "415891358",
+    "title": "[Presidential Daily Backup] 6/17/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12861-002, Container 12861",
+    "date": "1991-06-17",
+    "catalogUrl": "https://catalog.archives.gov/id/415891358",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_17_91-12861-002_415891358.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Middle East Peace"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "(Applause.) But as Bob and I wrestled with these weighty problems of international affairs -- where we should go next in the Middle East peace talks, how to verify the arms control agreements with the Soviets -- it was a productive meeting, and I learned a lot."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 6/17/1991, 12861-002, Container 12861, 1991-06-17. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891358; https://catalog.archives.gov/id/415891358; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-06_17_91-12861-002_415891358.pdf."
+  },
+  {
+    "id": "source-candidate-415891399",
+    "naid": "415891399",
+    "title": "[Presidential Daily Diary]  7/8/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12863-003, Container 12863",
+    "date": "1991-07-08",
+    "catalogUrl": "https://catalog.archives.gov/id/415891399",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_08_91-12863-003_415891399.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Sununu 3:46 4:30 The President met with: Prince Bandar bin Sultan, Ambassador of the Kingdom of Saudi Arabia to the U.S."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary]  7/8/1991, 12863-003, Container 12863, 1991-07-08. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891399; https://catalog.archives.gov/id/415891399; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_08_91-12863-003_415891399.pdf."
+  },
+  {
+    "id": "source-candidate-415891404",
+    "naid": "415891404",
+    "title": "[Presidential Daily Backup] 7/10/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12863-008, Container 12863",
+    "date": "1991-07-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415891404",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_10_91-12863-008_415891404.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-07-10",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081759"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with President Hosni Mubarak of Egypt on July. 10, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081759",
+        "title": "Telcon with President Hosni Mubarak of Egypt on July. 10, 1991",
+        "date": "1991-07-10",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081759"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-07-10 - Telcon with President Hosni Mubarak of Egypt on July. 10, 1991 (Egypt-Arab Regional Track).",
+      "Diagram Security diagrams - trip to White House Conference on Library & 7/10/91 (b)(7)(c), Information Services, Washington, DC Convention Center (3 pp.) (b)(7)(e), (b)(7)(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 7/10/1991 Pinksheet Number: LT10287 OA/ID Number: 12863-008 Date Closed: 5/11/1998 FOIA/Sys Cas",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells see Revisal Kerston 3:30 pm Personal Staff Time Skinker Oval Office (15 min) 3:45 pm Wive Meeting wit",
+      "African SAnctions 11:52 Sunura In 12:01 POTUS + All out to Press office 12:31 POTUS in Oval 12:34 POTUS in 1:28 VPOTUS Out 1:35 POTUS Out departs south Lawn UNP 07/09/91 5:00 pm See tab B\" 3:30 pm Meeting with Secretary Skinner Oval Office (15 min) (Sununu) 3:45 pm Meeting with Council of Advisors Roosevelt Room (20 min) on Science and Technology (Bromley) 4:05 pm Meeting with Governor Sununu Oval Office (30 min) 4:30 Phone call W/ ozal 4:35 pm Administrative Time Oval Office (20 min) 4:55 pm Dr",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH JULY 10 th , 19 91 TIME NAME PLACED DI",
+      "TLKD-OK 11:05 A.M.",
+      "me PM 202-224-1402 TLKD-OK 11:09 A.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with President Hosni Mubarak of Egypt on July. 10, 1991. OCR/catalog markers: Israel leadership, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-07-10; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 7/10/1991, 12863-008, Container 12863, 1991-07-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891404; https://catalog.archives.gov/id/415891404; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_10_91-12863-008_415891404.pdf."
+  },
+  {
+    "id": "source-candidate-415891403",
+    "naid": "415891403",
+    "title": "[Presidential Daily Diary] 7/10/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12863-007, Container 12863",
+    "date": "1991-07-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415891403",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_10_91-12863-007_415891403.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-07-10",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081759"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with President Hosni Mubarak of Egypt on July. 10, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081759",
+        "title": "Telcon with President Hosni Mubarak of Egypt on July. 10, 1991",
+        "date": "1991-07-10",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081759"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-07-10 - Telcon with President Hosni Mubarak of Egypt on July. 10, 1991 (Egypt-Arab Regional Track).",
+      "Sununu 8:29 8:35 The President met with: Vice President Quayle Mr.",
+      "The President met with: 9:32 9:54 Secretary Baker 9:39 9:59 Mr.",
+      "Marlin Fitzwater, Assistant and Press Secretary 9:34 9:52 P The President talked on a conference line with: Mohammed Hosni Mubarak, President of the Arab Republic of Egypt Richard N.",
+      "10:04 11:02 The President met with Bipartisan Members of Congress to discuss the upcoming London Economic Summit.",
+      "11:02 11:16 The President met with his Assistant for Legislative Affairs, Frederick D.",
+      "11:16 11:31 The President met with members of the Base continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 3 LOCATION DATE JULY 10, 1991 THE WHITE HOUSE TIME DAY WASHINGTON, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with President Hosni Mubarak of Egypt on July. 10, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-07-10; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 7/10/1991, 12863-007, Container 12863, 1991-07-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891403; https://catalog.archives.gov/id/415891403; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_10_91-12863-007_415891403.pdf."
+  },
+  {
+    "id": "source-candidate-415891425",
+    "naid": "415891425",
+    "title": "[Presidential Daily Diary] 7/21/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12864-009, Container 12864",
+    "date": "1991-07-21",
+    "catalogUrl": "https://catalog.archives.gov/id/415891425",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_21_91-12864-009_415891425.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-07-21"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081785"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Fahd of Saudi Arabia, July 21, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081785",
+        "title": "Telephone Conversation with King Fahd of Saudi Arabia, July 21, 1991",
+        "date": "1991-07-21",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081785"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-07-21 - Telephone Conversation with King Fahd of Saudi Arabia, July 21, 1991 (Egypt-Arab Regional Track).",
+      "3:09 3:45 The President met with: Erdal Inonu, Chairman, Social Democratic Party, Republic of Turkey Hikmet Cetin, Secretary General, Social Democratic Party, Republic of Turkey Mithat Sirman, Spokesman, Social Democratic Party, Republic of Turkey Morton I.",
+      "3:48 4:32 The President met with Suleyman Demirel, Chairman, True Path Party.",
+      "5:29 5:34 P The President talked on a conference call with: King Fahd bin 'Abd al-'Aziz Al Saud, of the Kingdom of Saudi Arabia Bruce O.",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 1991-07-21 Telephone Conversation with King Fahd of Saudi Arabia, July 21, 1991 Telephone Conversatio"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Fahd of Saudi Arabia, July 21, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-07-21; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 7/21/1991, 12864-009, Container 12864, 1991-07-21. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891425; https://catalog.archives.gov/id/415891425; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_21_91-12864-009_415891425.pdf."
+  },
+  {
+    "id": "source-candidate-415891534",
+    "naid": "415891534",
+    "title": "[Presidential Daily Backup] 9/13/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12867-014, Container 12867",
+    "date": "1991-09-13",
+    "catalogUrl": "https://catalog.archives.gov/id/415891534",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_13_91-12867-014_415891534.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-09-13"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081877"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Egyptian Deputy Prime Minister Boutros Ghali, September 13, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081877",
+        "title": "Meeting with Egyptian Deputy Prime Minister Boutros Ghali, September 13, 1991",
+        "date": "1991-09-13",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081877"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-09-13 - Meeting with Egyptian Deputy Prime Minister Boutros Ghali, September 13, 1991 (Egypt-Arab Regional Track).",
+      "Outline Departure Photo (2 pp.) 9/13/91 (b)(7)(c), (b)(7)(e), (b)(7)(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 9/13/1991 Pinksheet Number: LT10347 OA/ID Number: 12867-014 Date Closed: 5/19/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: BF SCHEDULE OF THE PRESIDENT Friday, Septembe",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 1:15 pm Depart for Bethesda Naval Hospital South Lawn 3:15 pm Arrive White House Jkm Bussey (FAS) typ",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH SEPTEMBER 13 th , 19 91 TIME NAME ACTI",
+      "XRM 212-249-5120 TLKD-OK 7:14 A.M.",
+      "530 TLKD-OK OUT AM INC PM OUT x4M MR.",
+      "HNC 3:17 PM 3:26 (b) (6) TLKD-OK OUT AM INC PM RUX XAM SENATOR PATRICK LEAHY PRESUS WILL CALL OFC: WASHINGTON, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Egyptian Deputy Prime Minister Boutros Ghali, September 13, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-09-13; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/13/1991, 12867-014, Container 12867, 1991-09-13. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891534; https://catalog.archives.gov/id/415891534; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_13_91-12867-014_415891534.pdf."
+  },
+  {
+    "id": "source-candidate-415891533",
+    "naid": "415891533",
+    "title": "[Presidential Daily Diary]  9/13/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12867-013, Container 12867",
+    "date": "1991-09-13",
+    "catalogUrl": "https://catalog.archives.gov/id/415891533",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_13_91-12867-013_415891533.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-09-13"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081877"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Egyptian Deputy Prime Minister Boutros Ghali, September 13, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081877",
+        "title": "Meeting with Egyptian Deputy Prime Minister Boutros Ghali, September 13, 1991",
+        "date": "1991-09-13",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081877"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-09-13 - Meeting with Egyptian Deputy Prime Minister Boutros Ghali, September 13, 1991 (Egypt-Arab Regional Track).",
+      "7:46 7:50 The President met with James \"Jay\" Allison, White House Liaison, Department of State.",
+      "7:52 8:03 The President met with: Loret M.",
+      "FRIDAY IN OUT PHONE ACTIVITY Bush The President met with: 9:03 9:54 Mr.",
+      "Card 9:56 10:02 The President met with: Mr.",
+      "10:10 10:25 The President participated in a message taping session for: Ryder Cup Golf Tournament International Association of Chiefs of Police National Hockey League's 75th Anniversary Bryce Harlow 10th Anniversary Dinner 572nd Point of Light: the Bedford-Stuyvesant Volunteer Ambulance Corps of Brooklyn 10:44 The President returned to the Oval Office.",
+      "10:46 10:50 The President met with Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Egyptian Deputy Prime Minister Boutros Ghali, September 13, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-09-13; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary]  9/13/1991, 12867-013, Container 12867, 1991-09-13. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891533; https://catalog.archives.gov/id/415891533; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_13_91-12867-013_415891533.pdf."
+  },
+  {
+    "id": "source-candidate-415891536",
+    "naid": "415891536",
+    "title": "[Presidential Daily Backup] 9/14/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12867-016, Container 12867",
+    "date": "1991-09-14",
+    "catalogUrl": "https://catalog.archives.gov/id/415891536",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_14_91-12867-016_415891536.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-09-14"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081913"
+    ],
+    "relatedRecordTitles": [
+      "Telecon with King Fahd of Saudi Arabia on September 14, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081913",
+        "title": "Telecon with King Fahd of Saudi Arabia on September 14, 1991",
+        "date": "1991-09-14",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081913"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-09-14 - Telecon with King Fahd of Saudi Arabia on September 14, 1991 (Egypt-Arab Regional Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH SEPTEMBER 14 th 91 , 19 TIME NAME ACTI",
+      "617-259-8153 TLKD-OK ING XRM OUT AM INC PM OUT 8:24 AM 8:26 DR.",
+      "(b) (6) TLKD-OK 8:25 A.M.",
+      "HNCX XPM OUT AM INC PM OUT 8:26 AM 8:27 SITUATION ROOM TLKD-OK WITH MR.",
+      "INC XPM (b) (6) TLKD-OK OUT AM INC PM OUT 8:35 AM 8:35 MR.",
+      "780 TLKD-OK OUT AM INC PM QUTX 8:49 AM 9:02 SENATOR PATRICK J."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telecon with King Fahd of Saudi Arabia on September 14, 1991. OCR/catalog markers: Egypt/Arab regional, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-09-14; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/14/1991, 12867-016, Container 12867, 1991-09-14. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891536; https://catalog.archives.gov/id/415891536; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_14_91-12867-016_415891536.pdf."
+  },
+  {
+    "id": "source-candidate-415891560",
+    "naid": "415891560",
+    "title": "[Presidential Daily Backup] 9/26/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12868-016, Container 12868",
+    "date": "1991-09-26",
+    "catalogUrl": "https://catalog.archives.gov/id/415891560",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_26_91-12868-016_415891560.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-09-26"
+    ],
+    "matchedTerms": [
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081925"
+    ],
+    "relatedRecordTitles": [
+      "Plenary Meeting with King Hassan III of Morocco, September 26, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081925",
+        "title": "Plenary Meeting with King Hassan III of Morocco, September 26, 1991",
+        "date": "1991-09-26",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081925"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-09-26 - Plenary Meeting with King Hassan III of Morocco, September 26, 1991 (Egypt-Arab Regional Track).",
+      "Report Morocco State Dinner redacted (4 pp.) 9/26/91 (b)(6) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily ] 9/26/1991 Pinksheet Number: LT10361 OA/ID Number: 12868-016 Date Closed: 5/20/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Thursday, September 26, 1991 7:50 am ",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 1:30 pm Photo with departing White Oval Office (15 min) House Military Office Staff (Bateman) (TAB E)",
+      "Campbell - Lincoln Bedroom THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SEPTEMBER 26 .",
+      "212-249-5120 TLKD-OK INC xRM OUT AM INC PM OUT 9:56 AM 10:01 JUDGE WILLIAM H.",
+      "202-835-7550 TLKD-OK 10:00 A.M.",
+      "NO TELEPHONE NUMBER AVAILABLE TLKD-OK 3:28 P.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Plenary Meeting with King Hassan III of Morocco, September 26, 1991. OCR/catalog markers: Jordan/King Hussein, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-09-26; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/26/1991, 12868-016, Container 12868, 1991-09-26. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891560; https://catalog.archives.gov/id/415891560; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_26_91-12868-016_415891560.pdf."
+  },
+  {
+    "id": "source-candidate-415891559",
+    "naid": "415891559",
+    "title": "[Presidential Daily Diary] 9/26/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12868-015, Container 12868",
+    "date": "1991-09-26",
+    "catalogUrl": "https://catalog.archives.gov/id/415891559",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_26_91-12868-015_415891559.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-09-26"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081925"
+    ],
+    "relatedRecordTitles": [
+      "Plenary Meeting with King Hassan III of Morocco, September 26, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081925",
+        "title": "Plenary Meeting with King Hassan III of Morocco, September 26, 1991",
+        "date": "1991-09-26",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081925"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-09-26 - Plenary Meeting with King Hassan III of Morocco, September 26, 1991 (Egypt-Arab Regional Track).",
+      "Sununu, Chief of Staff 8:26 8:28 The President met with: Mr.",
+      "Sununu 9:15 9:29 The President met with: Vice President Quayle Mr.",
+      "Sununu The President met with: 9:29 9:52 Vice President Quayle 9:29 9:52 Mr.",
+      "11:12 11:57 The President met with: King Hassan II Mohammed Beikhayat, Ambassador of the Kingdom Morocco to the U.S.",
+      "11:57 12:30 The President met with U.S.",
+      "12:30 12:33 The President met with King Hassan II."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Plenary Meeting with King Hassan III of Morocco, September 26, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-09-26; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 9/26/1991, 12868-015, Container 12868, 1991-09-26. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891559; https://catalog.archives.gov/id/415891559; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_26_91-12868-015_415891559.pdf."
+  },
+  {
+    "id": "source-candidate-415891598",
+    "naid": "415891598",
+    "title": "[Presidential Daily Diary] 10/15/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12870-017, Container 12870",
+    "date": "1991-10-15",
+    "catalogUrl": "https://catalog.archives.gov/id/415891598",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_15_91-12870-017_415891598.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "10:33 10:50 The President met with: the Amir 'Isa Khalifa Muhammed bin Mubarak Al-Khalifa, Minister of Foreign Affairs, State of Bahrain Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 10/15/1991, 12870-017, Container 12870, 1991-10-15. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891598; https://catalog.archives.gov/id/415891598; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_15_91-12870-017_415891598.pdf."
+  },
+  {
+    "id": "source-candidate-415891629",
+    "naid": "415891629",
+    "title": "[Presidential Daily Backup] 10/30/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12871-020, Container 12871",
+    "date": "1991-10-30",
+    "catalogUrl": "https://catalog.archives.gov/id/415891629",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-10-30",
+      "Middle East Peace",
+      "Prime Minister Shamir",
+      "Palestinian Delegation"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081999",
+      "conversation-428081995",
+      "conversation-428082001",
+      "conversation-428081993",
+      "conversation-428081997",
+      "conversation-428081991"
+    ],
+    "relatedRecordTitles": [
+      "Memorandum of Conversation between Prime Minister Shamir and President Bush, October 30, 1991",
+      "Memorandum of Conversation of Meeting between Jordanian Foreign Minister Abu Jabir, Haydar Abdul Shafi and President Bush",
+      "Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991",
+      "Memorandum of Conversation of Meeting between Foreign Minister Bouez of Lebanon and President Bush, October 30, 1991",
+      "Memorandum of Conversation of Meeting between Foreign Minister Mousa of Egypt and President Bush, October 30, 1991",
+      "Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081999",
+        "title": "Memorandum of Conversation between Prime Minister Shamir and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081999"
+      },
+      {
+        "id": "conversation-428081995",
+        "title": "Memorandum of Conversation of Meeting between Jordanian Foreign Minister Abu Jabir, Haydar Abdul Shafi and President Bush",
+        "date": "1991-10-30",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081995"
+      },
+      {
+        "id": "conversation-428082001",
+        "title": "Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082001"
+      },
+      {
+        "id": "conversation-428081993",
+        "title": "Memorandum of Conversation of Meeting between Foreign Minister Bouez of Lebanon and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081993"
+      },
+      {
+        "id": "conversation-428081997",
+        "title": "Memorandum of Conversation of Meeting between Foreign Minister Mousa of Egypt and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081997"
+      },
+      {
+        "id": "conversation-428081991",
+        "title": "Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081991"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-10-30 - Memorandum of Conversation between Prime Minister Shamir and President Bush, October 30, 1991 (Israel Track).",
+      "FRUS date cross-reference: 1991-10-30 - Memorandum of Conversation of Meeting between Jordanian Foreign Minister Abu Jabir, Haydar Abdul Shafi and President Bush (Palestinian-Jordanian Track).",
+      "FRUS date cross-reference: 1991-10-30 - Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991 (Syria-Lebanon Track).",
+      "FRUS date cross-reference: 1991-10-30 - Memorandum of Conversation of Meeting between Foreign Minister Bouez of Lebanon and President Bush, October 30, 1991 (Syria-Lebanon Track).",
+      "FRUS date cross-reference: 1991-10-30 - Memorandum of Conversation of Meeting between Foreign Minister Mousa of Egypt and President Bush, October 30, 1991 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1991-10-30 - Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991 (Egypt-Arab Regional Track).",
+      "EVENT: BILATERAL MEETING WITH PRIME MINISTER YITZHAK SHAMIR PHOTO OPPORTUNITY U.S.",
+      "PARTICIPANTS ISRAELI PARTICIPANTS THE PRESIDENT Prime Minister Shamir Sec.",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON REVISED SCHEDULE OF THE PRESIDENT TO MADRID, SPAIN OCTOBER 28 - 30, 1991 E",
+      "Aide Harold Howell -AFI Weather: Partly cloudy/mid 50's 7:30 am THE PRESIDENT arrives State Room and begins 7:28 Arrives participation in Bilateral Meeting with Prime 7:30 Begins Meeting Minister Shamir."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 6 selected FRUS meeting/call records: Memorandum of Conversation between Prime Minister Shamir and President Bush, October 30, 1991; Memorandum of Conversation of Meeting between Jordanian Foreign Minister Abu Jabir, Haydar Abdul Shafi and President Bush; Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991; plus 3 more. OCR/catalog markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-10-30; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 10/30/1991, 12871-020, Container 12871, 1991-10-30. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891629; https://catalog.archives.gov/id/415891629; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-020_415891629.pdf."
+  },
+  {
+    "id": "source-candidate-415891628",
+    "naid": "415891628",
+    "title": "[Presidential Daily Diary] 10/30/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12871-019, Container 12871",
+    "date": "1991-10-30",
+    "catalogUrl": "https://catalog.archives.gov/id/415891628",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-10-30",
+      "Middle East Peace",
+      "Prime Minister Shamir",
+      "Palestinian Delegation"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081999",
+      "conversation-428081995",
+      "conversation-428082001",
+      "conversation-428081993",
+      "conversation-428081997",
+      "conversation-428081991"
+    ],
+    "relatedRecordTitles": [
+      "Memorandum of Conversation between Prime Minister Shamir and President Bush, October 30, 1991",
+      "Memorandum of Conversation of Meeting between Jordanian Foreign Minister Abu Jabir, Haydar Abdul Shafi and President Bush",
+      "Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991",
+      "Memorandum of Conversation of Meeting between Foreign Minister Bouez of Lebanon and President Bush, October 30, 1991",
+      "Memorandum of Conversation of Meeting between Foreign Minister Mousa of Egypt and President Bush, October 30, 1991",
+      "Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081999",
+        "title": "Memorandum of Conversation between Prime Minister Shamir and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081999"
+      },
+      {
+        "id": "conversation-428081995",
+        "title": "Memorandum of Conversation of Meeting between Jordanian Foreign Minister Abu Jabir, Haydar Abdul Shafi and President Bush",
+        "date": "1991-10-30",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081995"
+      },
+      {
+        "id": "conversation-428082001",
+        "title": "Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082001"
+      },
+      {
+        "id": "conversation-428081993",
+        "title": "Memorandum of Conversation of Meeting between Foreign Minister Bouez of Lebanon and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081993"
+      },
+      {
+        "id": "conversation-428081997",
+        "title": "Memorandum of Conversation of Meeting between Foreign Minister Mousa of Egypt and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081997"
+      },
+      {
+        "id": "conversation-428081991",
+        "title": "Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991",
+        "date": "1991-10-30",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081991"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-10-30 - Memorandum of Conversation between Prime Minister Shamir and President Bush, October 30, 1991 (Israel Track).",
+      "FRUS date cross-reference: 1991-10-30 - Memorandum of Conversation of Meeting between Jordanian Foreign Minister Abu Jabir, Haydar Abdul Shafi and President Bush (Palestinian-Jordanian Track).",
+      "FRUS date cross-reference: 1991-10-30 - Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991 (Syria-Lebanon Track).",
+      "FRUS date cross-reference: 1991-10-30 - Memorandum of Conversation of Meeting between Foreign Minister Bouez of Lebanon and President Bush, October 30, 1991 (Syria-Lebanon Track).",
+      "FRUS date cross-reference: 1991-10-30 - Memorandum of Conversation of Meeting between Foreign Minister Mousa of Egypt and President Bush, October 30, 1991 (Egypt-Arab Regional Track).",
+      "FRUS date cross-reference: 1991-10-30 - Memorandum of Conversation of Meeting between Saudi Ambassador Prince Bandar and President Bush, October 30, 1991 (Egypt-Arab Regional Track).",
+      "Appendix Marine Helicopter Manifest Appendix \"F\" (1 pp.) 10/30/91 (b)(7)(c), (b)(7)(e), (b)(7)(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Diary] 10/30/1991 Pinksheet Number: KO2295 OA/ID Number: 12871-019 Date Closed: 8/1/2005 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: THE WHITE HOUSE THE DAILY DIARY OF",
+      "WEDNESDAY IN OUT PHONE ACTIVITY The President was an overnight guest at the Ambassador's Residence, Madrid, Spain.",
+      "7:30 8:02 The President met to discuss the Middle East Peace Conference with U.S.",
+      "For a list of attendees, see APPENDIX \"A.\" Members of Press in/out 8:05 8:18 The President met to discuss the Middle East Peace Conference with U.S."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 6 selected FRUS meeting/call records: Memorandum of Conversation between Prime Minister Shamir and President Bush, October 30, 1991; Memorandum of Conversation of Meeting between Jordanian Foreign Minister Abu Jabir, Haydar Abdul Shafi and President Bush; Memorandum of Conversation between Foreign Minister Shara of Syria and President Bush, October 30, 1991; plus 3 more. OCR/catalog markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-10-30; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 10/30/1991, 12871-019, Container 12871, 1991-10-30. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891628; https://catalog.archives.gov/id/415891628; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_30_91-12871-019_415891628.pdf."
+  },
+  {
+    "id": "source-candidate-415891646",
+    "naid": "415891646",
+    "title": "[Presidential Daily Backup] 11/7/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12872-017, Container 12872",
+    "date": "1991-11-07",
+    "catalogUrl": "https://catalog.archives.gov/id/415891646",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_07_91-12872-017_415891646.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-11-07",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082043"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with President Mubarak of Egypt, November 7, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082043",
+        "title": "Telcon with President Mubarak of Egypt, November 7, 1991",
+        "date": "1991-11-07",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082043"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-11-07 - Telcon with President Mubarak of Egypt, November 7, 1991 (Egypt-Arab Regional Track).",
+      "(b)(7)(c), Thirty-Five redacted (5 pp.) (b)(7)(e), (b)(7)(f) Page 2 of 2 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 11/7/1991 Pinksheet Number: LT10402 OA/ID Number: 12872-017 Date Closed: 5/28/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDEN",
+      "Patty Presock Tlkd-ok White House Staff Mess 2:56 PM 395-6377 INC 2:53 PM 2:58 OUT AM Ms.",
+      "Farish INC 3:08 PM 395-7400 3:09 PM OUT AM Conference Call: Tlkd-ok Senator Robert J.",
+      "INC PM 224-3135 OUT AM Conference Call: Tlkd-ok President Mohammed Hosni Mubarak 8:07 PM Residence, Cairo, Egypt INC 7:57 PM 8:14 778-4200 OUT AM Mr.",
+      "Hull White House Situation Room INC PM White House Signal 7-2264 OUT AM INC PM OUT AM INC PM PRESIDENTIAL MOVEMENTS LOCATION Rome, Italy DATE 7 November 1991 TIME MOVEMENTS 0810 Depart Villa Taverna via Motorcade 0837 Arrive Sheraton Hotel 1745 Depart Sheraton Hotel via Motorcade 1803 Arrive Quirinale Palace 1846 Depart Quirinale Palace via Motorcade 1854 Arrive Villa Taverna 2038 Depart Villa Taverna via Motorcade 2046 Arrive Quirinale Palace 2254 Depart Quirinale Palace via Motorcade 2300 Arri",
+      "Page Nine Met by: Secretary General Manfred Woerner Secretary General, North Atlantic Treaty Organization EVENT: BILATERAL MEETING WITH SECRETARY GENERAL WOERNER TRAVEL POOL (At Beginning Only) U.S."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with President Mubarak of Egypt, November 7, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-11-07; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/7/1991, 12872-017, Container 12872, 1991-11-07. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891646; https://catalog.archives.gov/id/415891646; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_07_91-12872-017_415891646.pdf."
+  },
+  {
+    "id": "source-candidate-415891645",
+    "naid": "415891645",
+    "title": "[Presidential Daily Diary] 11/7/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12872-016, Container 12872",
+    "date": "1991-11-07",
+    "catalogUrl": "https://catalog.archives.gov/id/415891645",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_07_91-12872-016_415891645.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-11-07",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082043"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with President Mubarak of Egypt, November 7, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082043",
+        "title": "Telcon with President Mubarak of Egypt, November 7, 1991",
+        "date": "1991-11-07",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082043"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-11-07 - Telcon with President Mubarak of Egypt, November 7, 1991 (Egypt-Arab Regional Track).",
+      "8:34 8:55 The President met with U.S.",
+      "9:02 9:45 The President participated in a meeting with U.S.",
+      "10:05 12:56 The President participated in the First NATO working session.",
+      "3:05 4:45 The President participated in the Second North Atlantic Treaty Organization (NATO) summit working session.",
+      "4:47 5:26 The President met with Helmut Kohl, Chancellor of the Federal Republic of Germany (FRG).",
+      "6:04 6:40 The President met with President Cossiga."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with President Mubarak of Egypt, November 7, 1991. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-11-07; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 11/7/1991, 12872-016, Container 12872, 1991-11-07. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891645; https://catalog.archives.gov/id/415891645; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_07_91-12872-016_415891645.pdf."
+  },
+  {
+    "id": "source-candidate-415891670",
+    "naid": "415891670",
+    "title": "[Presidential Daily Diary] 11/19/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12874-003, Container 12874",
+    "date": "1991-11-19",
+    "catalogUrl": "https://catalog.archives.gov/id/415891670",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_19_91-12874-003_415891670.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-11-19"
+    ],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082047"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hassan of Morocco on November 19, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082047",
+        "title": "Telephone Conversation with King Hassan of Morocco on November 19, 1991",
+        "date": "1991-11-19",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082047"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-11-19 - Telephone Conversation with King Hassan of Morocco on November 19, 1991 (Egypt-Arab Regional Track).",
+      "7:55 7:58 The President met with his Chief of Staff, John H.",
+      "8:02 8:03 The President met with Mr.",
+      "Sununu, Chief of Staff 8:18 8:20 The President met with: Mr.",
+      "8:48 9:00 The President met with: Vice President Quayle Mr.",
+      "Sununu The President met with: 9:00 9:25 Vice President Quayle continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 2 LOCATION DATE NOVEMBER 19, 1991 THE WHITE HOUSE TIME DAY WASHINGTON, D.C.",
+      "The President met with: 10:26 10:30 Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Hassan of Morocco on November 19, 1991. OCR/catalog markers: Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-11-19; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 11/19/1991, 12874-003, Container 12874, 1991-11-19. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891670; https://catalog.archives.gov/id/415891670; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_19_91-12874-003_415891670.pdf."
+  },
+  {
+    "id": "source-candidate-415891676",
+    "naid": "415891676",
+    "title": "[Presidential Daily Diary] 11/22/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12874-009, Container 12874",
+    "date": "1991-11-22",
+    "catalogUrl": "https://catalog.archives.gov/id/415891676",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_22_91-12874-009_415891676.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-11-22",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082031",
+      "conversation-428082051"
+    ],
+    "relatedRecordTitles": [
+      "Meeting Between PrimeMinister Shamir and President Bush, November 22, 1991",
+      "Telcon with Boutros Boutros Ghali of Egypt, November 22, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082031",
+        "title": "Meeting Between PrimeMinister Shamir and President Bush, November 22, 1991",
+        "date": "1991-11-22",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082031"
+      },
+      {
+        "id": "conversation-428082051",
+        "title": "Telcon with Boutros Boutros Ghali of Egypt, November 22, 1991",
+        "date": "1991-11-22",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082051"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-11-22 - Meeting Between PrimeMinister Shamir and President Bush, November 22, 1991 (Israel Track).",
+      "FRUS date cross-reference: 1991-11-22 - Telcon with Boutros Boutros Ghali of Egypt, November 22, 1991 (Egypt-Arab Regional Track).",
+      "7:27 7:32 The President met with his Chief of Staff, John H.",
+      "Sununu The President met with: 8:28 8:32 J.",
+      "Sununu The President met with: 8:43 9:02 Vice President Quayle 8:50 9:02 James A.",
+      "Marlin Fitzwater, Assistant and Press Secretary 9:02 9:06 The President met with: Vice President Quayle Secretary Baker Mr.",
+      "Fitzwater Yitchak Shamir, Prime Minister of the State of Israel continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 2 LOCATION DATE NOVEMBER 22, 1991 THE WHITE HOUSE TIME DAY WASHINGTON, D.C.",
+      "FRIDAY IN OUT PHONE ACTIVITY Yossi Ben Aharon, Director of the Prime Ministry of the State of Israel 9:06 9:57 The President met with Prime Minister Shamir."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Meeting Between PrimeMinister Shamir and President Bush, November 22, 1991; Telcon with Boutros Boutros Ghali of Egypt, November 22, 1991. OCR/catalog markers: Israel leadership, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-11-22; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 11/22/1991, 12874-009, Container 12874, 1991-11-22. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891676; https://catalog.archives.gov/id/415891676; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_22_91-12874-009_415891676.pdf."
+  },
+  {
+    "id": "source-candidate-415891942",
+    "naid": "415891942",
+    "title": "[Presidential Daily Diary] 4/2/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12885-021, Container 12885",
+    "date": "1992-04-02",
+    "catalogUrl": "https://catalog.archives.gov/id/415891942",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_02_92-12885-021_415891942.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "1:38 1:42 P The President talked with Prince Bandar bin Sultan, Ambassador of the Kingdom of Saudi Arabia to the U.S."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 4/2/1992, 12885-021, Container 12885, 1992-04-02. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891942; https://catalog.archives.gov/id/415891942; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_02_92-12885-021_415891942.pdf."
+  },
+  {
+    "id": "source-candidate-415892024",
+    "naid": "415892024",
+    "title": "[Presidential Daily Backup] 5/12/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12890-002, Container 12890",
+    "date": "1992-05-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415892024",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_12_92-12890-002_415892024.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-05-12"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082193"
+    ],
+    "relatedRecordTitles": [
+      "Working Lunch with Boutros Boutros-Ghali, UN Secretary General, May 12, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082193",
+        "title": "Working Lunch with Boutros Boutros-Ghali, UN Secretary General, May 12, 1992",
+        "date": "1992-05-12",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082193"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-05-12 - Working Lunch with Boutros Boutros-Ghali, UN Secretary General, May 12, 1992 (Egypt-Arab Regional Track).",
+      "Report Rose Garden Ceremony Winners of SBA Awards redacted (4 5/12/92 (b)(6) pp.) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 5/12/1992 Pinksheet Number: LT10638 OA/ID Number: 12890-002 Date Closed: 5/28/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Tuesday, ",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 2:00 pm Meeting with Bipartisan Group Cabinet Room (30 min) of Senators on the Balanced Budget Amendm",
+      "Bush to the Second Floor 9:30 Retired THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH MAY 12th , 1992 TIME NAME ACTION PLACED DISC OUT 7:05 AM 7:07 MR.",
+      "850 TLKD-OK 7:05 A.M.",
+      "545 TLKD-OK 7:10 A.M.",
+      "INCX XPM 314-993-1210 TLKD-OK 8:09 A.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Working Lunch with Boutros Boutros-Ghali, UN Secretary General, May 12, 1992. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-05-12; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 5/12/1992, 12890-002, Container 12890, 1992-05-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892024; https://catalog.archives.gov/id/415892024; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_12_92-12890-002_415892024.pdf."
+  },
+  {
+    "id": "source-candidate-415892023",
+    "naid": "415892023",
+    "title": "[Presidential Daily Diary] 5/12/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12890-001, Container 12890",
+    "date": "1992-05-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415892023",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_12_92-12890-001_415892023.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-05-12"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082193"
+    ],
+    "relatedRecordTitles": [
+      "Working Lunch with Boutros Boutros-Ghali, UN Secretary General, May 12, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082193",
+        "title": "Working Lunch with Boutros Boutros-Ghali, UN Secretary General, May 12, 1992",
+        "date": "1992-05-12",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082193"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-05-12 - Working Lunch with Boutros Boutros-Ghali, UN Secretary General, May 12, 1992 (Egypt-Arab Regional Track).",
+      "7:31 7:50 The President met with: John M.",
+      "Walker Jr., the President's first cousin Jimmy Walker 7:53 7:59 The President met with his Counsellor and Press Secretary, M.",
+      "8:00 8:31 The President met with Senator Peter V.",
+      "Skinner 8:54 9:01 The President met with Mr.",
+      "The President met with: 9:05 9:10 Mr.",
+      "Smith, Special Assistant and Deputy Press Secretary 9:32 9:33 R The President talked on a conference call with: Fernando Collor de Mello, President of the Federative Republic of Brazil Cornelius F."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Working Lunch with Boutros Boutros-Ghali, UN Secretary General, May 12, 1992. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-05-12; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 5/12/1992, 12890-001, Container 12890, 1992-05-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892023; https://catalog.archives.gov/id/415892023; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_12_92-12890-001_415892023.pdf."
+  },
+  {
+    "id": "source-candidate-415892370",
+    "naid": "415892370",
+    "title": "[Presidential Daily Diary] 10/31/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26862-001, Container 26862",
+    "date": "1992-10-31",
+    "catalogUrl": "https://catalog.archives.gov/id/415892370",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-10_31_92-26862-001_415892370.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "11:24 11:27 P The President talked on a conference call with: Mohammed Hosni Mubarak, President of the Arab Republic of Egypt Bruce O."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 10/31/1992, 26862-001, Container 26862, 1992-10-31. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892370; https://catalog.archives.gov/id/415892370; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-10_31_92-26862-001_415892370.pdf."
+  },
+  {
+    "id": "source-candidate-415892408",
+    "naid": "415892408",
+    "title": "[Presidential Daily Diary] 11/19/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26863-007, Container 26863",
+    "date": "1992-11-19",
+    "catalogUrl": "https://catalog.archives.gov/id/415892408",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-11_19_92-26863-007_415892408.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "6:24 6:25 R The President talked with Prince Bandar Bin Abdul Aziz, Ambassador of the Kingdom of Saudi Arabia to the U.S."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 11/19/1992, 26863-007, Container 26863, 1992-11-19. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892408; https://catalog.archives.gov/id/415892408; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-11_19_92-26863-007_415892408.pdf."
+  },
+  {
+    "id": "source-candidate-415892437",
+    "naid": "415892437",
+    "title": "[Presidential Daily Backup] 12/03/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26863-036, Container 26863",
+    "date": "1992-12-03",
+    "catalogUrl": "https://catalog.archives.gov/id/415892437",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_03_92-26863-036_415892437.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-12-03",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082067"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with King Hassan of Morocco on December 3, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082067",
+        "title": "Telcon with King Hassan of Morocco on December 3, 1992",
+        "date": "1992-12-03",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082067"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-12-03 - Telcon with King Hassan of Morocco on December 3, 1992 (Egypt-Arab Regional Track).",
+      "(b)(3) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 12/3/1992 Pinksheet Number: LT10526 OA/ID Number: 26863-036 Date Closed: 6/17/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: BF SCHEDULE OF THE PRESIDENT Thursday, December 3, 1992 8:00 am Meeting with Chief of Staff Oval Office (20 mi",
+      "Oval Office (5 min) Vollmer (Zamaria) 8:30 am Intelligence Briefing Oval Office (15 min) (Scowcroft) 8:45 am National Security Briefing Oval Office (30 min) (Scowcroft) 9:15 am Personal Staff Time Oval Office (15 min) 9:30 am Meeting with President's Roosevelt Room (15 min) Council of Advisors on Science and Technology (Bromley) (TAB A) 9:45 am Personal Staff Time Oval Office (15 min) 10:00 am Meeting with Chief of Staff Oval Office (30 min) 10:30 am Personal Staff Time Oval Office (60 min) 11:3",
+      "10:09 POTUS In for Photos 10:09 All Out 10:10 Fitzwater, Baker In 10:20 Fitzwater Out 10:31 Howe In 10:39 Howe out 10:47 Baker out 10:55 Howe In 11:05 Howe Out UNP 12/02/92 11:00 Howe In 6:00 pm 11:15 Howe Out 11:16 POTUS Out to Baker's office 11:21 POTUS In 11:31 Pat Robertson In 11:41 Baker In THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM DECEMBER 3rd PRESIDENT BUSH .",
+      "INC PM 407-546-2242 TLKD-OK 6:51 A.M.",
+      "MAX MARLIN FITZWATER TLKD-OK WITH MR.",
+      "645 TLKD-OK 3:00 P.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with King Hassan of Morocco on December 3, 1992. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-12-03; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/03/1992, 26863-036, Container 26863, 1992-12-03. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892437; https://catalog.archives.gov/id/415892437; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_03_92-26863-036_415892437.pdf."
+  },
+  {
+    "id": "source-candidate-415892438",
+    "naid": "415892438",
+    "title": "[Presidential Daily Diary] 12/04/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26864-001, Container 26864",
+    "date": "1992-12-04",
+    "catalogUrl": "https://catalog.archives.gov/id/415892438",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_04_92-26864-001_415892438.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-12-04"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082407"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with UN Secretary General Boutros Boutros-Ghali, December 4, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082407",
+        "title": "Telcon with UN Secretary General Boutros Boutros-Ghali, December 4, 1992",
+        "date": "1992-12-04",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082407"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-12-04 - Telcon with UN Secretary General Boutros Boutros-Ghali, December 4, 1992 (Egypt-Arab Regional Track).",
+      "The President met with: 7:06 7:24 Mr.",
+      "7:42 7:48 The President met with his Counsellor and Press Secretary, M.",
+      "8:30 8:32 The President met with his Chief of Staff, continued Withdrawal/Redaction Sheet (George Bush Library) Document No.",
+      "8:53 8:55 The President met with: Mr.",
+      "Baker The President met with: 9:03 9:52 Vice President Quayle 9:03 9:52 Mr.",
+      "The President met with: 10:45 11:03 Richard B."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with UN Secretary General Boutros Boutros-Ghali, December 4, 1992. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-12-04; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 12/04/1992, 26864-001, Container 26864, 1992-12-04. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892438; https://catalog.archives.gov/id/415892438; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_04_92-26864-001_415892438.pdf."
+  },
+  {
+    "id": "source-candidate-415892447",
+    "naid": "415892447",
+    "title": "[Presidential Daily Backup] 12/8/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26864-010, Container 26864",
+    "date": "1992-12-08",
+    "catalogUrl": "https://catalog.archives.gov/id/415892447",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_08_92-26864-010_415892447.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-12-08"
+    ],
+    "matchedTerms": [
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082417"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with UN Secretary General Boutros Boutros-Ghali, December 8, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082417",
+        "title": "Telcon with UN Secretary General Boutros Boutros-Ghali, December 8, 1992",
+        "date": "1992-12-08",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082417"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-12-08 - Telcon with UN Secretary General Boutros Boutros-Ghali, December 8, 1992 (Egypt-Arab Regional Track).",
+      "Telephone Telephone numbers redacted (1 pp.) 12/8/92 (b)(6) Memo Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 12/8/1992 Pinksheet Number: LT10531 OA/ID Number: 26864-010 Date Closed: 6/18/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Tuesday, December 8, 1992 ",
+      "(M) Holiday Party Residence (2 hrs) (Sullivan) (12/07/92 - 5:00 p.m.) THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM DECEMBER 8th PRESIDENT BUSH , 19 92 TIME NAME ACTION PLACED DISC OUT 7:49 AM 7:51 MR.",
+      "ANG RMH 202-395-4112 TLKD-OK 7:50 A.M.",
+      "OUT AM INC PM OUT 10:45 AM 10:47 DOCTOR'S OFFICE TLKD-OK WITH DOCTOR OFC: WASHINGTON, D.C.",
+      "INC 903-872-8111 TLKD-OK 10:57 A.M.",
+      "INC XXX 918-584-2052 TLKD-OK 11:21 A.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with UN Secretary General Boutros Boutros-Ghali, December 8, 1992. OCR/catalog markers: Jordan/King Hussein, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-12-08; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/8/1992, 26864-010, Container 26864, 1992-12-08. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892447; https://catalog.archives.gov/id/415892447; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_08_92-26864-010_415892447.pdf."
+  },
+  {
+    "id": "source-candidate-415892446",
+    "naid": "415892446",
+    "title": "[Presidential Daily Diary] 12/8/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26864-009, Container 26864",
+    "date": "1992-12-08",
+    "catalogUrl": "https://catalog.archives.gov/id/415892446",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_08_92-26864-009_415892446.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-12-08"
+    ],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082417"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with UN Secretary General Boutros Boutros-Ghali, December 8, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082417",
+        "title": "Telcon with UN Secretary General Boutros Boutros-Ghali, December 8, 1992",
+        "date": "1992-12-08",
+        "chapter": "Egypt-Arab Regional Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082417"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-12-08 - Telcon with UN Secretary General Boutros Boutros-Ghali, December 8, 1992 (Egypt-Arab Regional Track).",
+      "8:12 8:30 The President met with his Chief of Staff, James A.",
+      "Baker 8:45 8:51 The President met with: Mr.",
+      "10:02 10:10 The President met with Mr.",
+      "TUESDAY IN OUT PHONE ACTIVITY 10:12 10:19 The President met with: Senator Patrick J.",
+      "\"Ede\" Holiday, Assistant and Secretary to the Cabinet Members of Press in/out 10:25 10:28 The President met with Mr.",
+      "10:30 10:38 The President met with: John J."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with UN Secretary General Boutros Boutros-Ghali, December 8, 1992. OCR/catalog markers: Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-12-08; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 12/8/1992, 26864-009, Container 26864, 1992-12-08. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892446; https://catalog.archives.gov/id/415892446; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_08_92-26864-009_415892446.pdf."
+  },
+  {
+    "id": "source-candidate-415892493",
+    "naid": "415892493",
+    "title": "[Presidential Daily Backup] 12/31/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26866-012, Container 26866",
+    "date": "1992-12-31",
+    "catalogUrl": "https://catalog.archives.gov/id/415892493",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_31_92-26866-012_415892493.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON SCHEDULE OF THE PRESIDENT FOR MOGADISHU, BAIDOA, AND BALEDOGLE, SOMALIA; A",
+      "Met by: His Excellency King Fahd bin Abdulaziz Al Saud Page Two His Royal Highness Prince Saud Al-Saysal Minister of Foreign Affairs EVENT: MEETING WITH KING FAHD CLOSED PRESS 7:30 am THE PRESIDENT arrives Meeting Room and begins participation in Meeting with King Fahd."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/31/1992, 26866-012, Container 26866, 1992-12-31. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892493; https://catalog.archives.gov/id/415892493; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_31_92-26866-012_415892493.pdf."
+  },
+  {
+    "id": "source-candidate-415892501",
+    "naid": "415892501",
+    "title": "[Presidential Daily Backup] 01/04/1993",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26866-020, Container 26866",
+    "date": "1993-01-04",
+    "catalogUrl": "https://catalog.archives.gov/id/415892501",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1993/41-bpr-apts_sch-dd-01_04_93-26866-020_415892501.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Bush also referred to the meeting with Fahd as \"a very nice reunlon among friends.\" \" Emerging from that meeting, Bush could be heard telling Fahd, \"If you ever come to the United States, I know you'll have official business."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 01/04/1993, 26866-020, Container 26866, 1993-01-04. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892501; https://catalog.archives.gov/id/415892501; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1993/41-bpr-apts_sch-dd-01_04_93-26866-020_415892501.pdf."
+  },
+  {
+    "id": "source-candidate-415892503",
+    "naid": "415892503",
+    "title": "[Presidential Daily Backup] 01/05/1993",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Egypt-Arab Regional Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26866-022, Container 26866",
+    "date": "1993-01-05",
+    "catalogUrl": "https://catalog.archives.gov/id/415892503",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1993/41-bpr-apts_sch-dd-01_05_93-26866-022_415892503.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Bush South Lawn depart for Andrews Air Force Base (TAB A -- Trip Schedule) 9:55 am B Arrive Hangar 3, AAFB, to View Gift from King Fahd of Saudi Arabia (McBride) (TAB B) 10:15 am B Depart AAFB for Newburgh enroute West Point, New York 11:35 am B Arrive West Point Parade West Point, Ground New York 11:40 am B Arrive Washington Mess Hall for Luncheon with Corps of Cadets (McBride) (TAB C) 12:40 pm B Arrive for Reception at Super- intendent's Residence (McBride) (TAB D) 1:15 pm B Arrive Eisenhower ",
+      "BACKGROUND King Fahd presented the gift to you during your recent visit to Saudi Arabia.",
+      "2 for what rumor initially dubbed a meeting with King Fahd, but which turned out to be a viewing of a hangar- sized gift from the regent to the President."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 01/05/1993, 26866-022, Container 26866, 1993-01-05. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892503; https://catalog.archives.gov/id/415892503; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1993/41-bpr-apts_sch-dd-01_05_93-26866-022_415892503.pdf."
+  },
+  {
+    "id": "source-candidate-415889667",
+    "naid": "415889667",
+    "title": "[Presidential Daily Backup] 2/23/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12791-014, Container 12791",
+    "date": "1989-02-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415889667",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_23_89-12791-014_415889667.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-02-23",
+      "King Hussein",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079845",
+      "conversation-428079893"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with President Chaim Herzog of Israel, February 23, 1989",
+      "Presidential Telephone Call Initiated to King Hussein I, February 23, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079845",
+        "title": "Meeting with President Chaim Herzog of Israel, February 23, 1989",
+        "date": "1989-02-23",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079845"
+      },
+      {
+        "id": "conversation-428079893",
+        "title": "Presidential Telephone Call Initiated to King Hussein I, February 23, 1989",
+        "date": "1989-02-23",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079893"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-02-23 - Meeting with President Chaim Herzog of Israel, February 23, 1989 (Israel Track).",
+      "FRUS date cross-reference: 1989-02-23 - Presidential Telephone Call Initiated to King Hussein I, February 23, 1989 (Palestinian-Jordanian Track).",
+      "Foyer/Reception Hall for Bilateral Meetings EVENT: BILATERAL MEETINGS * PORTUGESE PRIME MINISTER MARIO SOARES * EGYPTIAN PRESIDENT HOSNI MUBARAK * THAI PRIME MINISTER CHATICHAI * SPANISH KING JUAN CARLOS I * JORDANIAN KING HUSSEIN I * ISRAELI PRESIDENT HERZOG 9:08 pm Concludes participation in Bilateral Meetings, departs Reception Hall, and proceeds to Foyer 9:10 pm Dep.",
+      "Suite for RON THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM E.",
+      "OUT AM TOLD PATTY PRESOCK 7:59A PRESIDENT CALLED AGAIN.",
+      "842 TALKED OK OUT AM \"CALLS ORIGINATED FROM TOKYO\" INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM GPO : 1983 0 - 405-660 : QL 2 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD February 23 , 19 89 TIME NAME ACTION PLACED DISC OUT AM Acknowledged Message: 9:53 PM \"This is the President, can I have Tlkd-ok the Admin Board Please?\" XNC 9:53 PM 9:57 9:53 PM OUT AM Governor John H.",
+      "Sununu Tlkd-ok Hotel Okura, Tokyo, Japan 10:00 PM 10:01 Tokyo Signal x312 XNC 10:00 PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM GPO : 1982 0 - - 370-008 : QL 2 PRESIDENTIAL MOVEMENTS LOCATION Tokyo, Japan DATE 23 February 1989 TIME MOVEMENTS JST 1305 Arrive Haneda Airport, Tokyo, Japan 1316 Depart Haneda Airport via Motorcade 1342 Arrive U.S.",
+      "Ambassador's Residence via Motorcade 2112 Arrive Hotel Okura WHCA FORM 15, OCTOBER 15, 1980 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD February 23 , 19 89 TIME NAME ACTION PLACED DISC OUT AM Governor John H."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Meeting with President Chaim Herzog of Israel, February 23, 1989; Presidential Telephone Call Initiated to King Hussein I, February 23, 1989. OCR/catalog markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-02-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 2/23/1989, 12791-014, Container 12791, 1989-02-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889667; https://catalog.archives.gov/id/415889667; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_23_89-12791-014_415889667.pdf."
+  },
+  {
+    "id": "source-candidate-415889703",
+    "naid": "415889703",
+    "title": "[Presidential Daily Backup] 3/13/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12792-016, Container 12792",
+    "date": "1989-03-13",
+    "catalogUrl": "https://catalog.archives.gov/id/415889703",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_13_89-12792-016_415889703.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-03-13",
+      "Moshe Arens"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079923"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Foreign Minister Arens of Israel, March 13, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079923",
+        "title": "Meeting with Foreign Minister Arens of Israel, March 13, 1989",
+        "date": "1989-03-13",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079923"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-03-13 - Meeting with Foreign Minister Arens of Israel, March 13, 1989 (Israel Track).",
+      "Telephone The White House 03/13/89 (b)(6) Memo Telephone Memorandum [Telephone numbers redacted] (2 pp.) 05.",
+      "SCHEDULE OF THE PRESIDENT Monday, March 13, 1989 8:00 am Intelligence Briefing Oval Office (15 min) (Scowcroft/Sununu) 8:15 am National Security Briefing Oval Office (30 min) (Scowcroft/Sununu) 8:45 am Meeting with Governor Sununu Oval Office (30 min) 9:20 am Photo with Jeffrey Baird, Oval Office (5 min) Make-A-Wish Foundation (Demarest) (TAB A) 9:30 am Presentation of National Roosevelt Room (b)(3) (10 min) Security Medal to (Scowcroft) (Distributed Separately) 9:40 am Photo with Racham Elazar ",
+      "writipool Oval Office (Scowcroft) (Distributed Separately) 2:20 pm Personal Staff Time Oval Office (25 min) 2:45 pm Meeting with Budget Team Oval Office (60 min) (Porter) (TAB E) 3:45 pm Personal Staff Time Oval Office (15 min) 4:00 pm Haircut West Basement (45 min) 4:45 pm Meeting with Governor Sununu Oval Office (15 min) UNP 03/10/89 4:00 pm Withdrawal/Redaction Sheet (George Bush Library) Document No.",
+      "Sou of Privce THE WHITE HOUSE WASHINGTON March 10, 1989 MEETING WITH BUDGET TEAM March 13, 1989 2:45 p.m.",
+      "8:31 8:58 The President met with: Vice President Quayle Mr.",
+      "9:41 9:50 The President met with: Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Foreign Minister Arens of Israel, March 13, 1989. OCR/catalog markers: Israel leadership, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-03-13; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 3/13/1989, 12792-016, Container 12792, 1989-03-13. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889703; https://catalog.archives.gov/id/415889703; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_13_89-12792-016_415889703.pdf."
+  },
+  {
+    "id": "source-candidate-415889751",
+    "naid": "415889751",
+    "title": "[Presidential Daily Backup] 4/6/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12794-008, Container 12794",
+    "date": "1989-04-06",
+    "catalogUrl": "https://catalog.archives.gov/id/415889751",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_06_89-12794-008_415889751.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-04-06",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079943"
+    ],
+    "relatedRecordTitles": [
+      "One-on-One Meeting with Prime Minister Shamir of Israel, April 6, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079943",
+        "title": "One-on-One Meeting with Prime Minister Shamir of Israel, April 6, 1989",
+        "date": "1989-04-06",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079943"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-04-06 - One-on-One Meeting with Prime Minister Shamir of Israel, April 6, 1989 (Israel Track).",
+      "Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 04/06/89 Pinksheet Number: RML164 OA/ID Number: 12794-008 Date Closed: 6/6/2002 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Thursday, April 6, 1989 8:00 am Intelligence Briefing Oval Office (15 min) (Scowcroft/Sununu) 8:15 am Natio",
+      "Shamir to the South Portico for departure statements 12:28 The President to the Oval Office 12:30 Laura Bush and Lynn Munn to the Second floor (Queen's Room) (Lincoln Bedroom) 1:30 Lunch for Mrs.",
+      "Shamir arrive Nort Portico 7:17 Principals to the Second Floor 7:43 President and Mrs.",
+      "Shamir arrive State Floor via Grand Staircase, to the East Room for receiving line 8:10 President and Mrs.",
+      "Shamir to the State Dining Room 8:12 Dinner is served 9:53 President and Mrs, Bush, Prime Minister and Mrs.",
+      "Shamir to the Blue Room 9:54 Guests depart State dining Room to parlors for coffee 10:05 Guests to the East Room 10:15 President and Mrs."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: One-on-One Meeting with Prime Minister Shamir of Israel, April 6, 1989. OCR/catalog markers: Israel leadership, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-04-06; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/6/1989, 12794-008, Container 12794, 1989-04-06. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889751; https://catalog.archives.gov/id/415889751; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_06_89-12794-008_415889751.pdf."
+  },
+  {
+    "id": "source-candidate-415889750",
+    "naid": "415889750",
+    "title": "[Presidential Daily Diary] 4/6/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12794-007, Container 12794",
+    "date": "1989-04-06",
+    "catalogUrl": "https://catalog.archives.gov/id/415889750",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_06_89-12794-007_415889750.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-04-06",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079943"
+    ],
+    "relatedRecordTitles": [
+      "One-on-One Meeting with Prime Minister Shamir of Israel, April 6, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079943",
+        "title": "One-on-One Meeting with Prime Minister Shamir of Israel, April 6, 1989",
+        "date": "1989-04-06",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079943"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-04-06 - One-on-One Meeting with Prime Minister Shamir of Israel, April 6, 1989 (Israel Track).",
+      "Sununu 9:01 9:33 The President met with: 9:01 9:33 Vice President Quayle 9:01 9:31 Nicholas F.",
+      "9:34 10:28 The President met with Republican Members of Congress.",
+      "The President met with: 10:33 10:35 Mr.",
+      "\"Bobbie\" Kilberg, Deputy Assistant for Public Liaison The President met with: 10:58 11:01 Mr.",
+      "Firestone, Social Secretary to the First Lady The President met with: 11:01 11:45 Yitzhak Shamir, Prime Minister of the State of Israel 11:01 11:42 Elyakim Rubinstein, Secretary of the Cabinet, State of Israel 11:01 11:05 Mr.",
+      "Scowcroft Members of Press in/out 11:45 The President escorted Prime Minister Shamir to the Cabinet Room."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: One-on-One Meeting with Prime Minister Shamir of Israel, April 6, 1989. OCR/catalog markers: Israel leadership, Egypt/Arab regional, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-04-06; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 4/6/1989, 12794-007, Container 12794, 1989-04-06. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889750; https://catalog.archives.gov/id/415889750; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_06_89-12794-007_415889750.pdf."
+  },
+  {
+    "id": "source-candidate-415889764",
+    "naid": "415889764",
+    "title": "[Presidential Daily Diary] 4/13/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12794-021, Container 12794",
+    "date": "1989-04-13",
+    "catalogUrl": "https://catalog.archives.gov/id/415889764",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_13_89-12794-021_415889764.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-04-13"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079961"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call From Yitzhak Shamir to the President, April 13, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079961",
+        "title": "Telephone Call From Yitzhak Shamir to the President, April 13, 1989",
+        "date": "1989-04-13",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079961"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-04-13 - Telephone Call From Yitzhak Shamir to the President, April 13, 1989 (Israel Track).",
+      "7:30 7:36 The President met with his Assistant and Press Secretary, M.",
+      "Gates, Deputy Assistant for b)(3) 50USC 7:57 National Security Affairs 8:16 briefer, Central Intelligence Agency (CIA) 4039 8:18 9:27? The President met with: Vice President Quayle Mr.",
+      "10:17? 10:34 The President met with his Chief of Staff, John H.",
+      "The President met with: 10:36 10:41 Mr.",
+      "11:08 11:10 The President met with: C.H.",
+      "THURSDAY IN OUT PHONE ACTIVITY 3:33 3:36 The President met with Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call From Yitzhak Shamir to the President, April 13, 1989. OCR/catalog markers: Israel leadership, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-04-13; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 4/13/1989, 12794-021, Container 12794, 1989-04-13. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889764; https://catalog.archives.gov/id/415889764; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_13_89-12794-021_415889764.pdf."
+  },
+  {
+    "id": "source-candidate-415889846",
+    "naid": "415889846",
+    "title": "[Presidential Daily Diary] 5/24/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12797-019, Container 12797",
+    "date": "1989-05-24",
+    "catalogUrl": "https://catalog.archives.gov/id/415889846",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_24_89-12797-019_415889846.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-05-24",
+      "Yitzhak Rabin"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082473"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Defense Minister Rabin of Israel, May 24, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082473",
+        "title": "Meeting with Defense Minister Rabin of Israel, May 24, 1989",
+        "date": "1989-05-24",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082473"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-05-24 - Meeting with Defense Minister Rabin of Israel, May 24, 1989 (Israel Track).",
+      "7:05 7:38 The President met with Mr.",
+      "Scowcroft 8:45? 9:00? The President met with Mr.",
+      "The President met with: 3:28 3:42 Mr.",
+      "3:47 4:35 The President met with Israeli Minister of Defense Yizhak Rabin.",
+      "For a list of other attendees, see APPENDIX \"F.\" The President met with: 4:35 4:37 Richard B.",
+      "Scowcroft The President met with: 5:04 5:42 Secretary Cheney 5:18 6:24? Secretary Baker 5:04 6:24? Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Defense Minister Rabin of Israel, May 24, 1989. OCR/catalog markers: Israel leadership, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-05-24; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 5/24/1989, 12797-019, Container 12797, 1989-05-24. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889846; https://catalog.archives.gov/id/415889846; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_24_89-12797-019_415889846.pdf."
+  },
+  {
+    "id": "source-candidate-415890095",
+    "naid": "415890095",
+    "title": "[Presidential Daily Backup] 9/25/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12806-016, Container 12806",
+    "date": "1989-09-25",
+    "catalogUrl": "https://catalog.archives.gov/id/415890095",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_25_89-12806-016_415890095.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-09-25",
+      "Shimon Peres",
+      "Moshe Arens"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Israel leadership",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080227",
+      "conversation-428080193",
+      "conversation-428080231"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Deputy PM and Finance Minister Shimon Peres of Israel, September 25, 1989",
+      "Meeting with Moshe Arens of Israel, September 25, 1989",
+      "Meeting with United Nations Secretary General Perez de Cuellar, September 25, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080227",
+        "title": "Meeting with Deputy PM and Finance Minister Shimon Peres of Israel, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080227"
+      },
+      {
+        "id": "conversation-428080193",
+        "title": "Meeting with Moshe Arens of Israel, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080193"
+      },
+      {
+        "id": "conversation-428080231",
+        "title": "Meeting with United Nations Secretary General Perez de Cuellar, September 25, 1989",
+        "date": "1989-09-25",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080231"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-09-25 - Meeting with Deputy PM and Finance Minister Shimon Peres of Israel, September 25, 1989 (Israel Track).",
+      "FRUS date cross-reference: 1989-09-25 - Meeting with Moshe Arens of Israel, September 25, 1989 (Israel Track).",
+      "FRUS date cross-reference: 1989-09-25 - Meeting with United Nations Secretary General Perez de Cuellar, September 25, 1989 (Madrid-Multilateral Track).",
+      "de Cuellar 11:30 am Courtesy Calls on UN Secretary General Perez de Cuellar and UNGA President Joseph Garba 11:50 am B Address to the General Assembly 12:20 pm Expanded Bilateral with de Cuellar 12:55 pm Depart UN for the Waldorf Astoria 1:30 pm Luncheon hosted by the Waldorf Astoria President for NATO Allies 3:00 pm Five Bilateral Meetings Waldorf Astoria 7:15 pm B Depart for Metropolitan Museum of Art 7:30 pm Diplomatic Reception and Metropolitan Dinner hosted by the President Museum of Art an",
+      "Bush arrive South Grounds aboard Marine One, to the Second Floor 12:45 Retired THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD September 25 .",
+      "Mc Bride INC PM White House Signal 2-2105 7:40 AM OUT AM Tlkd-ok 8:01 AM INC PM OUT 8:06 AM 8:08 Long Distance Number Tlkd-ok 212-972-1309 8:06 AM INC PM OUT 11:43 AM 11:49 Ms.",
+      "Patty Presock Tlkd-ok Office, Washington, D.C.",
+      "11:44 AM INC PM 456-6508 OUT AM President Vigilio Barco Tlkd-ok Office, Bogota, Columbia 3:01 PM INC 2:53 PM 3:05 284-3380 OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SEPTEMBER 25th , 19 89 E.D.T.",
+      "BILATERAL MEETINGS HELD IN NEW YORK September 25, 1989 SYG OF THE UN US Participants UN White House - 4 UN - 6 State - 3 The President SYG de Cuellar Sec Baker Virenda Dayal Gov Sununu Ron Spiers Gen Scowcroft Alvaro de Soto Amb Pickering Plus 2 others (names to be J."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 3 selected FRUS meeting/call records: Meeting with Deputy PM and Finance Minister Shimon Peres of Israel, September 25, 1989; Meeting with Moshe Arens of Israel, September 25, 1989; Meeting with United Nations Secretary General Perez de Cuellar, September 25, 1989. OCR/catalog markers: Madrid, Israel leadership, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-09-25; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/25/1989, 12806-016, Container 12806, 1989-09-25. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890095; https://catalog.archives.gov/id/415890095; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_25_89-12806-016_415890095.pdf."
+  },
+  {
+    "id": "source-candidate-415890099",
+    "naid": "415890099",
+    "title": "[Presidential Daily Backup] 9/27/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12806-020, Container 12806",
+    "date": "1989-09-27",
+    "catalogUrl": "https://catalog.archives.gov/id/415890099",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_27_89-12806-020_415890099.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-09-27",
+      "Shimon Peres"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080239"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Shimon Peres of Israel, September 27, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080239",
+        "title": "Meeting with Shimon Peres of Israel, September 27, 1989",
+        "date": "1989-09-27",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080239"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-09-27 - Meeting with Shimon Peres of Israel, September 27, 1989 (Israel Track).",
+      "The President met with: 7:30 7:33 Barbara Bush, The First Lady 7:27 7:44 Jerry C.",
+      "Gates The President met with: 8:34 9:01 Mr.",
+      "9:03 9:04 The President met with: Mr.",
+      "Marlin Fitzwater, Assistant and Press Secretary 10:05 10:06 The President met with: Mr.",
+      "The President met with: 10:23 10:35 Mr.",
+      "Card 10:35 11:03 The President participated in a question and anwser session on the upcoming Education Summit with the \"Oval Office Pool\" reporters."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Shimon Peres of Israel, September 27, 1989. OCR/catalog markers: Israel leadership, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-09-27; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/27/1989, 12806-020, Container 12806, 1989-09-27. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890099; https://catalog.archives.gov/id/415890099; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_27_89-12806-020_415890099.pdf."
+  },
+  {
+    "id": "source-candidate-415890139",
+    "naid": "415890139",
+    "title": "[Presidential Daily Backup] 10/17/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12808-016, Container 12808",
+    "date": "1989-10-17",
+    "catalogUrl": "https://catalog.archives.gov/id/415890139",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_17_89-12808-016_415890139.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "1989 TIME NAME PLACED DISC ACTION OUT AM Conference Call: Tlkd-ok Prime Minister Yitzhak Shamir 3:59 PM Residence, Jerusalem, Israel INC 3:58 PM 4:28 669-664 OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 10/17/1989, 12808-016, Container 12808, 1989-10-17. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890139; https://catalog.archives.gov/id/415890139; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_17_89-12808-016_415890139.pdf."
+  },
+  {
+    "id": "source-candidate-415890138",
+    "naid": "415890138",
+    "title": "[Presidential Daily Diary] 10/17/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12808-015, Container 12808",
+    "date": "1989-10-17",
+    "catalogUrl": "https://catalog.archives.gov/id/415890138",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_17_89-12808-015_415890138.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Gates 3:59 4:28 R The President talked on a conference call with: Yitzhak Shamir, Prime Minister of the State of Israel C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 10/17/1989, 12808-015, Container 12808, 1989-10-17. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890138; https://catalog.archives.gov/id/415890138; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_17_89-12808-015_415890138.pdf."
+  },
+  {
+    "id": "source-candidate-415890197",
+    "naid": "415890197",
+    "title": "[Presidential Daily Backup] 11/15/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12811-010, Container 12811",
+    "date": "1989-11-15",
+    "catalogUrl": "https://catalog.archives.gov/id/415890197",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_15_89-12811-010_415890197.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-11-15",
+      "Prime Minister Shamir",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080295",
+      "conversation-428080325",
+      "conversation-428080323"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Prime Minister Shamir of Israel, November 15, 1989 (1 of 2)",
+      "Meeting with Prime Minister Shamir of Israel, November 15, 1989 (2 of 2)",
+      "Telephone Conversation with King Hussein of Jordan, November 15, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080295",
+        "title": "Meeting with Prime Minister Shamir of Israel, November 15, 1989 (1 of 2)",
+        "date": "1989-11-15",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080295"
+      },
+      {
+        "id": "conversation-428080325",
+        "title": "Meeting with Prime Minister Shamir of Israel, November 15, 1989 (2 of 2)",
+        "date": "1989-11-15",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080325"
+      },
+      {
+        "id": "conversation-428080323",
+        "title": "Telephone Conversation with King Hussein of Jordan, November 15, 1989",
+        "date": "1989-11-15",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080323"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-11-15 - Meeting with Prime Minister Shamir of Israel, November 15, 1989 (1 of 2) (Israel Track).",
+      "FRUS date cross-reference: 1989-11-15 - Meeting with Prime Minister Shamir of Israel, November 15, 1989 (2 of 2) (Israel Track).",
+      "FRUS date cross-reference: 1989-11-15 - Telephone Conversation with King Hussein of Jordan, November 15, 1989 (Palestinian-Jordanian Track).",
+      "Diagrams Security diagrams - trip to Washington Sheraton Hotel (3 pp.) 11/15/89 (b)(7)(e) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 11/15/89 Pinksheet Number: RML400 OA/ID Number: 12811-010 Date Closed: 7/25/2002 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: as SCHEDULE OF THE PRESIDENT Wednesday, No",
+      "1:15 pm Meeting with Israeli Prime (60 min) Oval Office/ Minister Shamir Cabinet Room (Scowcroft OPWP- Distributed Separately) 2:15 pm Personal Staff Time (15 min) Oval Office 2:30 pm B Reception for Unveiling of (30 min) State Floor the Reagan White House Portraits (Firestone/Card) (open) (TAB G) 3:00 pm Administrative Time (20 min) Oval Office 3:20 pm The President departs to address South Lawn the AFL-CIO Annual Convention at the Sheraton Washington Hotel (Demarest/Rogich) (TAB H -- Trip Sche",
+      "THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM NOVEMBER 15th 19 89 E.D.T.",
+      "DORO LeBLOND RES: CAPE ELIZABETH, ME INC 6:21 XXX 6:43 (b)(6) TLKD-OK OUT AM INC PM OUT MR.",
+      "JOHN BUSH LW WITH OFC, TOLD AM OFC: NEW YORK, NY BRIDGET MONTAGNE 212-371-2170 RETURNED CALL :36PM PATTY PRESOCK TLKD XNXX 10:17 XXX 7:38 OUT AM OK, TLKD-OK 7:34PM INC PM OUT AM INC PM OUT AM MR.",
+      "693 TLKD-OK XNEX 10:59 RMX 11:01 OUT AM INC PM XXXX AM MRS."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 3 selected FRUS meeting/call records: Meeting with Prime Minister Shamir of Israel, November 15, 1989 (1 of 2); Meeting with Prime Minister Shamir of Israel, November 15, 1989 (2 of 2); Telephone Conversation with King Hussein of Jordan, November 15, 1989. OCR/catalog markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-11-15; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/15/1989, 12811-010, Container 12811, 1989-11-15. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890197; https://catalog.archives.gov/id/415890197; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_15_89-12811-010_415890197.pdf."
+  },
+  {
+    "id": "source-candidate-415890223",
+    "naid": "415890223",
+    "title": "[Presidential Daily Backup] 11/28/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12812-014, Container 12812",
+    "date": "1989-11-28",
+    "catalogUrl": "https://catalog.archives.gov/id/415890223",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_28_89-12812-014_415890223.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-11-28",
+      "President Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080407"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Shamir of Israel, November 28, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080407",
+        "title": "Telephone Conversation with President Shamir of Israel, November 28, 1989",
+        "date": "1989-11-28",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080407"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-11-28 - Telephone Conversation with President Shamir of Israel, November 28, 1989 (Israel Track).",
+      "Memo Brent Scowcroft to POTUS, Re: meeting with specialists on the 11/27/89 (b)(1) S Baltic states (3 pp.) 06.",
+      "7:30 7:36 The President met with his Assistant and Press Secretary, M.",
+      "9:15 9:18 The President met with: Vice President Quayle Mr.",
+      "The President met with: 10:03 10:15 Mr.",
+      "Sununu 10:05 10:13 R The President talked on a conference call with: President Arias Sanchez David A.",
+      "Scowcroft 12:05 12:18 The President participated in a question and answer session with members of the press on the upcoming Summit in Malta, Eastern Europe, and El Salvador."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Shamir of Israel, November 28, 1989. OCR/catalog markers: Israel leadership, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-11-28; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/28/1989, 12812-014, Container 12812, 1989-11-28. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890223; https://catalog.archives.gov/id/415890223; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_28_89-12812-014_415890223.pdf."
+  },
+  {
+    "id": "source-candidate-415890361",
+    "naid": "415890361",
+    "title": "[Presidential Daily Backup] 2/5/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12817-008, Container 12817",
+    "date": "1990-02-05",
+    "catalogUrl": "https://catalog.archives.gov/id/415890361",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_05_90-12817-008_415890361.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-02-05",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Israel leadership",
+      "Palestinian channel",
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080513"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with Prime Minister Shamir of Israel, February 5, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080513",
+        "title": "Telephone Conversation with Prime Minister Shamir of Israel, February 5, 1990",
+        "date": "1990-02-05",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080513"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-02-05 - Telephone Conversation with Prime Minister Shamir of Israel, February 5, 1990 (Israel Track).",
+      "Talking Points Points to be made at ambassadorial credential presentation 02/05/90 (b)(1) meeting (1 pp.) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 02/05/90 Pinksheet Number: RML495 OA/ID Number: 12817-008 Date Closed: 8/29/2002 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT ",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 1:00 pm Personal Staff Time Oval Office (30 min) 1:20 anartasia 1:30 pm Meeting with National Jewish ",
+      "Organi- gress a $570 mi zations within the community donate their In the morning, the President met with supplementals th time and services to the center, giving the best his science advisers.",
+      "The President transmitted to the Con- gress a $570 million package of FY 1990 met with supplementals that include the following: February 9 -$500 million for increased aid to The President met at the White House Panama, as announced by the President with: returned on January 19th; -the Vice President; John H.",
+      "Haass to the Second Floor down 10:03 10:05 Marlin Fitzwater to the Second Floor Houseguest: Doro LeBlond - Room 213 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM FEBRUARY 5th 90 PRESIDENT BUSH .",
+      "XHNXX XRM 745-8100 VAHOSPITAL TLKD-OK 7:44 A.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with Prime Minister Shamir of Israel, February 5, 1990. OCR/catalog markers: Madrid, Israel leadership, Palestinian channel, Syria/Lebanon, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-02-05; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 2/5/1990, 12817-008, Container 12817, 1990-02-05. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890361; https://catalog.archives.gov/id/415890361; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_05_90-12817-008_415890361.pdf."
+  },
+  {
+    "id": "source-candidate-415890360",
+    "naid": "415890360",
+    "title": "[Presidential Daily Diary] 2/5/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12817-007, Container 12817",
+    "date": "1990-02-05",
+    "catalogUrl": "https://catalog.archives.gov/id/415890360",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_05_90-12817-007_415890360.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-02-05",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080513"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with Prime Minister Shamir of Israel, February 5, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080513",
+        "title": "Telephone Conversation with Prime Minister Shamir of Israel, February 5, 1990",
+        "date": "1990-02-05",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080513"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-02-05 - Telephone Conversation with Prime Minister Shamir of Israel, February 5, 1990 (Israel Track).",
+      "7:20 7:22 The President met with his Chief of Staff, John H.",
+      "Rogich, Assistant for Special Activities and Initiatives Erin Rogich, daughter Stephanie Natsis, guest of Erin Rogich Briana Tiberti, guest of Erin Rogich David Rivera, guest of Erin Rogich 7:51 8:02 The President met with: John J.",
+      "Scowcroft 9:00 9:13 The President met with: Vice President Quayle Mr.",
+      "9:58 10:04 The President met with: William K.",
+      "10:15 10:34 The President attended the plenary session of the Intergovernmental Panel on Climate Change continued THE WHITE HOUSE Page 3 THE DAILY DIARY OF PRESIDENT GEORGE BUSH LOCATION DATE FEBRUARY 5, 1990 GEORGETOWN UNIVERSITY WASHINGTON, D.C.",
+      "10:20 10:36 The President addressed approximately 600 guests attending the plenary session."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with Prime Minister Shamir of Israel, February 5, 1990. OCR/catalog markers: Israel leadership, Palestinian channel, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-02-05; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 2/5/1990, 12817-007, Container 12817, 1990-02-05. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890360; https://catalog.archives.gov/id/415890360; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_05_90-12817-007_415890360.pdf."
+  },
+  {
+    "id": "source-candidate-415890395",
+    "naid": "415890395",
+    "title": "[Presidential Daily Backup] 2/22/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12819-002, Container 12819",
+    "date": "1990-02-22",
+    "catalogUrl": "https://catalog.archives.gov/id/415890395",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_22_90-12819-002_415890395.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-02-22",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080557"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with Prime Minister Shamir of Israel, February 22, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080557",
+        "title": "Telephone Conversation with Prime Minister Shamir of Israel, February 22, 1990",
+        "date": "1990-02-22",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080557"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-02-22 - Telephone Conversation with Prime Minister Shamir of Israel, February 22, 1990 (Israel Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells SCHEDULE OF THE PRESIDENT Thursday, February 22, 1990 7:15 am Breakfast with Secretary Brady Oval Off",
+      "Todd Johnson (Casey) 12:00 pm Lunch with Prince Charles Residence (60 min) (Scowcroft) (TAB C) 1:00 pm Presentation of AIA Gold Roosevelt Room (10 min) Medal Award (Demarest) (OPWP) (TAB D) 1:10 pm Personal Staff Time Oval Office (20 min) 1:30 pm Meeting with Senators Sam Nunn Oval Office (30 min) and John Warner (Scowcroft) (Distributed Separately) UNP 02/21/90 5:00 pm Withdrawal/Redaction Sheet (George Bush Library) Document No.",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM FEBRUARY 22nd PRESIDENT BUSH .",
+      "765 TLKD-OK HNXX XXRM OUT AM INC PM OUT 9:39 AM 9:45 MS.",
+      "672 TLKD-OK 9:41A.M.",
+      "WRAY OFC: WASHINGTON, DC 456-7730 TLKD-OK INCY XM OUT AM INC PM OUT 9:53 AM 10:15 MR."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with Prime Minister Shamir of Israel, February 22, 1990. OCR/catalog markers: Israel leadership, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-02-22; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 2/22/1990, 12819-002, Container 12819, 1990-02-22. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890395; https://catalog.archives.gov/id/415890395; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_22_90-12819-002_415890395.pdf."
+  },
+  {
+    "id": "source-candidate-415890394",
+    "naid": "415890394",
+    "title": "[Presidential Daily Diary] 2/22/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12819-001, Container 12819",
+    "date": "1990-02-22",
+    "catalogUrl": "https://catalog.archives.gov/id/415890394",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_22_90-12819-001_415890394.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-02-22",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080557"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with Prime Minister Shamir of Israel, February 22, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080557",
+        "title": "Telephone Conversation with Prime Minister Shamir of Israel, February 22, 1990",
+        "date": "1990-02-22",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080557"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-02-22 - Telephone Conversation with Prime Minister Shamir of Israel, February 22, 1990 (Israel Track).",
+      "The President met with: 7:15 8:04 John H.",
+      "Gates 9:14 9:25 The President met with: Vice President Quayle Mr.",
+      "10:25 10:28 The President met with his Deputy Director of Appointments, Katherine Super.",
+      "10:28 10:54 The President met with: Mr.",
+      "Haass, Senior Director, Near East and South Asian Affairs, National Security Council (NSC) 10:29 10:49 R The President talked on a conference call with: Yitzhah Shamir, Prime Minister of Israel Mr.",
+      "David Welch, Director, Near East and South Asia Affairs, National Security Council (NSC) 11:18 11:42 The President met with: Bandar Bin Sultan, Ambassador of the Kingdom of Saudi Arabia to the U.S."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with Prime Minister Shamir of Israel, February 22, 1990. OCR/catalog markers: Israel leadership, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-02-22; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 2/22/1990, 12819-001, Container 12819, 1990-02-22. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890394; https://catalog.archives.gov/id/415890394; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-02_22_90-12819-001_415890394.pdf."
+  },
+  {
+    "id": "source-candidate-415890785",
+    "naid": "415890785",
+    "title": "[Presidential Daily Backup] 9/5/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12835-018, Container 12835",
+    "date": "1990-09-05",
+    "catalogUrl": "https://catalog.archives.gov/id/415890785",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_05_90-12835-018_415890785.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "The groups met with the Shaikh Isa Bin Sulman Al Khalifa, the Emir of Bahrain; King Fahd of Saudi Arabia; members of the Kuwaiti government-in-exile; and President Hosni Mubarak of Egypt."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/5/1990, 12835-018, Container 12835, 1990-09-05. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890785; https://catalog.archives.gov/id/415890785; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_05_90-12835-018_415890785.pdf."
+  },
+  {
+    "id": "source-candidate-415890829",
+    "naid": "415890829",
+    "title": "[Presidential Daily Backup] 9/27/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12837-006, Container 12837",
+    "date": "1990-09-27",
+    "catalogUrl": "https://catalog.archives.gov/id/415890829",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_27_90-12837-006_415890829.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Loan guarantees/settlements",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "A potential settlement was discussed at a meeting this month."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Egypt/Arab regional, Loan guarantees/settlements, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/27/1990, 12837-006, Container 12837, 1990-09-27. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890829; https://catalog.archives.gov/id/415890829; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_27_90-12837-006_415890829.pdf."
+  },
+  {
+    "id": "source-candidate-415890915",
+    "naid": "415890915",
+    "title": "[Presidential Daily Backup] 11/8/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12842-004, Container 12842",
+    "date": "1990-11-08",
+    "catalogUrl": "https://catalog.archives.gov/id/415890915",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_08_90-12842-004_415890915.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "He has met with the Amirs of Bahrain and Kuwait, King Fahd, President Mubarak, as well as with the Chinese Foreign Minister, President Ozal, and President Gorbachev.",
+      "He's met with the Amirs of Bahrain and Kuwait, King Fahd, President Mubarak, as well as the Chinese Foreign Minister, President Ozal, Foreign Minister Shevardnadze, President Gorbachev.",
+      "Are the Soviets sending us mixed signals -- THE PRESIDENT: No -- Q -- or is this just an indication that, like President Mubarak made earlier in the week, that some of our allies want more time to try to find a diplomatic solution before use of force? THE PRESIDENT: I don't get the feeling we're getting any mixed signals at all from the Soviets, particularly after I've talked to Jim Baker."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/8/1990, 12842-004, Container 12842, 1990-11-08. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890915; https://catalog.archives.gov/id/415890915; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_08_90-12842-004_415890915.pdf."
+  },
+  {
+    "id": "source-candidate-415890930",
+    "naid": "415890930",
+    "title": "[Presidential Daily Diary] 11/1690",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12842-019, Container 12842",
+    "date": "1990-11-16",
+    "catalogUrl": "https://catalog.archives.gov/id/415890930",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_16_90-12842-019_415890930.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-11-16"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081219"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with President Chaim Herzog of Israel, November 16, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081219",
+        "title": "Telephone Conversation with President Chaim Herzog of Israel, November 16, 1990",
+        "date": "1990-11-16",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081219"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-11-16 - Telephone Conversation with President Chaim Herzog of Israel, November 16, 1990 (Israel Track).",
+      "The President met with: 7:53 8:11 Robert Stinnett, photographer on the USS San Jacinto during World War II along with the President 7:53 8:11 Mrs.",
+      "Sununu 8:50 9:25 The President met with: Vice President Quayle Mr.",
+      "Sununu 9:25 9:30 The President met with Vice President Quayle.",
+      "9:30 9:37 The President met with: Vice President Quayle continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 2 LOCATION DATE NOVEMBER 16, 1990 THE WHITE HOUSE TIME WASHINGTON, D.C.",
+      "Sununu 9:55 9:58 The President met with his Assistant and Press Secretary, M.",
+      "9:59 10:01 The President met with Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with President Chaim Herzog of Israel, November 16, 1990. OCR/catalog markers: Israel leadership, Jordan/King Hussein, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-11-16; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 11/1690, 12842-019, Container 12842, 1990-11-16. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890930; https://catalog.archives.gov/id/415890930; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_16_90-12842-019_415890930.pdf."
+  },
+  {
+    "id": "source-candidate-415890980",
+    "naid": "415890980",
+    "title": "[Presidential Daily Diary] 12/11/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12844-013, Container 12844",
+    "date": "1990-12-11",
+    "catalogUrl": "https://catalog.archives.gov/id/415890980",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_11_90-12844-013_415890980.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Marlin Fitzwater, Assistant and Press Secretary 10:03 11:07 The President met with: Yitzhak Shamir, Prime Minister of the State of Israel Zalman Shoval, Ambassador of the State of Israel to the U.S.",
+      "11:48 11:50 The President met with: Prime Minister Shamir Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 12/11/1990, 12844-013, Container 12844, 1990-12-11. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890980; https://catalog.archives.gov/id/415890980; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_11_90-12844-013_415890980.pdf."
+  },
+  {
+    "id": "source-candidate-415890993",
+    "naid": "415890993",
+    "title": "[Presidential Daily Backup] 12/17/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12845-008, Container 12845",
+    "date": "1990-12-17",
+    "catalogUrl": "https://catalog.archives.gov/id/415890993",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_17_90-12845-008_415890993.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-12-17",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Loan guarantees/settlements",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081269"
+    ],
+    "relatedRecordTitles": [
+      "Credential Ceremony of Israeli Ambassador Zalman Shoval, December 17, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081269",
+        "title": "Credential Ceremony of Israeli Ambassador Zalman Shoval, December 17, 1990",
+        "date": "1990-12-17",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081269"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-12-17 - Credential Ceremony of Israeli Ambassador Zalman Shoval, December 17, 1990 (Israel Track).",
+      "Report State Floor Christmas Reception redacted (8 pp.) 12/17/90 (b)(6) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 12/17/1990 Pinksheet Number: KO0402 OA/ID Number: 12845-008 Date Closed: 11/1/2004 FOIA/Sys Case #: 2002-1005-S Re-review Case #: 2005-0140-S P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Monday, December 17,",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 2:15 pm Personal Staff Time Oval Office (15 min) 2:30 pm Meeting with Secretary Brady Oval Office (30",
+      "Bush to the Second Floor 9:42 The President to the Second Floor 10:00 Retired 10:10 NEIL BUSH To 2nd Houseguests: Neil and Sharon Bush - Room 327 Pierce and Asheley - Room 328 Noelle 329 Rhonda - 326 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH DECEMBER 17th , 1990 TIME PLACED DISC NAME ACTION OUT XXXM MR.",
+      "BARBARA BUSH TLKD-OK TO MRS.",
+      "SECY of Education TLKD-OK 2:52 P.M.",
+      "213-877-8188 XIMC 4:26 PM 4:29 TLKD-OK 4:28 P.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Credential Ceremony of Israeli Ambassador Zalman Shoval, December 17, 1990. OCR/catalog markers: Middle East peace, Israel leadership, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-12-17; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/17/1990, 12845-008, Container 12845, 1990-12-17. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890993; https://catalog.archives.gov/id/415890993; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_17_90-12845-008_415890993.pdf."
+  },
+  {
+    "id": "source-candidate-415891034",
+    "naid": "415891034",
+    "title": "[Presidential Daily Diary] 1/7/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12846-017, Container 12846",
+    "date": "1991-01-07",
+    "catalogUrl": "https://catalog.archives.gov/id/415891034",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_07_91-12846-017_415891034.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-01-07",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081303"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with Israeli Prime Minister Shamir, January 7, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081303",
+        "title": "Telephone Conversation with Israeli Prime Minister Shamir, January 7, 1991",
+        "date": "1991-01-07",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081303"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-01-07 - Telephone Conversation with Israeli Prime Minister Shamir, January 7, 1991 (Israel Track).",
+      "Marlin Fitzwater, Assistant and Press Secretary The President met with: 8:50 9:30 Mr.",
+      "Fitzwater 9:56 10:00 The President met with Mr.",
+      "The President met with: 10:00 10:33 Barber B.",
+      "DAY MONDAY IN OUT PHONE ACTIVITY 2:42 2:44 The President met with Secretary Brady.",
+      "2:45 3:15 The President met with: Clayton K.",
+      "Card 3:00 3:10 P The President talked on a conference call with: Yitzshak Shamir, Prime Minister of the State of Israel Richard N."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with Israeli Prime Minister Shamir, January 7, 1991. OCR/catalog markers: Israel leadership, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-01-07; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 1/7/1991, 12846-017, Container 12846, 1991-01-07. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891034; https://catalog.archives.gov/id/415891034; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_07_91-12846-017_415891034.pdf."
+  },
+  {
+    "id": "source-candidate-415891041",
+    "naid": "415891041",
+    "title": "[Presidential Daily Backup] 1/10/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12846-024, Container 12846",
+    "date": "1991-01-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415891041",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_10_91-12846-024_415891041.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-01-10",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081317"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with Israeli Prime Minister Shamir, January 10, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081317",
+        "title": "Telephone Conversation with Israeli Prime Minister Shamir, January 10, 1991",
+        "date": "1991-01-10",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081317"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-01-10 - Telephone Conversation with Israeli Prime Minister Shamir, January 10, 1991 (Israel Track).",
+      "Memo Telephone Memorandum Re: President Bush [personal privacy 1/10/91 (b)(6) information redacted] (1 pp.) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 1/10/91 Pinksheet Number: KO0405 OA/ID Number: 12846-024 Date Closed: 11/1/2004 FOIA/Sys Case #: 2002-1005-S Re-review Case #: 2005-0140-S P-2/P-5 Review Case #: BC SCHEDULE O",
+      "-0715 POTUS IN OVAL 0751 MARK DAVIS ET AL 10 0754 ALL OUT 0759 ADD SCOWCROFT, GATES, (b)(3) Sununu 0818 DCI (b)(3) OUT 0819 ADD VP 0852 SCOWCROFT, GATES OUT 0930 SUNUNU, VP OUT 0945 ADD SCOWCROFT 1014 POTUS IN Sununus OFFICE (W/SENS WALLOP, LOTT, MACK, SMITH, 1019 Potus IN OVAL/ADO DARMAN, THORNBURGH, PORTER 1032 ADD SCOWCROFT 1041 HOLIDAY ALL OUT/EXCEPT Scowcrof 1055 ADD SUNUNU 1104 APD FITZWATER 1120 SUNUNU OUT (b)(3) 1126 FITZWATER OUT 1130 ADD GATES 1135 ALL OUT 1145 ADD VP 1147 SPACE SHUTTL",
+      "Memo Telephone Memorandum Re: President Bush [personal 1/10/91 (b)(6) privacy information redacted] (1 pp.) Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 1/10/91 Date Closed: 11/1/2004 OA/ID Number: 12846-024 FOIA/SYS Case #: 2002-1005-S Appeal Case #: Re-review Case #: 2005-0140-S Appeal Disposition: P-2/P-5 Review Case #: Disposition Dat",
+      "THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH JANUARY 10th , 1991 TIME NAME ACTION PLACED DISC OUT 7:14 AM 7:18 MR.",
+      "INC ** 203-869-8141 TLKD-OK 7:24 A.M.",
+      "INC XXM 617-732-5500 ROOM 36 TLKD-OK 7:53 A.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with Israeli Prime Minister Shamir, January 10, 1991. OCR/catalog markers: Israel leadership, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-01-10; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 1/10/1991, 12846-024, Container 12846, 1991-01-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891041; https://catalog.archives.gov/id/415891041; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_10_91-12846-024_415891041.pdf."
+  },
+  {
+    "id": "source-candidate-415891057",
+    "naid": "415891057",
+    "title": "[Presidential Daily Backup] 1/18/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12847-006, Container 12847",
+    "date": "1991-01-18",
+    "catalogUrl": "https://catalog.archives.gov/id/415891057",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_18_91-12847-006_415891057.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-01-18",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081359"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with Prime Minister Shamir of Israel, January 18, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081359",
+        "title": "Telephone Conversation with Prime Minister Shamir of Israel, January 18, 1991",
+        "date": "1991-01-18",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081359"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-01-18 - Telephone Conversation with Prime Minister Shamir of Israel, January 18, 1991 (Israel Track).",
+      "Diagram Seating Chart (1 pp.) 1/18/91 (b)(7)(c), (b)(7)(e), (b)(7)(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 01/18/1991 Pinksheet Number: LT10115 OA/ID Number: 12847-006 Date Closed: 4/6/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Friday, January 18, 1",
+      "Meeting with Kristol and Lord WW Office (15 min) 8:15 a.m.",
+      "Meeting with President Bush Oval Office (30 min) and Governor Sununu 9:15 a.m.",
+      "Meeting with Michael Boskin WW Office (60 min) (Hubbard) 3:00 p.m.",
+      "Meeting with Bill Kristol WW Office (20 min) (01/17/91 - 5:00 p.m.) Friday, January 18 5:30 Breakfast for the President 7:13 The President to the Oval Office 8:05 Patty Presock and Daphne Murry to the Second Floor 8:07 Patty Presock down 8:30 Daphne Murry down 9:25 Nancy Graux and Justine Tarosky to the Second Floor down 10:20 9:30 Dr.",
+      "Bush depart for Camp David THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH JANUARY 18 th , 19 91 TIME NAME ACTION PLACED DISC OUT 5:33 AM 5:37 SITUATION ROOM TLKD-OK WITH MR."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with Prime Minister Shamir of Israel, January 18, 1991. OCR/catalog markers: Israel leadership, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-01-18; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 1/18/1991, 12847-006, Container 12847, 1991-01-18. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891057; https://catalog.archives.gov/id/415891057; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_18_91-12847-006_415891057.pdf."
+  },
+  {
+    "id": "source-candidate-415891058",
+    "naid": "415891058",
+    "title": "[Presidential Daily Diary]  1/19/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12847-007, Container 12847",
+    "date": "1991-01-19",
+    "catalogUrl": "https://catalog.archives.gov/id/415891058",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_19_91-12847-007_415891058.pdf",
+    "digitalObjectCount": 6,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "3:18 3:34 P The President talked on a conference call with: Yitzhak Shamir, Prime Minister of the State of Israel Mr.",
+      "For a list of attendees, see APPENDIX \"A.\" 11:34 11:43 P The President talked on a conference call with: Prime Minister Shamir Richard N."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary]  1/19/1991, 12847-007, Container 12847, 1991-01-19. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891058; https://catalog.archives.gov/id/415891058; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_19_91-12847-007_415891058.pdf."
+  },
+  {
+    "id": "source-candidate-415891066",
+    "naid": "415891066",
+    "title": "[Presidential Daily Diary] 1/23/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12847-015, Container 12847",
+    "date": "1991-01-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415891066",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_23_91-12847-015_415891066.pdf",
+    "digitalObjectCount": 14,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-01-23"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081383"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Yitzhak Shamir, January 23, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081383",
+        "title": "Telephone Call to Yitzhak Shamir, January 23, 1991",
+        "date": "1991-01-23",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081383"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-01-23 - Telephone Call to Yitzhak Shamir, January 23, 1991 (Israel Track).",
+      "[Presidential Daily Diary] 1/23/1991 Just after midnight, the President held a conference call with his senior national security advisors and Israeli Prime Minister Yitzhak Shamir about Operation Desert Storm.",
+      "Early that same morning, the President met with General Brent Scowcroft and James A.",
+      "Following a meeting with Chief of Staff John Sununu, the President attended the daily Operation Desert Storm briefing with the Secretary of Defense and Chair of the Joint Chiefs of Staff among others.",
+      "Aside from Gulf War matters, the President met with an official delegation from Mongolia and the People's Republic of China.",
+      "WEDNESDAY IN OUT PHONE ACTIVITY 12:05 12:10 P The President talked on a conference call with: Yitzhak Shamir, Prime Minister of Israel Brent Scowcroft, Assistant for National Security Affairs Richard N.",
+      "7:30 7:55 The President met with his Assistant for Communications, David F."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to Yitzhak Shamir, January 23, 1991. OCR/catalog markers: Israel leadership, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-01-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 1/23/1991, 12847-015, Container 12847, 1991-01-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891066; https://catalog.archives.gov/id/415891066; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_23_91-12847-015_415891066.pdf."
+  },
+  {
+    "id": "source-candidate-415891103",
+    "naid": "415891103",
+    "title": "[Presidential Daily Backup] 2/10/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12848-020, Container 12848",
+    "date": "1991-02-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415891103",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_10_91-12848-020_415891103.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-02-10"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081433"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Yitzhak Shamir, February 10, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081433",
+        "title": "Telephone Call to Yitzhak Shamir, February 10, 1991",
+        "date": "1991-02-10",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081433"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-02-10 - Telephone Call to Yitzhak Shamir, February 10, 1991 (Israel Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE memorandum SIGNAL SWITCHBOARD February 10 , 1991 TIME NAME ACTIO",
+      "Jackson Tlkd-ok Sycamore Cabin, Camp David, Maryland 1:58 PM INC 1:58 PM 1:59 Camp David Signal 4-1736 OUT AM Conference Call: Tlkd-ok Prime Minister Yitzhak Shamir 2:00 PM Residence, Jerusalem, Israel INC 1:58 PM 2:06 662-616 OUT AM Mr.",
+      "Siegler White House Situation Room INC PM White House Signal 2-2264 OUT AM General Brent Scowcroft Tlkd-ok Residence, Washington, D.C.",
+      "2:06 PM INC 2:04 PM 2:08 White House Signal 2-3881 OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM GPO : 1983 o - 405-660 : QL 2 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH FEBRUARY 10th , 1991 TIME NAME ACTION PLACED DISC RHX xM MR.",
+      "EXT.780 TLKD-OK OUT AM INC PM OUT XM MR.",
+      "INC 6:20 PM 6:24 (b) (6) TLKD-OK 6:23 P.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to Yitzhak Shamir, February 10, 1991. OCR/catalog markers: Israel leadership, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-02-10; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 2/10/1991, 12848-020, Container 12848, 1991-02-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891103; https://catalog.archives.gov/id/415891103; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_10_91-12848-020_415891103.pdf."
+  },
+  {
+    "id": "source-candidate-415891102",
+    "naid": "415891102",
+    "title": "[Presidential Daily Diary] 2/10/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12848-019, Container 12848",
+    "date": "1991-02-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415891102",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_10_91-12848-019_415891102.pdf",
+    "digitalObjectCount": 7,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-02-10"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081433"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Yitzhak Shamir, February 10, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081433",
+        "title": "Telephone Call to Yitzhak Shamir, February 10, 1991",
+        "date": "1991-02-10",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081433"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-02-10 - Telephone Call to Yitzhak Shamir, February 10, 1991 (Israel Track).",
+      "[Presidential Daily Diary] 2/10/1991 The President began his day with a conference call with Yitzhak Shamir, Prime Minister of Israel.",
+      "2:00 2:06 P The President talked on a conference call with: Yitzhak Shamir, Prime Minister of Israel C.",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 1991-02-10 Telephone Call to Yitzhak Shamir, February 10, 1991 Telephone Call to Yitzhak Shamir, Febr"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to Yitzhak Shamir, February 10, 1991. OCR/catalog markers: Israel leadership, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-02-10; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 2/10/1991, 12848-019, Container 12848, 1991-02-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891102; https://catalog.archives.gov/id/415891102; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_10_91-12848-019_415891102.pdf."
+  },
+  {
+    "id": "source-candidate-415891253",
+    "naid": "415891253",
+    "title": "[Presidential Daily Backup] 4/26/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12855-014, Container 12855",
+    "date": "1991-04-26",
+    "catalogUrl": "https://catalog.archives.gov/id/415891253",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_26_91-12855-014_415891253.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "But he did have a meeting with Prime Minister Shamir."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Israel leadership, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/26/1991, 12855-014, Container 12855, 1991-04-26. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891253; https://catalog.archives.gov/id/415891253; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_26_91-12855-014_415891253.pdf."
+  },
+  {
+    "id": "source-candidate-415891277",
+    "naid": "415891277",
+    "title": "[Presidential Daily Backup] 5/8/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12857-002, Container 12857",
+    "date": "1991-05-08",
+    "catalogUrl": "https://catalog.archives.gov/id/415891277",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_08_91-12857-002_415891277.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-05-08",
+      "Middle East Peace",
+      "Shimon Peres"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081637"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Shimon Peres of the Israeli Labor Party, May 8, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081637",
+        "title": "Meeting with Shimon Peres of the Israeli Labor Party, May 8, 1991",
+        "date": "1991-05-08",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081637"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-05-08 - Meeting with Shimon Peres of the Israeli Labor Party, May 8, 1991 (Israel Track).",
+      "Report Republican Eagles redacted (6 pp.) 5/8/91 (b)(6) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 5/8/1991 Pinksheet Number: LT10223 OA/ID Number: 12857-002 Date Closed: 4/27/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Wednesday, May 8, 1991 8:00 am Intel",
+      "Crew of Space Shuttle Atlantis (Holiday) 12:00 pm Lunch with the Vice President Oval Office (60 min) 1:00 pm Meeting with Senator Lugar Oval Office (20 min) and Congressman Solarz (Scowcroft) (Distributed Separately) UNP 05/07/91 6:00 pm Withdrawal/Redaction Sheet (George Bush Library) Document No.",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 1:30 pm Meeting with Secretary Baker Oval Office (30 min) 2:00 pm Personal Staff Time Oval Office (60",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 1113 ADD BAKER, SCOWCROFT, GATES 1116 POTUS IN CABINET Room 1209 POTUS IN OVAL / ADD CARD, VP 1211 PI",
+      "Mohr - Room 324 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH MAY 8th , 19 91 TIME NAME ACTION PLACED DISC OUT AM SECRETARY JAMES A.",
+      "420 TLKD-OK OUT AM INC PM OUT XAM GENERAL BRENT SCOWCROFT OFC: WASHINGTON, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Shimon Peres of the Israeli Labor Party, May 8, 1991. OCR/catalog markers: Middle East peace, Israel leadership, Palestinian channel, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-05-08; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 5/8/1991, 12857-002, Container 12857, 1991-05-08. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891277; https://catalog.archives.gov/id/415891277; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_08_91-12857-002_415891277.pdf."
+  },
+  {
+    "id": "source-candidate-415891310",
+    "naid": "415891310",
+    "title": "[Presidential Daily Backup] 5/24/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12858-015, Container 12858",
+    "date": "1991-05-24",
+    "catalogUrl": "https://catalog.archives.gov/id/415891310",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_24_91-12858-015_415891310.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-05-24",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081701"
+    ],
+    "relatedRecordTitles": [
+      "President's Telephone Call from Prime Minister Shamir of Israel, May 24, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081701",
+        "title": "President's Telephone Call from Prime Minister Shamir of Israel, May 24, 1991",
+        "date": "1991-05-24",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081701"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-05-24 - President's Telephone Call from Prime Minister Shamir of Israel, May 24, 1991 (Israel Track).",
+      "1991-05-24 President's Telephone Call from Prime Minister Shamir of Israel, May 24, 1991 President's Telephone Call from Prime Minister Shamir of Israel, May 24, 1991 Israel Track Yitzhak Shamir Israel"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: President's Telephone Call from Prime Minister Shamir of Israel, May 24, 1991. OCR/catalog markers: Israel leadership, Syria/Lebanon, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-05-24; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 5/24/1991, 12858-015, Container 12858, 1991-05-24. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891310; https://catalog.archives.gov/id/415891310; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_24_91-12858-015_415891310.pdf."
+  },
+  {
+    "id": "source-candidate-415891312",
+    "naid": "415891312",
+    "title": "[Presidential Daily Backup] 5/25/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12858-017, Container 12858",
+    "date": "1991-05-25",
+    "catalogUrl": "https://catalog.archives.gov/id/415891312",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_25_91-12858-017_415891312.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Loan guarantees/settlements",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "q: asked Shamir not to settle them in occupied territories? a: I talked to him yesterday.",
+      "As a matter of fact, Shamir called me What he was calling about, was the role in the falashas and i told him we weren't going to give up on this peace process and he said he hoped we wouldn't and that we must stay involved and we will."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Israel leadership, Loan guarantees/settlements, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 5/25/1991, 12858-017, Container 12858, 1991-05-25. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891312; https://catalog.archives.gov/id/415891312; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_25_91-12858-017_415891312.pdf."
+  },
+  {
+    "id": "source-candidate-415891529",
+    "naid": "415891529",
+    "title": "[Presidential Daily Diary]  9/11/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12867-009, Container 12867",
+    "date": "1991-09-11",
+    "catalogUrl": "https://catalog.archives.gov/id/415891529",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_11_91-12867-009_415891529.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Loan guarantees/settlements",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "10:03 11:00 The President participated in a meeting with the Republican Congressional leadership to discuss the changes in the Soviet Union, the loan guarantees for Israel, and domestic policy issues."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Loan guarantees/settlements, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary]  9/11/1991, 12867-009, Container 12867, 1991-09-11. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891529; https://catalog.archives.gov/id/415891529; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_11_91-12867-009_415891529.pdf."
+  },
+  {
+    "id": "source-candidate-415891544",
+    "naid": "415891544",
+    "title": "[Presidential Daily Backup] 9/18/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12867-024, Container 12867",
+    "date": "1991-09-18",
+    "catalogUrl": "https://catalog.archives.gov/id/415891544",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_18_91-12867-024_415891544.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Airgorce One pool report page two Andrewsetox Andrews to the Grand Canyon Fitzwater came back and said that president Bush called Saudi King Fahd over the weekend presumably toediscuss the deployment."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Israel leadership, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/18/1991, 12867-024, Container 12867, 1991-09-18. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891544; https://catalog.archives.gov/id/415891544; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_18_91-12867-024_415891544.pdf."
+  },
+  {
+    "id": "source-candidate-415891619",
+    "naid": "415891619",
+    "title": "[Presidential Daily Backup] 10/25/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12871-010, Container 12871",
+    "date": "1991-10-25",
+    "catalogUrl": "https://catalog.archives.gov/id/415891619",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_25_91-12871-010_415891619.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Middle East Peace",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Middle East peace",
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Q Are you going to be in a position in Madrid at the meeting with President Gorbachev to answer some of his proposals about nuclear weapons with proposals of your own? THE PRESIDENT: No."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Middle East peace, Israel leadership, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 10/25/1991, 12871-010, Container 12871, 1991-10-25. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891619; https://catalog.archives.gov/id/415891619; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_25_91-12871-010_415891619.pdf."
+  },
+  {
+    "id": "source-candidate-415891701",
+    "naid": "415891701",
+    "title": "[Presidential Daily Backup] 12/4/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12875-008, Container 12875",
+    "date": "1991-12-04",
+    "catalogUrl": "https://catalog.archives.gov/id/415891701",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_04_91-12875-008_415891701.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-12-04",
+      "Yitzhak Rabin"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082035"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Yitzhak Rabin of Israel, December 4, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082035",
+        "title": "Meeting with Yitzhak Rabin of Israel, December 4, 1991",
+        "date": "1991-12-04",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082035"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-12-04 - Meeting with Yitzhak Rabin of Israel, December 4, 1991 (Israel Track).",
+      "Schedule Motorcade Assignments redacted (1 pp.) 12/4/91 (b)(7)(c), (b)(7)(e), (b)(7)(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 12/4/1991 Pinksheet Number: LT10428 OA/ID Number: 12875-008 Date Closed: 6/3/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Wedn",
+      "Bush 8:46 The President to the South Grounds 8:56 The President to the Second Floor 10:15 Retired THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH DECEMBER 4th 91 , 19 TIME NAME ACTION PLACED DISC OUT 6:05 AM 6:06 SITUATION ROOM TLKD-OK WITH MR.",
+      "408 TLKD-OK 6:21 A.M.",
+      "543 TLKD-OK 7:22 A.M.",
+      "INC XRM 214-692-6604 TLKD-OK 7:34 A.M.",
+      "INC PM 718-667-7629 TLKD-OK 7:45 A.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Yitzhak Rabin of Israel, December 4, 1991. OCR/catalog markers: Israel leadership, Syria/Lebanon, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-12-04; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/4/1991, 12875-008, Container 12875, 1991-12-04. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891701; https://catalog.archives.gov/id/415891701; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_04_91-12875-008_415891701.pdf."
+  },
+  {
+    "id": "source-candidate-415891700",
+    "naid": "415891700",
+    "title": "[Presidential Daily Diary] 12/4/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12875-007, Container 12875",
+    "date": "1991-12-04",
+    "catalogUrl": "https://catalog.archives.gov/id/415891700",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_04_91-12875-007_415891700.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-12-04",
+      "Yitzhak Rabin"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082035"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Yitzhak Rabin of Israel, December 4, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082035",
+        "title": "Meeting with Yitzhak Rabin of Israel, December 4, 1991",
+        "date": "1991-12-04",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082035"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-12-04 - Meeting with Yitzhak Rabin of Israel, December 4, 1991 (Israel Track).",
+      "7:54 8:03 The President met with his Chief of Staff, John H.",
+      "8:45 9:00 The President met with: Mr.",
+      "9:52 9:54 The President met with Mr.",
+      "9:55 ? The President met with Robert M.",
+      "The President met with: 11:40 11:41 Robert A.",
+      "1:20 1:25 The President met with Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Yitzhak Rabin of Israel, December 4, 1991. OCR/catalog markers: Israel leadership, Syria/Lebanon, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-12-04; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 12/4/1991, 12875-007, Container 12875, 1991-12-04. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891700; https://catalog.archives.gov/id/415891700; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_04_91-12875-007_415891700.pdf."
+  },
+  {
+    "id": "source-candidate-415891721",
+    "naid": "415891721",
+    "title": "[Presidential Daily Backup] 12/14/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12876-004, Container 12876",
+    "date": "1991-12-14",
+    "catalogUrl": "https://catalog.archives.gov/id/415891721",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_14_91-12876-004_415891721.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Prime Minister Shamir called the President to express his gratitude for the President's efforts to revoke the determination."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Israel leadership, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/14/1991, 12876-004, Container 12876, 1991-12-14. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891721; https://catalog.archives.gov/id/415891721; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_14_91-12876-004_415891721.pdf."
+  },
+  {
+    "id": "source-candidate-415891723",
+    "naid": "415891723",
+    "title": "[Presidential Daily Backup] 12/15/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12876-006, Container 12876",
+    "date": "1991-12-15",
+    "catalogUrl": "https://catalog.archives.gov/id/415891723",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_15_91-12876-006_415891723.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Prime Minister Shamir called the President to express his gratitude for the President's efforts to revoke the determination."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Israel leadership, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/15/1991, 12876-006, Container 12876, 1991-12-15. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891723; https://catalog.archives.gov/id/415891723; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_15_91-12876-006_415891723.pdf."
+  },
+  {
+    "id": "source-candidate-415891725",
+    "naid": "415891725",
+    "title": "[Presidential Daily Backup] 12/16/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12876-008, Container 12876",
+    "date": "1991-12-16",
+    "catalogUrl": "https://catalog.archives.gov/id/415891725",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_16_91-12876-008_415891725.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-12-16",
+      "Prime Minister Shamir",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082107"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with Prime Minister Shamir of Israel, December 16, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082107",
+        "title": "Telephone Conversation with Prime Minister Shamir of Israel, December 16, 1991",
+        "date": "1991-12-16",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082107"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-12-16 - Telephone Conversation with Prime Minister Shamir of Israel, December 16, 1991 (Israel Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells SCHEDULE OF THE PRESIDENT Monday, December 16, 1991 8:00 am Intelligence Briefing Oval Office (15 min",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 4:00 pm Administrative Time (30 min) Oval Office 4:30 pm Meeting with Chief of Staff (30 min) Oval.",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM DECEMBER 16th 91 PRESIDENT BUSH .",
+      "2:58 (b)(6) TLKD-OK 2:49 P.M.",
+      "730 TLKD-OK 3:16 P.M.",
+      "432 TLKD-OK 4:19 P.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with Prime Minister Shamir of Israel, December 16, 1991. OCR/catalog markers: Madrid, Israel leadership, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-12-16; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/16/1991, 12876-008, Container 12876, 1991-12-16. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891725; https://catalog.archives.gov/id/415891725; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_16_91-12876-008_415891725.pdf."
+  },
+  {
+    "id": "source-candidate-415891724",
+    "naid": "415891724",
+    "title": "[Presidential Daily Diary] 12/16/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12876-007, Container 12876",
+    "date": "1991-12-16",
+    "catalogUrl": "https://catalog.archives.gov/id/415891724",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_16_91-12876-007_415891724.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-12-16",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082107"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with Prime Minister Shamir of Israel, December 16, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082107",
+        "title": "Telephone Conversation with Prime Minister Shamir of Israel, December 16, 1991",
+        "date": "1991-12-16",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082107"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-12-16 - Telephone Conversation with Prime Minister Shamir of Israel, December 16, 1991 (Israel Track).",
+      "7:04 7:09 The President met with Mr.",
+      "Skinner 8:40 8:45 The President met with: Vice President Quayle Mr.",
+      "Skinner 8:45 8:47 The President met with: Vice President Quayle Mr.",
+      "For a list of attendees, see APPENDIX \"A.\" 8:54 8:59 The President met with Vice President Quayle.",
+      "8:59 9 : 30 The President met with: Vice President Quayle Mr.",
+      "Skinner The President met with: 9:30 9:37 Vice President Quayle 9:30 9:43 Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with Prime Minister Shamir of Israel, December 16, 1991. OCR/catalog markers: Israel leadership, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-12-16; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 12/16/1991, 12876-007, Container 12876, 1991-12-16. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891724; https://catalog.archives.gov/id/415891724; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_16_91-12876-007_415891724.pdf."
+  },
+  {
+    "id": "source-candidate-415891726",
+    "naid": "415891726",
+    "title": "[Presidential Daily Diary] 12/17/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12876-009, Container 12876",
+    "date": "1991-12-17",
+    "catalogUrl": "https://catalog.archives.gov/id/415891726",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_17_91-12876-009_415891726.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Middle East Peace"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Fitzwater 11:05 11:26 The President met with David Levi, Minister of Foreign Affairs, State of Israel to discuss the United Nations (UN) General Assembly's revocation of the \"Zionism is Racism\" determination and the Middle East peace process."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Israel leadership, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 12/17/1991, 12876-009, Container 12876, 1991-12-17. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891726; https://catalog.archives.gov/id/415891726; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_17_91-12876-009_415891726.pdf."
+  },
+  {
+    "id": "source-candidate-415891897",
+    "naid": "415891897",
+    "title": "[Presidential Daily Backup] 3/10/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12883-014, Container 12883",
+    "date": "1992-03-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415891897",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_10_92-12883-014_415891897.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-03-10"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082139"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Israeli Chief Rabbi Avraham Shapiro, March 10, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082139",
+        "title": "Meeting with Israeli Chief Rabbi Avraham Shapiro, March 10, 1992",
+        "date": "1992-03-10",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082139"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-03-10 - Meeting with Israeli Chief Rabbi Avraham Shapiro, March 10, 1992 (Israel Track).",
+      "Memo Telephone Memorandum: President Bush, p.",
+      "Memo From Mary Matalin to POTUS Re: Recommended telephone call 1/24/92 P-5 [Open Upon Deed of Gift - March 16, 2015] (1 pp.) 04.",
+      "Memo From Brent Scowcroft to POTUS Re: Meeting with Chief Rabbi 3/9/9/2 (b)(1) C Avraham Shapiro (4 pp.) 05.",
+      "Memo From Brent Scowcroft to POTUS Re: Meeting with Max Fischer 3/9/9/2 (b)(1) C (2 pp.) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 3/10/1992 Pinksheet Number: KO0420 OA/ID Number: 12883-014 Date Closed: 11/4/2004 FOIA/Sys Case #: 2002-1005-S Re-review Case #: 2005-0140-S P-2/P-5 Review Case #: BF SCHEDULE OF THE PRESIDENT T",
+      "1:45 pm Personal Staff Time Oval Office (15 min) 2:00 pm Meeting with Select Members Cabinet Room (20 min) of Congress (Calio) (TAB C) 2:20 pm Personal Staff Time Oval Office (40 min) 3:00 pm Meeting with Max Fisher Oval Office (30 min) (Scowcroft) (Distributed Separately) 3:30 pm Personal Staff Time Oval Office (15 min) 3:45 pm Administrative Time Oval Office (45 min) 4:30 pm Meeting with Chief of Staff Oval Office (30 min) 5:30 7:30 pm B United Negro College State Floor Fund Dinner (Firestone)",
+      "THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM MARCH 10th , 19 92 PRESIDENT BUSH TIME NAME ACTION PLACED DISC OUT 6:59 AM 7:10 CONGRESSMAN JOHN PAUL HAMMERSCHMIDT RES: ALEXANDRIA, VA."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Israeli Chief Rabbi Avraham Shapiro, March 10, 1992. OCR/catalog markers: Israel leadership, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-03-10; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 3/10/1992, 12883-014, Container 12883, 1992-03-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891897; https://catalog.archives.gov/id/415891897; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_10_92-12883-014_415891897.pdf."
+  },
+  {
+    "id": "source-candidate-415892020",
+    "naid": "415892020",
+    "title": "[Presidential Daily Backup] 5/10/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12889-018, Container 12889",
+    "date": "1992-05-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415892020",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_10_92-12889-018_415892020.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-05-10",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082215"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with Prime Minister Shamir of Israel, May 10, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082215",
+        "title": "Telcon with Prime Minister Shamir of Israel, May 10, 1992",
+        "date": "1992-05-10",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082215"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-05-10 - Telcon with Prime Minister Shamir of Israel, May 10, 1992 (Israel Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM MAY 10 92 PRESIDENT BUSH , 19 TIME NAME PLACED DISC A",
+      "DNC 1:13 PM 1:17 203-869-2488 TLKD-OK 1:14 P.M.",
+      "INC 4:18 PM 4:21 (b) (6) TLKD-OK 4:19 P.M.",
+      "6:57 7:06 (b) (6) TLKD-OK 6:57 P.M.",
+      "(b) (6) INC 7:00 PM 7:12 TLKD-OK 7:10 P.M.",
+      "OUT AM INC PM OUT AM INC PM THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD May 10 , 19 92 TIME NAME PLACED DISC ACTION OUT 6:58AM 7:08 Conference Call: Tlkd-ok Prime Minister Yitzhak Shamir Residence, Jerusalem, Israel 7:05 AM INC PM (b) (6) OUT AM General Brent Scowcroft Residence, Bethesda, Maryland INC PM White House Signal 7-3881 OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with Prime Minister Shamir of Israel, May 10, 1992. OCR/catalog markers: Israel leadership, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-05-10; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 5/10/1992, 12889-018, Container 12889, 1992-05-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892020; https://catalog.archives.gov/id/415892020; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_10_92-12889-018_415892020.pdf."
+  },
+  {
+    "id": "source-candidate-415892019",
+    "naid": "415892019",
+    "title": "[Presidential Daily Diary] 5/10/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12889-017, Container 12889",
+    "date": "1992-05-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415892019",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_10_92-12889-017_415892019.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-05-10",
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082215"
+    ],
+    "relatedRecordTitles": [
+      "Telcon with Prime Minister Shamir of Israel, May 10, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082215",
+        "title": "Telcon with Prime Minister Shamir of Israel, May 10, 1992",
+        "date": "1992-05-10",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082215"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-05-10 - Telcon with Prime Minister Shamir of Israel, May 10, 1992 (Israel Track).",
+      "7:05 7:08 P The President talked on a conference call with: Yitzhak Shamir, Prime Minister of the State of Israel Brent Scowcroft, Assistant for National Security Affairs Bruce O."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telcon with Prime Minister Shamir of Israel, May 10, 1992. OCR/catalog markers: Israel leadership, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-05-10; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 5/10/1992, 12889-017, Container 12889, 1992-05-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892019; https://catalog.archives.gov/id/415892019; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-05_10_92-12889-017_415892019.pdf."
+  },
+  {
+    "id": "source-candidate-415892150",
+    "naid": "415892150",
+    "title": "[Presidential Daily Backup] 7/13/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12895-022, Container 12895",
+    "date": "1992-07-13",
+    "catalogUrl": "https://catalog.archives.gov/id/415892150",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_13_92-12895-022_415892150.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-07-13",
+      "Yitzhak Rabin"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082311"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with Prime Minister Rabin of Israel on July 13, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082311",
+        "title": "Telephone Conversation with Prime Minister Rabin of Israel on July 13, 1992",
+        "date": "1992-07-13",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082311"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-07-13 - Telephone Conversation with Prime Minister Rabin of Israel on July 13, 1992 (Israel Track).",
+      "Telephone Telephone numbers redacted (2 pp.) 7/13/92 (b)(6) Memo Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 7/13/1992 Pinksheet Number: LT10562 OA/ID Number: 12895-022 Date Closed: 5/19/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: O THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PR",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD July 13, 199: TIME NAME PLACED DIS",
+      "Baker III Tlkd-ok Office, Washington, D.C.",
+      "Kemp Tlkd-ok Residence, Bethesda, Maryland 8:03 AM INC PM White House Signal 7-3118 OUT 7:49 AM 8:29 Mr.",
+      "Kaufman Tlkd-ok Residence, Springfield, Virginia 8:28 AM XNC PM (b)(6) OUT 8:10 AM 8:27 Mr.",
+      "Bond Tlkd-ok J.W."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with Prime Minister Rabin of Israel on July 13, 1992. OCR/catalog markers: Israel leadership, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-07-13; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 7/13/1992, 12895-022, Container 12895, 1992-07-13. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892150; https://catalog.archives.gov/id/415892150; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_13_92-12895-022_415892150.pdf."
+  },
+  {
+    "id": "source-candidate-415892152",
+    "naid": "415892152",
+    "title": "[Presidential Daily Backup] 7/14/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12895-024, Container 12895",
+    "date": "1992-07-14",
+    "catalogUrl": "https://catalog.archives.gov/id/415892152",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_14_92-12895-024_415892152.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Pyles Boys Camp (Demarest) 12:40 pm Departs Sequoia National Forest for Bakersfield enroute San Diego TBD Interview with USA Today Aboard Air (Smith) Force One 2:45 pm Arrives Mission San Diego San Diego, de Alcala California UNP 07/13/92 6:00 pm 3:05 pm Bilateral Meeting with Mexican President Salinas (Scowcroft) 4:10 pm Joint Press Availability (Fitzwater) 4:35 pm The President and President Salinas arrive Jack Murphy Stadium for All Stars Base- ball Game (McBride) 7:25 pm Departs San Diego fo"
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 7/14/1992, 12895-024, Container 12895, 1992-07-14. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892152; https://catalog.archives.gov/id/415892152; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-07_14_92-12895-024_415892152.pdf."
+  },
+  {
+    "id": "source-candidate-415892206",
+    "naid": "415892206",
+    "title": "[Presidential Daily Diary] 8/10/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12898-009, Container 12898",
+    "date": "1992-08-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415892206",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-08_10_92-12898-009_415892206.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Yitzhak Rabin"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Yitzhak (Leah) Rabin, wife 10:23 10:26 The President and Prime Minister Rabin participated in a question and answer session with members of the press.",
+      "10:30? 11:00? The President met with: Prime Minister Rabin Brent Scowcroft, Assistant for National Security Affairs 11:30 1:00 The President hosted a working luncheon for Prime Minister Rabin."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 8/10/1992, 12898-009, Container 12898, 1992-08-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892206; https://catalog.archives.gov/id/415892206; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-08_10_92-12898-009_415892206.pdf."
+  },
+  {
+    "id": "source-candidate-415892209",
+    "naid": "415892209",
+    "title": "[Presidential Daily Backup] 8/11/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12898-012, Container 12898",
+    "date": "1992-08-11",
+    "catalogUrl": "https://catalog.archives.gov/id/415892209",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-08_11_92-12898-012_415892209.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Yitzhak Rabin"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Rabin, depart Walker's Point for Washington 1:10 pm B Arrive White House South Lawn 1:15 pm Lunch Oval Office (45 min) 2:00 pm Prebrief for the Stone Phillips Cabinet Room (30 min) Interview (Smith) (TAB A) 2:30 pm Interview with Stone Phillips Oval Office (30 min) (Smith) (TAB B) 3:15 pm Roundtable with Represent- Roosevelt Room (30 min) atives of Jewish Media (Demarest) (TAB C) 3:45 pm Personal Staff Time Oval Office (15 min) 4:00 pm Meeting with Congressional Cabinet Room (45 min) Leadership ",
+      "BUSH FOR KENNEBUNKPORT, MAINE AUGUST 7 - 11, 1992 EVENTS: Greeting Prime Minister Rabin One on One Bilateral Meeting with Prime Minister Rabin Working Lunch Expanded Bilateral Meeting Working Breakfast Joint Press Availability DRESS: Men - Casual Women - Casual CONTACTS: Office of Presidential Advance Ed Murnane - 202/456-7565 Trip Coordinator Lori Rosso - 202/456-7565 Kennebunkport, Maine Signal - 207/967-5200 - * 96 40 000 ADVANCE: Dale Jenkins - LEAD Lenny Cherson - SITE Kim Fuller - PRESS (b",
+      "EVENT: ONE ON ONE BILATERAL MEETING WITH PRIME MINISTER RABIN CLOSED PRESS U.S.",
+      "Scowcroft (Notetaker) Page Five 9:35 am THE PRESIDENT, with Prime Minister Rabin, arrives Residence and begins participation in One on One Bilateral Meeting.",
+      "Zalam Shoval, Israeli Ambassador 1:15 pm THE PRESIDENT begins participation in Expanded Bilateral Meeting.",
+      "9:40 am THE PRESIDENT, with Prime Minister Rabin, begins participation in Question and Answer Session."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/11/1992, 12898-012, Container 12898, 1992-08-11. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892209; https://catalog.archives.gov/id/415892209; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-08_11_92-12898-012_415892209.pdf."
+  },
+  {
+    "id": "source-candidate-415892403",
+    "naid": "415892403",
+    "title": "[Presidential Daily Backup] 11/16/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Israel Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26863-002, Container 26863",
+    "date": "1992-11-16",
+    "catalogUrl": "https://catalog.archives.gov/id/415892403",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-11_16_92-26863-002_415892403.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Diagram Security diagrams - trip to Blair House for Benjamin Franklin 11/16/92 (b)(7(c), (b)(7)(e), Award Ceremony (2 pp.) (b)(7(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 11/16/1992 Pinksheet Number: LT10511 OA/ID Number: 26863-002 Date Closed: 6/15/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5",
+      "- tennis Dohn w/David Breaux Bates and 00 arrive Hart Building Bennett Johnston is Depart Hart Building 20 Arrive WH - Potus to Residence see separate schedule for Blair House event SCHEDULE OF THE PRESIDENT Monday, November 16, 1992 8:00 am Personal Staff Time Oval Office (30 min) 8:30 am Intelligence Briefing Oval Office (15 min) (Scowcroft) National Security Briefing Oval Office 8:45 am (30 min) (Scowcroft) 9:15 am Administrative Time Oval Office (45 min) 10:00 am Meeting with President Oval ",
+      "4:48 PM XXX 4:47 PM 4:49 (b) (7)(F) OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM PRESIDENTIAL MOVEMENTS LOCATION Washington, D.C DATE 16 November 1992 TIME MOVEMENTS 0659 South Grounds 0706 Oval Office 1327 South Grounds 1331 Oval Office 1438 South Grounds (LOW KEY) 1456 Depart South Grounds via Motorcade (LOW KEY) 1500 Arrive Capitol Hill (LOW KEY) 1645 Depart Capitol Hill (LOW KEY) 1652 Arrive South Grounds (LOW KEY) 1653 Residence 1835 South Grounds 1837",
+      "Baker, III, Chief of Staff Brent Scowcroft, Assistant to the President for National Security Affairs Lawrence Eagleburger, Deputy Secretary of State Edmund Hull, Director for Near East and South Asian Affairs Israel President Chaim Herzog Zalman Shoval, Israeli Ambassador to the United State Nisan Limor, Director General of the Presidency Eita Den Tzur, Deputy Director for North American Affairs THE WHITE HOUSE WASHINGTON VISIT OF THE PRESIDENT TO WASHINGTON, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/16/1992, 26863-002, Container 26863, 1992-11-16. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892403; https://catalog.archives.gov/id/415892403; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-11_16_92-26863-002_415892403.pdf."
+  },
+  {
+    "id": "source-candidate-415889607",
+    "naid": "415889607",
+    "title": "[Presidential Daily Backup] 1/24/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12789-010, Container 12789",
+    "date": "1989-01-24",
+    "catalogUrl": "https://catalog.archives.gov/id/415889607",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-01_24_89-12789-010_415889607.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-01-24"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079887"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Javier Perez de Cuellar of the United Nations, January 24, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079887",
+        "title": "Meeting with Javier Perez de Cuellar of the United Nations, January 24, 1989",
+        "date": "1989-01-24",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079887"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-01-24 - Meeting with Javier Perez de Cuellar of the United Nations, January 24, 1989 (Madrid-Multilateral Track).",
+      "& SCHEDULE OF THE PRESIDENT 20 an Call Tuesday, January 24, 1989 (b)(3) Bob Gates 8:00 am 8:00 an National Security Briefing send S., Oval Office (45 min) (Scowcroft) Sunsumer UP but 8:42 The 8:17 (b)(3) dirt 8:18 Date ant 8192 8:45 am 8:20 Extract 8:20 Eatsin Meeting with Governor Sununu Oval Office (30 min) 9:06 V.P., Sunana out 9:15 am Personal Staff Time (15 min) + Oval Office 9:19 Scowlight in 9:30 rever 9:33 scontination 9:30 am Use Meeting with Bipartisan Open photo 9:37 vpinout Cabinet R",
+      "(TAB UP, B) speakerwright nuckl, Fuly Personal Staff Time Oval Office (45 min) 11:37 all dpt creept tons, mike! Survar 11:18 Potus Scoweroft at study 11:26 return to Oval, add on Felewate 11:28 12:00 noon Lunch and Personal Staff Time 11.37 add Dumon Brady (90 min) Oval Office 41 dpt 11:42 72 Dama stapt Darmon 1:30 pm Meeting (Gray) with Judge Frank Nebeker & photos Oval Office 12.01 (15 min) (TAB C) 1:45 pm Personal Staff Time Oval Office (3 hrs) 12in 12:12 2 or a wale upty siek see YORK 4:45 p",
+      "(1 hour) Leadership Meeting Meeting with President Bush, (Oval Office) 10:30 a.m.",
+      "Meeting with Dan Evans (WW Office) (15 mins) 11:30 a.m.",
+      "Meeting with Press (Senate Office) (25 mins) (Beckwith/Gribbin) Meeting with Senator Robert Dole, (U.",
+      "Meeting with Senator George (Senate Office) (15 mins) Mitchell, Senate Majority Leader (Gribbin) 1:30 p.m."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Javier Perez de Cuellar of the United Nations, January 24, 1989. OCR/catalog markers: Madrid, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-01-24; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 1/24/1989, 12789-010, Container 12789, 1989-01-24. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889607; https://catalog.archives.gov/id/415889607; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-01_24_89-12789-010_415889607.pdf."
+  },
+  {
+    "id": "source-candidate-415889820",
+    "naid": "415889820",
+    "title": "[Presidential Daily Diary] 5/11/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12796-019, Container 12796",
+    "date": "1989-05-11",
+    "catalogUrl": "https://catalog.archives.gov/id/415889820",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_11_89-12796-019_415889820.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "David Pacielly White House Situation Room INC PM White House Signal 2-2264 OUT 11:20 AM Conference Call: WCL 11:29 AM Prime Minister Tlkd-ok INC PM 1:33 Felipe Marquez Gonzalez 1:21 PM OUT AM Residence, Madrid, Spain (b)(6) INC PM OUT AM Ms."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 5/11/1989, 12796-019, Container 12796, 1989-05-11. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889820; https://catalog.archives.gov/id/415889820; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_11_89-12796-019_415889820.pdf."
+  },
+  {
+    "id": "source-candidate-415889982",
+    "naid": "415889982",
+    "title": "[Presidential Daily Diary] 7/31/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12802-023, Container 12802",
+    "date": "1989-07-31",
+    "catalogUrl": "https://catalog.archives.gov/id/415889982",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_31_89-12802-023_415889982.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-07-31"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080135"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call Initiated to Javier Perez de Cuellar, July 31, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080135",
+        "title": "Telephone Call Initiated to Javier Perez de Cuellar, July 31, 1989",
+        "date": "1989-07-31",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080135"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-07-31 - Telephone Call Initiated to Javier Perez de Cuellar, July 31, 1989 (Madrid-Multilateral Track).",
+      "For a list of passengers, see APPENDIX \"D.\" 11:30 Note: The President cancelled his scheduled stops to Las Vegas, Nevada and Oklahoma City, Oklahoma due to the hostage situation in Lebanon.",
+      "For a list of passengers, see APPENDIX \"E.\" 12:05 12:09 P The President talked on a conference call with: Javier Perez de Cuellar, Secretary General of the United Nations (UN) Robert R.",
+      "MONDAY IN OUT PHONE ACTIVITY 2:21 2:39 The President met with: Mr.",
+      "2:47 2:50 The President met with his Personal Assistant, Donald C.",
+      "3:47 3:48 The President met with: Mr.",
+      "5:13 5:14 The President met with Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call Initiated to Javier Perez de Cuellar, July 31, 1989. OCR/catalog markers: Madrid, Syria/Lebanon, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-07-31; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 7/31/1989, 12802-023, Container 12802, 1989-07-31. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889982; https://catalog.archives.gov/id/415889982; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_31_89-12802-023_415889982.pdf."
+  },
+  {
+    "id": "source-candidate-415890155",
+    "naid": "415890155",
+    "title": "[Presidential Daily Backup] 10/25/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12809-012, Container 12809",
+    "date": "1989-10-25",
+    "catalogUrl": "https://catalog.archives.gov/id/415890155",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_25_89-12809-012_415890155.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-10-25"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080313"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with United Nations Secretary-General Perez de Cuellar, October 25, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080313",
+        "title": "Telephone Conversation with United Nations Secretary-General Perez de Cuellar, October 25, 1989",
+        "date": "1989-10-25",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080313"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-10-25 - Telephone Conversation with United Nations Secretary-General Perez de Cuellar, October 25, 1989 (Madrid-Multilateral Track).",
+      "McClure to POTUS 10/25/89 P-5 Re: meeting with Democratic Senators on capital gains (6 pp.) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 10/25/89 Pinksheet Number: RML366 OA/ID Number: 12809-012 Date Closed: 7/22/2002 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Wednesday, Oct",
+      "Senators Oval Office (30 min) (McClure) (TAB A) 10:30 am Personal Staff Time Oval Office (30 min) 11:00 am Deliver Remarks at Briefing 450 OEOB (10 min) for Institute of International Education (Demarest) open (TAB B) 11:15 am Staff Time Oval Office (15 min) (Fitzwater) (TAB C) 11:30 am Interview with Latin American Roosevelt Room (30 min) Journalists (Fitzwater) (TAB D) 12:00 pm Lunch_ Oval Office (75 min) 1:15 pm Personal Staff Time Oval Office (15 min) 1:30 pm Meeting with Secretary Baker Ova",
+      "2:30 pm Meeting with Governor Sun (30 min) 3:00 pm Staff Time (40 min) (Sununu) ( GEN.",
+      "3:40 pm Administrative Time (20 min) vessen 4:00 pm Meeting with David Adicke spead Emissa tottenoi (30 min) (Presock) POW/MIA Afferia 4:30 pm Personal Staff Time (30 min) 7:10 pm The President and Mrs.",
+      "McCLURE For SUBJECT: Attendance at the October 25, 1989, Capital Gains Tax Reform Meeting The following persons were in attendance at the Capital Gains Tax Reform Meeting with Democratic Senators held on October 25, 1989: The President The Vice President Nicholas Brady, Secretary of the Treasury Richard Darman, Director, Office of Management and Budget Congressional Participation Senator Brock Adams (WA) Senator Max Baucus (MT) Senator Christopher Dodd (CT) Senator Wyche Fowler (GA) Senator John",
+      "Room 213 Sadruddin and Kathy Aga Khan - Queens Bedroom THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM EASTERN DAYLIGHT-TIME OCTOBER 25th , 1989 PRESIDENT-BUSH TIME NAME ACTION PLACED DISC OUT 9:36 AM MR."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with United Nations Secretary-General Perez de Cuellar, October 25, 1989. OCR/catalog markers: Madrid, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-10-25; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 10/25/1989, 12809-012, Container 12809, 1989-10-25. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890155; https://catalog.archives.gov/id/415890155; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_25_89-12809-012_415890155.pdf."
+  },
+  {
+    "id": "source-candidate-415890273",
+    "naid": "415890273",
+    "title": "[Presidential Daily Backup] 12/23/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12813-028, Container 12813",
+    "date": "1989-12-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415890273",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_23_89-12813-028_415890273.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Madrid",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Derijck Residence, Waschenbeuren, 7:12 AM West Germany Tlkd-ok INC PM 72-7444 9:40 AM OUT 8:00 AM 8:35 Conference Call: Tlkd-ok Prime Minister Felipe Marquez 8:04 AM Gonzales INC PM OUT AM Residence, Madrid, Spain 549-1700 INC PM OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/23/1989, 12813-028, Container 12813, 1989-12-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890273; https://catalog.archives.gov/id/415890273; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_23_89-12813-028_415890273.pdf."
+  },
+  {
+    "id": "source-candidate-415890327",
+    "naid": "415890327",
+    "title": "[Presidential Daily Backup] 1/19/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12815-018, Container 12815",
+    "date": "1990-01-19",
+    "catalogUrl": "https://catalog.archives.gov/id/415890327",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_19_90-12815-018_415890327.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-01-19"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080449"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Javier Perez de Cuellar, January 19, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080449",
+        "title": "Telephone Call to Javier Perez de Cuellar, January 19, 1990",
+        "date": "1990-01-19",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080449"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-01-19 - Telephone Call to Javier Perez de Cuellar, January 19, 1990 (Madrid-Multilateral Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD January 19 , 19 90 TIME NAME ACTIO",
+      "Miller White House Situation Room INC PM White House Signal 2-2264 QUX 9:02 AM 9:06 General Brent Scowcroft Tlkd-ok Office, Washington, D.C.",
+      "Patty Presock Tlkd-ok Office, Washington, D.C.",
+      "Dorothy LeBlond Tlkd-ok Office, Portland, Maine 1:31 PM INC 1:29 PM 1:33 207-879-4349 via ECHO FOX OUT AM Ms.",
+      "Patty Presock Tlkd-ok Office, Washington, D.C.",
+      "5:37 PM HYCX 5:36 PM 5:44 White House Signal 2-2199 OUT AM Attorney General Tlkd-ok Richard L."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to Javier Perez de Cuellar, January 19, 1990. OCR/catalog markers: Madrid, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-01-19; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 1/19/1990, 12815-018, Container 12815, 1990-01-19. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890327; https://catalog.archives.gov/id/415890327; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_19_90-12815-018_415890327.pdf."
+  },
+  {
+    "id": "source-candidate-415890491",
+    "naid": "415890491",
+    "title": "[Presidential Daily Backup] 4/11/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12823-016, Container 12823",
+    "date": "1990-04-11",
+    "catalogUrl": "https://catalog.archives.gov/id/415890491",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_11_90-12823-016_415890491.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-04-11"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080665"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with UN Secretary General Perez de Cuellar, April 11, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080665",
+        "title": "Telephone Conversation with UN Secretary General Perez de Cuellar, April 11, 1990",
+        "date": "1990-04-11",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080665"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-04-11 - Telephone Conversation with UN Secretary General Perez de Cuellar, April 11, 1990 (Madrid-Multilateral Track).",
+      "Memo Brent Scowcroft to POTUS, Re: meeting with Baltic American 04/10/90 (b)(1) C leaders (9 pp.) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 04/11/90 Pinksheet Number: RML597 OA/ID Number: 12823-0016 Date Closed: 10/17/2002 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: T.M SCHEDULE OF THE PRESIDENT We",
+      "Simmons (Untermeyer) Oval Office 12:00 pm Lunch with Max Fisher Oval Office (60 min) (Card) (TAB D) 1:00 pm Personal Staff Time Oval Office (30 min) 1:30 pm Meeting with Secretary Baker Oval Office (30 min) UNP 04/10/90 6:00 pm Withdrawal/Redaction Sheet (George Bush Library) Document No.",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 2:00 pm Personal Staff Time Oval Office (30 min) 2:30 pm Meeting with Governor Sununu Oval Office (30",
+      "Bush 9:05 The President to the Doctor's Office 9:55 The President to the South Grounds 10:05 The President to the Second Floor 10:15 RETIRED THE WHITE HOUSE WASHINGTON April 10, 1990 MEETING WITH BALTIC AMERICAN LEADERS DATE: April 11, 1990 LOCATION: Roosevelt Room TIME: 10:00 - 10:30 a.m.",
+      "Pavlovskis, Representative, Joint Baltic American National Committee Sandra Aistars, Representative, Joint Baltic American National Committee Lithuanian Community Kazys Bobelis, President, Supreme Committee for the Liberation of Lithuania Casimir Oksas, Chairman, Lithuanian-American Republican National Federation Angela Nelsas, President, Baltic American Freedom League Asta Banionis, Representative of the Lithuanian American Community Anthony Mazieka, Vice President, Baltic American Freedom Leag",
+      "620 TLKD-OK INC XMx OUT AM INC PM OUT 9:36 AM 9:44 SECRETARY JAMES A."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with UN Secretary General Perez de Cuellar, April 11, 1990. OCR/catalog markers: Madrid, Israel leadership, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-04-11; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/11/1990, 12823-016, Container 12823, 1990-04-11. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890491; https://catalog.archives.gov/id/415890491; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_11_90-12823-016_415890491.pdf."
+  },
+  {
+    "id": "source-candidate-415890599",
+    "naid": "415890599",
+    "title": "[Presidential Daily Backup] 6/4/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12828-024, Container 12828",
+    "date": "1990-06-04",
+    "catalogUrl": "https://catalog.archives.gov/id/415890599",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_04_90-12828-024_415890599.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-06-04"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080731"
+    ],
+    "relatedRecordTitles": [
+      "Luncheon Meeting with United Nations Secretary General Perez de Cuellar, June 4, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080731",
+        "title": "Luncheon Meeting with United Nations Secretary General Perez de Cuellar, June 4, 1990",
+        "date": "1990-06-04",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080731"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-06-04 - Luncheon Meeting with United Nations Secretary General Perez de Cuellar, June 4, 1990 (Madrid-Multilateral Track).",
+      "Gates 8:36 8:54 The President met with: Vice President Quayle PHONE & Mr.",
+      "Sununu 8:39 9:06 The President met with: Vice President Quayle MOVEMENT LOG LOG Mr.",
+      "Gates The President met with: 8:54 9:00 Vice President Quayle 8:54 9:00 Mr.",
+      "MONDAY 9:00 9:02 The President met with: Vice President Quayle Mr.",
+      "9:06 9:15 The President met with: Vice President Quayle Mr.",
+      "Marlin Fitzwater, Assistant and Press Secretary 9:15 9:36 The President met with: Vice President Quayle Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Luncheon Meeting with United Nations Secretary General Perez de Cuellar, June 4, 1990. OCR/catalog markers: Madrid, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-06-04; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 6/4/1990, 12828-024, Container 12828, 1990-06-04. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890599; https://catalog.archives.gov/id/415890599; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_04_90-12828-024_415890599.pdf."
+  },
+  {
+    "id": "source-candidate-415890603",
+    "naid": "415890603",
+    "title": "[Presidential Daily Backup] 6/6/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12828-028, Container 12828",
+    "date": "1990-06-06",
+    "catalogUrl": "https://catalog.archives.gov/id/415890603",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_06_90-12828-028_415890603.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-06-06"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080737"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with United Nations Secretary General Perez de Cuellar, June 6, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080737",
+        "title": "Meeting with United Nations Secretary General Perez de Cuellar, June 6, 1990",
+        "date": "1990-06-06",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080737"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-06-06 - Meeting with United Nations Secretary General Perez de Cuellar, June 6, 1990 (Madrid-Multilateral Track).",
+      "Memo Telephone number redacted (1 pp.) 6/6/90 (b)(6) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 06/05/90 Pinksheet Number: KO0391 OA/ID Number: 12828-028 Date Closed: 10/29/2004 FOIA/Sys Case #: 2002-1005-S Re-review Case #: 2005-0140-S P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Wednesday, June 6, 1990 8:00 am Intellig",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 2:00 pm Meeting with Governor Sununu Oval Office (30 min) 2:30 pm Administrative Time Oval Office (2 ",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM June MAY 6th .",
+      "XXX (b)(6) TLKD-OK OUT AM INC PM OUT 7:57 AM 11:27 SENATOR MARK O.",
+      "HATFIELD OFC: WASHINGTON, DC 224-6191 TLKD-OK 11:20 A.M.",
+      "PRESOCK ON PHONE, TLKD-OK OFC: WASHINGTON, DC WITH MRS."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with United Nations Secretary General Perez de Cuellar, June 6, 1990. OCR/catalog markers: Madrid, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-06-06; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 6/6/1990, 12828-028, Container 12828, 1990-06-06. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890603; https://catalog.archives.gov/id/415890603; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_06_90-12828-028_415890603.pdf."
+  },
+  {
+    "id": "source-candidate-415890602",
+    "naid": "415890602",
+    "title": "[Presidential Daily Diary] 6/6/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12828-027, Container 12828",
+    "date": "1990-06-06",
+    "catalogUrl": "https://catalog.archives.gov/id/415890602",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_06_90-12828-027_415890602.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-06-06"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080737"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with United Nations Secretary General Perez de Cuellar, June 6, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080737",
+        "title": "Meeting with United Nations Secretary General Perez de Cuellar, June 6, 1990",
+        "date": "1990-06-06",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080737"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-06-06 - Meeting with United Nations Secretary General Perez de Cuellar, June 6, 1990 (Madrid-Multilateral Track).",
+      "Sununu, Chief of Staff 8:15 8:56 The President met with Vice President J.",
+      "The President met with: 9:16 9:39 Richard B.",
+      "Scowcroft The President met with: 10:00 10:04 M.",
+      "Gates 10:04 11:00 The President met with the President of the Republic of Korea Roh Tae Woo.",
+      "For a list of attendees, see APPENDIX \"A.\" Members of Press in/out The President met with: 11:00 11:03 Vice President Quayle 11:00 11:01 Mr.",
+      "The President met with: 11:25 11:33 Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with United Nations Secretary General Perez de Cuellar, June 6, 1990. OCR/catalog markers: Madrid, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-06-06; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 6/6/1990, 12828-027, Container 12828, 1990-06-06. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890602; https://catalog.archives.gov/id/415890602; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_06_90-12828-027_415890602.pdf."
+  },
+  {
+    "id": "source-candidate-415890837",
+    "naid": "415890837",
+    "title": "[Presidential Daily Backup] 10/01/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12838-004, Container 12838",
+    "date": "1990-10-01",
+    "catalogUrl": "https://catalog.archives.gov/id/415890837",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-10-01"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Israel leadership",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081111"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, October 1, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081111",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, October 1, 1990",
+        "date": "1990-10-01",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081111"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-10-01 - Meeting with Secretary General Javier Perez de Cuellar of the United Nations, October 1, 1990 (Madrid-Multilateral Track).",
+      "Bilateral with the President Aylwin of Chile < in the Oval Office.",
+      "EVENT: BILATERAL MEETING WITH YUGOSLAVIAN PRESIDENT JOVIC PHOTO OPPORTUNITY 02 4:00 pm THE PRESIDENT greets President Jovic and begins participation in Bilateral Meeting.",
+      "24 4:15 pm THE PRESIDENT concludes participation in Bilateral Meeting, bids farewell to President Jovic and holds briefly.",
+      "EVENT: BILATERAL MEETING WITH ITALIAN PRESIDENT ANDREOTTI PHOTO OPPORTUNITY Page Eighteen 29 4:30 pm THE PRESIDENT greets President Andreotti and begins participation in Bilateral Meeting.",
+      "5:00 4:45 pm THE PRESIDENT concludes participation in Bilateral Meeting, bids farewell to President Andreotti and holds briefly.",
+      "EVENT: BILATERAL MEETING WITH BANGLADESHI PRESIDENT ERSHAD PHOTO OPPORTUNITY 02 5:00 pm THE PRESIDENT greets President Ershad and begins participation in Bilateral Meeting."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Secretary General Javier Perez de Cuellar of the United Nations, October 1, 1990. OCR/catalog markers: Madrid, Israel leadership, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-10-01; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 10/01/1990, 12838-004, Container 12838, 1990-10-01. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890837; https://catalog.archives.gov/id/415890837; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_01_90-12838-004_415890837.pdf."
+  },
+  {
+    "id": "source-candidate-415891101",
+    "naid": "415891101",
+    "title": "[Presidential Daily Backup] 2/9/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12848-018, Container 12848",
+    "date": "1991-02-09",
+    "catalogUrl": "https://catalog.archives.gov/id/415891101",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_09_91-12848-018_415891101.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Madrid",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Hutchings Residence, Alexandria, Virginia INC PM (b)(6) OUT 7:24 AM 7:48 Conference Call: Tlkd-ok Prime Minister Felipe Gonzalez 7:26 AM Residence, Madrid, Spain THE PM 549-1700 OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 2/9/1991, 12848-018, Container 12848, 1991-02-09. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891101; https://catalog.archives.gov/id/415891101; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_09_91-12848-018_415891101.pdf."
+  },
+  {
+    "id": "source-candidate-415891221",
+    "naid": "415891221",
+    "title": "[Presidential Daily Backup] 4/10/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12854-002, Container 12854",
+    "date": "1991-04-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415891221",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_10_91-12854-002_415891221.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-04-10"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081587"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Javier Perez de Cuellar, April 10, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081587",
+        "title": "Telephone Call to Javier Perez de Cuellar, April 10, 1991",
+        "date": "1991-04-10",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081587"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-04-10 - Telephone Call to Javier Perez de Cuellar, April 10, 1991 (Madrid-Multilateral Track).",
+      "General John Vessey (Scowcroft) (Distributed Separately) 2:15 pm Swearing-in Ceremony for Roosevelt Room (15 min) Patricia Saiki as Administrator, Small Business Administration (Holiday) (TAB D) 2:30 pm Meeting with Governor Sununu Oval Office (30 min) 3:00 pm Administrative Time Oval Office (2 hrs) SUPPLEMENTARY BRIEFING MATERIALS TAB B -- Briefing on Local Issues, Slanesville, West Virginia (Anderson) TAB C -- West Virginia Political Briefing (Kaufman) UNP 04/09/91 5:00 pm Withdrawal/Redaction",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH APRIL 10th .",
+      "INC XXM 617-259-8153 TLKD-OK 7:11 A.M.",
+      "442 XX PM TLKD-OK 7:34 A.M.",
+      "(b) (6) XINC XX PM TLKD-OK OUT AM INC PM OUT AM XX SECRETARY JUAVIER DeCULLAR PEREZ OFC: NEW YORK, N.",
+      "XINC 3:32 PM 3:43 212-963-5012 TLKD-OK 3:34 P.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to Javier Perez de Cuellar, April 10, 1991. OCR/catalog markers: Madrid, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-04-10; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/10/1991, 12854-002, Container 12854, 1991-04-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891221; https://catalog.archives.gov/id/415891221; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_10_91-12854-002_415891221.pdf."
+  },
+  {
+    "id": "source-candidate-415891220",
+    "naid": "415891220",
+    "title": "[Presidential Daily Diary] 4/10/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12854-001, Container 12854",
+    "date": "1991-04-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415891220",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_10_91-12854-001_415891220.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-04-10"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081587"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Javier Perez de Cuellar, April 10, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081587",
+        "title": "Telephone Call to Javier Perez de Cuellar, April 10, 1991",
+        "date": "1991-04-10",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081587"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-04-10 - Telephone Call to Javier Perez de Cuellar, April 10, 1991 (Madrid-Multilateral Track).",
+      "Sununu, Chief of Staff The President met with: 8:32 8:33 Lamar Alexander, Secretary of Education 8:30 8:33 Andrew H.",
+      "McKee 11:12 11:13 The President met with: Secretary Alexander Ms.",
+      "McKee 11:20 11:23 The President met with Mr.",
+      "The President met with: 11:24 11:25 William Clapp, trustee of the President's blind trust, Bessmer Trust, Inc., New York, New York 11:24 11:52? Terri Lacy, attorney with Andrews and Kurth law firm, Houston, Texas 11:40 11:42 P The President talked with his son, George W.",
+      "12:15 1:36 The President met with Mr.",
+      "1:38 1:42 The President met with: Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to Javier Perez de Cuellar, April 10, 1991. OCR/catalog markers: Madrid, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-04-10; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 4/10/1991, 12854-001, Container 12854, 1991-04-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891220; https://catalog.archives.gov/id/415891220; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_10_91-12854-001_415891220.pdf."
+  },
+  {
+    "id": "source-candidate-415891232",
+    "naid": "415891232",
+    "title": "[Presidential Daily Diary] 4/16/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12854-013, Container 12854",
+    "date": "1991-04-16",
+    "catalogUrl": "https://catalog.archives.gov/id/415891232",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_16_91-12854-013_415891232.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-04-16"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081589"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Javier Perez de Cuellar, April 16, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081589",
+        "title": "Telephone Call to Javier Perez de Cuellar, April 16, 1991",
+        "date": "1991-04-16",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081589"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-04-16 - Telephone Call to Javier Perez de Cuellar, April 16, 1991 (Madrid-Multilateral Track).",
+      "7:13 7:29 The President met with his Assistant and Press Secretary, M.",
+      "7:32 7:38 The President met with his Assistant for Communications, David F.",
+      "7:38 7:50 The President met with J.J.",
+      "8:36 8:59 P The President talked on a conference call with: Chancellor Kohl continued Withdrawal/Redaction Sheet (George Bush Library) Document No.",
+      "Sununu 9:06 9:08 The President met with: Vice President Quayle Mr.",
+      "9:50 9:58 The President met with Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to Javier Perez de Cuellar, April 16, 1991. OCR/catalog markers: Madrid, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-04-16; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 4/16/1991, 12854-013, Container 12854, 1991-04-16. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891232; https://catalog.archives.gov/id/415891232; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-04_16_91-12854-013_415891232.pdf."
+  },
+  {
+    "id": "source-candidate-415891279",
+    "naid": "415891279",
+    "title": "[Presidential Daily Backup] 5/9/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12857-004, Container 12857",
+    "date": "1991-05-09",
+    "catalogUrl": "https://catalog.archives.gov/id/415891279",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_09_91-12857-004_415891279.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-05-09"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081643",
+      "conversation-428081639"
+    ],
+    "relatedRecordTitles": [
+      "Luncheon with Secretary General Javier Perez de Cuellar of the United Nations, May 9, 1991 (3 of 3)",
+      "Meeting with UN Secretary General Javier Perez de Cuellar, May 9, 1991 (1 of 3)"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081643",
+        "title": "Luncheon with Secretary General Javier Perez de Cuellar of the United Nations, May 9, 1991 (3 of 3)",
+        "date": "1991-05-09",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081643"
+      },
+      {
+        "id": "conversation-428081639",
+        "title": "Meeting with UN Secretary General Javier Perez de Cuellar, May 9, 1991 (1 of 3)",
+        "date": "1991-05-09",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081639"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-05-09 - Luncheon with Secretary General Javier Perez de Cuellar of the United Nations, May 9, 1991 (3 of 3) (Madrid-Multilateral Track).",
+      "FRUS date cross-reference: 1991-05-09 - Meeting with UN Secretary General Javier Perez de Cuellar, May 9, 1991 (1 of 3) (Madrid-Multilateral Track).",
+      "Air Force Rose Garden (5 min) Thunderbirds Steps (Bateman) (TAB A) 10:10 am OP Drop by Meeting with Hispanic Indian Treaty (5 min) /wp Alliance for Free Trade Room (Demarest) (TAB B) 10:20 am Drop by Second PAS Briefing 450 OEOB (5 min) (Holiday) (TAB C) 10:25 am Personal Staff Time Oval Office (35 min) 11:00 am or/wp Meeting with UN Secretary Oval Office/ (60 min) General Perez de Cuellar Cabinet Room (Scowcroft) (Distributed Separately) 12:00 pm Personal Staff Time Oval Office (15 min) 12:15 p",
+      "National Championship Debate Rose Garden Team from Kansas State Univer- Steps sity (McClure) 4:00 pm or/wp Meeting with Select Senate Members Cabinet Room (20 min) (McClure) (TAB G) 4:30 pm B Meeting with Terri Lacey Residence (15 min) 4:45 pm Personal Time Residence (45 min) 5:30 pm B Host RNC Eagles Reception State Floor (20 min) (Kaufman) (TAB H) 6:15 pm B Meeting with Sally Novetzke, Residence (10 min) U.",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM MAY 9 th , 1991 PRESIDENT BUSH TIME NAME ACTION PLACE",
+      "202-225-5658 TLKD-OK 9:22 A.M.",
+      "653 TLKD-OK 6:05 P.M.",
+      "(b) (6) TLKD-OK INC."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Luncheon with Secretary General Javier Perez de Cuellar of the United Nations, May 9, 1991 (3 of 3); Meeting with UN Secretary General Javier Perez de Cuellar, May 9, 1991 (1 of 3). OCR/catalog markers: Madrid, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-05-09; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 5/9/1991, 12857-004, Container 12857, 1991-05-09. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891279; https://catalog.archives.gov/id/415891279; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_09_91-12857-004_415891279.pdf."
+  },
+  {
+    "id": "source-candidate-415891278",
+    "naid": "415891278",
+    "title": "[Presidential Daily Diary] 5/9/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12857-003, Container 12857",
+    "date": "1991-05-09",
+    "catalogUrl": "https://catalog.archives.gov/id/415891278",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_09_91-12857-003_415891278.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-05-09"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081643",
+      "conversation-428081639"
+    ],
+    "relatedRecordTitles": [
+      "Luncheon with Secretary General Javier Perez de Cuellar of the United Nations, May 9, 1991 (3 of 3)",
+      "Meeting with UN Secretary General Javier Perez de Cuellar, May 9, 1991 (1 of 3)"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081643",
+        "title": "Luncheon with Secretary General Javier Perez de Cuellar of the United Nations, May 9, 1991 (3 of 3)",
+        "date": "1991-05-09",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081643"
+      },
+      {
+        "id": "conversation-428081639",
+        "title": "Meeting with UN Secretary General Javier Perez de Cuellar, May 9, 1991 (1 of 3)",
+        "date": "1991-05-09",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081639"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-05-09 - Luncheon with Secretary General Javier Perez de Cuellar of the United Nations, May 9, 1991 (3 of 3) (Madrid-Multilateral Track).",
+      "FRUS date cross-reference: 1991-05-09 - Meeting with UN Secretary General Javier Perez de Cuellar, May 9, 1991 (1 of 3) (Madrid-Multilateral Track).",
+      "9:44 10:05 The President met with his Chief of Staff, John H.",
+      "10:45 10:52 The President met with his Assistant and Deputy ot the Chief of Staff, Andrew H.",
+      "The President met with: 10:52 11:04 James A.",
+      "Gates, Deputy Assistant for National Security Affairs 11:04 11:30 The President met with: Javier Perez de Cuellar, Secretary General of the United Nations Lisa Buttenheim, First Officer, Executive Office of the Secretary General Secretary Baker Mr.",
+      "11:30 12:10 The President participated in a meeting with U.S.",
+      "12:11 12:13 The President met with Secretary General de Cuellar."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Luncheon with Secretary General Javier Perez de Cuellar of the United Nations, May 9, 1991 (3 of 3); Meeting with UN Secretary General Javier Perez de Cuellar, May 9, 1991 (1 of 3). OCR/catalog markers: Madrid, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-05-09; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 5/9/1991, 12857-003, Container 12857, 1991-05-09. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891278; https://catalog.archives.gov/id/415891278; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_09_91-12857-003_415891278.pdf."
+  },
+  {
+    "id": "source-candidate-415891486",
+    "naid": "415891486",
+    "title": "[Presidential Daily Backup] 8/20/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12866-006, Container 12866",
+    "date": "1991-08-20",
+    "catalogUrl": "https://catalog.archives.gov/id/415891486",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_20_91-12866-006_415891486.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Middle East peace",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "gether this peace process-the whole world to-face meeting of the European leaders Q."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/20/1991, 12866-006, Container 12866, 1991-08-20. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891486; https://catalog.archives.gov/id/415891486; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_20_91-12866-006_415891486.pdf."
+  },
+  {
+    "id": "source-candidate-415891554",
+    "naid": "415891554",
+    "title": "[Presidential Daily Backup] 9/23/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12868-010, Container 12868",
+    "date": "1991-09-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415891554",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_23_91-12868-010_415891554.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-09-23"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081893"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081893",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991",
+        "date": "1991-09-23",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081893"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-09-23 - Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991 (Madrid-Multilateral Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells SCHEDULE OF THE PRESIDENT Monday, September 23, 1991 8:00 am Intelligence Briefing Oval Office (15 mi",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH SEPTEMBER 23rd 91 , 19 TIME NAME DISC ",
+      "540 TLKD-OK INC XM OUT AM INC PM OUT 9:03 AM 9:09 SENATOR WILLIAM S.",
+      "YY XX INC (b) (6) TLKD-OK 9:07 A.M.",
+      "INC XPM 301-267-2391 TLKD-OK 9:46 A.M.",
+      "(b) (6) TLKD-OK 9:10 A.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991. OCR/catalog markers: Madrid, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-09-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/23/1991, 12868-010, Container 12868, 1991-09-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891554; https://catalog.archives.gov/id/415891554; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_23_91-12868-010_415891554.pdf."
+  },
+  {
+    "id": "source-candidate-415891553",
+    "naid": "415891553",
+    "title": "[Presidential Daily Diary]  9/23/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12868-009, Container 12868",
+    "date": "1991-09-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415891553",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_23_91-12868-009_415891553.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-09-23"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081893"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081893",
+        "title": "Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991",
+        "date": "1991-09-23",
+        "chapter": "Madrid-Multilateral Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081893"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-09-23 - Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991 (Madrid-Multilateral Track).",
+      "12:31 12:40 The President met with: Secretary General de Cuellar Ronald Spiers, Under Secretary General, United Nations Ambassador Teymor James A.",
+      "1:13 1:31 The President met with Secretary General de Cuellar.",
+      "3:19 4:01 The President met with U.S.",
+      "For a list of attendees, see APPENDIX \"F.\" Members of Press in/out 4:07 4:35 The President met with U.S.",
+      "5:16 5:52 The President met with U.S.",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells MEETING WITH SECRETARY GENERAL DE CUELLAR APPENDIX \"D\" September 23, 1991 Attendance confirmed by NSC"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Secretary General Javier Perez de Cuellar of the United Nations, September 23, 1991. OCR/catalog markers: Madrid, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-09-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary]  9/23/1991, 12868-009, Container 12868, 1991-09-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891553; https://catalog.archives.gov/id/415891553; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_23_91-12868-009_415891553.pdf."
+  },
+  {
+    "id": "source-candidate-415892381",
+    "naid": "415892381",
+    "title": "[Presidential Daily Backup] 11/5/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Madrid-Multilateral Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26862-012, Container 26862",
+    "date": "1992-11-05",
+    "catalogUrl": "https://catalog.archives.gov/id/415892381",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-11_05_92-26862-012_415892381.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Madrid",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "INC PM 647-3492 XXX AM Congressman Dan Rostencowski Tkld-ok Office, Chicago, Illinois 4:23 PM INC 3:38 PM 4:25 312-276-6000 (b) (7)(F) XXX AM Conference Call: WCL King Juan Carlos I 5:10 PM Office, Madrid, Spain Tlkd-ok INC 4:58 PM 5:50 599-2424 5:43 PM THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD November 5, 1992 TIME NAME ACTION PLACED DISC OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/5/1992, 26862-012, Container 26862, 1992-11-05. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892381; https://catalog.archives.gov/id/415892381; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-11_05_92-26862-012_415892381.pdf."
+  },
+  {
+    "id": "source-candidate-415889613",
+    "naid": "415889613",
+    "title": "[Presidential Daily Backup] 1/27/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12789-016, Container 12789",
+    "date": "1989-01-27",
+    "catalogUrl": "https://catalog.archives.gov/id/415889613",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-01_27_89-12789-016_415889613.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "President, Yasser Arafat's been over in Europe meeting with Foreign Ministers of Spain, France and Greece.",
+      "I haven't given any thought at all to what -- when a meeting with the Chairman Arafat with an American official is appropriate."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Palestinian channel, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 1/27/1989, 12789-016, Container 12789, 1989-01-27. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889613; https://catalog.archives.gov/id/415889613; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-01_27_89-12789-016_415889613.pdf."
+  },
+  {
+    "id": "source-candidate-415889669",
+    "naid": "415889669",
+    "title": "[Presidential Daily Backup] 2/24/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12791-016, Container 12791",
+    "date": "1989-02-24",
+    "catalogUrl": "https://catalog.archives.gov/id/415889669",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_24_89-12791-016_415889669.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "They then President Roh Tae Woo and First Lady Kim went to the Diaoyutai State Guest House, Ok Sook at the Blue House, the official resi- C their residence during their stay in China, dence of the Korean President, and were Si 280 MEMORANDUM OF CONVERSATION SUBJECT: Meeting with King Hussein I of Jordan ) PARTICIPANTS: U.S."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Jordan/King Hussein, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 2/24/1989, 12791-016, Container 12791, 1989-02-24. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889669; https://catalog.archives.gov/id/415889669; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-02_24_89-12791-016_415889669.pdf."
+  },
+  {
+    "id": "source-candidate-415889723",
+    "naid": "415889723",
+    "title": "[Presidential Daily Backup] 3/23/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12793-012, Container 12793",
+    "date": "1989-03-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415889723",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_23_89-12793-012_415889723.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "PLO Ambassador Pelletreau met with the PLO yesterday (Wednesday, March 22)."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 3/23/1989, 12793-012, Container 12793, 1989-03-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889723; https://catalog.archives.gov/id/415889723; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_23_89-12793-012_415889723.pdf."
+  },
+  {
+    "id": "source-candidate-415889753",
+    "naid": "415889753",
+    "title": "[Presidential Daily Backup] 4/7/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12794-010, Container 12794",
+    "date": "1989-04-07",
+    "catalogUrl": "https://catalog.archives.gov/id/415889753",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_07_89-12794-010_415889753.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Prime Minister Shamir",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "We'll have a visit, forthcoming visit from King Hussein.",
+      "But I want to leave you with the view that it is of deep concern to us, particularly the violence in the West Bank, and so -- and I think both leaders that I've talked to so far know my personal feelings on this, and we're not despairing -- in fact, I hope the two visits have moved things foward a little bit."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/7/1989, 12794-010, Container 12794, 1989-04-07. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889753; https://catalog.archives.gov/id/415889753; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_07_89-12794-010_415889753.pdf."
+  },
+  {
+    "id": "source-candidate-415889763",
+    "naid": "415889763",
+    "title": "[Presidential Daily Backup] 4/12/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12794-020, Container 12794",
+    "date": "1989-04-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415889763",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_12_89-12794-020_415889763.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-04-12",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079953"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, April 12, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079953",
+        "title": "Telephone Conversation with King Hussein of Jordan, April 12, 1989",
+        "date": "1989-04-12",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079953"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-04-12 - Telephone Conversation with King Hussein of Jordan, April 12, 1989 (Palestinian-Jordanian Track).",
+      "Diagrams Security diagrams - visit to Sheraton Washington Hotel, Fire 04/12/89 (b)(7)(e) Services Institute Dinner (2 pp.) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 04/12/89 Pinksheet Number: RML170 OA/ID Number: 12794-020 Date Closed: 6/6/2002 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE O",
+      "Marriott Hotel to address the American Society of Newspaper Editors' Convention (Demarest) (TAB E) 2:17 pm The President arrives White House South Lawn UNP 04/11/89 4:00 pm 2:30 pm Announcement of NASA Administrator Roosevelt Room (10 min) (Bates) (TAB F) 2:45 pm Meeting with Secretary Baker Oval Office (30 min) 3:15 pm Courtesy Call and Photo with Oval Office (10 min) A.N.R.",
+      "Robinson, Prime Minister of Trinidad and Tobago (Scowcroft) (Distributed Separately) 3:25 pm Personal Staff Time Oval Office (20 min) 3:45 pm Meeting with NATO Secretary Oval Office (20 min) General Manfred Woerner (Scowcroft) (Distributed Separately) 4:05 pm Personal Staff Time Oval Office (25 min) 4:30 pm Meeting with Governor Sununu Oval Office (15 min) 6:40 pm The President departs the White House South Lawn for the Sheraton Washington Hotel to address the Fire Service Dinner (Petersmeyer) (",
+      "THE WHITE HOUSE WASHINGTON TELEPHONE memorandum E.",
+      "XRM CAR PHONE 288-8600 TLKD-OK OUT AM INC PM OUT AM 7:38 7:43 AMB.",
+      "INC XXMX 965-9475 TLKD-OK OUT AM INC PM OUT AM 9:01 9:08 MR."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Hussein of Jordan, April 12, 1989. OCR/catalog markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-04-12; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/12/1989, 12794-020, Container 12794, 1989-04-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889763; https://catalog.archives.gov/id/415889763; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_12_89-12794-020_415889763.pdf."
+  },
+  {
+    "id": "source-candidate-415889762",
+    "naid": "415889762",
+    "title": "[Presidential Daily Diary] 4/12/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12794-019, Container 12794",
+    "date": "1989-04-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415889762",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_12_89-12794-019_415889762.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-04-12",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079953"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, April 12, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079953",
+        "title": "Telephone Conversation with King Hussein of Jordan, April 12, 1989",
+        "date": "1989-04-12",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079953"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-04-12 - Telephone Conversation with King Hussein of Jordan, April 12, 1989 (Palestinian-Jordanian Track).",
+      "7:19 7:27 P The President talked on a conference call with: King Hussein I, King of the Hasemite Kingdom of Jordan Sandra Charles, Director of Near East and South Asia Affairs, National Security Council (NSC) 7:21 7:32 The President met with his Assistant for National Security Affairs, Brent Scowcroft.",
+      "The President met with: 7:56 8:07 James A.",
+      "Sununu, Chief of Staff 7:58 8:05 P The President talked on a conference call with: Helmut Kohl, Chancellor of the Federal Republic of Germany (FRG) Robert L.",
+      "Gates The President met with: 8:47 9:26 Vice President Quayle 8:47 9:24 Mr.",
+      "9:25 9:29 P The President talked on a conference call with: Corazon C.",
+      "Paal, Director of Asian Affairs, National Security Council (NSC) 9:34 9:49 The President participated in a photo opportunity with award recipients of \"Victims of Crime Week.\" For a list of attendees, see APPENDIX \"A.\" 9:52? 10:27 The President met with: David F."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Hussein of Jordan, April 12, 1989. OCR/catalog markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-04-12; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 4/12/1989, 12794-019, Container 12794, 1989-04-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889762; https://catalog.archives.gov/id/415889762; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_12_89-12794-019_415889762.pdf."
+  },
+  {
+    "id": "source-candidate-415889775",
+    "naid": "415889775",
+    "title": "[Presidential Daily Backup] 4/18/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12795-006, Container 12795",
+    "date": "1989-04-18",
+    "catalogUrl": "https://catalog.archives.gov/id/415889775",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_18_89-12795-006_415889775.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Dianist Info Ellen just for you ! Thanks, Brends, NSC 6536 MEETING WITH KING HUSSEIN, JORDAN April 18, 1989 Oval Office/Cabinet Room 9:15 - 10:15 a.m."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Jordan/King Hussein, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/18/1989, 12795-006, Container 12795, 1989-04-18. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889775; https://catalog.archives.gov/id/415889775; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_18_89-12795-006_415889775.pdf."
+  },
+  {
+    "id": "source-candidate-415889777",
+    "naid": "415889777",
+    "title": "[Presidential Daily Backup] 4/19/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12795-008, Container 12795",
+    "date": "1989-04-19",
+    "catalogUrl": "https://catalog.archives.gov/id/415889777",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_19_89-12795-008_415889777.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-04-19",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079967"
+    ],
+    "relatedRecordTitles": [
+      "Plenary Session with King Hussein of Jordan, April 19, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079967",
+        "title": "Plenary Session with King Hussein of Jordan, April 19, 1989",
+        "date": "1989-04-19",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079967"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-04-19 - Plenary Session with King Hussein of Jordan, April 19, 1989 (Palestinian-Jordanian Track).",
+      "SEQUENCE OF EVENTS Dicussion session.",
+      "THE WHITE HOUSE WASHINGTON April 19, 1989 BRIEFING MEMORANDUM FOR VIDEOTAPING SESSION DATE: Thursday, April 20, 1989 TIME: 4:30 p.m.",
+      "BACKGROUND: During this forty-minute session, you will make videotaped remarks for the following organizations: A.",
+      "Page Two Videotaping Session E.",
+      "TALKING POINTS: Scripts to be provided by Communications 1989-04-19 Plenary Session with King Hussein of Jordan, April 19, 1989 Plenary Session with King Hussein of Jordan, April 19, 1989 Palestinian-Jordanian Track King Hussein Jordan"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Plenary Session with King Hussein of Jordan, April 19, 1989. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-04-19; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/19/1989, 12795-008, Container 12795, 1989-04-19. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889777; https://catalog.archives.gov/id/415889777; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_19_89-12795-008_415889777.pdf."
+  },
+  {
+    "id": "source-candidate-415889776",
+    "naid": "415889776",
+    "title": "[Presidential Daily Diary] 4/19/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12795-007, Container 12795",
+    "date": "1989-04-19",
+    "catalogUrl": "https://catalog.archives.gov/id/415889776",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_19_89-12795-007_415889776.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-04-19",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079967"
+    ],
+    "relatedRecordTitles": [
+      "Plenary Session with King Hussein of Jordan, April 19, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079967",
+        "title": "Plenary Session with King Hussein of Jordan, April 19, 1989",
+        "date": "1989-04-19",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079967"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-04-19 - Plenary Session with King Hussein of Jordan, April 19, 1989 (Palestinian-Jordanian Track).",
+      "7:07 7:29 The President met with his Chief of Staff, John H.",
+      "8:00? 8:04 The President met with Staff Assistant, White House Correspondence Office, Janice L.",
+      "The President met with: 9:10 9:19 Mr.",
+      "Marlin Fitzwater, Assistant and Press Secretary 9:14 9:19 King Hussein I, King of the Hashemite Kingdom of Jordon Members of Press 9:19 9:33 The President met with King Hussein I.",
+      "9:33 The President and King Hussein I went to the Cabinet Room.",
+      "WEDNESDAY IN OUT PHONE ACTIVITY 9:33 10:28 The President met with U.S."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Plenary Session with King Hussein of Jordan, April 19, 1989. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-04-19; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 4/19/1989, 12795-007, Container 12795, 1989-04-19. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889776; https://catalog.archives.gov/id/415889776; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_19_89-12795-007_415889776.pdf."
+  },
+  {
+    "id": "source-candidate-415889780",
+    "naid": "415889780",
+    "title": "[Presidential Daily Diary] 4/21/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12795-011, Container 12795",
+    "date": "1989-04-21",
+    "catalogUrl": "https://catalog.archives.gov/id/415889780",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_21_89-12795-011_415889780.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-04-21",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428079973"
+    ],
+    "relatedRecordTitles": [
+      "President's Telephone Call to King Hussein of Jordan, April 21, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428079973",
+        "title": "President's Telephone Call to King Hussein of Jordan, April 21, 1989",
+        "date": "1989-04-21",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428079973"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-04-21 - President's Telephone Call to King Hussein of Jordan, April 21, 1989 (Palestinian-Jordanian Track).",
+      "The President met with: 7:39 7:42 James A.",
+      "7:46 7:49 The President met with: Secretary Baker Ms.",
+      "Bates The President met with: 7:50 7:55 Secretary Baker 7:50 8:01 Brent Scowcroft, Assistant for National Security Affairs 7:50 8:01 Robert M.",
+      "Boyden Gray, Counsel 8:24 8:40 R The President talked on a conference call with: Chancellor Kohl Philip D.",
+      "Zelikow, Director, European and Soviet Affairs, National Security Council (NSC) Gisela Marcuse, interpreter, Department of State 9:20 9:38 The President met with: Vice President Quayle Mr.",
+      "9:44 9:47 The President met with Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: President's Telephone Call to King Hussein of Jordan, April 21, 1989. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-04-21; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 4/21/1989, 12795-011, Container 12795, 1989-04-21. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889780; https://catalog.archives.gov/id/415889780; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_21_89-12795-011_415889780.pdf."
+  },
+  {
+    "id": "source-candidate-415889885",
+    "naid": "415889885",
+    "title": "[Presidential Daily Backup] 6/12/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12799-008, Container 12799",
+    "date": "1989-06-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415889885",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_12_89-12799-008_415889885.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-06-12",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080065"
+    ],
+    "relatedRecordTitles": [
+      "Memorandum of Telephone Conversation with King Hussein of Jordan, June 12, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080065",
+        "title": "Memorandum of Telephone Conversation with King Hussein of Jordan, June 12, 1989",
+        "date": "1989-06-12",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080065"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-06-12 - Memorandum of Telephone Conversation with King Hussein of Jordan, June 12, 1989 (Palestinian-Jordanian Track).",
+      "Memo Debra Anderson to POTUS, Re: meeting with governors (4 pp.) 06/09/89 P-5 05.",
+      "Diagrams Seating diagrams (6 pp.) 06/12/89 (b)(7)(e), (b)(7)(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 06/12/89 Pinksheet Number: RML50 OA/ID Number: 12799-008 Date Closed: 4/26/2002 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Monday, June 12, 1989 8:00 am Intelligence ",
+      "THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM June 12, , 1989 EDT President Bush TIME NAME ACTION PLACED DISC XXXX AM Doro Le Blond Hotel in FL 6:42 6:58 407-827-2727 Rm.555 Tlkd OK 6:43am INC XRMX OUT AM INC PM XXX AM Jerry Weintraub Res: New York, NY 7:02 7:04 212-288-4095 INC Tlkd OK 7:03am RMX OUT AM INC PM RHX AM Secretary James Baker Ofc: Washington DC 9:44 9:48 INC White House Admin X 420 Tlkd OK RMX OUT AM INC PM XQWX AM Marlin Fitzwater Ofc: Washington DC 9:59 10:00 White House Admin ",
+      "GPO : 1983 0 - 405-660 ? QL 2 JG/BD THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM June 12, EDT President Bush , 19 89 TIME NAME ACTION PLACED DISC XXXX AM Mrs.",
+      "INC 3:48 PM (b)(6) OUT AM Message: \"Sends my love, wonderful wishes ahead in the White House.\" INC PM OUT AM INC PM GPO : 1983 0 - 405-660 : QL 2 JG/BD THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD June 12 , 1989 TIME NAME PLACED DISC ACTION OUT 8:57 AM 9:06 Conference Call: Tlkd-ok Prime Minister Brian Mulroney 8:59 AM Office, Ottawa, Canada INC PM 613-992-4211 OUT AM Mr.",
+      "Basora White House Situation Room INC PM White House Signal 2-2264 DMT AM Conference Call: Tlkd-ok King Hussein I 3:15 PM Residence, Amman, Jordon via Secure Satellite INC 3:08 PM 3:18 (b)(6) OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Memorandum of Telephone Conversation with King Hussein of Jordan, June 12, 1989. OCR/catalog markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-06-12; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 6/12/1989, 12799-008, Container 12799, 1989-06-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889885; https://catalog.archives.gov/id/415889885; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-06_12_89-12799-008_415889885.pdf."
+  },
+  {
+    "id": "source-candidate-415889935",
+    "naid": "415889935",
+    "title": "[Presidential Daily Backup] 7/7/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12801-016, Container 12801",
+    "date": "1989-07-07",
+    "catalogUrl": "https://catalog.archives.gov/id/415889935",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_07_89-12801-016_415889935.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1989-07-07",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080121"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, July 7, 1989"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080121",
+        "title": "Telephone Conversation with King Hussein of Jordan, July 7, 1989",
+        "date": "1989-07-07",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080121"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1989-07-07 - Telephone Conversation with King Hussein of Jordan, July 7, 1989 (Palestinian-Jordanian Track).",
+      "Porter to POTUS, Re: meeting with budget team (2 pp.) 07/07/89 P-5 Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 07/07/89 Pinksheet Number: RML251 OA/ID Number: 12801-016 Date Closed: 6/20/2002 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Friday, July 7, 1989 8:00 am Intelligen",
+      "THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM JULY 7, 9 19 89 E.D.T.",
+      "BUSH LW TOLD PATTY OFC: BEDFORD, TX PRESOCK 817-273-52222 XIXXX 3:00 PM JG/BD GPO : 1982 0 - 370-008 : QL 2 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM JULY 7, PRESIDENT BUSH 1989 TIME PLACED DISC NAME ACTION OUT AM MR.",
+      "PRESCOTT BUSH RES: KENNEBUNKPORT, ME INCX 7:00 PM 7:03 (b)(6) TLKD OK OUT AM INC PM out AM INC PM GPO : 1982 0 370-008 : QL 2 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD July 7 , 1989 TIME NAME PLACED DISC ACTION BOXIX AM Conference Call: Tlkd-ok King Hussein I 2:29 Pm 2:28 PM 2:38 United States Embassy via Secure Voice INC OUT AM London, England 408-0254 INC PM OUT AM Doctor Richard N.",
+      "Haass White House Situation Room White House Secure Voice x7400 INC PM OUT AM Conference Call: LW with Ms.",
+      "Gantt President Victor Paz Estenssoro 4:41 PM Office, La Paz, Bolivia Tlkd-ok 359-717 INC 4:39 PM 5:10 4:58 PM out AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Hussein of Jordan, July 7, 1989. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1989-07-07; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 7/7/1989, 12801-016, Container 12801, 1989-07-07. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889935; https://catalog.archives.gov/id/415889935; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-07_07_89-12801-016_415889935.pdf."
+  },
+  {
+    "id": "source-candidate-415890177",
+    "naid": "415890177",
+    "title": "[Presidential Daily Backup] 11/5/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12810-010, Container 12810",
+    "date": "1989-11-05",
+    "catalogUrl": "https://catalog.archives.gov/id/415890177",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_05_89-12810-010_415890177.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Egypt/Arab regional",
+      "Loan guarantees/settlements",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "02 ** in the dialogue, that Palestinians President Hosni Mubarak, who has White House press secretary taking part must be residents of the been acting on behalf of Palestinian Marlin Fitzwater and Boucher both occupied territories, that no issue interests, \"to see if a dialogue can said yesterday that a decision has can be discussed other than elec- be put together.\" not yet been made about a meeting.",
+      "tions to choose Palestinians for fu- The inner cabinet's conditions, or Other officials added that the mat- ture negotiations with Israel, and \"assumptions\" as Boucher called ter probably will be resolved after that in the event of disputes, the them, are unlikely to be acceptable Baker returns Wednesday from a United States will support Israel's to the Palestinians."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Palestinian channel, Egypt/Arab regional, Loan guarantees/settlements, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/5/1989, 12810-010, Container 12810, 1989-11-05. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890177; https://catalog.archives.gov/id/415890177; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_05_89-12810-010_415890177.pdf."
+  },
+  {
+    "id": "source-candidate-415890195",
+    "naid": "415890195",
+    "title": "[Presidential Daily Backup] 11/14/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12811-008, Container 12811",
+    "date": "1989-11-14",
+    "catalogUrl": "https://catalog.archives.gov/id/415890195",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_14_89-12811-008_415890195.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "GOVERNMENT PRINTING OFFICE:1970-O-375-347 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD November 14, , 1989 TIME PLACED DISC NAME ACTION OUT AM King Hussein I LW with Ms."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Jordan/King Hussein, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/14/1989, 12811-008, Container 12811, 1989-11-14. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890195; https://catalog.archives.gov/id/415890195; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_14_89-12811-008_415890195.pdf."
+  },
+  {
+    "id": "source-candidate-415890233",
+    "naid": "415890233",
+    "title": "[Presidential Daily Backup] 12/3/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12812-024, Container 12812",
+    "date": "1989-12-03",
+    "catalogUrl": "https://catalog.archives.gov/id/415890233",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_03_89-12812-024_415890233.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "(On the Middle East) \"They talked about the peace process, the Baker plan, the Egyptian plan.",
+      "They talked about the possibilities of getting a dialogue between Israel and the Palestinians."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Israel leadership, Palestinian channel, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/3/1989, 12812-024, Container 12812, 1989-12-03. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890233; https://catalog.archives.gov/id/415890233; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-12_03_89-12812-024_415890233.pdf."
+  },
+  {
+    "id": "source-candidate-415890297",
+    "naid": "415890297",
+    "title": "[Presidential Daily Backup] 1/4/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12814-018, Container 12814",
+    "date": "1990-01-04",
+    "catalogUrl": "https://catalog.archives.gov/id/415890297",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_04_90-12814-018_415890297.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Madrid",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Sullivan White House Situation Room INC PM White House Signal 2-2264 OUT AM Conference Call: Tlkd-ok Prime Minister Felipe Gonzales 3:22 PM Residence, Madrid, Spain INC 3:08 PM 3:34 266-8000 out AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Jordan/King Hussein, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 1/4/1990, 12814-018, Container 12814, 1990-01-04. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890297; https://catalog.archives.gov/id/415890297; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-01_04_90-12814-018_415890297.pdf."
+  },
+  {
+    "id": "source-candidate-415890481",
+    "naid": "415890481",
+    "title": "[Presidential Daily Backup] 4/6/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12823-006, Container 12823",
+    "date": "1990-04-06",
+    "catalogUrl": "https://catalog.archives.gov/id/415890481",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_06_90-12823-006_415890481.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "President, this is a follow-up to a question I asked you in December here at a meeting of editors -- (laughter) -- in which your answer was that the United States definitely was not going to try to pressure Israel to negotiate with the PLO."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Palestinian channel, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/6/1990, 12823-006, Container 12823, 1990-04-06. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890481; https://catalog.archives.gov/id/415890481; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_06_90-12823-006_415890481.pdf."
+  },
+  {
+    "id": "source-candidate-415890515",
+    "naid": "415890515",
+    "title": "[Presidential Daily Backup] 4/23/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12824-020, Container 12824",
+    "date": "1990-04-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415890515",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_23_90-12824-020_415890515.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-04-23",
+      "King Hussein",
+      "President Assad"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080671",
+      "conversation-428080669"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, April 23, 1990",
+      "Telephone Conversation with President Hafiz aI-Assad of Syria, April 23, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080671",
+        "title": "Telephone Conversation with King Hussein of Jordan, April 23, 1990",
+        "date": "1990-04-23",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080671"
+      },
+      {
+        "id": "conversation-428080669",
+        "title": "Telephone Conversation with President Hafiz aI-Assad of Syria, April 23, 1990",
+        "date": "1990-04-23",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080669"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-04-23 - Telephone Conversation with King Hussein of Jordan, April 23, 1990 (Palestinian-Jordanian Track).",
+      "FRUS date cross-reference: 1990-04-23 - Telephone Conversation with President Hafiz aI-Assad of Syria, April 23, 1990 (Syria-Lebanon Track).",
+      "Gantt to POTUS, Re: NSC meeting (1 1 pp.) 04/23/90 (b)(1) C Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 04/23/90 Pinksheet Number: RML612 OA/ID Number: 12824-020 Date Closed: 10/22/2002 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Monday, April 23, 1990 8:00 am Intelligence B",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 2:35 pm Arrives White House South Lawn 3:00 pm Signing Ceremony for Hate (10 min) 450 OEOB Crime Stat",
+      "Earle Craig - Room 327 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM APRIL 23rd 90 PRESIDENT BUSH , 19 TIME PLACED DISC NAME M.",
+      "INC RM 845-1010 TLKD-OK OUT AM INC PM OUT 9:33 AM 9:35 MR.",
+      "764 PM TLKD-OK OUT AM outgoing INC PM YOUR 9:40 AM 9:43 MR.",
+      "689 TLKD-OK out AM INC PM OUT 10:07 AM 10:15 MR."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Telephone Conversation with King Hussein of Jordan, April 23, 1990; Telephone Conversation with President Hafiz aI-Assad of Syria, April 23, 1990. OCR/catalog markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-04-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/23/1990, 12824-020, Container 12824, 1990-04-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890515; https://catalog.archives.gov/id/415890515; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_23_90-12824-020_415890515.pdf."
+  },
+  {
+    "id": "source-candidate-415890514",
+    "naid": "415890514",
+    "title": "[Presidential Daily Diary] 4/23/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12824-019, Container 12824",
+    "date": "1990-04-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415890514",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_23_90-12824-019_415890514.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-04-23",
+      "King Hussein",
+      "President Assad"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080671",
+      "conversation-428080669"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, April 23, 1990",
+      "Telephone Conversation with President Hafiz aI-Assad of Syria, April 23, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080671",
+        "title": "Telephone Conversation with King Hussein of Jordan, April 23, 1990",
+        "date": "1990-04-23",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080671"
+      },
+      {
+        "id": "conversation-428080669",
+        "title": "Telephone Conversation with President Hafiz aI-Assad of Syria, April 23, 1990",
+        "date": "1990-04-23",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080669"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-04-23 - Telephone Conversation with King Hussein of Jordan, April 23, 1990 (Palestinian-Jordanian Track).",
+      "FRUS date cross-reference: 1990-04-23 - Telephone Conversation with President Hafiz aI-Assad of Syria, April 23, 1990 (Syria-Lebanon Track).",
+      "7:42 7:43 The President met with Assistant Physician, Dr.",
+      "7:54 8:01 The President met with his Chief of Staff, John H.",
+      "Gates 8:33 9:03 The President met with: Vice President Quayle Mr.",
+      "MONDAY IN OUT PHONE ACTIVITY 10:19 10:33 The President met with Mr.",
+      "The President met with: 10:58 10:59 Vice President Quayle 10:56 10:59 Joseph W.",
+      "The President met with: 11:13 11:17 Secretary Baker 11:15 11:17 Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Telephone Conversation with King Hussein of Jordan, April 23, 1990; Telephone Conversation with President Hafiz aI-Assad of Syria, April 23, 1990. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-04-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 4/23/1990, 12824-019, Container 12824, 1990-04-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890514; https://catalog.archives.gov/id/415890514; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_23_90-12824-019_415890514.pdf."
+  },
+  {
+    "id": "source-candidate-415890642",
+    "naid": "415890642",
+    "title": "[Presidential Daily Diary] 6/26/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12830-017, Container 12830",
+    "date": "1990-06-26",
+    "catalogUrl": "https://catalog.archives.gov/id/415890642",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_26_90-12830-017_415890642.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Middle East Peace",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Palestinian channel",
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Kelly, Assistant Secretary of State for Near Eastern and South Asian Affairs Dennis Ross, interpreter, Department of State Ahmed Esmat Abdel Meguid, Foreign Minister, Arab Republic of Egypt El Sayed Abdel Raouf el Reedy, Ambassador of the Republic of Egypt to the U.S Osama el-Baz, Special Advisor to President Hosni Mubarak, Arab Republic of Egypt to the U.S Ahmed Abul Ghait, Aide to Foreign Minister Meguid, Arab Republic of Egypt to the U.S MEETING WITH U.S."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Palestinian channel, Egypt/Arab regional, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 6/26/1990, 12830-017, Container 12830, 1990-06-26. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890642; https://catalog.archives.gov/id/415890642; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-06_26_90-12830-017_415890642.pdf."
+  },
+  {
+    "id": "source-candidate-415890707",
+    "naid": "415890707",
+    "title": "[Presidential Daily Backup] 7/28/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12833-008, Container 12833",
+    "date": "1990-07-28",
+    "catalogUrl": "https://catalog.archives.gov/id/415890707",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_28_90-12833-008_415890707.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-07-28",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080863"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, July 28, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080863",
+        "title": "Telephone Conversation with King Hussein of Jordan, July 28, 1990",
+        "date": "1990-07-28",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080863"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-07-28 - Telephone Conversation with King Hussein of Jordan, July 28, 1990 (Palestinian-Jordanian Track).",
+      "Telephone Telephone numbers redacted (1 pp.) 07/28/90 (b)(6), (b)(7)(f) Memo Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: Presidential Daily Backup 7/28/1990 Pinksheet Number: LT9972 OA/ID Number: 12833-008 Date Closed: 3/5/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Saturday, July 28,",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD July 28 , 1990 TIME PLACED DISC NA",
+      "Brady Tlkd-ok Residence, Herndon, Virginia 11:15 AM INC PM (b) (6) (b) (7)(F) OUT 11:17 AM Mr.",
+      "11:26 AM INC PM 1:18 (b) (6) (b) (7)(F) OUT AM Tlkd-ok 1:16 PM INC PM OUT AM General Brent Scowcroft Tlkd-ok Cape Arundel Golf Club 6:35 PM Kennebunkport, Maine INC 6:33 PM 6:37 207-967-3494 OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM PRESIDENTIAL MOVEMENTS LOCATION Kennebunkport, Maine DATE 28 July 1990 TIME MOVEMENTS 0652 Depart Walker's Point via Boat (LOW KEY) 0849 Arrive Walker's Point (LOW KEY) 1110 Depart Walker's Point via Boat (LOW KEY) 1305 Arrive Walker's Point (LOW KEY) 1"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Hussein of Jordan, July 28, 1990. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-07-28; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 7/28/1990, 12833-008, Container 12833, 1990-07-28. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890707; https://catalog.archives.gov/id/415890707; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_28_90-12833-008_415890707.pdf."
+  },
+  {
+    "id": "source-candidate-415890713",
+    "naid": "415890713",
+    "title": "[Presidential Daily Backup] 7/31/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12833-014, Container 12833",
+    "date": "1990-07-31",
+    "catalogUrl": "https://catalog.archives.gov/id/415890713",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_31_90-12833-014_415890713.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-07-31",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080865"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, July 31, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080865",
+        "title": "Telephone Conversation with King Hussein of Jordan, July 31, 1990",
+        "date": "1990-07-31",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080865"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-07-31 - Telephone Conversation with King Hussein of Jordan, July 31, 1990 (Palestinian-Jordanian Track).",
+      "Report Members of the Republican Congressional Leadership Council 07/31/90 (b)(6) redacted (7 pp.) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 07/31/90 Pinksheet Number: LT9975 OA/ID Number: 12833-014 Date Closed: 3/6/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESI",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA} financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRAJ concerning wells 3:00 pm Personal Staff Time Oval Office (30 min) 3:30 pm Meeting with Governor Sununu Oval Office (30",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRAJ financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM JULY 31st 1990 PRESIDENT BUSH TIME NAME ACTION PLACED",
+      "BARBARA BUSH RES: KENNEBUNKPORT, ME TLKD-OK 6:39 A.M.",
+      "DALE MILLER RES: WASHINGTON, DC TLKD-OK 7:30 A.M.",
+      "BARBARA BUSH RES: KENNEBUNKPORT, ME TLKD-OK ING 2:26 PM 2:33 OUT AM INC PM OUT AM GOVERNOR JOHN H."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Hussein of Jordan, July 31, 1990. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-07-31; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 7/31/1990, 12833-014, Container 12833, 1990-07-31. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890713; https://catalog.archives.gov/id/415890713; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_31_90-12833-014_415890713.pdf."
+  },
+  {
+    "id": "source-candidate-415890712",
+    "naid": "415890712",
+    "title": "[Presidential Daily Diary] 7/31/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12833-013, Container 12833",
+    "date": "1990-07-31",
+    "catalogUrl": "https://catalog.archives.gov/id/415890712",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_31_90-12833-013_415890712.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-07-31",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080865"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, July 31, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080865",
+        "title": "Telephone Conversation with King Hussein of Jordan, July 31, 1990",
+        "date": "1990-07-31",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080865"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-07-31 - Telephone Conversation with King Hussein of Jordan, July 31, 1990 (Palestinian-Jordanian Track).",
+      "Sununu 9:00 9:24 The President met with: Nicholas F.",
+      "Sununu 9:14 R The President was telephoned by King Hussein I of the Hashemite Kingdom of Jordan.",
+      "9:37 9:41 The President met with Secretary Brady.",
+      "9:47 9:52 R The President talked on a conference call with: King Hussein I C.",
+      "David Welch, Director, Near East and South Asia Affairs, National Security Council (NSC) The President met with: 9:56 10:00 Mr.",
+      "Sununu 11:04 11:05 The President met with Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Hussein of Jordan, July 31, 1990. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-07-31; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 7/31/1990, 12833-013, Container 12833, 1990-07-31. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890712; https://catalog.archives.gov/id/415890712; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-07_31_90-12833-013_415890712.pdf."
+  },
+  {
+    "id": "source-candidate-415890723",
+    "naid": "415890723",
+    "title": "[Presidential Daily Backup] 8/5/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12833-024, Container 12833",
+    "date": "1990-08-05",
+    "catalogUrl": "https://catalog.archives.gov/id/415890723",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_05_90-12833-024_415890723.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-08-05",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080893"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to King Hussein of Jordan, August 5, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080893",
+        "title": "Telephone Call to King Hussein of Jordan, August 5, 1990",
+        "date": "1990-08-05",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080893"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-08-05 - Telephone Call to King Hussein of Jordan, August 5, 1990 (Palestinian-Jordanian Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH AUGUST 5th .",
+      "780 TLKD-OK 4:48 P.M.",
+      "JNO 4:56 PM 5:12 (b)(6) TLKD-OK 5:12 P.M.",
+      "JIM MYERS NNC 7:21 PM 7:22 395-4125 TLKD-OK OUT AM INC PM OUT AW MRS.",
+      "2-3804 TLKD-OK 9:15 P.M.",
+      "INC 9:37 PM 9:43 (b)(6) TLKD-OK THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD August 5 ."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to King Hussein of Jordan, August 5, 1990. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Egypt/Arab regional, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-08-05; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/5/1990, 12833-024, Container 12833, 1990-08-05. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890723; https://catalog.archives.gov/id/415890723; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_05_90-12833-024_415890723.pdf."
+  },
+  {
+    "id": "source-candidate-415890722",
+    "naid": "415890722",
+    "title": "[Presidential Daily Diary] 8/5/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12833-023, Container 12833",
+    "date": "1990-08-05",
+    "catalogUrl": "https://catalog.archives.gov/id/415890722",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_05_90-12833-023_415890722.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-08-05",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080893"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to King Hussein of Jordan, August 5, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080893",
+        "title": "Telephone Call to King Hussein of Jordan, August 5, 1990",
+        "date": "1990-08-05",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080893"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-08-05 - Telephone Call to King Hussein of Jordan, August 5, 1990 (Palestinian-Jordanian Track).",
+      "7:04 7:16 P The President talked on a conference call with: Toshiki Kaifu, Prime Minister of Japan Douglas H.",
+      "1:32 1:47 R The President talked on a conference call with: Brian Mulroney, Prime Minister of Canada Mr.",
+      "3:05 ? The President participated in a question and answer session with members of the press on the Iraqi invasion of Kuwait.",
+      "3:17 3:22 The President met with Mr.",
+      "3:23 3:37 P The President talked on a conference call with: Turgut Ozal, President of the Republic of Turkey Mr.",
+      "Rice 4:10 4:21 The President met with Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to King Hussein of Jordan, August 5, 1990. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-08-05; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 8/5/1990, 12833-023, Container 12833, 1990-08-05. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890722; https://catalog.archives.gov/id/415890722; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_05_90-12833-023_415890722.pdf."
+  },
+  {
+    "id": "source-candidate-415890738",
+    "naid": "415890738",
+    "title": "[Presidential Daily Diary] 8/13/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12834-013, Container 12834",
+    "date": "1990-08-13",
+    "catalogUrl": "https://catalog.archives.gov/id/415890738",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_13_90-12834-013_415890738.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-08-13",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080945",
+      "conversation-428080947"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, August 13, 1990 (1 of 2)",
+      "Telephone Conversation with King Hussein of Jordan, August 13, 1990 (2 of 2)"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080945",
+        "title": "Telephone Conversation with King Hussein of Jordan, August 13, 1990 (1 of 2)",
+        "date": "1990-08-13",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080945"
+      },
+      {
+        "id": "conversation-428080947",
+        "title": "Telephone Conversation with King Hussein of Jordan, August 13, 1990 (2 of 2)",
+        "date": "1990-08-13",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080947"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-08-13 - Telephone Conversation with King Hussein of Jordan, August 13, 1990 (1 of 2) (Palestinian-Jordanian Track).",
+      "FRUS date cross-reference: 1990-08-13 - Telephone Conversation with King Hussein of Jordan, August 13, 1990 (2 of 2) (Palestinian-Jordanian Track).",
+      "9:32 9:42 P The President talked on a conference call with: Frederick W.",
+      "Miller, Ambassador of the U.S to the Republic of South Africa 9:59 10:19 P The President talked on a conference call with: Carlos Andres Perez, President of the Republic of Venezuela Donald C.",
+      "6:02 6:07 P The President talked on a conference call with: King Hussein I, King of the Hashemite continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 2 LOCATION DATE AUGUST 13, 1990 WALKER'S POINT TIME DAY KENNEBUNKPORT, MAINE 6:02 p.m.",
+      "6:18 6:21 P The President talked on a conference call with: King Hussein Mr.",
+      "Welch 6:53 7:17 P The President talked on a conference call with: Toshiki Kaifu, Prime Minister of Japan Karl D.",
+      "1990-08-13 Telephone Conversation with King Hussein of Jordan, August 13, 1990 (1 of 2) Telephone Conversation with King Hussein of Jordan, August 13, 1990 (1 of 2) Palestinian-Jordanian Track King Hussein Jordan 1990-08-13 Telephone Conversation with King Hussein of Jordan, August 13, 1990 (2 of 2) Telephone Conversation with King Hussein of Jordan, August 13, 1990 (2 of 2) Palestinian-Jordanian Track King Hussein Jordan"
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 2 selected FRUS meeting/call records: Telephone Conversation with King Hussein of Jordan, August 13, 1990 (1 of 2); Telephone Conversation with King Hussein of Jordan, August 13, 1990 (2 of 2). OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-08-13; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 8/13/1990, 12834-013, Container 12834, 1990-08-13. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890738; https://catalog.archives.gov/id/415890738; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_13_90-12834-013_415890738.pdf."
+  },
+  {
+    "id": "source-candidate-415890743",
+    "naid": "415890743",
+    "title": "[Presidential Daily Backup] 8/15/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12834-018, Container 12834",
+    "date": "1990-08-15",
+    "catalogUrl": "https://catalog.archives.gov/id/415890743",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_15_90-12834-018_415890743.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "POOL REPORT #10 - August 15, 1990 to ANDREWS AIR FORCE BASE TO PEASE At the very end of the flight, Marlin Fitzwater came back to tell your pool, about King Hussein's visit tomorrow and to answer a few questions."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Jordan/King Hussein, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/15/1990, 12834-018, Container 12834, 1990-08-15. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890743; https://catalog.archives.gov/id/415890743; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_15_90-12834-018_415890743.pdf."
+  },
+  {
+    "id": "source-candidate-415890761",
+    "naid": "415890761",
+    "title": "[Presidential Daily Backup] 8/24/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12834-036, Container 12834",
+    "date": "1990-08-24",
+    "catalogUrl": "https://catalog.archives.gov/id/415890761",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_24_90-12834-036_415890761.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-08-24",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080969"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, August 24, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080969",
+        "title": "Telephone Conversation with King Hussein of Jordan, August 24, 1990",
+        "date": "1990-08-24",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080969"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-08-24 - Telephone Conversation with King Hussein of Jordan, August 24, 1990 (Palestinian-Jordanian Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD August 24 , 19 90 TIME NAME ACTION",
+      "Baker Tlkd-ok White House Situation Room 5:35 AM INC PM (b)(7)(f) OUT 9:31 AM 11:28 Secretary James A.",
+      "Baker III Tlkd-ok Residence.",
+      "Casey Tlkd-ok Walker's Point 11:17 AM Kennebunkport, Maine INC PM Kennebunkport Signal x350 (b) (7)(F) OUT 11:58 AM Secretary James A.",
+      "Baker III Tlkd-ok Residence, Pinedale, Wyoming 11:59 AM INC PM 12:09 (b)(6) (b) (7)(F) OUT AM Dr.",
+      "Tlkd-ok Walker's Point 1:33 PM Kennebunkport, Maine INC 1:33 PM 1:35 Kennebunkport Signal x381 our 3:58 AM 4:13 Conference Call: King Hussein Tlkd-ok Residence, Amman, Jordan 4:08 PM INC PM 638-728 OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Hussein of Jordan, August 24, 1990. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-08-24; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/24/1990, 12834-036, Container 12834, 1990-08-24. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890761; https://catalog.archives.gov/id/415890761; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_24_90-12834-036_415890761.pdf."
+  },
+  {
+    "id": "source-candidate-415890773",
+    "naid": "415890773",
+    "title": "[Presidential Daily Backup] 8/30/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12835-006, Container 12835",
+    "date": "1990-08-30",
+    "catalogUrl": "https://catalog.archives.gov/id/415890773",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_30_90-12835-006_415890773.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "King Hussein",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Giesela Marcuse White House Situation Room INC PM White House Signal 2-2264 OUT AM Conference Call: Tlkd-ok President Mohammed Hosni Mubarak 2:56 PM Residence, Cairo, Egypt NNC 2:56 PM 3:00 290-5051 OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Jordan/King Hussein, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/30/1990, 12835-006, Container 12835, 1990-08-30. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890773; https://catalog.archives.gov/id/415890773; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_30_90-12835-006_415890773.pdf."
+  },
+  {
+    "id": "source-candidate-415890895",
+    "naid": "415890895",
+    "title": "[Presidential Daily Backup] 10/29/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12841-006, Container 12841",
+    "date": "1990-10-29",
+    "catalogUrl": "https://catalog.archives.gov/id/415890895",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_29_90-12841-006_415890895.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Jordan/King Hussein",
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "he debt is he talked to President Mubarak [of Egypt]."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Jordan/King Hussein, Egypt/Arab regional, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 10/29/1990, 12841-006, Container 12841, 1990-10-29. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890895; https://catalog.archives.gov/id/415890895; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-10_29_90-12841-006_415890895.pdf."
+  },
+  {
+    "id": "source-candidate-415890981",
+    "naid": "415890981",
+    "title": "[Presidential Daily Backup] 12/11/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12844-014, Container 12844",
+    "date": "1990-12-11",
+    "catalogUrl": "https://catalog.archives.gov/id/415890981",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_11_90-12844-014_415890981.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Outline Photo Opportunity (3 pp.) 12/11/90 (b)(7)(c), (b)(7)(e), (b)(7)(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 12/11/1990 Pinksheet Number: LT10100 OA/ID Number: 12844-014 Date Closed: 4/1/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Tuesday, Decembe",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 3:30 pm B Drop by Reception and Photos Roosevelt Room (20 min) with Fundraisers for Eagle's Inaugural",
+      "Brende 9338 ADD ON THE WHITE HOUSE WASHINGTON December 10, 1990 MEETING WITH PRIME MINISTER SHAMIR OF ISRAEL Date: December 11, 1990 LOCATION: Oval Office / Cabinet Room TIME: 10:00 - 11:00 a.m."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Jordan/King Hussein, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/11/1990, 12844-014, Container 12844, 1990-12-11. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890981; https://catalog.archives.gov/id/415890981; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_11_90-12844-014_415890981.pdf."
+  },
+  {
+    "id": "source-candidate-415890983",
+    "naid": "415890983",
+    "title": "[Presidential Daily Backup] 12/12/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12844-016, Container 12844",
+    "date": "1990-12-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415890983",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_12_90-12844-016_415890983.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 2:30 pm Administrative Time Oval Office (30 min) 3:00 pm Staff Time SHEVARDNADZE Oval Office (60 min)"
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Jordan/King Hussein, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/12/1990, 12844-016, Container 12844, 1990-12-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890983; https://catalog.archives.gov/id/415890983; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_12_90-12844-016_415890983.pdf."
+  },
+  {
+    "id": "source-candidate-415891106",
+    "naid": "415891106",
+    "title": "[Presidential Daily Diary] 2/12/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12848-023, Container 12848",
+    "date": "1991-02-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415891106",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_12_91-12848-023_415891106.pdf",
+    "digitalObjectCount": 10,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "3:51 4:27 P The President talked on a conference call with: King Hussein John W."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Jordan/King Hussein, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 2/12/1991, 12848-023, Container 12848, 1991-02-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891106; https://catalog.archives.gov/id/415891106; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_12_91-12848-023_415891106.pdf."
+  },
+  {
+    "id": "source-candidate-415891291",
+    "naid": "415891291",
+    "title": "[Presidential Daily Backup] 5/15/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12857-016, Container 12857",
+    "date": "1991-05-15",
+    "catalogUrl": "https://catalog.archives.gov/id/415891291",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_15_91-12857-016_415891291.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-05-15",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081667"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, May 15, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081667",
+        "title": "Telephone Conversation with King Hussein of Jordan, May 15, 1991",
+        "date": "1991-05-15",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081667"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-05-15 - Telephone Conversation with King Hussein of Jordan, May 15, 1991 (Palestinian-Jordanian Track).",
+      "Diagram Security diagrams - trip to Lake Clifton Landing Zone (2 pp.) 5/15/91 (b)(7)(c), (b)(7)(e), (b)(7)(f) Page 2 of 2 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 5/15/1991 Pinksheet Number: LT10231 OA/ID Number: 12857-016 Date Closed: 4/28/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDUL",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM PRESIDENT BUSH MAY 15 th , 1991 TIME PLACED DISC NAME",
+      "ING PM OUT Judgship (b)(6) TLKD-OK AM INC PM OUT 7:27 AM 11:35 MR.",
+      "ING PM 215-994-2437 re: Judgship TLKD-OK 11:34 A.M.",
+      "INC XPM 703-683-3093 re: in town/courtesy TLKD-OK 7:47 A.M.",
+      "797 TLKD-OK OUT AM INC PM OUT 11:37 AM MR."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Hussein of Jordan, May 15, 1991. OCR/catalog markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-05-15; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 5/15/1991, 12857-016, Container 12857, 1991-05-15. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891291; https://catalog.archives.gov/id/415891291; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_15_91-12857-016_415891291.pdf."
+  },
+  {
+    "id": "source-candidate-415891290",
+    "naid": "415891290",
+    "title": "[Presidential Daily Diary] 5/15/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12857-015, Container 12857",
+    "date": "1991-05-15",
+    "catalogUrl": "https://catalog.archives.gov/id/415891290",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_15_91-12857-015_415891290.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-05-15",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081667"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Conversation with King Hussein of Jordan, May 15, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081667",
+        "title": "Telephone Conversation with King Hussein of Jordan, May 15, 1991",
+        "date": "1991-05-15",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081667"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-05-15 - Telephone Conversation with King Hussein of Jordan, May 15, 1991 (Palestinian-Jordanian Track).",
+      "Sununu, Chief of Staff 8:19 8:21 The President met with: Mr.",
+      "Sununu 8:40 9:13 The President met with: Vice President Quayle Mr.",
+      "9:46 9:58 The President met with: Douglas Hurd, Foreign Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Richard Gozney, Private Secretary to the Foreign Minister of the United Kingdom of Great Britain and Northern Ireland (UK) Andrew Wood, Deputy Chief of Mission, Embassy of the United Kingdom of Great Britain and Northern Ireland (UK) to the continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 2 LOCATION DATE MAY 15, 1991 THE WHITE HOUSE TIME DAY WAS",
+      "10:35 10:43 The President met with his Physician, Dr.",
+      "Rogich, Assistant for Special Activities and Initiatives 11:55 12:02 The President met with: Mr.",
+      "12:12 12:19 The President met with Senator Byrd."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Conversation with King Hussein of Jordan, May 15, 1991. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-05-15; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 5/15/1991, 12857-015, Container 12857, 1991-05-15. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891290; https://catalog.archives.gov/id/415891290; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-05_15_91-12857-015_415891290.pdf."
+  },
+  {
+    "id": "source-candidate-415891416",
+    "naid": "415891416",
+    "title": "[Presidential Daily Backup] 7/16/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12863-020, Container 12863",
+    "date": "1991-07-16",
+    "catalogUrl": "https://catalog.archives.gov/id/415891416",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_16_91-12863-020_415891416.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-07-16",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081769"
+    ],
+    "relatedRecordTitles": [
+      "Telecon with King Hussein of Jordan on July 16, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081769",
+        "title": "Telecon with King Hussein of Jordan on July 16, 1991",
+        "date": "1991-07-16",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081769"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-07-16 - Telecon with King Hussein of Jordan on July 16, 1991 (Palestinian-Jordanian Track).",
+      "Bush Presidential Records Collection/Office of Origin: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary/Backup Subseries: OA/ID Number: 12863 Folder ID Number: 12863-020 Folder Title: [Presidential Daily Backup] 7/16/1991 Stack: Row: Section: Shelf: Position: G 15 1 6 5 SCHEDULE OF THE PRESIDENT Tuesday, July 16, 1991 8:35 am B American Embassy Community Greeting at Winfield House (Scowcroft) 9:15 am Arrive Lancaster House 9:30 am First Plenary Session of the S",
+      "ed a working session at Lancaster House Nominations with President Gorbachev and summit lead- Submitted to July 16 ers.",
+      "Following the dinner, Presi- tended the first plenary session of the dent Bush returned to Winfield House.",
+      "he attended the main plenary session of the vately with President Constantinos Kara- summit.",
+      "Following the dinner, the meeting with Greek and U.S.",
+      "Bush the final plenary session of the summit and went to the residence of U.S."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telecon with King Hussein of Jordan on July 16, 1991. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-07-16; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 7/16/1991, 12863-020, Container 12863, 1991-07-16. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891416; https://catalog.archives.gov/id/415891416; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_16_91-12863-020_415891416.pdf."
+  },
+  {
+    "id": "source-candidate-415891415",
+    "naid": "415891415",
+    "title": "[Presidential Daily Diary] 7/16/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12863-019, Container 12863",
+    "date": "1991-07-16",
+    "catalogUrl": "https://catalog.archives.gov/id/415891415",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_16_91-12863-019_415891415.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-07-16",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081769"
+    ],
+    "relatedRecordTitles": [
+      "Telecon with King Hussein of Jordan on July 16, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081769",
+        "title": "Telecon with King Hussein of Jordan on July 16, 1991",
+        "date": "1991-07-16",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081769"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-07-16 - Telecon with King Hussein of Jordan on July 16, 1991 (Palestinian-Jordanian Track).",
+      "8:50 12:37 The President participated in the First Plenary Session of the London Economic Summit.",
+      "Brady, Secretary of the Treasury 3:30 5:19 The President participated in the Main Plenary Session of the London Economic Summit.",
+      "TUESDAY IN OUT PHONE ACTIVITY 7:14 7:21 P The President talked on a conference line with: King Hussein I, of the Hashemite Kingdom of Jordan Cornelius F."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telecon with King Hussein of Jordan on July 16, 1991. OCR/catalog markers: Palestinian channel, Jordan/King Hussein, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-07-16; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 7/16/1991, 12863-019, Container 12863, 1991-07-16. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891415; https://catalog.archives.gov/id/415891415; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_16_91-12863-019_415891415.pdf."
+  },
+  {
+    "id": "source-candidate-415891458",
+    "naid": "415891458",
+    "title": "[Presidential Daily Backup] 8/6/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12865-018, Container 12865",
+    "date": "1991-08-06",
+    "catalogUrl": "https://catalog.archives.gov/id/415891458",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_06_91-12865-018_415891458.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "On the Middle East, he said that he is \"much more optimistic\" than he had been a month ago, and asked, rhetorically, who could have predicted the process would have come \"this far.\" He called his luncheon session with Baker \"a good meeting,\" and said the Secretary is \"not altogether discouraged\" by the contradictory statements coming from spokesmen of the PLO about Palestinian participation in a possible peace conference."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Israel leadership, Palestinian channel, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/6/1991, 12865-018, Container 12865, 1991-08-06. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891458; https://catalog.archives.gov/id/415891458; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_06_91-12865-018_415891458.pdf."
+  },
+  {
+    "id": "source-candidate-415891826",
+    "naid": "415891826",
+    "title": "[Presidential Daily Backup] 2/4/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12880-004, Container 12880",
+    "date": "1992-02-04",
+    "catalogUrl": "https://catalog.archives.gov/id/415891826",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-02_04_92-12880-004_415891826.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Madrid",
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "8:30 AM INC PM Secure Voice x7120 via Secure Satellite OUT 8:30 AM 9:09 Conference Call: WCL King Juan Carlos I 8:31 AM Office, Madrid, Spain INC PM 450-6162 Tlkd-ok OUT AM 9:03 AM via Secure Satellite INC PM OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Israel leadership, Jordan/King Hussein, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 2/4/1992, 12880-004, Container 12880, 1992-02-04. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891826; https://catalog.archives.gov/id/415891826; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-02_04_92-12880-004_415891826.pdf."
+  },
+  {
+    "id": "source-candidate-415891901",
+    "naid": "415891901",
+    "title": "[Presidential Daily Backup] 3/12/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12884-002, Container 12884",
+    "date": "1992-03-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415891901",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_12_92-12884-002_415891901.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Middle East peace",
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "3/12/92 (b)(7)(e) 1 [security information redacted] (1 pp.) Page 2 of 2 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 3/12/1992 Pinksheet Number: BAH2302 OA/ID Number: 12884-002 Date Closed: 7/9/2025 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: MaRGy 401-0409 SCHEDULE OF THE PRESIDENT Thursday, March 12",
+      "Thursday, March 12, 1992 (b)(3) 8:30 am: Admiral Howe, Bob Gates in 8:31 am: Scowcroft in (b)(3) 8:50 am: Gates, out 9:10 am: Skinner in 9:12 am: Scowcroft, Admiral Howe out 9:15 am: Henson Moore in 9:46 am: add Nick Brady, Clayton Yeutter, Darman, Fitwater, Boskin in 9:55 am: Skinner out 10:14 am: Skinner in 10:15 am: Fitzwater, Moore, Boskin, Brady, Darman out 10:16 am: Dan Goldin in 10:17 am: Fitwater in 10:19 am: Golden, Fitwater, Skinner out 10:19 am: POTUS to Cabinet Room 10:53 am: POTUS o",
+      "Calio, Assistant to the President for Legislative Affairs Gary Andres, Deputy Assistant to the President for Legislative Affairs (House) Steve Hart, Deputy Assistant to the President and Director, Office of Legislative Affairs Arnie Havens, Special Assistant to the President for Legislative Affairs (House) Jack Howard, Special Assistant to the President for Legislative Affairs (House) Virginia Lampley, Special Assistant to the President for National Security Affairs Frances Norris, Special Assis"
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Middle East peace, Israel leadership, Jordan/King Hussein, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 3/12/1992, 12884-002, Container 12884, 1992-03-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891901; https://catalog.archives.gov/id/415891901; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_12_92-12884-002_415891901.pdf."
+  },
+  {
+    "id": "source-candidate-415891900",
+    "naid": "415891900",
+    "title": "[Presidential Daily Diary] 3/12/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12884-001, Container 12884",
+    "date": "1992-03-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415891900",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_12_92-12884-001_415891900.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Haass, Senior Director, Near East and South Asian Affairs, National Security Council (NSC) The President met with: 11:03 12:05 King Hussein, of the Hashemite Kingdom of Jordon 11:03 12:05 Zayd Bin Shaker, Prime Minister of the Hashemite Kingdom of Jordon 11:03 12:02 Secretary Baker 11:03 11:08 Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Jordan/King Hussein, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 3/12/1992, 12884-001, Container 12884, 1992-03-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891900; https://catalog.archives.gov/id/415891900; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_12_92-12884-001_415891900.pdf."
+  },
+  {
+    "id": "source-candidate-415892463",
+    "naid": "415892463",
+    "title": "[Presidential Daily Backup] 12/16/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26865-004, Container 26865",
+    "date": "1992-12-16",
+    "catalogUrl": "https://catalog.archives.gov/id/415892463",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_16_92-26865-004_415892463.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "1:15 pm Administrative Time - OPM Oval Office (75 min) 2:30 pm Meeting with Debbie Steelman Oval Office (15 min) (Super) (TAB C) 2:45 pm Personal Staff Time Oval Office (15 min) 3:00 pm Meeting with King Hussein Oval Office (60 min) (Scowcroft) (Distributed Separately) 4:00 pm Personal Staff Time Oval Office (30 min) 4:30 pm Haircut West Basement UNP 12/15/92 8:00 pm REVISED Withdrawal/Redaction Sheet (George Bush Library) Document No.",
+      "REMARKS None Emery 9059 THE WHITE HOUSE WASHINGTON December 15, 1992 MEETING WITH KING HUSSEIN OF JORDAN DATE: December 16, 1992 LOCATION: The Oval Office TIME: 3:00 - 4:00 p.m."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Jordan/King Hussein, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/16/1992, 26865-004, Container 26865, 1992-12-16. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892463; https://catalog.archives.gov/id/415892463; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_16_92-26865-004_415892463.pdf."
+  },
+  {
+    "id": "source-candidate-415892462",
+    "naid": "415892462",
+    "title": "[Presidential Daily Diary] 12/16/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26865-003, Container 26865",
+    "date": "1992-12-16",
+    "catalogUrl": "https://catalog.archives.gov/id/415892462",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_16_92-26865-003_415892462.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Jordan/King Hussein",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "The President met with: 3:04 3:46 King Hussein I, King of the Hashemite Kingdom of Jordan continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 6 LOCATION DATE DECEMBER 16, 1992 THE WHITE HOUSE TIME DAY WASHINGTON, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Jordan/King Hussein, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 12/16/1992, 26865-003, Container 26865, 1992-12-16. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892462; https://catalog.archives.gov/id/415892462; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_16_92-26865-003_415892462.pdf."
+  },
+  {
+    "id": "source-candidate-415892465",
+    "naid": "415892465",
+    "title": "[Presidential Daily Backup] 12/17/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26865-006, Container 26865",
+    "date": "1992-12-17",
+    "catalogUrl": "https://catalog.archives.gov/id/415892465",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-006_415892465.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-12-17",
+      "Middle East Peace",
+      "Palestinian Delegation"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082377",
+      "conversation-428082375",
+      "conversation-428082379",
+      "conversation-428082419",
+      "conversation-428082421"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Israeli Delegation, December 17, 1992",
+      "Meeting with Dr. Abd Al-Salam Majali, Head of the Jordanian Peace Process Delegation",
+      "Meeting with Jordanian/Palestinian Delegations, December 17, 1992",
+      "Meeting with Lebanese Delegation, December 17, 1992",
+      "Meeting with the Syrian Delegation, December 17, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082377",
+        "title": "Meeting with Israeli Delegation, December 17, 1992",
+        "date": "1992-12-17",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082377"
+      },
+      {
+        "id": "conversation-428082375",
+        "title": "Meeting with Dr. Abd Al-Salam Majali, Head of the Jordanian Peace Process Delegation",
+        "date": "1992-12-17",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082375"
+      },
+      {
+        "id": "conversation-428082379",
+        "title": "Meeting with Jordanian/Palestinian Delegations, December 17, 1992",
+        "date": "1992-12-17",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082379"
+      },
+      {
+        "id": "conversation-428082419",
+        "title": "Meeting with Lebanese Delegation, December 17, 1992",
+        "date": "1992-12-17",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082419"
+      },
+      {
+        "id": "conversation-428082421",
+        "title": "Meeting with the Syrian Delegation, December 17, 1992",
+        "date": "1992-12-17",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082421"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-12-17 - Meeting with Israeli Delegation, December 17, 1992 (Israel Track).",
+      "FRUS date cross-reference: 1992-12-17 - Meeting with Dr. Abd Al-Salam Majali, Head of the Jordanian Peace Process Delegation (Palestinian-Jordanian Track).",
+      "FRUS date cross-reference: 1992-12-17 - Meeting with Jordanian/Palestinian Delegations, December 17, 1992 (Palestinian-Jordanian Track).",
+      "FRUS date cross-reference: 1992-12-17 - Meeting with Lebanese Delegation, December 17, 1992 (Syria-Lebanon Track).",
+      "FRUS date cross-reference: 1992-12-17 - Meeting with the Syrian Delegation, December 17, 1992 (Syria-Lebanon Track).",
+      "Memo w/ Brent Scowcroft to POTUS re: meeting with Kuwaiti Ambassador 12/16/92 (b)(1) attachments Saud Nasir Al-Sabah (4 pp.) 04.",
+      "Diagram Security diagrams - trip to OAS building for NAFTA signing 12/17/92 (b)(7)(c), ceremony (2 pp.) (b)(7)(e), (b)(7)(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, Office of Series: Presidential Daily Diary/Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 12/17/1992 Pinksheet Number: KO0436 OA/ID Number: 26865-006 Date Closed: 11/9/2004 FOIA/Sys Case #: 2002-1005-S Re-review Case #: 2005-0140-S P-2/P-5 Review C",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 12:00 pm Lunch Oval Office (75 min) 1:15 pm Administrative Time Oval Office (65 min) 2:20 pm B The Pr",
+      "OUT 10:50 Scowerott, Fitzwater In 4:36 M.Fitewates IN 4:40 Fitenktes out THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM DECEMBER 17th 92 PRESIDENT BUSH , 19 TIME PLACED DISC NAME ACTION OUT 5:59 AM 6:00 MR.",
+      "780 TLKD-OK 6:00 P.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 5 selected FRUS meeting/call records: Meeting with Israeli Delegation, December 17, 1992; Meeting with Dr. Abd Al-Salam Majali, Head of the Jordanian Peace Process Delegation; Meeting with Jordanian/Palestinian Delegations, December 17, 1992; plus 2 more. OCR/catalog markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-12-17; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/17/1992, 26865-006, Container 26865, 1992-12-17. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892465; https://catalog.archives.gov/id/415892465; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-006_415892465.pdf."
+  },
+  {
+    "id": "source-candidate-415892464",
+    "naid": "415892464",
+    "title": "[Presidential Daily Diary] 12/17/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26865-005, Container 26865",
+    "date": "1992-12-17",
+    "catalogUrl": "https://catalog.archives.gov/id/415892464",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-005_415892464.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-12-17",
+      "Middle East Peace",
+      "Palestinian Delegation"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082377",
+      "conversation-428082375",
+      "conversation-428082379",
+      "conversation-428082419",
+      "conversation-428082421"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Israeli Delegation, December 17, 1992",
+      "Meeting with Dr. Abd Al-Salam Majali, Head of the Jordanian Peace Process Delegation",
+      "Meeting with Jordanian/Palestinian Delegations, December 17, 1992",
+      "Meeting with Lebanese Delegation, December 17, 1992",
+      "Meeting with the Syrian Delegation, December 17, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082377",
+        "title": "Meeting with Israeli Delegation, December 17, 1992",
+        "date": "1992-12-17",
+        "chapter": "Israel Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082377"
+      },
+      {
+        "id": "conversation-428082375",
+        "title": "Meeting with Dr. Abd Al-Salam Majali, Head of the Jordanian Peace Process Delegation",
+        "date": "1992-12-17",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082375"
+      },
+      {
+        "id": "conversation-428082379",
+        "title": "Meeting with Jordanian/Palestinian Delegations, December 17, 1992",
+        "date": "1992-12-17",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082379"
+      },
+      {
+        "id": "conversation-428082419",
+        "title": "Meeting with Lebanese Delegation, December 17, 1992",
+        "date": "1992-12-17",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082419"
+      },
+      {
+        "id": "conversation-428082421",
+        "title": "Meeting with the Syrian Delegation, December 17, 1992",
+        "date": "1992-12-17",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082421"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-12-17 - Meeting with Israeli Delegation, December 17, 1992 (Israel Track).",
+      "FRUS date cross-reference: 1992-12-17 - Meeting with Dr. Abd Al-Salam Majali, Head of the Jordanian Peace Process Delegation (Palestinian-Jordanian Track).",
+      "FRUS date cross-reference: 1992-12-17 - Meeting with Jordanian/Palestinian Delegations, December 17, 1992 (Palestinian-Jordanian Track).",
+      "FRUS date cross-reference: 1992-12-17 - Meeting with Lebanese Delegation, December 17, 1992 (Syria-Lebanon Track).",
+      "FRUS date cross-reference: 1992-12-17 - Meeting with the Syrian Delegation, December 17, 1992 (Syria-Lebanon Track).",
+      "The President met with: 8:15 8:35 James A.",
+      "Howe 9:14 9:21 P The President talked on a conference call with: Prime Minister Mulroney Carlos Salinas de Gortari, President of Mexico continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 2 LOCATION DATE DECEMBER 17, 1992 THE WHITE HOUSE TIME DAY WASHINGTON, D.C.",
+      "Von Reigersberg, interpreter, Department of State 9:26 9:32 The President met with: Mr.",
+      "Marlin Fitzwater, Counsellor and Press Secretary 9:32 9:46 The President met with: Saud Nasir Al-Sabah, Ambassador of the State of Kuwait to the U.S.",
+      "Fitzwater Members of Press in/out 9:55 10:01 The President met with: Edward P."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 5 selected FRUS meeting/call records: Meeting with Israeli Delegation, December 17, 1992; Meeting with Dr. Abd Al-Salam Majali, Head of the Jordanian Peace Process Delegation; Meeting with Jordanian/Palestinian Delegations, December 17, 1992; plus 2 more. OCR/catalog markers: Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-12-17; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 12/17/1992, 26865-005, Container 26865, 1992-12-17. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892464; https://catalog.archives.gov/id/415892464; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_17_92-26865-005_415892464.pdf."
+  },
+  {
+    "id": "source-candidate-415892467",
+    "naid": "415892467",
+    "title": "[Presidential Daily Backup] 12/18/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Palestinian-Jordanian Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "26865-008, Container 26865",
+    "date": "1992-12-18",
+    "catalogUrl": "https://catalog.archives.gov/id/415892467",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_18_92-26865-008_415892467.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1992-12-18",
+      "Middle East Peace"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Palestinian channel",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428082423"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Prominent Palestinians, December 18, 1992"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428082423",
+        "title": "Meeting with Prominent Palestinians, December 18, 1992",
+        "date": "1992-12-18",
+        "chapter": "Palestinian-Jordanian Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428082423"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1992-12-18 - Meeting with Prominent Palestinians, December 18, 1992 (Palestinian-Jordanian Track).",
+      "Memo w/ Brent Scowcroft to POTUS re: meeting with Palestinian Leader 12/17/92 (b)(1) S attachments Feisal Husseini (6 pp.) 05.",
+      "Memo w/ Brent Scowcroft to POTUS re: meeting with British Prime 12/17/92 (b)(1) S attachments Minister Major & EC Commission President DeLors (48 pp.) 06.",
+      "Memo w/ Brent Scowcroft to POTUS re: meeting with British Prime 12/18/92 (b)(1) S attachments Minister John Major (12 pp.) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 12/18/1992 Pinksheet Number: LT10540 OA/ID Number: 26865-008 Date Closed: 6/22/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review C",
+      "for departure statements 1:48 Potus to Oval w/ Scowcroft + Fitzwater 1:54 Scowcroft Fitzwater out 1:58 Zamaria family in 2:00 Zamaria family out 2:05 Louise Walker in 2:07 Louise Walker out 7:22 Machean family in 2:24 Potus to South Grounds THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM DECEMBER 18th .",
+      "202-366-1111 TLKD-OK 7:55 A.M.",
+      "5-6377 TLKD-OK 8:37 A.M."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Prominent Palestinians, December 18, 1992. OCR/catalog markers: Middle East peace, Palestinian channel, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1992-12-18; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/18/1992, 26865-008, Container 26865, 1992-12-18. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892467; https://catalog.archives.gov/id/415892467; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-12_18_92-26865-008_415892467.pdf."
+  },
+  {
+    "id": "source-candidate-415889707",
+    "naid": "415889707",
+    "title": "[Presidential Daily Backup] 3/15/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12792-020, Container 12792",
+    "date": "1989-03-15",
+    "catalogUrl": "https://catalog.archives.gov/id/415889707",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_15_89-12792-020_415889707.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Middle East I had an interesting meeting with Foreign Minister Arens Monday."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Israel leadership, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 3/15/1989, 12792-020, Container 12792, 1989-03-15. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889707; https://catalog.archives.gov/id/415889707; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-03_15_89-12792-020_415889707.pdf."
+  },
+  {
+    "id": "source-candidate-415889779",
+    "naid": "415889779",
+    "title": "[Presidential Daily Backup] 4/20/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12795-010, Container 12795",
+    "date": "1989-04-20",
+    "catalogUrl": "https://catalog.archives.gov/id/415889779",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_20_89-12795-010_415889779.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Middle East Peace",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "For example, I talked to King Fahd the other day, and I think that is useful to be sure."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Israel leadership, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/20/1989, 12795-010, Container 12795, 1989-04-20. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889779; https://catalog.archives.gov/id/415889779; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-04_20_89-12795-010_415889779.pdf."
+  },
+  {
+    "id": "source-candidate-415889841",
+    "naid": "415889841",
+    "title": "[Presidential Daily Backup] 5/21/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12797-014, Container 12797",
+    "date": "1989-05-21",
+    "catalogUrl": "https://catalog.archives.gov/id/415889841",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_21_89-12797-014_415889841.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "War in El Salvador, \"Bush Support Democracy in China,\" and \"Stop Syrian Invasion.' When we arrived on campus, we were told that Bush had a brief meeting with Dukakis and that the two men shook hands."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Syria/Lebanon, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 5/21/1989, 12797-014, Container 12797, 1989-05-21. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415889841; https://catalog.archives.gov/id/415889841; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-05_21_89-12797-014_415889841.pdf."
+  },
+  {
+    "id": "source-candidate-415890089",
+    "naid": "415890089",
+    "title": "[Presidential Daily Backup] 9/22/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12806-010, Container 12806",
+    "date": "1989-09-22",
+    "catalogUrl": "https://catalog.archives.gov/id/415890089",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_22_89-12806-010_415890089.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "The cancellations of the visit of King Fahd precluded us accomplishing this at that time."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/22/1989, 12806-010, Container 12806, 1989-09-22. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890089; https://catalog.archives.gov/id/415890089; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-09_22_89-12806-010_415890089.pdf."
+  },
+  {
+    "id": "source-candidate-415890125",
+    "naid": "415890125",
+    "title": "[Presidential Daily Backup] 10/10/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12808-002, Container 12808",
+    "date": "1989-10-10",
+    "catalogUrl": "https://catalog.archives.gov/id/415890125",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_10_89-12808-002_415890125.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "undertaking to initiate an Israeli-Palestinian dialogue regarding elections plan? 8) What is the status of U.S.-China relations and will you be removing the restrictions sometime soon? 9) Are you any closer to arriving at a drug summit and what do you envisage it accomplishing? 10) will you be undertaking any new measures to pressure de Klerk to move against apartheid? THE WHITE HOUSE WASHINGTON October 6, 1989 BRIEFING MEMORANDUM FOR MEETING WITH INTERNATIONAL EDITORS OF READER'S DIGEST DATE: T",
+      "undertaking to initiate an Israeli-Palestinian dialogue regarding elections plan? 8) What is the status of U.S.-China relations and will you be removing the restrictions sometime soon? 9) Are you any closer to arriving at a drug summit and what do you envisage it accomplishing? 10) Will you be undertaking any new measures to pressure de Klerk to move against apartheid? Annie Cheng DOOR Christian deVilleneuve DOOR Hugh Williams Edmond Saab Russell Audon Twisk Denise Coria Surprenant Raimo Moysa W"
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 10/10/1989, 12808-002, Container 12808, 1989-10-10. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890125; https://catalog.archives.gov/id/415890125; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-10_10_89-12808-002_415890125.pdf."
+  },
+  {
+    "id": "source-candidate-415890179",
+    "naid": "415890179",
+    "title": "[Presidential Daily Backup] 11/6/1989",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12810-012, Container 12810",
+    "date": "1989-11-06",
+    "catalogUrl": "https://catalog.archives.gov/id/415890179",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_06_89-12810-012_415890179.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "PURPOSE To greet Cardinal Casaroli during his visit to the United States and possibly to discuss recent events in Poland, Eastern Europe, Lebanon, and President Gorbachev's upcoming visit to the Vatican.",
+      "Cardinal Casaroli may take the opportunity to discuss several issues of interest to the Vatican: recent events in Eastern Europe and Poland in particular; the election of a President in Lebanon in which Catholic Maronite Patriarch Sfeir has played a large role; and President Gorbachev's upcoming visit to the Vatican."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Syria/Lebanon, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/6/1989, 12810-012, Container 12810, 1989-11-06. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890179; https://catalog.archives.gov/id/415890179; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1989/41-bpr-apts_sch-dd-11_06_89-12810-012_415890179.pdf."
+  },
+  {
+    "id": "source-candidate-415890503",
+    "naid": "415890503",
+    "title": "[Presidential Daily Backup] 4/17/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12824-008, Container 12824",
+    "date": "1990-04-17",
+    "catalogUrl": "https://catalog.archives.gov/id/415890503",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_17_90-12824-008_415890503.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "The itinerary included Jordan, Syria, Egypt, Israel, and Iraq (where they met with Saddam Hussein)."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/17/1990, 12824-008, Container 12824, 1990-04-17. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890503; https://catalog.archives.gov/id/415890503; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_17_90-12824-008_415890503.pdf."
+  },
+  {
+    "id": "source-candidate-415890507",
+    "naid": "415890507",
+    "title": "[Presidential Daily Backup] 4/19/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12824-012, Container 12824",
+    "date": "1990-04-19",
+    "catalogUrl": "https://catalog.archives.gov/id/415890507",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_19_90-12824-012_415890507.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "And I'm asking President Mitterrand your impressions after your meeting with President Arafat.",
+      "Yassar Arafat, on two occasions I've had the possibility of having talks with him in considerable depth -- when he first came to visit a number of French leaders and, more briefly, during his recent visit when I received him at the same time as President Carter, where they were good enough to tell me about the results of their conversations."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/19/1990, 12824-012, Container 12824, 1990-04-19. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890507; https://catalog.archives.gov/id/415890507; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_19_90-12824-012_415890507.pdf."
+  },
+  {
+    "id": "source-candidate-415890528",
+    "naid": "415890528",
+    "title": "[Presidential Daily Diary] 4/30/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12825-009, Container 12825",
+    "date": "1990-04-30",
+    "catalogUrl": "https://catalog.archives.gov/id/415890528",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_30_90-12825-009_415890528.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "to the Syrian Arab Republic 6:54 6:58 R The President talked with Secretary Baker."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Syria/Lebanon, Egypt/Arab regional, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 4/30/1990, 12825-009, Container 12825, 1990-04-30. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890528; https://catalog.archives.gov/id/415890528; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-04_30_90-12825-009_415890528.pdf."
+  },
+  {
+    "id": "source-candidate-415890737",
+    "naid": "415890737",
+    "title": "[Presidential Daily Backup] 8/12/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12834-012, Container 12834",
+    "date": "1990-08-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415890737",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_12_90-12834-012_415890737.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-08-12",
+      "President Assad"
+    ],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428080941"
+    ],
+    "relatedRecordTitles": [
+      "Telecon with President al-Assad of Syria, August 12, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428080941",
+        "title": "Telecon with President al-Assad of Syria, August 12, 1990",
+        "date": "1990-08-12",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428080941"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-08-12 - Telecon with President al-Assad of Syria, August 12, 1990 (Syria-Lebanon Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD August 12 .",
+      "19 90 TIME PLACED DISC NAME ACTION OUT 5:40 AM 6:25 Conference Call: President Hafiz-al Asad Tlkd-ok Residence, Damascus, Syria 6:09 AM INC PM 333-332 OUT AM Mr.",
+      "Boilard Tlkd-ok Residence, Biddeford, Maine 7:26 AM DMC PM (b) (6) via YANKEE ZULU OUT 9:26 AM 9:28 Mr.",
+      "Raynor Tlkd-ok Residence, Kennebunkport, Maine 9:27 AM INC PM (b)(6) OUT AM Mr.",
+      "Baker III Tlkd-ok Residence, Washington, D.C.",
+      "Casey Tlkd-ok Harbor Inn, Kennebunkport, Maine 1:11 PM INC 1:11 PM 1:13 207-967-2505 OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telecon with President al-Assad of Syria, August 12, 1990. OCR/catalog markers: Syria/Lebanon, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-08-12; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/12/1990, 12834-012, Container 12834, 1990-08-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890737; https://catalog.archives.gov/id/415890737; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-08_12_90-12834-012_415890737.pdf."
+  },
+  {
+    "id": "source-candidate-415890787",
+    "naid": "415890787",
+    "title": "[Presidential Daily Backup] 9/6/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12835-020, Container 12835",
+    "date": "1990-09-06",
+    "catalogUrl": "https://catalog.archives.gov/id/415890787",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_06_90-12835-020_415890787.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-09-06",
+      "Hafez Assad",
+      "President Assad"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081015"
+    ],
+    "relatedRecordTitles": [
+      "Presidential Telephone Call to President Assad of Syria, September 6, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081015",
+        "title": "Presidential Telephone Call to President Assad of Syria, September 6, 1990",
+        "date": "1990-09-06",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081015"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-09-06 - Presidential Telephone Call to President Assad of Syria, September 6, 1990 (Syria-Lebanon Track).",
+      "Diagram Security diagram - Tab D trip to Tallahassee, FL (1 pp.) 09/06/90 (b)(7)(c), (b)(7)(e), (b)(7)(f) Page 2 of 2 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 9/6/1990 Pinksheet Number: LT10010 OA/ID Number: 12835-020 Date Closed: 3/11/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: BC SCHEDULE ",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells 0653 POTUS 7N OVAL 0722 ADD GATES 0746 GATES OUT /ADD HOLT 0756 HOLT OUT 0758 ADD SCOWCROFT, Sununu, ",
+      "25885 6:50 P The President telephoned Hafiz al-Asad, President of the Arab Republic of Syria.",
+      "25887 7:22 7:44 P The President talked on a conference call with: Francois Mitterrand, President Republic of France Adrian A.",
+      "Basora, Director, European and Soviet Affairs, National Security Council (NSC) Eliza Burnham, interpreter, Department of State 25888 8:07 8:26 P The President talked on a conference call with: Helmut Kohl, Chancellor of the Federal Republic of Germany (FRG) Robert L.",
+      "Hutchings, Director, European and Soviet Affairs, National Security Council (NSC) Gisela Marcuse, interpreter, Department of State 25886 8:29 8:44 P The President talked on a conference call with: President Asad Sandra Charles, Director, Near East and South Asia Affairs, National Security Council (NSC) Shuckran F."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Presidential Telephone Call to President Assad of Syria, September 6, 1990. OCR/catalog markers: Israel leadership, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-09-06; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/6/1990, 12835-020, Container 12835, 1990-09-06. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890787; https://catalog.archives.gov/id/415890787; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_06_90-12835-020_415890787.pdf."
+  },
+  {
+    "id": "source-candidate-415890832",
+    "naid": "415890832",
+    "title": "[Presidential Daily Diary] 9/29/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12837-009, Container 12837",
+    "date": "1990-09-29",
+    "catalogUrl": "https://catalog.archives.gov/id/415890832",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_29_90-12837-009_415890832.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-09-29"
+    ],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081043"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with Prime Minister Salim al-Huss of Lebanon, September 29, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081043",
+        "title": "Meeting with Prime Minister Salim al-Huss of Lebanon, September 29, 1990",
+        "date": "1990-09-29",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081043"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-09-29 - Meeting with Prime Minister Salim al-Huss of Lebanon, September 29, 1990 (Syria-Lebanon Track).",
+      "7:32 7:33 The President met with Mr.",
+      "4:17 4:52 The President met with Trujillo Gaviria, continued THE WHITE HOUSE THE DAILY DIARY OF PRESIDENT GEORGE BUSH Page 5 LOCATION DATE SEPTEMBER 29, 1990 WALDORF-ASTORIA HOTEL TIME NEW YORK, NEW YORK 4:17 p.m.",
+      "For a list of attendees, see APPENDIX \"D.\" 4:56 5:20 The President met with Salim al-Hoss, Prime Minister of the Republic of Lebanon.",
+      "For a list of attendees, see APPENDIX \"E.\" 5:29 5:51 The President met with with Violeta Chamorro, President of Nicaragua.",
+      "For a list of attendees, see APPENDIX \"F.\" 5:56 6:18 The President met with: Brian Mulroney, Prime Minister of Canada Derek Burney, Ambassador of Canado to the U.S.",
+      "Hutchings, Director, European and Soviet Affairs, National Security Council (NSC) 6:21 6:55 The President met with: Tadeusz Mazowiecki, Prime Minister of Poland Krzysztof Skubiszewski, Foreign Minister, Poland Alexander Smolar, Advisor to the Prime Minister, Poland Secretary Baker Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with Prime Minister Salim al-Huss of Lebanon, September 29, 1990. OCR/catalog markers: Syria/Lebanon, Meeting reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-09-29; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 9/29/1990, 12837-009, Container 12837, 1990-09-29. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890832; https://catalog.archives.gov/id/415890832; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_29_90-12837-009_415890832.pdf."
+  },
+  {
+    "id": "source-candidate-415890835",
+    "naid": "415890835",
+    "title": "[Presidential Daily Backup] 9/30/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12838-002, Container 12838",
+    "date": "1990-09-30",
+    "catalogUrl": "https://catalog.archives.gov/id/415890835",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_30_90-12838-002_415890835.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "BUSH FOR NEW YORK, NEW YORK SEPTEMBER 29 - OCTOBER 1, 1990 EVENTS: Bilateral Meeting with Colombian President Gaviria Bilateral Meeting with Lebanese Prime Minister Salim el-Hoss Bilateral Meeting with Nicaraguan President Chamorro Bilateral Meeting with Polish Prime Minister Mazoweicki Bilateral with Japanese Prime Minister Kaifu Reception and Official Photo with Other Heads of State Opening Ceremony for World Summit for Children Bilateral Meeting with NATO Secretary General Woerner Bilateral M",
+      "EVENT: BILATERAL MEETING WITH LEBANESE PRIME MINISTER SALIM EL-HOSS PHOTO OPPORTUNITY 5:00 pm THE PRESIDENT greets Prime Minister Salim el-Hoss and begins participation in Bilateral Meeting.",
+      "Gaviria and holds briefly EVENT: BILATERAL MEETING WITH LEBANESE PRIME MINISTER SALIM EL-HOSS 5:00 pm Greets PM Salim el Hoss and begins participation in Bilateral Meeting 5:15 pm Concludes participation in Bilateral Meeting, bids Farewell to Pres.",
+      "outset, let me j York City With Prime Minister Salim preciation to al-Huss of Lebanon International O and then to th September 29, 1990 President Tra And may I ext The President met with the Prime Minis- Statement by Press Secretary Fitzwater special thanks ter of Lebanon, Salim al-Huss, at 5 p.m."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/30/1990, 12838-002, Container 12838, 1990-09-30. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890835; https://catalog.archives.gov/id/415890835; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-09_30_90-12838-002_415890835.pdf."
+  },
+  {
+    "id": "source-candidate-415890941",
+    "naid": "415890941",
+    "title": "[Presidential Daily Backup] 11/21/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12843-002, Container 12843",
+    "date": "1990-11-21",
+    "catalogUrl": "https://catalog.archives.gov/id/415890941",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_21_90-12843-002_415890941.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "King Hussein",
+      "President Assad"
+    ],
+    "matchedTerms": [
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells SCHEDULE OF THE PRESIDENT Wednesday, November 21, 1990 8:00 am Bilateral Meeting with Greek Paris, Fr",
+      "WEDNESDAY 31820 11:40 The President and King Fahd went to the Meeting Room.",
+      "31822 11:44 12:00 The President met with King Fahd.",
+      "Wolfowitz, Under Secretary of Defense for Policy MEETING WITH KING FAHD APPENDIX \"C\" November 21, 1990 Attendance not confirmed.",
+      "23 for a meeting with Syrian President Hafez al-Assad, Marlin announced to your pool.",
+      "Both Bush and Assad thought it would be a good idea, Marlin said, but the meeting \"was not initiated by either.' \" He said he doesn't \"think it implies any change in our overall relations \" with Syria."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/21/1990, 12843-002, Container 12843, 1990-11-21. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890941; https://catalog.archives.gov/id/415890941; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_21_90-12843-002_415890941.pdf."
+  },
+  {
+    "id": "source-candidate-415890943",
+    "naid": "415890943",
+    "title": "[Presidential Daily Backup] 11/22/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12843-004, Container 12843",
+    "date": "1990-11-22",
+    "catalogUrl": "https://catalog.archives.gov/id/415890943",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_22_90-12843-004_415890943.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "31825 12:59 1:35 The President met with King Fahd.",
+      "He talked to them and they're all so fresh and bright and young.\" Andy Card also commented, \"You can't help but feel emotional.\" Governor Sununu said Bush had about 4 hours of sleep after his meeting with King Fahd.",
+      "Asked if they were \"concerned about war,\" she replied, \"yes, everybody is.\" Asked if she had a Thanksgiving wish, she said, simply, \"peace.\" Tom DeFrank, Newsweek Ann Devroy, Washington Post # # # POOL REPORT # 38 End of Bush-Fahd Meeting and Baker Press Conference Thursday, November 22, 1990 Jeddah, Saudi Arabia As noted at the podium, the meeting broke at about 1:25 a.m.",
+      "I told George I thought I signed everything from hats to shirts- They were wonderful.\" Asked what she thinks can come out of the Assad visit, \" I don't know."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/22/1990, 12843-004, Container 12843, 1990-11-22. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890943; https://catalog.archives.gov/id/415890943; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_22_90-12843-004_415890943.pdf."
+  },
+  {
+    "id": "source-candidate-415890945",
+    "naid": "415890945",
+    "title": "[Presidential Daily Backup] 11/23/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12843-006, Container 12843",
+    "date": "1990-11-23",
+    "catalogUrl": "https://catalog.archives.gov/id/415890945",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_23_90-12843-006_415890945.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1990-11-23",
+      "Hafez Assad",
+      "President Assad",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081205"
+    ],
+    "relatedRecordTitles": [
+      "President's Meeting with President Hafez Assad of Syria, November 23, 1990"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081205",
+        "title": "President's Meeting with President Hafez Assad of Syria, November 23, 1990",
+        "date": "1990-11-23",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081205"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1990-11-23 - President's Meeting with President Hafez Assad of Syria, November 23, 1990 (Syria-Lebanon Track).",
+      "(b)(7)(c), (b)(7)(e), (b)(7)(f) Page 1 of 1 Collection: Record Group: Bush Presidential Records Office: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary, Backup Subseries: WHORM Cat.: File Location: [Presidential Daily Backup] 11/23/1990 Pinksheet Number: LT10084 OA/ID Number: 12843-006 Date Closed: 3/30/1998 FOIA/Sys Case #: 2002-1005-S Re-review Case #: P-2/P-5 Review Case #: SCHEDULE OF THE PRESIDENT Friday, November 23, 1990 8:30 am Working Breakfast with P",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells Page 1 NOVEMBER 23, 1990 KUBBEH PALACE CAIRO, EGYPT 7:46 a.m.",
+      "32007 9:12 The President was greeted by Hosni Mubarak, President of the Arab Republic of Egypt.",
+      "32008 9:13 The President and President Mubarak went to the Dais.",
+      "32009 9:13 9:16 The President and President Mubarak participated in an Arrival Ceremony.",
+      "Members of Press 32010 9:16 The President went to President Mubarak's office."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: President's Meeting with President Hafez Assad of Syria, November 23, 1990. OCR/catalog markers: Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1990-11-23; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/23/1990, 12843-006, Container 12843, 1990-11-23. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890945; https://catalog.archives.gov/id/415890945; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-11_23_90-12843-006_415890945.pdf."
+  },
+  {
+    "id": "source-candidate-415890999",
+    "naid": "415890999",
+    "title": "[Presidential Daily Backup] 12/20/1990",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12845-014, Container 12845",
+    "date": "1990-12-20",
+    "catalogUrl": "https://catalog.archives.gov/id/415890999",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_20_90-12845-014_415890999.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Prime Minister Shamir",
+      "King Hussein"
+    ],
+    "matchedTerms": [
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "The Episcopal Church informs us that after Cyprus, he travelled to Amman, Jordan -- where he met with King Hussein -- and then to Baghdad, although no meeting with Saddam Hussein took place."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/20/1990, 12845-014, Container 12845, 1990-12-20. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415890999; https://catalog.archives.gov/id/415890999; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1990/41-bpr-apts_sch-dd-12_20_90-12845-014_415890999.pdf."
+  },
+  {
+    "id": "source-candidate-415891029",
+    "naid": "415891029",
+    "title": "[Presidential Daily Backup] 1/4/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12846-012, Container 12846",
+    "date": "1991-01-04",
+    "catalogUrl": "https://catalog.archives.gov/id/415891029",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_04_91-12846-012_415891029.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Palestinian channel",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "has urged the EC not to send an envoy to Baghdad and not to meet with Aziz in Europe? Why are you opposed to their diplomatic efforts? 5) Would you guarantee not to attack Iraq if they pull out of Kuwait? 6) What is your reaction to the new peace plan proposed by the French in Luxembourg today? 7) Any reaction to Mitterrand's call for a UNSC meeting before January 15th if Iraq doesn't pull out of Kuwait and war appears inevitable? 8) Will you ask Secretary General Perez de Cuellar to undertake a"
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 1/4/1991, 12846-012, Container 12846, 1991-01-04. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891029; https://catalog.archives.gov/id/415891029; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_04_91-12846-012_415891029.pdf."
+  },
+  {
+    "id": "source-candidate-415891045",
+    "naid": "415891045",
+    "title": "[Presidential Daily Backup] 1/12/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12846-028, Container 12846",
+    "date": "1991-01-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415891045",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_12_91-12846-028_415891045.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Madrid",
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "INC PM 301-980-7655 via Cellular Phone QWI 11:00 AM 11:22 Conference Call: Tlkd-ok Prime Minister 11:08 AM INC PM Felipe Marquez Gonzalez GPO : 1983 0 - 405-660 : QL 2 THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD January 12 , 1991 TIME NAME ACTION PLACED DISC OUT AM Residence, Madrid, Spain 549-1700 INC PM OUT AM Mr."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Syria/Lebanon, Egypt/Arab regional, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 1/12/1991, 12846-028, Container 12846, 1991-01-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891045; https://catalog.archives.gov/id/415891045; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-01_12_91-12846-028_415891045.pdf."
+  },
+  {
+    "id": "source-candidate-415891094",
+    "naid": "415891094",
+    "title": "[Presidential Daily Diary] 2/6/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12848-011, Container 12848",
+    "date": "1991-02-06",
+    "catalogUrl": "https://catalog.archives.gov/id/415891094",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_06_91-12848-011_415891094.pdf",
+    "digitalObjectCount": 18,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-02-06",
+      "Hafez Assad"
+    ],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081387"
+    ],
+    "relatedRecordTitles": [
+      "Telephone Call to Hafez Assad, February 6, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081387",
+        "title": "Telephone Call to Hafez Assad, February 6, 1991",
+        "date": "1991-02-06",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081387"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-02-06 - Telephone Call to Hafez Assad, February 6, 1991 (Syria-Lebanon Track).",
+      "Following lunch, the President held a conference call with Hafiz-al Asad, President of Syria.",
+      "7:55 7:57 The President met with his Chief of Staff, John H.",
+      "Sununu 8:24 8:26 The President met with: Mr.",
+      "Sununu 8:45 9:03 The President met with: Vice President Quayle Mr.",
+      "WEDNESDAY IN OUT PHONE ACTIVITY 10:15 10:23 The President met with his Assistant for Communications, David F.",
+      "11:30 11:49 The President met with his Assistant and Deputy to the Chief of Staff, Andrew H."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Telephone Call to Hafez Assad, February 6, 1991. OCR/catalog markers: Syria/Lebanon, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-02-06; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 2/6/1991, 12848-011, Container 12848, 1991-02-06. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891094; https://catalog.archives.gov/id/415891094; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-02_06_91-12848-011_415891094.pdf."
+  },
+  {
+    "id": "source-candidate-415891165",
+    "naid": "415891165",
+    "title": "[Presidential Daily Backup] 3/13/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12851-010, Container 12851",
+    "date": "1991-03-13",
+    "catalogUrl": "https://catalog.archives.gov/id/415891165",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_13_91-12851-010_415891165.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Israel leadership",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Ryan Crocker (Lebanon) Christine Crocker, Wife mary 1648 THE WHITE HOUSE WASHINGTON March 12, 1991 MEETING WITH IRISH FOREIGN MINISTER GERARD COLLINS DATE: March 13, 1991 LOCATION: Oval Office TIME: 11:45-11:55 a.m."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Israel leadership, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 3/13/1991, 12851-010, Container 12851, 1991-03-13. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891165; https://catalog.archives.gov/id/415891165; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-03_13_91-12851-010_415891165.pdf."
+  },
+  {
+    "id": "source-candidate-415891414",
+    "naid": "415891414",
+    "title": "[Presidential Daily Backup] 7/15/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12863-018, Container 12863",
+    "date": "1991-07-15",
+    "catalogUrl": "https://catalog.archives.gov/id/415891414",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_15_91-12863-018_415891414.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Middle East Peace",
+      "President Assad",
+      "Hosni Mubarak"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Loan guarantees/settlements",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "I Gorbachev of the Soviet Union; Brent Scow- at our dinner, the Secretary, having cov- we want to go ered Yugoslavia and a lot of other issues at there can't ha croft, Assistant to the President for Nation- the Foreign Minister level-we talked clearly, it is a C al Security Affairs; and Secretary of State about the Iraq situation and we talked Assad that we James A.",
+      "We're grateful that N meeting in President Assad has come forward at this those who want peace in the area.",
+      "But -we talked clearly, it is a coming forward by President Iraq d we talked Assad that we view as very, very positive- Q.",
+      "In the meeting with Chancellor Kohl, with President Andreotti, and as well with Prime Minister Lubbers, Secretary Baker summarized the letter that we received from Syria only yesterday concerning a Mideast peace process."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Israel leadership, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 7/15/1991, 12863-018, Container 12863, 1991-07-15. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891414; https://catalog.archives.gov/id/415891414; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-07_15_91-12863-018_415891414.pdf."
+  },
+  {
+    "id": "source-candidate-415891467",
+    "naid": "415891467",
+    "title": "[Presidential Daily Diary] 8/11/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12865-027, Container 12865",
+    "date": "1991-08-11",
+    "catalogUrl": "https://catalog.archives.gov/id/415891467",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_11_91-12865-027_415891467.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "9:22 9:24 P The President talked with Maria Lambert, sister of Edward Tracy, a hostage who was recently released from Lebanon."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Syria/Lebanon, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 8/11/1991, 12865-027, Container 12865, 1991-08-11. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891467; https://catalog.archives.gov/id/415891467; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-08_11_91-12865-027_415891467.pdf."
+  },
+  {
+    "id": "source-candidate-415891556",
+    "naid": "415891556",
+    "title": "[Presidential Daily Backup] 9/24/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12868-012, Container 12868",
+    "date": "1991-09-24",
+    "catalogUrl": "https://catalog.archives.gov/id/415891556",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_24_91-12868-012_415891556.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "FRUS date crosswalk 1991-09-24"
+    ],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [
+      "conversation-428081897"
+    ],
+    "relatedRecordTitles": [
+      "Meeting with President Ilyas Hrawi of Lebanon, September 24, 1991"
+    ],
+    "relatedRecords": [
+      {
+        "id": "conversation-428081897",
+        "title": "Meeting with President Ilyas Hrawi of Lebanon, September 24, 1991",
+        "date": "1991-09-24",
+        "chapter": "Syria-Lebanon Track",
+        "catalogUrl": "https://catalog.archives.gov/id/428081897"
+      }
+    ],
+    "evidenceSnippets": [
+      "FRUS date cross-reference: 1991-09-24 - Meeting with President Ilyas Hrawi of Lebanon, September 24, 1991 (Syria-Lebanon Track).",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells SCHEDULE OF THE PRESIDENT Tuesday, September 24, 1991 9:00 am Bilateral Meeting with Soviet New York ",
+      "2204(a)] purposes (b)(8) Release would disclose information concerning the regulation of P-2 Relating to the appointment to Federal office [(a)(2) of the PRA] financial institutions P-5 Release would disclose confidential advice between the President and (b)(9) Release would disclose geological or geophysical information his advisors, or between such advisors [(a)(5) of the PRA] concerning wells THE WHITE HOUSE WASHINGTON TELEPHONE MEMORANDUM SIGNAL SWITCHBOARD September 24 , 19 91 TIME NAME PLA",
+      "Patty Presock Tlkd-ok The Cabana 7:11 AM The White House HNCE PM White House Signal 7-3170 out 7:14 AM 7:18 Governor John H.",
+      "Sununu Tlkd-ok Office, Washington, D.C.",
+      "Jonathan Bush Tlkd-ok United Negro College New York City, New York 10:26 AM INC PM 212-326-1210 QWX AM Conference Call: Tlkd-ok President Francois Mitterrand Office, Paris, France 12:52 PM INC 12:30 PM 1:05 292-8100 OUT AM General Brent Scowcroft Waldorf Astoria Hotel New York City, New York INC PM New York City Signal 3-7304 OUT AM Mr.",
+      "Sununu Tlkd-ok Office, Washington, D.C."
+    ],
+    "scopeAndContentNote": "Daily diary/backup file for the same date as 1 selected FRUS meeting/call record: Meeting with President Ilyas Hrawi of Lebanon, September 24, 1991. OCR/catalog markers: Palestinian channel, Syria/Lebanon, Meeting reference, Call reference.",
+    "reason": "Daily diary/backup cross-reference for selected FRUS meeting/call material on 1991-09-24; verify the diary/backup PDF before using it as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 9/24/1991, 12868-012, Container 12868, 1991-09-24. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891556; https://catalog.archives.gov/id/415891556; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-09_24_91-12868-012_415891556.pdf."
+  },
+  {
+    "id": "source-candidate-415891627",
+    "naid": "415891627",
+    "title": "[Presidential Daily Backup] 10/29/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12871-018, Container 12871",
+    "date": "1991-10-29",
+    "catalogUrl": "https://catalog.archives.gov/id/415891627",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_29_91-12871-018_415891627.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Middle East Peace"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Middle East peace",
+      "Israel leadership",
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Bush Presidential Records Collection/Office of Origin: Appointments and Scheduling, White House Office of Series: Presidential Daily Diary/Backup Subseries: OA/ID Number: 12871 Folder ID Number: 12871-018 Folder Title: [Presidential Daily Backup] 10/29/1991 Stack: Row: Section: Shelf: Position: G 15 1 7 6 SCHEDULE OF THE PRESIDENT Tuesday, October 29, 1991 10:45 am The President arrives Madrid, Madrid, Spain Spain 11:05 am Arrives Ambassador's Residence for Private Time 12:30 pm Arrives Soviet E",
+      "Embassy Community Greeting 5:55 pm Arrives Moncloa Palace for Bilateral Meeting with President Gonzalez (Scowcroft) 6:55 pm Joint Press Availability (Fitzwater) 7:30 pm Arrives Zarzuela Palace for Dinner hosted by King Juan Carlos I 10:00 pm Arrives Ambassador's Residence RON Madrid UNP 10/28/91 6:00 pm SCHEDULE OF THE PRESIDENT Wednesday, October 30, 1991 10:05 am The President departs Madrid, Spain Ambasssador's Residence for Royal Palace 10:15 am Official Greetings upon Arrival at Palace 10:4",
+      "Tlkd-ok Residence, Madrid, Spain 4:50 PM INC 4:41 PM 4:52 Madrid Signal 4-5323 OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM OUT AM INC PM PRESIDENTIAL MOVEMENTS LOCATION Madrid, Spain DATE 29 October 1991 TIME MOVEMENTS EST 1037 Arrive Barajas Airport, Madrid, Spain 1055 Depart Barajas Airport via Motorcade 1113 Arrive Ambassador's Residence 1222 Depart Ambassador's Residence via Motorcade 1228 Arrive Soviet Embassy 1534 Depart S"
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Middle East peace, Israel leadership, Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 10/29/1991, 12871-018, Container 12871, 1991-10-29. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891627; https://catalog.archives.gov/id/415891627; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-10_29_91-12871-018_415891627.pdf."
+  },
+  {
+    "id": "source-candidate-415891656",
+    "naid": "415891656",
+    "title": "[Presidential Daily Backup] 11/12/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12873-008, Container 12873",
+    "date": "1991-11-12",
+    "catalogUrl": "https://catalog.archives.gov/id/415891656",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_12_91-12873-008_415891656.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Middle East Peace"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Middle East peace",
+      "Israel leadership",
+      "Syria/Lebanon",
+      "Loan guarantees/settlements",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "The meeting today will provide you with an opportunity to report to leaders from major national Jewish organizations on the progress in Madrid and to solicit comments and opinions from them on the peace process.",
+      "Mirowils Permit us, on behalf of the American Jewish Committee, 5 Louis Elaine Pelschck to express our admiration for your eloquent address at Westchester the opening session of the historic Arab-Israeli peace Robert S."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Middle East peace, Israel leadership, Syria/Lebanon, Loan guarantees/settlements, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 11/12/1991, 12873-008, Container 12873, 1991-11-12. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891656; https://catalog.archives.gov/id/415891656; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-11_12_91-12873-008_415891656.pdf."
+  },
+  {
+    "id": "source-candidate-415891702",
+    "naid": "415891702",
+    "title": "[Presidential Daily Diary] 12/5/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12875-009, Container 12875",
+    "date": "1991-12-05",
+    "catalogUrl": "https://catalog.archives.gov/id/415891702",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_05_91-12875-009_415891702.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Fitzwater 1:04 1:22 The President met with Boutros Boutros Ghali, Secretary General-elect of the United Nations (UN)."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Syria/Lebanon, Egypt/Arab regional, Meeting reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Diary] 12/5/1991, 12875-009, Container 12875, 1991-12-05. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891702; https://catalog.archives.gov/id/415891702; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_05_91-12875-009_415891702.pdf."
+  },
+  {
+    "id": "source-candidate-415891719",
+    "naid": "415891719",
+    "title": "[Presidential Daily Backup] 12/13/1991",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12876-002, Container 12876",
+    "date": "1991-12-13",
+    "catalogUrl": "https://catalog.archives.gov/id/415891719",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_13_91-12876-002_415891719.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Prime Minister Shamir"
+    ],
+    "matchedTerms": [
+      "Madrid",
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Loan guarantees/settlements",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Prime Minister Shamir called the President to express his gratitude for the President's efforts to revoke the determination."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Madrid, Israel leadership, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Loan guarantees/settlements, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 12/13/1991, 12876-002, Container 12876, 1991-12-13. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891719; https://catalog.archives.gov/id/415891719; digital object https://s3.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1991/41-bpr-apts_sch-dd-12_13_91-12876-002_415891719.pdf."
+  },
+  {
+    "id": "source-candidate-415891913",
+    "naid": "415891913",
+    "title": "[Presidential Daily Backup] 3/18/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12884-014, Container 12884",
+    "date": "1992-03-18",
+    "catalogUrl": "https://catalog.archives.gov/id/415891913",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_18_92-12884-014_415891913.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Syria/Lebanon",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Attachments Tab A Points to be Made Tab B Participants List CC: Vice President Chief of Staff CARD 1 OF 3 POINTS TO BE MADE FOR MEETING WITH HIGGINS AND BUCKLEY FAMILIES -- THE RETURN OF THE REMAINS OF THE TWO AMERICAN HEROES WHOM WE HONOR TODAY CLOSED A PAINFUL CHAPTER IN AMERICAN HISTORY IN LEBANON."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Syria/Lebanon, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 3/18/1992, 12884-014, Container 12884, 1992-03-18. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891913; https://catalog.archives.gov/id/415891913; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-03_18_92-12884-014_415891913.pdf."
+  },
+  {
+    "id": "source-candidate-415891955",
+    "naid": "415891955",
+    "title": "[Presidential Daily Backup] 4/8/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12886-008, Container 12886",
+    "date": "1992-04-08",
+    "catalogUrl": "https://catalog.archives.gov/id/415891955",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_08_92-12886-008_415891955.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Palestinian channel",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "Arafat, the 62-year-old chairman allies, particularly the Japanese, are of the P.L.O., talked to his headquar- By THOMAS J."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Palestinian channel, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/8/1992, 12886-008, Container 12886, 1992-04-08. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891955; https://catalog.archives.gov/id/415891955; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_08_92-12886-008_415891955.pdf."
+  },
+  {
+    "id": "source-candidate-415891993",
+    "naid": "415891993",
+    "title": "[Presidential Daily Backup] 4/27/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12888-004, Container 12888",
+    "date": "1992-04-27",
+    "catalogUrl": "https://catalog.archives.gov/id/415891993",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_27_92-12888-004_415891993.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "The Syrian government has now informed us that, in the aftermath of President Asad's recent meeting with the leaders of Syria's Jewish community, all members of the Syrian Jewish community will be accorded the same rights as those enjoyed by all other Syrian citizens."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Israel leadership, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 4/27/1992, 12888-004, Container 12888, 1992-04-27. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415891993; https://catalog.archives.gov/id/415891993; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-04_27_92-12888-004_415891993.pdf."
+  },
+  {
+    "id": "source-candidate-415892197",
+    "naid": "415892197",
+    "title": "[Presidential Daily Backup] 8/5/1992",
+    "level": "fileUnit",
+    "lane": "Presidential Daily Diary/Backup",
+    "chapter": "Syria-Lebanon Track",
+    "priority": "High",
+    "repository": "George H.W. Bush Library / National Archives Catalog",
+    "collection": "White House Office of Appointments and Scheduling Files",
+    "collectionNaid": "1081",
+    "sourceSeries": "Presidential Daily Diary and Presidential Daily Backup Materials",
+    "sourceSeriesNaid": "186322",
+    "localIdentifier": "12897-018, Container 12897",
+    "date": "1992-08-05",
+    "catalogUrl": "https://catalog.archives.gov/id/415892197",
+    "hasDigitalObject": true,
+    "digitalObjectUrl": "https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-08_05_92-12897-018_415892197.pdf",
+    "digitalObjectCount": 1,
+    "documentType": "Presidential daily diary/backup folder",
+    "remediationHarvest": "daily-diary",
+    "matchedQueries": [
+      "Middle East Peace"
+    ],
+    "matchedTerms": [
+      "Middle East peace",
+      "Israel leadership",
+      "Jordan/King Hussein",
+      "Syria/Lebanon",
+      "Egypt/Arab regional",
+      "Meeting reference",
+      "Call reference"
+    ],
+    "relatedRecordIds": [],
+    "relatedRecordTitles": [],
+    "relatedRecords": [],
+    "evidenceSnippets": [
+      "The Cardinal sent a letter on March 26, 1992 regarding his thoughts on this trip and requesting a meeting with you to discuss United States-Lebanon relations.",
+      "General Scowcroft communicated to the Cardinal that intelligence reports confirm that Lebanon is still too unstable for Americans to visit and that Jim Baker discussed the present situation with Syrians and the Lebanese leaders during his recent trip to the Middle East."
+    ],
+    "scopeAndContentNote": "Daily diary/backup OCR markers: Middle East peace, Israel leadership, Jordan/King Hussein, Syria/Lebanon, Egypt/Arab regional, Meeting reference, Call reference. Use this to cross-reference meetings, calls, schedules, and telephone memoranda against selected FRUS documents.",
+    "reason": "Daily diary/backup reference to MEPP-relevant meeting or call; verify PDF pages before treating as chronology evidence.",
+    "sourceNote": "Source: George H.W. Bush Library, Bush Presidential Records, White House Office of Appointments and Scheduling Files, Presidential Daily Diary and Presidential Daily Backup Materials, [Presidential Daily Backup] 8/5/1992, 12897-018, Container 12897, 1992-08-05. Classification marking requires PDF verification.",
+    "catalogTrail": "NARA Catalog: series NAID 186322; record NAID 415892197; https://catalog.archives.gov/id/415892197; digital object https://s3.dualstack.us-east-1.amazonaws.com/NARAprodstorage/lz/presidential-libraries/bush/gb-whasf/Presidential_Daily_Diary_186322/1992/41-bpr-apts_sch-dd-08_05_92-12897-018_415892197.pdf."
+  }
+];

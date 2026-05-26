@@ -1,0 +1,66 @@
+{
+  "generatedAt": "2026-05-26T02:00:15.193Z",
+  "source": "https://catalog.archives.gov/id/186322",
+  "seriesNaid": "186322",
+  "seriesTitle": "Presidential Daily Diary and Presidential Daily Backup Materials",
+  "selectedFrusRecords": 165,
+  "selectedFrusDates": 130,
+  "parentPages": [
+    {
+      "page": 1,
+      "total": 3008,
+      "returned": 1000,
+      "url": "https://catalog.archives.gov/proxy/records/parentNaId/186322?limit=1000&page=1"
+    },
+    {
+      "page": 2,
+      "total": 3008,
+      "returned": 1000,
+      "url": "https://catalog.archives.gov/proxy/records/parentNaId/186322?limit=1000&page=2"
+    },
+    {
+      "page": 3,
+      "total": 3008,
+      "returned": 1000,
+      "url": "https://catalog.archives.gov/proxy/records/parentNaId/186322?limit=1000&page=3"
+    },
+    {
+      "page": 4,
+      "total": 3008,
+      "returned": 8,
+      "url": "https://catalog.archives.gov/proxy/records/parentNaId/186322?limit=1000&page=4"
+    }
+  ],
+  "seriesRecordsChecked": 3008,
+  "queries": [
+    "Madrid Peace Conference",
+    "Middle East Peace",
+    "peace process Israel",
+    "President Shamir",
+    "Prime Minister Shamir",
+    "Yitzhak Rabin",
+    "Shimon Peres",
+    "Moshe Arens",
+    "King Hussein",
+    "Palestinian Delegation",
+    "Hanan Ashrawi",
+    "Faisal Husseini",
+    "Hafez Assad",
+    "President Assad",
+    "Hosni Mubarak",
+    "Secretary Baker Israel",
+    "loan guarantees Israel",
+    "telephone memorandum Shamir",
+    "telephone memorandum Rabin",
+    "telephone memorandum Assad",
+    "telephone memorandum Mubarak"
+  ],
+  "candidatesAdded": 244,
+  "dateCrosswalkCandidates": 151,
+  "highPriority": 244,
+  "mediumPriority": 0,
+  "digitalObjects": 244,
+  "pdfDigitalObjects": 244,
+  "mergedSourceCandidates": 1299,
+  "note": "Daily diary/backup candidates are selected from exact-date crosswalks against harvested FRUS meetings/calls plus OCR/catalog markers for MEPP meetings, calls, schedules, and telephone memoranda. Verify PDF pages before using them as chronology evidence."
+}

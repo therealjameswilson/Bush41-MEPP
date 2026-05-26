@@ -1,20 +1,21 @@
 {
-  "generatedAt": "2026-05-25T11:29:54.827Z",
+  "generatedAt": "2026-05-26T02:00:15.387Z",
   "records": 165,
   "publicStatements": 312,
-  "sourceCandidates": 1055,
+  "sourceCandidates": 1299,
   "bakerPrincetonCandidates": 58,
   "haassChronologicalCandidates": 205,
   "haassTargetSeriesCandidates": 383,
   "gapRemediationCandidates": 105,
+  "dailyDiaryCandidates": 244,
   "pageCountedRecords": 165,
-  "reviewedSourceCandidates": 1055,
-  "pageCountedSourceCandidates": 72,
-  "deferredSourceCandidatePdfs": 927,
+  "reviewedSourceCandidates": 1299,
+  "pageCountedSourceCandidates": 111,
+  "deferredSourceCandidatePdfs": 1171,
   "linkedRecords": 112,
   "linkedStatements": 155,
   "persons": 15,
   "events": 6,
   "gaps": 6,
-  "sourceLeads": 9
+  "sourceLeads": 10
 }
