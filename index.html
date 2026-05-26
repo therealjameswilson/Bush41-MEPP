@@ -18,9 +18,8 @@
         <span>Bush41-MEPP</span>
       </a>
       <nav aria-label="Primary navigation">
-        <a href="#workbench">Workbench</a>
+        <a href="#records">Chronology</a>
         <a href="#chapters">Chapters</a>
-        <a href="#records">Records</a>
         <a href="#events">Events</a>
         <a href="#persons">Persons</a>
         <a href="#statements">Statements</a>
@@ -33,6 +32,104 @@
     </header>
 
     <main id="top">
+      <section class="section workbench records-section" id="records" aria-labelledby="records-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Declassified Documents</p>
+            <h2 id="records-title">Chronology of Presidential Conversations</h2>
+            <p class="section-note">
+              Start with the declassified memoranda and telephone conversations in date order, then use
+              the filters to pivot by track, source series, review state, and selection value.
+            </p>
+          </div>
+          <a class="section-link" href="https://catalog.archives.gov/id/321498039" rel="noreferrer">NARA Memcon series</a>
+        </div>
+
+        <div class="control-grid" role="search" aria-label="Filter presidential records">
+          <label>
+            Search records
+            <input id="filter-search" type="search" placeholder="Shamir, Madrid, loan guarantees, Jordan, NAID..." />
+          </label>
+          <label>
+            Track
+            <select id="filter-chapter">
+              <option value="">All tracks</option>
+            </select>
+          </label>
+          <label>
+            Type
+            <select id="filter-type">
+              <option value="">All types</option>
+            </select>
+          </label>
+          <label>
+            Year
+            <select id="filter-year">
+              <option value="">All years</option>
+            </select>
+          </label>
+          <label>
+            Source series
+            <select id="filter-source">
+              <option value="">All source series</option>
+            </select>
+          </label>
+          <label>
+            Selection value
+            <select id="filter-value">
+              <option value="">All values</option>
+              <option value="Anchor">Anchor</option>
+              <option value="High">High</option>
+              <option value="Context">Context</option>
+            </select>
+          </label>
+          <label>
+            Review state
+            <select id="filter-review">
+              <option value="">All records</option>
+              <option value="open">Open review</option>
+              <option value="reviewed">Reviewed locally</option>
+            </select>
+          </label>
+          <label>
+            Sort
+            <select id="sort-records">
+              <option value="date">Single chronology</option>
+              <option value="chapter-date">Track chronology</option>
+              <option value="value">Selection value</option>
+              <option value="source">Source series</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="workbench-actions">
+          <p id="filtered-count">Showing 0 of 0 records.</p>
+          <div>
+            <button id="reset-filters" type="button">Reset</button>
+            <button id="export-csv" type="button">Export visible CSV</button>
+          </div>
+        </div>
+
+        <div id="records-root" class="record-list" aria-live="polite">
+          <p class="loading">Loading presidential records...</p>
+        </div>
+
+        <div class="compiler-guidance" aria-label="FRUS compiler checks">
+          <article>
+            <h3>Selection Standard</h3>
+            <p>Prioritize records that document presidential decisions, negotiating formulas, letters of assurance, regional pressure, or high-level bilateral tracks.</p>
+          </article>
+          <article>
+            <h3>Source Note Prep</h3>
+            <p>Use the draft note as a starting point. Verify the scan for place, time, classification, drafting, distribution, participants, attachments, and excisions.</p>
+          </article>
+          <article>
+            <h3>Gap Discipline</h3>
+            <p>Treat presidential records as endpoints. State Department, NSC staff, and subject files are required to reconstruct the policy chain.</p>
+          </article>
+        </div>
+      </section>
+
       <section class="hero" aria-labelledby="hero-title">
         <div class="hero-copy">
           <p class="kicker">FRUS 1989-1992, Volume XIV</p>
@@ -45,7 +142,7 @@
             Arab-Israeli Dispute</em>.
           </p>
           <div class="hero-actions" aria-label="Primary actions">
-            <a class="button primary" href="#workbench">Open Workbench</a>
+            <a class="button primary" href="#records">Open Chronology</a>
             <a class="button secondary" href="https://history.state.gov/historicaldocuments/frus1989-92v14" rel="noreferrer">FRUS Volume</a>
             <a class="button secondary" href="#gaps">Gap Register</a>
           </div>
@@ -113,118 +210,12 @@
         </div>
       </section>
 
-      <section class="section workbench" id="workbench" aria-labelledby="workbench-title">
-        <div class="section-heading">
-          <div>
-            <p class="kicker">Compiler Workbench</p>
-            <h2 id="workbench-title">Triage the MEPP Chronology</h2>
-          </div>
-          <p class="section-note">
-            Built for source-note control, selection triage, PDF verification, public/private chronology,
-            and gap-first research planning.
-          </p>
-        </div>
-
-        <div class="control-grid" role="search" aria-label="Filter presidential records">
-          <label>
-            Search records
-            <input id="filter-search" type="search" placeholder="Shamir, Madrid, loan guarantees, Jordan, NAID..." />
-          </label>
-          <label>
-            Track
-            <select id="filter-chapter">
-              <option value="">All tracks</option>
-            </select>
-          </label>
-          <label>
-            Type
-            <select id="filter-type">
-              <option value="">All types</option>
-            </select>
-          </label>
-          <label>
-            Year
-            <select id="filter-year">
-              <option value="">All years</option>
-            </select>
-          </label>
-          <label>
-            Source series
-            <select id="filter-source">
-              <option value="">All source series</option>
-            </select>
-          </label>
-          <label>
-            Selection value
-            <select id="filter-value">
-              <option value="">All values</option>
-              <option value="Anchor">Anchor</option>
-              <option value="High">High</option>
-              <option value="Context">Context</option>
-            </select>
-          </label>
-          <label>
-            Review state
-            <select id="filter-review">
-              <option value="">All records</option>
-              <option value="open">Open review</option>
-              <option value="reviewed">Reviewed locally</option>
-            </select>
-          </label>
-          <label>
-            Sort
-            <select id="sort-records">
-              <option value="chapter-date">Track chronology</option>
-              <option value="date">Single chronology</option>
-              <option value="value">Selection value</option>
-              <option value="source">Source series</option>
-            </select>
-          </label>
-        </div>
-
-        <div class="workbench-actions">
-          <p id="filtered-count">Showing 0 of 0 records.</p>
-          <div>
-            <button id="reset-filters" type="button">Reset</button>
-            <button id="export-csv" type="button">Export visible CSV</button>
-          </div>
-        </div>
-
-        <div class="compiler-guidance" aria-label="FRUS compiler checks">
-          <article>
-            <h3>Selection Standard</h3>
-            <p>Prioritize records that document presidential decisions, negotiating formulas, letters of assurance, regional pressure, or high-level bilateral tracks.</p>
-          </article>
-          <article>
-            <h3>Source Note Prep</h3>
-            <p>Use the draft note as a starting point. Verify the scan for place, time, classification, drafting, distribution, participants, attachments, and excisions.</p>
-          </article>
-          <article>
-            <h3>Gap Discipline</h3>
-            <p>Treat presidential records as endpoints. State Department, NSC staff, and subject files are required to reconstruct the policy chain.</p>
-          </article>
-        </div>
-      </section>
-
       <section class="section" id="chapters" aria-labelledby="chapters-title">
         <div class="section-heading">
           <p class="kicker">Chapter Plan</p>
           <h2 id="chapters-title">Working Track Arrangement</h2>
         </div>
         <div id="chapter-grid" class="chapter-grid" aria-live="polite"></div>
-      </section>
-
-      <section class="section records-section" id="records" aria-labelledby="records-title">
-        <div class="section-heading">
-          <div>
-            <p class="kicker">Document Corpus</p>
-            <h2 id="records-title">Presidential Conversations</h2>
-          </div>
-          <a class="section-link" href="https://catalog.archives.gov/id/321498039" rel="noreferrer">NARA Memcon series</a>
-        </div>
-        <div id="records-root" class="record-list" aria-live="polite">
-          <p class="loading">Loading presidential records...</p>
-        </div>
       </section>
 
       <section class="section" id="events" aria-labelledby="events-title">

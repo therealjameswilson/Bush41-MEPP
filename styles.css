@@ -420,6 +420,10 @@ select:focus {
   border-top: 4px solid var(--gold);
 }
 
+.records-section .compiler-guidance {
+  margin-top: 22px;
+}
+
 .compiler-guidance p,
 .chapter-card p,
 .person-card p,
