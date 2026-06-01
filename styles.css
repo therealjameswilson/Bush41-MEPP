@@ -224,6 +224,18 @@ button {
   font-size: 0.9rem;
 }
 
+.file-button {
+  position: relative;
+  overflow: hidden;
+}
+
+.file-input {
+  position: absolute;
+  inset: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
 .brief {
   width: min(100%, 410px);
   justify-self: end;

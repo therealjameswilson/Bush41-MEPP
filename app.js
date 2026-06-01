@@ -112,7 +112,10 @@ const selectors = {
   notesStatus: document.querySelector("#notes-status"),
   copyVolumeTitle: document.querySelector("#copy-volume-title"),
   copyDatasetJson: document.querySelector("#copy-dataset-json"),
-  downloadDatasetJson: document.querySelector("#download-dataset-json")
+  downloadDatasetJson: document.querySelector("#download-dataset-json"),
+  copyWorkspaceState: document.querySelector("#copy-workspace-state"),
+  downloadWorkspaceState: document.querySelector("#download-workspace-state"),
+  importWorkspaceState: document.querySelector("#import-workspace-state")
 };
 
 let reviewedRecords = new Set(readReviewedRecords());
@@ -1124,6 +1127,86 @@ function downloadTextFile(filename, value, type = "text/plain;charset=utf-8") {
   URL.revokeObjectURL(url);
 }
 
+function workspaceStateSnapshot() {
+  return {
+    reviewedRecordIds: [...reviewedRecords],
+    shortlistedSourceCandidateIds: [...shortlistedSourceCandidates],
+    reviewedSourceCandidateIds: [...reviewedSourceCandidates],
+    compilerNotes: selectors.compilerNotes?.value ?? readLocalValue(NOTES_STORAGE_KEY)
+  };
+}
+
+function buildWorkspaceStateExport() {
+  return {
+    title: VOLUME_TITLE,
+    stateVersion: 1,
+    exportedAt: new Date().toISOString(),
+    liveSiteUrl: "https://therealjameswilson.github.io/Bush41-MEPP/",
+    localState: workspaceStateSnapshot()
+  };
+}
+
+function workspaceStateJson() {
+  return JSON.stringify(buildWorkspaceStateExport(), null, 2);
+}
+
+function cleanIds(values, knownMap) {
+  if (!Array.isArray(values)) return [];
+  return values.filter((value) => typeof value === "string" && value && (!knownMap || knownMap.has(value)));
+}
+
+function normalizeImportedWorkspaceState(payload) {
+  const localState = payload?.localState || payload?.localWorkspaceState || payload || {};
+  const localSourceCandidateTriage = payload?.localSourceCandidateTriage || {};
+  return {
+    reviewedRecordIds: cleanIds(localState.reviewedRecordIds || localState.reviewedRecords || payload?.reviewedRecordIds, recordById),
+    shortlistedSourceCandidateIds: cleanIds(
+      localState.shortlistedSourceCandidateIds ||
+        localState.shortlistedSourceCandidates ||
+        localSourceCandidateTriage.shortlistedIds ||
+        payload?.shortlistedSourceCandidateIds,
+      sourceCandidateById
+    ),
+    reviewedSourceCandidateIds: cleanIds(
+      localState.reviewedSourceCandidateIds ||
+        localState.reviewedSourceCandidates ||
+        localSourceCandidateTriage.reviewedIds ||
+        payload?.reviewedSourceCandidateIds,
+      sourceCandidateById
+    ),
+    compilerNotes:
+      typeof localState.compilerNotes === "string"
+        ? localState.compilerNotes
+        : typeof payload?.compilerNotes === "string"
+          ? payload.compilerNotes
+          : null
+  };
+}
+
+function applyWorkspaceState(payload) {
+  const state = normalizeImportedWorkspaceState(payload);
+  reviewedRecords = new Set(state.reviewedRecordIds);
+  shortlistedSourceCandidates = new Set(state.shortlistedSourceCandidateIds);
+  reviewedSourceCandidates = new Set(state.reviewedSourceCandidateIds);
+  saveReviewedRecords();
+  saveLocalSet(SOURCE_CANDIDATE_SHORTLIST_STORAGE_KEY, shortlistedSourceCandidates);
+  saveLocalSet(SOURCE_CANDIDATE_REVIEW_STORAGE_KEY, reviewedSourceCandidates);
+  if (state.compilerNotes !== null) {
+    saveLocalValue(NOTES_STORAGE_KEY, state.compilerNotes);
+    if (selectors.compilerNotes) selectors.compilerNotes.value = state.compilerNotes;
+  }
+  renderStats();
+  renderRecords();
+  renderSourceCandidates();
+  renderReviewQueue();
+  return {
+    reviewedRecords: reviewedRecords.size,
+    shortlistedSourceCandidates: shortlistedSourceCandidates.size,
+    reviewedSourceCandidates: reviewedSourceCandidates.size,
+    hasCompilerNotes: Boolean(state.compilerNotes)
+  };
+}
+
 function buildDatasetExport() {
   return {
     title: VOLUME_TITLE,
@@ -1150,6 +1233,7 @@ function buildDatasetExport() {
       shortlistedIds: [...shortlistedSourceCandidates],
       reviewedIds: [...reviewedSourceCandidates]
     },
+    localWorkspaceState: workspaceStateSnapshot(),
     records,
     publicStatements,
     persons,
@@ -1439,6 +1523,24 @@ function initCompilerDesk() {
   selectors.copyDatasetJson?.addEventListener("click", () => copyText(datasetExportJson(), selectors.copyDatasetJson));
   selectors.downloadDatasetJson?.addEventListener("click", () => {
     downloadTextFile("bush41-mepp-dataset.json", `${datasetExportJson()}\n`, "application/json;charset=utf-8");
+  });
+  selectors.copyWorkspaceState?.addEventListener("click", () => copyText(workspaceStateJson(), selectors.copyWorkspaceState));
+  selectors.downloadWorkspaceState?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-workspace-state.json", `${workspaceStateJson()}\n`, "application/json;charset=utf-8");
+  });
+  selectors.importWorkspaceState?.addEventListener("change", async (event) => {
+    const file = event.target.files?.[0];
+    if (!file) return;
+    try {
+      const result = applyWorkspaceState(JSON.parse(await file.text()));
+      if (selectors.notesStatus) {
+        selectors.notesStatus.textContent = `Imported ${result.reviewedRecords.toLocaleString()} reviewed records, ${result.shortlistedSourceCandidates.toLocaleString()} shortlisted candidates, and ${result.reviewedSourceCandidates.toLocaleString()} reviewed candidates.`;
+      }
+    } catch {
+      if (selectors.notesStatus) selectors.notesStatus.textContent = "Unable to import workspace state JSON.";
+    } finally {
+      event.target.value = "";
+    }
   });
 }
 
