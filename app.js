@@ -67,6 +67,8 @@ const selectors = {
   sortRecords: document.querySelector("#sort-records"),
   resetFilters: document.querySelector("#reset-filters"),
   exportCsv: document.querySelector("#export-csv"),
+  copyRecordPackets: document.querySelector("#copy-record-packets"),
+  downloadRecordPackets: document.querySelector("#download-record-packets"),
   supportSummary: document.querySelector("#support-summary"),
   chapterGrid: document.querySelector("#chapter-grid"),
   eventsRoot: document.querySelector("#events-root"),
@@ -97,6 +99,8 @@ const selectors = {
   candidateCount: document.querySelector("#candidate-count"),
   resetSourceCandidates: document.querySelector("#reset-source-candidates"),
   exportSourceCandidates: document.querySelector("#export-source-candidates-csv"),
+  copySourceCandidatePackets: document.querySelector("#copy-source-candidate-packets"),
+  downloadSourceCandidatePackets: document.querySelector("#download-source-candidate-packets"),
   gapsRoot: document.querySelector("#gaps-root"),
   gapSearch: document.querySelector("#gap-search"),
   gapPriority: document.querySelector("#gap-priority"),
@@ -1371,6 +1375,16 @@ function packetLines(items) {
   return items.filter((item) => item !== false && item !== null && item !== undefined).join("\n");
 }
 
+function packetBundle(title, items, renderPacket) {
+  return packetLines([
+    title,
+    `Generated: ${new Date().toISOString()}`,
+    `Count: ${items.length.toLocaleString()}`,
+    "",
+    items.length ? items.map(renderPacket).join("\n\n---\n\n") : "No visible items."
+  ]);
+}
+
 function sourceCandidatePacketLine(candidate, index) {
   const parts = [
     `${index + 1}. ${candidate.title}`,
@@ -1492,6 +1506,14 @@ function buildRecordCompilerPacket(record) {
   ]);
 }
 
+function visibleRecordPacketsText() {
+  return packetBundle("FRUS MEPP Visible Record Packets", visibleRecords, buildRecordCompilerPacket);
+}
+
+function visibleSourceCandidatePacketsText() {
+  return packetBundle("FRUS MEPP Visible Source Candidate Packets", visibleSourceCandidates, buildSourceCandidateCompilerPacket);
+}
+
 async function copyText(value, trigger) {
   try {
     await navigator.clipboard.writeText(value);
@@ -1559,6 +1581,10 @@ function bindEvents() {
 
   selectors.resetFilters?.addEventListener("click", resetRecordFilters);
   selectors.exportCsv?.addEventListener("click", exportVisibleRecords);
+  selectors.copyRecordPackets?.addEventListener("click", () => copyText(visibleRecordPacketsText(), selectors.copyRecordPackets));
+  selectors.downloadRecordPackets?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-visible-record-packets.txt", `${visibleRecordPacketsText()}\n`);
+  });
 
   [selectors.statementSearch, selectors.statementChapter, selectors.statementYear, selectors.statementRelevance, selectors.sortStatements].forEach(
     (control) => control?.addEventListener("input", renderStatements)
@@ -1584,6 +1610,12 @@ function bindEvents() {
   ].forEach((control) => control?.addEventListener("input", renderSourceCandidates));
   selectors.resetSourceCandidates?.addEventListener("click", resetSourceCandidateFilters);
   selectors.exportSourceCandidates?.addEventListener("click", exportVisibleSourceCandidates);
+  selectors.copySourceCandidatePackets?.addEventListener("click", () =>
+    copyText(visibleSourceCandidatePacketsText(), selectors.copySourceCandidatePackets)
+  );
+  selectors.downloadSourceCandidatePackets?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-visible-source-candidate-packets.txt", `${visibleSourceCandidatePacketsText()}\n`);
+  });
 
   document.addEventListener("click", (event) => {
     const chapterCard = event.target.closest("[data-chapter-card]");
