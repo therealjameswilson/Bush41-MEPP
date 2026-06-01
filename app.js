@@ -57,6 +57,7 @@ const selectors = {
   typeFilter: document.querySelector("#filter-type"),
   yearFilter: document.querySelector("#filter-year"),
   sourceFilter: document.querySelector("#filter-source"),
+  supportFilter: document.querySelector("#filter-support"),
   valueFilter: document.querySelector("#filter-value"),
   reviewFilter: document.querySelector("#filter-review"),
   sortRecords: document.querySelector("#sort-records"),
@@ -187,6 +188,14 @@ function chapterNames() {
   return Object.keys(CHAPTER_INFO);
 }
 
+function linkedSourceCandidatesForRecord(record) {
+  return sourceCandidatesByRecordId.get(record.id) || [];
+}
+
+function hasDailyDiaryCandidate(record) {
+  return linkedSourceCandidatesForRecord(record).some((candidate) => candidate.lane === "Presidential Daily Diary/Backup");
+}
+
 function tagsHtml(tags) {
   return tags
     .filter(Boolean)
@@ -219,7 +228,7 @@ function searchText(record) {
     ...(record.people || []),
     ...(record.countries || []),
     ...(record.matchedQueries || []),
-    ...(sourceCandidatesByRecordId.get(record.id) || []).flatMap((candidate) => [
+    ...linkedSourceCandidatesForRecord(record).flatMap((candidate) => [
       candidate.title,
       candidate.lane,
       candidate.sourceSeries,
@@ -374,16 +383,22 @@ function renderRecords() {
   const type = selectors.typeFilter?.value || "";
   const year = selectors.yearFilter?.value || "";
   const source = selectors.sourceFilter?.value || "";
+  const support = selectors.supportFilter?.value || "";
   const value = selectors.valueFilter?.value || "";
   const review = selectors.reviewFilter?.value || "";
 
   visibleRecords = records
     .filter((record) => {
+      const linkedSourceCandidates = linkedSourceCandidatesForRecord(record);
       if (query && !searchText(record).includes(query)) return false;
       if (chapter && record.chapter?.name !== chapter) return false;
       if (type && record.documentType !== type) return false;
       if (year && record.date?.slice(0, 4) !== year) return false;
       if (source && record.source?.shortName !== source) return false;
+      if (support === "linked-source" && !linkedSourceCandidates.length) return false;
+      if (support === "daily-diary" && !hasDailyDiaryCandidate(record)) return false;
+      if (support === "public-private" && !record.publicChronologyLinks?.length) return false;
+      if (support === "unsupported" && linkedSourceCandidates.length) return false;
       if (value && record.selectionValue !== value) return false;
       if (review === "open" && reviewedRecords.has(record.id)) return false;
       if (review === "reviewed" && !reviewedRecords.has(record.id)) return false;
@@ -398,7 +413,7 @@ function renderRecords() {
 }
 
 function renderRecordCard(record) {
-  const relatedSourceCandidates = sourceCandidatesByRecordId.get(record.id) || [];
+  const relatedSourceCandidates = linkedSourceCandidatesForRecord(record);
   const terms = [
     record.sourceConfidence?.label,
     record.eventLabel,
@@ -406,7 +421,10 @@ function renderRecordCard(record) {
     record.pdfReview?.redactionMarkers?.length ? `Review markers: ${record.pdfReview.redactionMarkers.join(", ")}` : "",
     ...(record.countries || []),
     ...(record.people || []),
-    ...(record.matchedQueries || [])
+    ...(record.matchedQueries || []),
+    relatedSourceCandidates.length ? `${relatedSourceCandidates.length} linked source candidates` : "",
+    hasDailyDiaryCandidate(record) ? "Daily Diary/Backup linked" : "",
+    record.publicChronologyLinks?.length ? "Public chronology linked" : ""
   ];
   const reviewed = reviewedRecords.has(record.id);
   return `
@@ -824,6 +842,7 @@ function resetRecordFilters() {
     selectors.typeFilter,
     selectors.yearFilter,
     selectors.sourceFilter,
+    selectors.supportFilter,
     selectors.valueFilter,
     selectors.reviewFilter
   ].forEach((control) => {
@@ -889,7 +908,7 @@ function exportVisibleRecords() {
       record.pdfUrl,
       record.catalogUrl,
       record.frusSourceNote || record.sourceNote,
-      (sourceCandidatesByRecordId.get(record.id) || []).map((candidate) => `${candidate.title} (${candidate.catalogUrl})`).join("; ")
+      linkedSourceCandidatesForRecord(record).map((candidate) => `${candidate.title} (${candidate.catalogUrl})`).join("; ")
     ])
   ]);
 }
@@ -995,6 +1014,7 @@ function bindEvents() {
     selectors.typeFilter,
     selectors.yearFilter,
     selectors.sourceFilter,
+    selectors.supportFilter,
     selectors.valueFilter,
     selectors.reviewFilter,
     selectors.sortRecords
