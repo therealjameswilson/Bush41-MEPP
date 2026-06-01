@@ -623,13 +623,15 @@ select:focus {
   min-height: 34px;
 }
 
-.support-summary {
+.support-summary,
+.action-dashboard {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
   gap: 10px;
 }
 
-.support-card {
+.support-card,
+.action-card {
   display: grid;
   gap: 4px;
   min-height: 112px;
@@ -641,9 +643,19 @@ select:focus {
 }
 
 .support-card:hover,
-.support-card.is-active {
+.support-card.is-active,
+.action-card:hover {
   border-color: var(--green);
   box-shadow: 0 8px 18px rgba(31, 94, 74, 0.12);
+}
+
+.action-dashboard {
+  margin-top: 10px;
+}
+
+.action-card {
+  background: #fbfaf4;
+  border-color: #ded8bf;
 }
 
 .support-value {

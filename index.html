@@ -82,6 +82,7 @@
               <option value="linked-source">Linked source candidates</option>
               <option value="daily-diary">Daily Diary/Backup linked</option>
               <option value="public-private">Public chronology linked</option>
+              <option value="no-public-private">No public chronology linked</option>
               <option value="unsupported">No linked source candidates</option>
             </select>
           </label>
@@ -89,6 +90,7 @@
             Selection value
             <select id="filter-value">
               <option value="">All values</option>
+              <option value="Anchor/High">Anchor + High</option>
               <option value="Anchor">Anchor</option>
               <option value="High">High</option>
               <option value="Context">Context</option>
@@ -124,6 +126,7 @@
         </div>
 
         <div id="support-summary" class="support-summary" aria-label="Source support summary"></div>
+        <div id="action-dashboard" class="action-dashboard" aria-label="Compiler action queues"></div>
 
         <div id="records-root" class="record-list" aria-live="polite">
           <p class="loading">Loading presidential records...</p>
@@ -382,6 +385,7 @@
             <select id="candidate-triage">
               <option value="">All local states</option>
               <option value="shortlisted">Shortlisted</option>
+              <option value="shortlisted-open">Shortlisted open review</option>
               <option value="open">Open local review</option>
               <option value="reviewed">Reviewed locally</option>
               <option value="unshortlisted">Not shortlisted</option>

@@ -70,6 +70,7 @@ const selectors = {
   copyRecordPackets: document.querySelector("#copy-record-packets"),
   downloadRecordPackets: document.querySelector("#download-record-packets"),
   supportSummary: document.querySelector("#support-summary"),
+  actionDashboard: document.querySelector("#action-dashboard"),
   chapterGrid: document.querySelector("#chapter-grid"),
   eventsRoot: document.querySelector("#events-root"),
   personsRoot: document.querySelector("#persons-root"),
@@ -270,6 +271,10 @@ function candidateLaneGroup(candidate) {
 
 function candidateHasDigitalObject(candidate) {
   return Boolean(candidate.digitalObjectUrl || candidate.hasDigitalObject);
+}
+
+function isAnchorOrHigh(record) {
+  return record.selectionValue === "Anchor" || record.selectionValue === "High";
 }
 
 function sourceSupportCounts(items = records) {
@@ -489,8 +494,10 @@ function renderRecords() {
       if (support === "linked-source" && !linkedSourceCandidates.length) return false;
       if (support === "daily-diary" && !hasDailyDiaryCandidate(record)) return false;
       if (support === "public-private" && !record.publicChronologyLinks?.length) return false;
+      if (support === "no-public-private" && record.publicChronologyLinks?.length) return false;
       if (support === "unsupported" && linkedSourceCandidates.length) return false;
-      if (value && record.selectionValue !== value) return false;
+      if (value === "Anchor/High" && !isAnchorOrHigh(record)) return false;
+      else if (value && value !== "Anchor/High" && record.selectionValue !== value) return false;
       if (review === "open" && reviewedRecords.has(record.id)) return false;
       if (review === "reviewed" && !reviewedRecords.has(record.id)) return false;
       return true;
@@ -502,6 +509,7 @@ function renderRecords() {
     ? visibleRecords.map(renderRecordCard).join("")
     : `<p class="empty-state">No presidential records match the current filters.</p>`;
   renderSupportSummary();
+  renderActionDashboard();
 }
 
 function renderSupportSummary() {
@@ -544,6 +552,66 @@ function renderSupportSummary() {
           data-support-shortcut="${escapeHtml(item.value)}"
           aria-pressed="${active === item.value ? "true" : "false"}"
         >
+          <span class="support-value">${Number(item.count).toLocaleString()}</span>
+          <span class="support-label">${escapeHtml(item.label)}</span>
+          <span class="support-note">${escapeHtml(item.note)}</span>
+        </button>
+      `
+    )
+    .join("");
+}
+
+function actionQueueCounts() {
+  return {
+    anchorHighOpen: records.filter((record) => isAnchorOrHigh(record) && !reviewedRecords.has(record.id)).length,
+    anchorHighUnsupported: records.filter((record) => isAnchorOrHigh(record) && !linkedSourceCandidatesForRecord(record).length).length,
+    anchorHighNoPublic: records.filter((record) => isAnchorOrHigh(record) && !record.publicChronologyLinks?.length).length,
+    highDigitalUnlinkedCandidates: sourceCandidates.filter(
+      (candidate) => candidate.priority === "High" && candidateHasDigitalObject(candidate) && !candidate.relatedRecordIds?.length
+    ).length,
+    openShortlistedCandidates: [...shortlistedSourceCandidates].filter((id) => !reviewedSourceCandidates.has(id)).length
+  };
+}
+
+function renderActionDashboard() {
+  if (!selectors.actionDashboard) return;
+  const counts = actionQueueCounts();
+  const items = [
+    {
+      target: "anchor-high-open",
+      count: counts.anchorHighOpen,
+      label: "Anchor/High open review",
+      note: "Selection decisions still pending locally"
+    },
+    {
+      target: "anchor-high-unsupported",
+      count: counts.anchorHighUnsupported,
+      label: "Anchor/High without linked sources",
+      note: "Presidential records needing source-support follow-up"
+    },
+    {
+      target: "anchor-high-no-public",
+      count: counts.anchorHighNoPublic,
+      label: "Anchor/High without public crosswalk",
+      note: "No Public Papers chronology link yet"
+    },
+    {
+      target: "high-digital-unlinked",
+      count: counts.highDigitalUnlinkedCandidates,
+      label: "High digital candidates unlinked",
+      note: "Likely fastest source-candidate review queue"
+    },
+    {
+      target: "shortlisted-open",
+      count: counts.openShortlistedCandidates,
+      label: "Shortlisted candidates open",
+      note: "Local source shortlist still awaiting review"
+    }
+  ];
+  selectors.actionDashboard.innerHTML = items
+    .map(
+      (item) => `
+        <button class="action-card" type="button" data-action-queue="${escapeHtml(item.target)}">
           <span class="support-value">${Number(item.count).toLocaleString()}</span>
           <span class="support-label">${escapeHtml(item.label)}</span>
           <span class="support-note">${escapeHtml(item.note)}</span>
@@ -829,6 +897,9 @@ function renderSourceCandidates() {
       if (access === "digital" && !candidateHasDigitalObject(candidate)) return false;
       if (access === "no-digital" && candidateHasDigitalObject(candidate)) return false;
       if (triage === "shortlisted" && !shortlistedSourceCandidates.has(candidate.id)) return false;
+      if (triage === "shortlisted-open" && (!shortlistedSourceCandidates.has(candidate.id) || reviewedSourceCandidates.has(candidate.id))) {
+        return false;
+      }
       if (triage === "open" && reviewedSourceCandidates.has(candidate.id)) return false;
       if (triage === "reviewed" && !reviewedSourceCandidates.has(candidate.id)) return false;
       if (triage === "unshortlisted" && shortlistedSourceCandidates.has(candidate.id)) return false;
@@ -845,6 +916,7 @@ function renderSourceCandidates() {
   selectors.sourceCandidatesRoot.innerHTML = visibleSourceCandidates.length
     ? visibleSourceCandidates.map(renderSourceCandidateCard).join("")
     : `<p class="empty-state">No source candidates match the current filters.</p>`;
+  renderActionDashboard();
 }
 
 function renderSourceCandidateCard(candidate) {
@@ -1061,6 +1133,34 @@ function initOptions() {
   setOptions(selectors.candidateLaneGroup, uniqueValues(sourceCandidates, candidateLaneGroup), "All lane groups");
   setOptions(selectors.gapPriority, uniqueValues(compilerGaps, (gap) => gap.priority), "All priorities");
   setOptions(selectors.gapCategory, uniqueValues(compilerGaps, (gap) => gap.category), "All categories");
+}
+
+function scrollToSection(id) {
+  document.querySelector(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
+}
+
+function applyActionQueue(target) {
+  if (target.startsWith("anchor-high")) {
+    resetRecordFilters();
+    selectors.valueFilter.value = "Anchor/High";
+    selectors.sortRecords.value = "value";
+    if (target === "anchor-high-open") selectors.reviewFilter.value = "open";
+    if (target === "anchor-high-unsupported") selectors.supportFilter.value = "unsupported";
+    if (target === "anchor-high-no-public") selectors.supportFilter.value = "no-public-private";
+    renderRecords();
+    scrollToSection("#records");
+    return;
+  }
+
+  resetSourceCandidateFilters();
+  if (target === "high-digital-unlinked") {
+    selectors.candidatePriority.value = "High";
+    selectors.candidateLinkage.value = "unlinked";
+    selectors.candidateAccess.value = "digital";
+  }
+  if (target === "shortlisted-open") selectors.candidateTriage.value = "shortlisted-open";
+  renderSourceCandidates();
+  scrollToSection("#source-candidates");
 }
 
 function resetRecordFilters() {
@@ -1623,6 +1723,12 @@ function bindEvents() {
       selectors.chapterFilter.value = chapterCard.dataset.chapterCard;
       selectors.sortRecords.value = "chapter-date";
       renderRecords();
+      return;
+    }
+
+    const actionQueue = event.target.closest("[data-action-queue]");
+    if (actionQueue) {
+      applyActionQueue(actionQueue.dataset.actionQueue);
       return;
     }
 
