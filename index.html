@@ -13,7 +13,7 @@
   </head>
   <body>
     <header class="site-header">
-      <a class="brand" href="#top" aria-label="Bush41 MEPP FRUS assist home">
+      <a class="brand" href="#records" aria-label="Open the declassified document chronology">
         <span class="brand-mark">41</span>
         <span>Bush41-MEPP</span>
       </a>
@@ -36,11 +36,11 @@
       <section class="section workbench records-section" id="records" aria-labelledby="records-title">
         <div class="section-heading">
           <div>
-            <p class="kicker">Declassified Documents</p>
-            <h2 id="records-title">Chronology of Presidential Conversations</h2>
+            <p class="kicker">First Section: Declassified Documents</p>
+            <h2 id="records-title">Chronology of Declassified Presidential Documents</h2>
             <p class="section-note">
-              Start with the declassified memoranda and telephone conversations in date order, then use
-              the filters to pivot by track, source series, review state, and selection value.
+              The page opens with the declassified memoranda and telephone conversations in date order,
+              with pivots for track, source series, review state, and selection value.
             </p>
           </div>
           <a class="section-link" href="https://catalog.archives.gov/id/321498039" rel="noreferrer">NARA Memcon series</a>
@@ -102,6 +102,16 @@
               <option value="">All records</option>
               <option value="open">Open review</option>
               <option value="reviewed">Reviewed locally</option>
+            </select>
+          </label>
+          <label>
+            Local decision
+            <select id="filter-decision">
+              <option value="">All decisions</option>
+              <option value="include">Include</option>
+              <option value="maybe">Maybe</option>
+              <option value="exclude">Exclude</option>
+              <option value="undecided">Undecided</option>
             </select>
           </label>
           <label>
@@ -442,6 +452,10 @@
           <article>
             <h3>Reviewed Locally</h3>
             <p id="reviewed-list-summary">0 records marked reviewed in this browser.</p>
+          </article>
+          <article>
+            <h3>Record Decisions</h3>
+            <p id="record-decision-summary">0 include / 0 maybe / 0 exclude.</p>
           </article>
           <article>
             <h3>Shortlisted Source Candidates</h3>

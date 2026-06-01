@@ -7,10 +7,16 @@ const sourceLeads = window.MEPP_SOURCE_LEADS || [];
 const sourceCandidates = window.MEPP_SOURCE_CANDIDATES || [];
 
 const REVIEW_STORAGE_KEY = "bush41-mepp-reviewed-records";
+const RECORD_DECISION_STORAGE_KEY = "bush41-mepp-record-decisions";
 const SOURCE_CANDIDATE_REVIEW_STORAGE_KEY = "bush41-mepp-reviewed-source-candidates";
 const SOURCE_CANDIDATE_SHORTLIST_STORAGE_KEY = "bush41-mepp-shortlisted-source-candidates";
 const NOTES_STORAGE_KEY = "bush41-mepp-compiler-notes";
 const VOLUME_TITLE = "Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Israeli Dispute";
+const RECORD_DECISION_LABELS = {
+  include: "Include",
+  maybe: "Maybe",
+  exclude: "Exclude"
+};
 
 const CHAPTER_INFO = {
   "Israel Track": {
@@ -64,6 +70,7 @@ const selectors = {
   supportFilter: document.querySelector("#filter-support"),
   valueFilter: document.querySelector("#filter-value"),
   reviewFilter: document.querySelector("#filter-review"),
+  decisionFilter: document.querySelector("#filter-decision"),
   sortRecords: document.querySelector("#sort-records"),
   resetFilters: document.querySelector("#reset-filters"),
   exportCsv: document.querySelector("#export-csv"),
@@ -112,6 +119,7 @@ const selectors = {
   sourceReviewRoot: document.querySelector("#source-review-root"),
   openReviewCount: document.querySelector("#open-review-count"),
   reviewedListSummary: document.querySelector("#reviewed-list-summary"),
+  recordDecisionSummary: document.querySelector("#record-decision-summary"),
   sourceCandidateReviewSummary: document.querySelector("#source-candidate-review-summary"),
   compilerNotes: document.querySelector("#compiler-notes"),
   notesStatus: document.querySelector("#notes-status"),
@@ -124,6 +132,7 @@ const selectors = {
 };
 
 let reviewedRecords = new Set(readReviewedRecords());
+let recordDecisions = readLocalObject(RECORD_DECISION_STORAGE_KEY);
 let reviewedSourceCandidates = new Set(readLocalSet(SOURCE_CANDIDATE_REVIEW_STORAGE_KEY));
 let shortlistedSourceCandidates = new Set(readLocalSet(SOURCE_CANDIDATE_SHORTLIST_STORAGE_KEY));
 let visibleRecords = [];
@@ -136,6 +145,7 @@ const recordById = new Map(records.map((record) => [record.id, record]));
 const statementById = new Map(publicStatements.map((statement) => [statement.id, statement]));
 const sourceCandidateById = new Map(sourceCandidates.map((candidate) => [candidate.id, candidate]));
 const sourceCandidatesByRecordId = buildSourceCandidatesByRecordId();
+recordDecisions = cleanRecordDecisions(recordDecisions);
 
 function readReviewedRecords() {
   try {
@@ -160,6 +170,19 @@ function readLocalSet(key) {
 
 function saveLocalSet(key, values) {
   localStorage.setItem(key, JSON.stringify([...values]));
+}
+
+function readLocalObject(key) {
+  try {
+    const parsed = JSON.parse(localStorage.getItem(key) || "{}");
+    return parsed && typeof parsed === "object" && !Array.isArray(parsed) ? parsed : {};
+  } catch {
+    return {};
+  }
+}
+
+function saveLocalObject(key, value) {
+  localStorage.setItem(key, JSON.stringify(value));
 }
 
 function readLocalValue(key) {
@@ -275,6 +298,32 @@ function candidateHasDigitalObject(candidate) {
 
 function isAnchorOrHigh(record) {
   return record.selectionValue === "Anchor" || record.selectionValue === "High";
+}
+
+function cleanRecordDecisions(decisions) {
+  return Object.fromEntries(
+    Object.entries(decisions || {}).filter(
+      ([id, decision]) => recordById.has(id) && Object.prototype.hasOwnProperty.call(RECORD_DECISION_LABELS, decision)
+    )
+  );
+}
+
+function recordDecision(record) {
+  return recordDecisions[record.id] || "";
+}
+
+function recordDecisionCounts() {
+  const counts = { include: 0, maybe: 0, exclude: 0, undecided: 0 };
+  for (const record of records) {
+    const decision = recordDecision(record);
+    if (decision) counts[decision] += 1;
+    else counts.undecided += 1;
+  }
+  return counts;
+}
+
+function saveRecordDecisions() {
+  saveLocalObject(RECORD_DECISION_STORAGE_KEY, recordDecisions);
 }
 
 function sourceSupportCounts(items = records) {
@@ -394,7 +443,7 @@ function sourceCandidateSearchText(candidate) {
 }
 
 function compareRecords(a, b) {
-  const mode = selectors.sortRecords?.value || "chapter-date";
+  const mode = selectors.sortRecords?.value || "date";
   const valueRank = { Anchor: 0, High: 1, Context: 2 };
   if (mode === "date") return a.sortDate.localeCompare(b.sortDate) || a.title.localeCompare(b.title);
   if (mode === "value") {
@@ -482,10 +531,12 @@ function renderRecords() {
   const support = selectors.supportFilter?.value || "";
   const value = selectors.valueFilter?.value || "";
   const review = selectors.reviewFilter?.value || "";
+  const decision = selectors.decisionFilter?.value || "";
 
   visibleRecords = records
     .filter((record) => {
       const linkedSourceCandidates = linkedSourceCandidatesForRecord(record);
+      const localDecision = recordDecision(record);
       if (query && !searchText(record).includes(query)) return false;
       if (chapter && record.chapter?.name !== chapter) return false;
       if (type && record.documentType !== type) return false;
@@ -500,6 +551,8 @@ function renderRecords() {
       else if (value && value !== "Anchor/High" && record.selectionValue !== value) return false;
       if (review === "open" && reviewedRecords.has(record.id)) return false;
       if (review === "reviewed" && !reviewedRecords.has(record.id)) return false;
+      if (decision === "undecided" && localDecision) return false;
+      if (decision && decision !== "undecided" && localDecision !== decision) return false;
       return true;
     })
     .sort(compareRecords);
@@ -623,6 +676,7 @@ function renderActionDashboard() {
 
 function renderRecordCard(record) {
   const relatedSourceCandidates = linkedSourceCandidatesForRecord(record);
+  const decision = recordDecision(record);
   const terms = [
     record.sourceConfidence?.label,
     record.eventLabel,
@@ -632,12 +686,13 @@ function renderRecordCard(record) {
     ...(record.people || []),
     ...(record.matchedQueries || []),
     relatedSourceCandidates.length ? `${relatedSourceCandidates.length} linked source candidates` : "",
+    decision ? `Decision: ${RECORD_DECISION_LABELS[decision]}` : "",
     hasDailyDiaryCandidate(record) ? "Daily Diary/Backup linked" : "",
     record.publicChronologyLinks?.length ? "Public chronology linked" : ""
   ];
   const reviewed = reviewedRecords.has(record.id);
   return `
-    <article class="record-card" id="${escapeHtml(record.id)}" data-value="${escapeHtml(record.selectionValue)}">
+    <article class="record-card" id="${escapeHtml(record.id)}" data-value="${escapeHtml(record.selectionValue)}" data-decision="${escapeHtml(decision || "undecided")}">
       <div class="record-top">
         <div>
           <p class="record-date">${escapeHtml(formatDate(record.date))}</p>
@@ -665,6 +720,19 @@ function renderRecordCard(record) {
         <a href="${escapeHtml(record.source?.url || record.catalogUrl)}" rel="noreferrer">Series</a>
         <button type="button" data-copy-record-note="${escapeHtml(record.id)}">Copy source note</button>
         <button type="button" data-copy-record-packet="${escapeHtml(record.id)}">Copy packet</button>
+        ${Object.entries(RECORD_DECISION_LABELS)
+          .map(
+            ([value, label]) => `
+              <button
+                class="decision-toggle"
+                type="button"
+                data-record-decision-id="${escapeHtml(record.id)}"
+                data-record-decision="${escapeHtml(value)}"
+                aria-pressed="${decision === value ? "true" : "false"}"
+              >${escapeHtml(label)}</button>
+            `
+          )
+          .join("")}
       </div>
       <div class="record-details">
         <div class="note-box">
@@ -1050,6 +1118,7 @@ function renderGaps() {
 function renderReviewQueue() {
   const openHighValue = records.filter((record) => ["Anchor", "High"].includes(record.selectionValue) && !reviewedRecords.has(record.id));
   const reviewed = records.filter((record) => reviewedRecords.has(record.id));
+  const decisionCounts = recordDecisionCounts();
   const priorityRank = { High: 0, Medium: 1, Review: 2 };
   const shortlistedCandidates = sourceCandidates
     .filter((candidate) => shortlistedSourceCandidates.has(candidate.id))
@@ -1063,6 +1132,9 @@ function renderReviewQueue() {
   const openShortlistedCandidates = shortlistedCandidates.filter((candidate) => !reviewedSourceCandidates.has(candidate.id));
   selectors.openReviewCount.textContent = `${openHighValue.length.toLocaleString()} anchor or high-value records need local review.`;
   selectors.reviewedListSummary.textContent = `${reviewed.length.toLocaleString()} records marked reviewed in this browser.`;
+  if (selectors.recordDecisionSummary) {
+    selectors.recordDecisionSummary.textContent = `${decisionCounts.include.toLocaleString()} include / ${decisionCounts.maybe.toLocaleString()} maybe / ${decisionCounts.exclude.toLocaleString()} exclude; ${decisionCounts.undecided.toLocaleString()} undecided.`;
+  }
   if (selectors.sourceCandidateReviewSummary) {
     selectors.sourceCandidateReviewSummary.textContent = `${shortlistedCandidates.length.toLocaleString()} source candidates shortlisted; ${openShortlistedCandidates.length.toLocaleString()} still need local review.`;
   }
@@ -1172,6 +1244,7 @@ function resetRecordFilters() {
     selectors.sourceFilter,
     selectors.supportFilter,
     selectors.valueFilter,
+    selectors.decisionFilter,
     selectors.reviewFilter
   ].forEach((control) => {
     if (control) control.value = "";
@@ -1234,6 +1307,7 @@ function downloadTextFile(filename, value, type = "text/plain;charset=utf-8") {
 function workspaceStateSnapshot() {
   return {
     reviewedRecordIds: [...reviewedRecords],
+    recordDecisions: { ...recordDecisions },
     shortlistedSourceCandidateIds: [...shortlistedSourceCandidates],
     reviewedSourceCandidateIds: [...reviewedSourceCandidates],
     compilerNotes: selectors.compilerNotes?.value ?? readLocalValue(NOTES_STORAGE_KEY)
@@ -1264,6 +1338,7 @@ function normalizeImportedWorkspaceState(payload) {
   const localSourceCandidateTriage = payload?.localSourceCandidateTriage || {};
   return {
     reviewedRecordIds: cleanIds(localState.reviewedRecordIds || localState.reviewedRecords || payload?.reviewedRecordIds, recordById),
+    recordDecisions: cleanRecordDecisions(localState.recordDecisions || payload?.recordDecisions || {}),
     shortlistedSourceCandidateIds: cleanIds(
       localState.shortlistedSourceCandidateIds ||
         localState.shortlistedSourceCandidates ||
@@ -1290,9 +1365,11 @@ function normalizeImportedWorkspaceState(payload) {
 function applyWorkspaceState(payload) {
   const state = normalizeImportedWorkspaceState(payload);
   reviewedRecords = new Set(state.reviewedRecordIds);
+  recordDecisions = state.recordDecisions;
   shortlistedSourceCandidates = new Set(state.shortlistedSourceCandidateIds);
   reviewedSourceCandidates = new Set(state.reviewedSourceCandidateIds);
   saveReviewedRecords();
+  saveRecordDecisions();
   saveLocalSet(SOURCE_CANDIDATE_SHORTLIST_STORAGE_KEY, shortlistedSourceCandidates);
   saveLocalSet(SOURCE_CANDIDATE_REVIEW_STORAGE_KEY, reviewedSourceCandidates);
   if (state.compilerNotes !== null) {
@@ -1305,6 +1382,7 @@ function applyWorkspaceState(payload) {
   renderReviewQueue();
   return {
     reviewedRecords: reviewedRecords.size,
+    recordDecisions: Object.keys(recordDecisions).length,
     shortlistedSourceCandidates: shortlistedSourceCandidates.size,
     reviewedSourceCandidates: reviewedSourceCandidates.size,
     hasCompilerNotes: Boolean(state.compilerNotes)
@@ -1312,6 +1390,7 @@ function applyWorkspaceState(payload) {
 }
 
 function buildDatasetExport() {
+  const decisionCounts = recordDecisionCounts();
   return {
     title: VOLUME_TITLE,
     frusUrl: "https://history.state.gov/historicaldocuments/frus1989-92v14",
@@ -1327,6 +1406,7 @@ function buildDatasetExport() {
       sourceCandidates: sourceCandidates.length,
       pages: records.reduce((sum, record) => sum + (Number(record.pageCount) || 0), 0),
       sourceSupport: sourceSupportCounts(),
+      recordDecisions: decisionCounts,
       sourceCandidateTriage: {
         shortlisted: shortlistedSourceCandidates.size,
         reviewed: reviewedSourceCandidates.size,
@@ -1360,6 +1440,7 @@ function exportVisibleRecords() {
       "track",
       "type",
       "selection_value",
+      "local_decision",
       "naid",
       "pdf_url",
       "catalog_url",
@@ -1372,6 +1453,7 @@ function exportVisibleRecords() {
       record.chapter?.name,
       record.documentType,
       record.selectionValue,
+      RECORD_DECISION_LABELS[recordDecision(record)] || "",
       record.naid,
       record.pdfUrl,
       record.catalogUrl,
@@ -1569,6 +1651,7 @@ function buildRecordCompilerPacket(record) {
     record.title,
     `${formatDate(record.date)} | ${record.documentType || "Document type pending"} | ${record.chapter?.name || "Unassigned track"}`,
     `Selection value: ${record.selectionValue || "Unassigned"}`,
+    `Local decision: ${RECORD_DECISION_LABELS[recordDecision(record)] || "Undecided"}`,
     `NAID: ${record.naid || "Pending"}`,
     `Source support: ${sourceSupport}`,
     "",
@@ -1656,7 +1739,7 @@ function initCompilerDesk() {
     try {
       const result = applyWorkspaceState(JSON.parse(await file.text()));
       if (selectors.notesStatus) {
-        selectors.notesStatus.textContent = `Imported ${result.reviewedRecords.toLocaleString()} reviewed records, ${result.shortlistedSourceCandidates.toLocaleString()} shortlisted candidates, and ${result.reviewedSourceCandidates.toLocaleString()} reviewed candidates.`;
+        selectors.notesStatus.textContent = `Imported ${result.reviewedRecords.toLocaleString()} reviewed records, ${result.recordDecisions.toLocaleString()} record decisions, ${result.shortlistedSourceCandidates.toLocaleString()} shortlisted candidates, and ${result.reviewedSourceCandidates.toLocaleString()} reviewed candidates.`;
       }
     } catch {
       if (selectors.notesStatus) selectors.notesStatus.textContent = "Unable to import workspace state JSON.";
@@ -1676,6 +1759,7 @@ function bindEvents() {
     selectors.supportFilter,
     selectors.valueFilter,
     selectors.reviewFilter,
+    selectors.decisionFilter,
     selectors.sortRecords
   ].forEach((control) => control?.addEventListener("input", renderRecords));
 
@@ -1763,6 +1847,19 @@ function bindEvents() {
     if (copyRecordPacketButton) {
       const record = recordById.get(copyRecordPacketButton.dataset.copyRecordPacket);
       if (record) copyText(buildRecordCompilerPacket(record), copyRecordPacketButton);
+      return;
+    }
+
+    const recordDecisionButton = event.target.closest("[data-record-decision-id]");
+    if (recordDecisionButton) {
+      const id = recordDecisionButton.dataset.recordDecisionId;
+      const decision = recordDecisionButton.dataset.recordDecision;
+      if (recordDecisions[id] === decision) delete recordDecisions[id];
+      else recordDecisions[id] = decision;
+      recordDecisions = cleanRecordDecisions(recordDecisions);
+      saveRecordDecisions();
+      renderRecords();
+      renderReviewQueue();
       return;
     }
 

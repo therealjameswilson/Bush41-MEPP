@@ -737,6 +737,12 @@ select:focus {
   border-color: var(--green);
 }
 
+.decision-toggle[aria-pressed="true"] {
+  color: white;
+  background: var(--red);
+  border-color: var(--red);
+}
+
 .chronology-box p + p,
 .statement-card .note-box p + p {
   margin-top: 8px;

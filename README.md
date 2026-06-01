@@ -9,9 +9,11 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 ## What It Includes
 
 - Declassified presidential memoranda of conversation and telephone conversations from the George H.W. Bush Library / National Archives Catalog
+- First-screen declassified-document chronology for starting review directly from the dated presidential record sequence
 - Public Papers of the Presidents references from GovInfo, with page-level PDF links
 - Track-based arrangement for Israel, Palestinian/Jordanian, Syria/Lebanon, Egypt/Arab regional, and Madrid/multilateral materials
 - Search, filters, local review state, source-note and compiler-packet copy buttons, and CSV export
+- Browser-saved record decisions for Include, Maybe, and Exclude, with filters and portable workspace-state support
 - Batch copy/download of visible chronology and source-candidate compiler packets
 - Compiler action dashboard for one-click anchor/high, unsupported, public-crosswalk, digital-candidate, and shortlisted-source queues
 - Local working notes saved in the browser, plus full dataset copy/download as JSON
