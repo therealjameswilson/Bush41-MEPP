@@ -74,6 +74,8 @@ const selectors = {
   sortRecords: document.querySelector("#sort-records"),
   resetFilters: document.querySelector("#reset-filters"),
   exportCsv: document.querySelector("#export-csv"),
+  copyRecordSourceNotes: document.querySelector("#copy-record-source-notes"),
+  downloadRecordSourceNotes: document.querySelector("#download-record-source-notes"),
   copyRecordPackets: document.querySelector("#copy-record-packets"),
   downloadRecordPackets: document.querySelector("#download-record-packets"),
   supportSummary: document.querySelector("#support-summary"),
@@ -107,6 +109,8 @@ const selectors = {
   candidateCount: document.querySelector("#candidate-count"),
   resetSourceCandidates: document.querySelector("#reset-source-candidates"),
   exportSourceCandidates: document.querySelector("#export-source-candidates-csv"),
+  copySourceCandidateNotes: document.querySelector("#copy-source-candidate-notes"),
+  downloadSourceCandidateNotes: document.querySelector("#download-source-candidate-notes"),
   copySourceCandidatePackets: document.querySelector("#copy-source-candidate-packets"),
   downloadSourceCandidatePackets: document.querySelector("#download-source-candidate-packets"),
   gapsRoot: document.querySelector("#gaps-root"),
@@ -1567,6 +1571,90 @@ function packetBundle(title, items, renderPacket) {
   ]);
 }
 
+function sourceNoteVerificationFlags(note) {
+  const flags = [];
+  if (!note) flags.push("Source note pending");
+  if (/classification marking requires PDF verification/i.test(note)) flags.push("Classification requires PDF verification");
+  if (/Folder-level source candidate|document-level .* require review/i.test(note)) flags.push("Document-level details require review");
+  if (/No classification marking\./i.test(note)) flags.push("Confirm absence of classification marking against scan");
+  return flags;
+}
+
+function sourceNoteRegisterEntry(item, index) {
+  const note = item.note || "";
+  const flags = sourceNoteVerificationFlags(note);
+  return compactList([
+    `${index + 1}. ${item.title}`,
+    item.meta,
+    item.decision ? `Local decision: ${item.decision}` : "",
+    item.naid ? `NAID: ${item.naid}` : "",
+    item.catalogUrl ? `Catalog: ${item.catalogUrl}` : "",
+    item.digitalObjectUrl ? `Digital object: ${item.digitalObjectUrl}` : "",
+    `Source note: ${note || "Source note pending."}`,
+    flags.length ? `Verification flags: ${flags.join("; ")}` : ""
+  ]);
+}
+
+function buildRecordSourceNoteRegister() {
+  const linkedCandidates = new Map();
+  for (const record of visibleRecords) {
+    for (const candidate of linkedSourceCandidatesForRecord(record)) {
+      linkedCandidates.set(candidate.id, candidate);
+    }
+  }
+
+  const recordEntries = visibleRecords.map((record) => ({
+    title: record.title,
+    meta: [formatDate(record.date), record.documentType, record.chapter?.name, record.selectionValue].filter(Boolean).join(" | "),
+    decision: RECORD_DECISION_LABELS[recordDecision(record)] || "Undecided",
+    naid: record.naid,
+    catalogUrl: record.catalogUrl,
+    digitalObjectUrl: record.pdfUrl,
+    note: record.frusSourceNote || record.sourceNote || ""
+  }));
+
+  const candidateEntries = [...linkedCandidates.values()].map((candidate) => ({
+    title: candidate.title,
+    meta: [candidate.priority, candidateLaneGroup(candidate), candidate.lane, candidate.sourceSeries].filter(Boolean).join(" | "),
+    naid: candidate.naid || candidate.externalId,
+    catalogUrl: candidate.catalogUrl,
+    digitalObjectUrl: candidate.digitalObjectUrl,
+    note: candidate.sourceNote || ""
+  }));
+
+  return packetLines([
+    "FRUS MEPP Visible Chronology Source Note Register",
+    `Generated: ${new Date().toISOString()}`,
+    `Presidential records: ${recordEntries.length.toLocaleString()}`,
+    `Linked source candidates: ${candidateEntries.length.toLocaleString()}`,
+    "",
+    "Presidential Records",
+    recordEntries.length ? recordEntries.map(sourceNoteRegisterEntry).join("\n\n") : "No visible presidential records.",
+    "",
+    "Linked Source Candidates",
+    candidateEntries.length ? candidateEntries.map(sourceNoteRegisterEntry).join("\n\n") : "No linked source candidates for the visible records."
+  ]);
+}
+
+function buildSourceCandidateSourceNoteRegister() {
+  const candidateEntries = visibleSourceCandidates.map((candidate) => ({
+    title: candidate.title,
+    meta: [candidate.priority, candidate.chapter, candidateLaneGroup(candidate), candidate.lane, candidate.sourceSeries].filter(Boolean).join(" | "),
+    naid: candidate.naid || candidate.externalId,
+    catalogUrl: candidate.catalogUrl,
+    digitalObjectUrl: candidate.digitalObjectUrl,
+    note: candidate.sourceNote || ""
+  }));
+
+  return packetLines([
+    "FRUS MEPP Visible Source Candidate Source Note Register",
+    `Generated: ${new Date().toISOString()}`,
+    `Source candidates: ${candidateEntries.length.toLocaleString()}`,
+    "",
+    candidateEntries.length ? candidateEntries.map(sourceNoteRegisterEntry).join("\n\n") : "No visible source candidates."
+  ]);
+}
+
 function sourceCandidatePacketLine(candidate, index) {
   const parts = [
     `${index + 1}. ${candidate.title}`,
@@ -1698,20 +1786,31 @@ function visibleSourceCandidatePacketsText() {
 }
 
 async function copyText(value, trigger) {
-  try {
-    await navigator.clipboard.writeText(value);
+  const setCopyStatus = (label) => {
+    if (!trigger) return;
     const original = trigger.textContent;
-    trigger.textContent = "Copied";
+    trigger.textContent = label;
     setTimeout(() => {
       trigger.textContent = original;
     }, 1200);
+  };
+
+  try {
+    await navigator.clipboard.writeText(value);
+    setCopyStatus("Copied");
   } catch {
+    let copied = false;
     const textArea = document.createElement("textarea");
     textArea.value = value;
     document.body.append(textArea);
     textArea.select();
-    document.execCommand("copy");
+    try {
+      copied = document.execCommand("copy");
+    } catch {
+      copied = false;
+    }
     textArea.remove();
+    setCopyStatus(copied ? "Copied" : "Copy failed");
   }
 }
 
@@ -1765,6 +1864,10 @@ function bindEvents() {
 
   selectors.resetFilters?.addEventListener("click", resetRecordFilters);
   selectors.exportCsv?.addEventListener("click", exportVisibleRecords);
+  selectors.copyRecordSourceNotes?.addEventListener("click", () => copyText(buildRecordSourceNoteRegister(), selectors.copyRecordSourceNotes));
+  selectors.downloadRecordSourceNotes?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-visible-record-source-notes.txt", `${buildRecordSourceNoteRegister()}\n`);
+  });
   selectors.copyRecordPackets?.addEventListener("click", () => copyText(visibleRecordPacketsText(), selectors.copyRecordPackets));
   selectors.downloadRecordPackets?.addEventListener("click", () => {
     downloadTextFile("bush41-mepp-visible-record-packets.txt", `${visibleRecordPacketsText()}\n`);
@@ -1794,6 +1897,12 @@ function bindEvents() {
   ].forEach((control) => control?.addEventListener("input", renderSourceCandidates));
   selectors.resetSourceCandidates?.addEventListener("click", resetSourceCandidateFilters);
   selectors.exportSourceCandidates?.addEventListener("click", exportVisibleSourceCandidates);
+  selectors.copySourceCandidateNotes?.addEventListener("click", () =>
+    copyText(buildSourceCandidateSourceNoteRegister(), selectors.copySourceCandidateNotes)
+  );
+  selectors.downloadSourceCandidateNotes?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-visible-source-candidate-notes.txt", `${buildSourceCandidateSourceNoteRegister()}\n`);
+  });
   selectors.copySourceCandidatePackets?.addEventListener("click", () =>
     copyText(visibleSourceCandidatePacketsText(), selectors.copySourceCandidatePackets)
   );

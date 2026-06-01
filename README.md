@@ -13,6 +13,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Public Papers of the Presidents references from GovInfo, with page-level PDF links
 - Track-based arrangement for Israel, Palestinian/Jordanian, Syria/Lebanon, Egypt/Arab regional, and Madrid/multilateral materials
 - Search, filters, local review state, source-note and compiler-packet copy buttons, and CSV export
+- Filter-aware source-note registers for the visible chronology and source-candidate queues, with copy/download actions
 - Browser-saved record decisions for Include, Maybe, and Exclude, with filters and portable workspace-state support
 - Batch copy/download of visible chronology and source-candidate compiler packets
 - Compiler action dashboard for one-click anchor/high, unsupported, public-crosswalk, digital-candidate, and shortlisted-source queues
