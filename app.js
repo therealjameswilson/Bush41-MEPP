@@ -7,6 +7,8 @@ const sourceLeads = window.MEPP_SOURCE_LEADS || [];
 const sourceCandidates = window.MEPP_SOURCE_CANDIDATES || [];
 
 const REVIEW_STORAGE_KEY = "bush41-mepp-reviewed-records";
+const SOURCE_CANDIDATE_REVIEW_STORAGE_KEY = "bush41-mepp-reviewed-source-candidates";
+const SOURCE_CANDIDATE_SHORTLIST_STORAGE_KEY = "bush41-mepp-shortlisted-source-candidates";
 const NOTES_STORAGE_KEY = "bush41-mepp-compiler-notes";
 const VOLUME_TITLE = "Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Israeli Dispute";
 
@@ -91,6 +93,7 @@ const selectors = {
   candidateLaneGroup: document.querySelector("#candidate-lane-group"),
   candidateLinkage: document.querySelector("#candidate-linkage"),
   candidateAccess: document.querySelector("#candidate-access"),
+  candidateTriage: document.querySelector("#candidate-triage"),
   candidateCount: document.querySelector("#candidate-count"),
   resetSourceCandidates: document.querySelector("#reset-source-candidates"),
   exportSourceCandidates: document.querySelector("#export-source-candidates-csv"),
@@ -101,8 +104,10 @@ const selectors = {
   gapCount: document.querySelector("#gap-count"),
   exportGaps: document.querySelector("#export-gaps-csv"),
   reviewRoot: document.querySelector("#review-root"),
+  sourceReviewRoot: document.querySelector("#source-review-root"),
   openReviewCount: document.querySelector("#open-review-count"),
   reviewedListSummary: document.querySelector("#reviewed-list-summary"),
+  sourceCandidateReviewSummary: document.querySelector("#source-candidate-review-summary"),
   compilerNotes: document.querySelector("#compiler-notes"),
   notesStatus: document.querySelector("#notes-status"),
   copyVolumeTitle: document.querySelector("#copy-volume-title"),
@@ -111,6 +116,8 @@ const selectors = {
 };
 
 let reviewedRecords = new Set(readReviewedRecords());
+let reviewedSourceCandidates = new Set(readLocalSet(SOURCE_CANDIDATE_REVIEW_STORAGE_KEY));
+let shortlistedSourceCandidates = new Set(readLocalSet(SOURCE_CANDIDATE_SHORTLIST_STORAGE_KEY));
 let visibleRecords = [];
 let visibleStatements = [];
 let visiblePersons = [];
@@ -132,6 +139,19 @@ function readReviewedRecords() {
 
 function saveReviewedRecords() {
   localStorage.setItem(REVIEW_STORAGE_KEY, JSON.stringify([...reviewedRecords]));
+}
+
+function readLocalSet(key) {
+  try {
+    const parsed = JSON.parse(localStorage.getItem(key) || "[]");
+    return Array.isArray(parsed) ? parsed : [];
+  } catch {
+    return [];
+  }
+}
+
+function saveLocalSet(key, values) {
+  localStorage.setItem(key, JSON.stringify([...values]));
 }
 
 function readLocalValue(key) {
@@ -788,6 +808,7 @@ function renderSourceCandidates() {
   const laneGroup = selectors.candidateLaneGroup?.value || "";
   const linkage = selectors.candidateLinkage?.value || "";
   const access = selectors.candidateAccess?.value || "";
+  const triage = selectors.candidateTriage?.value || "";
   const priorityRank = { High: 0, Medium: 1, Review: 2 };
   visibleSourceCandidates = sourceCandidates
     .filter((candidate) => {
@@ -800,6 +821,10 @@ function renderSourceCandidates() {
       if (linkage === "unlinked" && candidate.relatedRecordIds?.length) return false;
       if (access === "digital" && !candidateHasDigitalObject(candidate)) return false;
       if (access === "no-digital" && candidateHasDigitalObject(candidate)) return false;
+      if (triage === "shortlisted" && !shortlistedSourceCandidates.has(candidate.id)) return false;
+      if (triage === "open" && reviewedSourceCandidates.has(candidate.id)) return false;
+      if (triage === "reviewed" && !reviewedSourceCandidates.has(candidate.id)) return false;
+      if (triage === "unshortlisted" && shortlistedSourceCandidates.has(candidate.id)) return false;
       return true;
     })
     .sort(
@@ -816,8 +841,16 @@ function renderSourceCandidates() {
 }
 
 function renderSourceCandidateCard(candidate) {
+  const reviewed = reviewedSourceCandidates.has(candidate.id);
+  const shortlisted = shortlistedSourceCandidates.has(candidate.id);
   return `
-    <article class="source-candidate-card" data-priority="${escapeHtml(candidate.priority)}">
+    <article
+      class="source-candidate-card"
+      id="${escapeHtml(candidate.id)}"
+      data-priority="${escapeHtml(candidate.priority)}"
+      data-reviewed="${reviewed ? "true" : "false"}"
+      data-shortlisted="${shortlisted ? "true" : "false"}"
+    >
       <p class="kicker">${escapeHtml(candidate.priority)} / ${escapeHtml(candidate.level || "catalog record")}</p>
       <h3>${escapeHtml(candidate.title)}</h3>
       <p>${escapeHtml(candidate.reason || "")}</p>
@@ -828,6 +861,8 @@ function renderSourceCandidateCard(candidate) {
         ${candidate.documentType ? `<span class="pill">${escapeHtml(candidate.documentType)}</span>` : ""}
         ${candidate.hasDigitalObject ? `<span class="pill">digital object</span>` : ""}
         ${candidate.reviewStatus ? `<span class="pill">${escapeHtml(candidate.reviewStatus)}</span>` : ""}
+        ${shortlisted ? `<span class="pill">shortlisted locally</span>` : ""}
+        ${reviewed ? `<span class="pill">reviewed locally</span>` : ""}
         ${candidate.pageCount ? `<span class="pill">${Number(candidate.pageCount).toLocaleString()} pp.</span>` : ""}
         ${candidate.naid ? `<span class="pill">NAID ${escapeHtml(candidate.naid)}</span>` : ""}
       </div>
@@ -865,6 +900,18 @@ function renderSourceCandidateCard(candidate) {
         ${candidate.digitalObjectUrl ? `<a href="${escapeHtml(candidate.digitalObjectUrl)}" rel="noreferrer">Digital object</a>` : ""}
         <button type="button" data-copy-candidate-note="${escapeHtml(candidate.id)}">Copy source note</button>
         <button type="button" data-copy-candidate-packet="${escapeHtml(candidate.id)}">Copy packet</button>
+        <button
+          class="triage-toggle"
+          type="button"
+          data-shortlist-candidate="${escapeHtml(candidate.id)}"
+          aria-pressed="${shortlisted ? "true" : "false"}"
+        >${shortlisted ? "Shortlisted" : "Shortlist"}</button>
+        <button
+          class="triage-toggle"
+          type="button"
+          data-review-candidate="${escapeHtml(candidate.id)}"
+          aria-pressed="${reviewed ? "true" : "false"}"
+        >${reviewed ? "Reviewed" : "Mark reviewed"}</button>
       </div>
     </article>
   `;
@@ -924,8 +971,22 @@ function renderGaps() {
 function renderReviewQueue() {
   const openHighValue = records.filter((record) => ["Anchor", "High"].includes(record.selectionValue) && !reviewedRecords.has(record.id));
   const reviewed = records.filter((record) => reviewedRecords.has(record.id));
+  const priorityRank = { High: 0, Medium: 1, Review: 2 };
+  const shortlistedCandidates = sourceCandidates
+    .filter((candidate) => shortlistedSourceCandidates.has(candidate.id))
+    .sort(
+      (a, b) =>
+        Number(reviewedSourceCandidates.has(a.id)) - Number(reviewedSourceCandidates.has(b.id)) ||
+        (priorityRank[a.priority] ?? 9) - (priorityRank[b.priority] ?? 9) ||
+        String(a.chapter).localeCompare(String(b.chapter)) ||
+        a.title.localeCompare(b.title)
+    );
+  const openShortlistedCandidates = shortlistedCandidates.filter((candidate) => !reviewedSourceCandidates.has(candidate.id));
   selectors.openReviewCount.textContent = `${openHighValue.length.toLocaleString()} anchor or high-value records need local review.`;
   selectors.reviewedListSummary.textContent = `${reviewed.length.toLocaleString()} records marked reviewed in this browser.`;
+  if (selectors.sourceCandidateReviewSummary) {
+    selectors.sourceCandidateReviewSummary.textContent = `${shortlistedCandidates.length.toLocaleString()} source candidates shortlisted; ${openShortlistedCandidates.length.toLocaleString()} still need local review.`;
+  }
   selectors.reviewRoot.innerHTML = openHighValue.length
     ? openHighValue
         .sort(compareRecords)
@@ -945,6 +1006,37 @@ function renderReviewQueue() {
         )
         .join("")
     : `<p class="empty-state">All anchor and high-value records are marked reviewed in this browser.</p>`;
+  if (selectors.sourceReviewRoot) {
+    selectors.sourceReviewRoot.innerHTML = shortlistedCandidates.length
+      ? shortlistedCandidates
+          .slice(0, 12)
+          .map(
+            (candidate) => `
+              <article class="review-item">
+                <p class="record-date">${escapeHtml([candidate.priority, candidateLaneGroup(candidate)].filter(Boolean).join(" / "))}</p>
+                <h3>${escapeHtml(candidate.title)}</h3>
+                <p>${escapeHtml(candidate.reason || "")}</p>
+                <div class="tag-list">
+                  <span class="pill">${escapeHtml(candidate.chapter || "Unassigned")}</span>
+                  ${reviewedSourceCandidates.has(candidate.id) ? `<span class="pill">reviewed locally</span>` : `<span class="pill">open local review</span>`}
+                </div>
+                <div class="record-links">
+                  <a href="${escapeHtml(candidate.catalogUrl)}" rel="noreferrer">Catalog</a>
+                  <a href="#${escapeHtml(candidate.id)}">Jump to candidate</a>
+                  <button type="button" data-copy-candidate-packet="${escapeHtml(candidate.id)}">Copy packet</button>
+                  <button
+                    class="triage-toggle"
+                    type="button"
+                    data-review-candidate="${escapeHtml(candidate.id)}"
+                    aria-pressed="${reviewedSourceCandidates.has(candidate.id) ? "true" : "false"}"
+                  >${reviewedSourceCandidates.has(candidate.id) ? "Reviewed" : "Mark reviewed"}</button>
+                </div>
+              </article>
+            `
+          )
+          .join("")
+      : `<p class="empty-state">No source candidates are shortlisted in this browser yet.</p>`;
+  }
 }
 
 function initOptions() {
@@ -997,7 +1089,8 @@ function resetSourceCandidateFilters() {
     selectors.candidateLevel,
     selectors.candidateLaneGroup,
     selectors.candidateLinkage,
-    selectors.candidateAccess
+    selectors.candidateAccess,
+    selectors.candidateTriage
   ].forEach((control) => {
     if (control) control.value = "";
   });
@@ -1046,7 +1139,16 @@ function buildDatasetExport() {
       sourceLeads: sourceLeads.length,
       sourceCandidates: sourceCandidates.length,
       pages: records.reduce((sum, record) => sum + (Number(record.pageCount) || 0), 0),
-      sourceSupport: sourceSupportCounts()
+      sourceSupport: sourceSupportCounts(),
+      sourceCandidateTriage: {
+        shortlisted: shortlistedSourceCandidates.size,
+        reviewed: reviewedSourceCandidates.size,
+        openShortlisted: [...shortlistedSourceCandidates].filter((id) => !reviewedSourceCandidates.has(id)).length
+      }
+    },
+    localSourceCandidateTriage: {
+      shortlistedIds: [...shortlistedSourceCandidates],
+      reviewedIds: [...reviewedSourceCandidates]
     },
     records,
     publicStatements,
@@ -1145,6 +1247,8 @@ function exportVisibleSourceCandidates() {
       "digital_object_url",
       "linkage",
       "digital_object_status",
+      "local_triage",
+      "local_review_state",
       "source_note",
       "evidence_snippets",
       "related_frus_records",
@@ -1165,6 +1269,8 @@ function exportVisibleSourceCandidates() {
       candidate.digitalObjectUrl,
       candidate.relatedRecordIds?.length ? "linked" : "unlinked",
       candidateHasDigitalObject(candidate) ? "digital object" : "no digital object",
+      shortlistedSourceCandidates.has(candidate.id) ? "shortlisted" : "",
+      reviewedSourceCandidates.has(candidate.id) ? "reviewed" : "open",
       candidate.sourceNote,
       (candidate.evidenceSnippets || []).join(" ... "),
       (candidate.relatedRecordTitles || []).join("; "),
@@ -1371,7 +1477,8 @@ function bindEvents() {
     selectors.candidateLevel,
     selectors.candidateLaneGroup,
     selectors.candidateLinkage,
-    selectors.candidateAccess
+    selectors.candidateAccess,
+    selectors.candidateTriage
   ].forEach((control) => control?.addEventListener("input", renderSourceCandidates));
   selectors.resetSourceCandidates?.addEventListener("click", resetSourceCandidateFilters);
   selectors.exportSourceCandidates?.addEventListener("click", exportVisibleSourceCandidates);
@@ -1430,6 +1537,28 @@ function bindEvents() {
     if (copyCandidatePacketButton) {
       const candidate = sourceCandidateById.get(copyCandidatePacketButton.dataset.copyCandidatePacket);
       if (candidate) copyText(buildSourceCandidateCompilerPacket(candidate), copyCandidatePacketButton);
+      return;
+    }
+
+    const shortlistCandidateButton = event.target.closest("[data-shortlist-candidate]");
+    if (shortlistCandidateButton) {
+      const id = shortlistCandidateButton.dataset.shortlistCandidate;
+      if (shortlistedSourceCandidates.has(id)) shortlistedSourceCandidates.delete(id);
+      else shortlistedSourceCandidates.add(id);
+      saveLocalSet(SOURCE_CANDIDATE_SHORTLIST_STORAGE_KEY, shortlistedSourceCandidates);
+      renderSourceCandidates();
+      renderReviewQueue();
+      return;
+    }
+
+    const reviewCandidateButton = event.target.closest("[data-review-candidate]");
+    if (reviewCandidateButton) {
+      const id = reviewCandidateButton.dataset.reviewCandidate;
+      if (reviewedSourceCandidates.has(id)) reviewedSourceCandidates.delete(id);
+      else reviewedSourceCandidates.add(id);
+      saveLocalSet(SOURCE_CANDIDATE_REVIEW_STORAGE_KEY, reviewedSourceCandidates);
+      renderSourceCandidates();
+      renderReviewQueue();
       return;
     }
 

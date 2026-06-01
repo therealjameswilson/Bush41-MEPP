@@ -371,6 +371,16 @@
               <option value="no-digital">No digital object</option>
             </select>
           </label>
+          <label>
+            Local triage
+            <select id="candidate-triage">
+              <option value="">All local states</option>
+              <option value="shortlisted">Shortlisted</option>
+              <option value="open">Open local review</option>
+              <option value="reviewed">Reviewed locally</option>
+              <option value="unshortlisted">Not shortlisted</option>
+            </select>
+          </label>
         </div>
         <div class="workbench-actions">
           <p id="candidate-count">Showing 0 source candidates.</p>
@@ -423,8 +433,13 @@
             <h3>Reviewed Locally</h3>
             <p id="reviewed-list-summary">0 records marked reviewed in this browser.</p>
           </article>
+          <article>
+            <h3>Shortlisted Source Candidates</h3>
+            <p id="source-candidate-review-summary">0 source candidates shortlisted in this browser.</p>
+          </article>
         </div>
         <div id="review-root" class="review-list" aria-live="polite"></div>
+        <div id="source-review-root" class="review-list" aria-live="polite"></div>
       </section>
 
       <section class="section" id="ingest" aria-labelledby="ingest-title">
