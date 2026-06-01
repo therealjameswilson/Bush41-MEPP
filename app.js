@@ -107,6 +107,7 @@ let visibleSourceCandidates = [];
 
 const recordById = new Map(records.map((record) => [record.id, record]));
 const statementById = new Map(publicStatements.map((statement) => [statement.id, statement]));
+const sourceCandidatesByRecordId = buildSourceCandidatesByRecordId();
 
 function readReviewedRecords() {
   try {
@@ -162,6 +163,26 @@ function setOptions(select, values, allLabel) {
   if (values.includes(current)) select.value = current;
 }
 
+function buildSourceCandidatesByRecordId() {
+  const map = new Map();
+  for (const candidate of sourceCandidates) {
+    for (const id of candidate.relatedRecordIds || []) {
+      const items = map.get(id) || [];
+      items.push(candidate);
+      map.set(id, items);
+    }
+  }
+  for (const items of map.values()) {
+    items.sort(
+      (a, b) =>
+        String(a.lane).localeCompare(String(b.lane)) ||
+        String(a.date || "").localeCompare(String(b.date || "")) ||
+        String(a.title).localeCompare(String(b.title))
+    );
+  }
+  return map;
+}
+
 function chapterNames() {
   return Object.keys(CHAPTER_INFO);
 }
@@ -197,7 +218,14 @@ function searchText(record) {
     record.compilerNote,
     ...(record.people || []),
     ...(record.countries || []),
-    ...(record.matchedQueries || [])
+    ...(record.matchedQueries || []),
+    ...(sourceCandidatesByRecordId.get(record.id) || []).flatMap((candidate) => [
+      candidate.title,
+      candidate.lane,
+      candidate.sourceSeries,
+      candidate.sourceNote,
+      ...(candidate.evidenceSnippets || [])
+    ])
   ]
     .filter(Boolean)
     .join(" ")
@@ -370,6 +398,7 @@ function renderRecords() {
 }
 
 function renderRecordCard(record) {
+  const relatedSourceCandidates = sourceCandidatesByRecordId.get(record.id) || [];
   const terms = [
     record.sourceConfidence?.label,
     record.eventLabel,
@@ -436,8 +465,33 @@ function renderRecordCard(record) {
               </div>`
             : ""
         }
+        ${renderRelatedSourceCandidates(relatedSourceCandidates)}
       </div>
     </article>
+  `;
+}
+
+function renderRelatedSourceCandidates(candidates) {
+  if (!candidates.length) return "";
+  const shown = candidates.slice(0, 6);
+  const hiddenCount = candidates.length - shown.length;
+  return `
+    <div class="note-box related-source-box">
+      <h4>Related Source Candidates</h4>
+      <ul class="note-list">
+        ${shown
+          .map(
+            (candidate) => `
+              <li>
+                <a href="${escapeHtml(candidate.catalogUrl)}" rel="noreferrer">${escapeHtml(candidate.title)}</a>
+                <span>${escapeHtml([candidate.lane, candidate.date, candidate.sourceSeries].filter(Boolean).join(" / "))}</span>
+              </li>
+            `
+          )
+          .join("")}
+      </ul>
+      ${hiddenCount ? `<p class="note-more">${hiddenCount.toLocaleString()} more related source candidates in the candidates section.</p>` : ""}
+    </div>
   `;
 }
 
@@ -775,7 +829,7 @@ function resetRecordFilters() {
   ].forEach((control) => {
     if (control) control.value = "";
   });
-  if (selectors.sortRecords) selectors.sortRecords.value = "chapter-date";
+  if (selectors.sortRecords) selectors.sortRecords.value = "date";
   renderRecords();
 }
 
@@ -813,7 +867,18 @@ function exportRows(filename, rows) {
 
 function exportVisibleRecords() {
   exportRows("bush41-mepp-visible-records.csv", [
-    ["date", "title", "track", "type", "selection_value", "naid", "pdf_url", "catalog_url", "source_note"],
+    [
+      "date",
+      "title",
+      "track",
+      "type",
+      "selection_value",
+      "naid",
+      "pdf_url",
+      "catalog_url",
+      "source_note",
+      "related_source_candidates"
+    ],
     ...visibleRecords.map((record) => [
       record.date,
       record.title,
@@ -823,7 +888,8 @@ function exportVisibleRecords() {
       record.naid,
       record.pdfUrl,
       record.catalogUrl,
-      record.frusSourceNote || record.sourceNote
+      record.frusSourceNote || record.sourceNote,
+      (sourceCandidatesByRecordId.get(record.id) || []).map((candidate) => `${candidate.title} (${candidate.catalogUrl})`).join("; ")
     ])
   ]);
 }

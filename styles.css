@@ -642,6 +642,18 @@ select:focus {
   line-height: 1.45;
 }
 
+.note-list span {
+  display: block;
+  color: #59656a;
+  font-size: 0.84rem;
+}
+
+.note-more {
+  margin-top: 9px;
+  color: #59656a;
+  font-size: 0.86rem;
+}
+
 .review-toggle {
   white-space: nowrap;
 }
