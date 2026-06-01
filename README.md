@@ -11,7 +11,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Declassified presidential memoranda of conversation and telephone conversations from the George H.W. Bush Library / National Archives Catalog
 - Public Papers of the Presidents references from GovInfo, with page-level PDF links
 - Track-based arrangement for Israel, Palestinian/Jordanian, Syria/Lebanon, Egypt/Arab regional, and Madrid/multilateral materials
-- Search, filters, local review state, source-note copy buttons, and CSV export
+- Search, filters, local review state, source-note and compiler-packet copy buttons, and CSV export
 - Persons list, event dossiers, source-series leads, and a compiler gap register
 - PDF page-count/review-marker enrichment for the current presidential corpus
 - Date/track/term-based public/private chronology linkage
@@ -22,6 +22,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Presidential Daily Diary and Backup Materials candidates from NARA Catalog series NAID 186322, crosswalked to selected FRUS meeting and call dates
 - Princeton James A. Baker III Papers candidates from the MC197 EAD finding aid
 - Source-candidate review metadata, including page/image counts where practical and explicit large-PDF/manual-review flags
+- Source-support summary cards in the opening chronology for linked candidates, Daily Diary/Backup corroboration, public chronology links, and unsupported records
 - FRUS-style source note generation and audit checks for presidential records and source candidates
 - GitHub Actions validation and GitHub Pages deployment workflow
 - Reproducible harvest scripts and JSON/JS data bundles for GitHub Pages

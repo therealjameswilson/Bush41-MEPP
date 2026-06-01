@@ -63,6 +63,7 @@ const selectors = {
   sortRecords: document.querySelector("#sort-records"),
   resetFilters: document.querySelector("#reset-filters"),
   exportCsv: document.querySelector("#export-csv"),
+  supportSummary: document.querySelector("#support-summary"),
   chapterGrid: document.querySelector("#chapter-grid"),
   eventsRoot: document.querySelector("#events-root"),
   personsRoot: document.querySelector("#persons-root"),
@@ -194,6 +195,20 @@ function linkedSourceCandidatesForRecord(record) {
 
 function hasDailyDiaryCandidate(record) {
   return linkedSourceCandidatesForRecord(record).some((candidate) => candidate.lane === "Presidential Daily Diary/Backup");
+}
+
+function sourceSupportCounts(items = records) {
+  return items.reduce(
+    (counts, record) => {
+      const linkedSourceCandidates = linkedSourceCandidatesForRecord(record);
+      if (linkedSourceCandidates.length) counts.linkedSource += 1;
+      else counts.unsupported += 1;
+      if (linkedSourceCandidates.some((candidate) => candidate.lane === "Presidential Daily Diary/Backup")) counts.dailyDiary += 1;
+      if (record.publicChronologyLinks?.length) counts.publicChronology += 1;
+      return counts;
+    },
+    { linkedSource: 0, dailyDiary: 0, publicChronology: 0, unsupported: 0 }
+  );
 }
 
 function tagsHtml(tags) {
@@ -410,6 +425,56 @@ function renderRecords() {
   selectors.recordsRoot.innerHTML = visibleRecords.length
     ? visibleRecords.map(renderRecordCard).join("")
     : `<p class="empty-state">No presidential records match the current filters.</p>`;
+  renderSupportSummary();
+}
+
+function renderSupportSummary() {
+  if (!selectors.supportSummary) return;
+  const counts = sourceSupportCounts();
+  const active = selectors.supportFilter?.value || "";
+  const items = [
+    {
+      value: "linked-source",
+      count: counts.linkedSource,
+      label: "Linked source candidates",
+      note: "NARA, Baker, Haass, or diary leads"
+    },
+    {
+      value: "daily-diary",
+      count: counts.dailyDiary,
+      label: "Daily Diary/Backup linked",
+      note: "Schedule, meeting, or call corroboration"
+    },
+    {
+      value: "public-private",
+      count: counts.publicChronology,
+      label: "Public chronology linked",
+      note: "Public Papers date and track crosswalk"
+    },
+    {
+      value: "unsupported",
+      count: counts.unsupported,
+      label: "No linked source candidates",
+      note: "Highest-priority follow-up queue"
+    }
+  ];
+
+  selectors.supportSummary.innerHTML = items
+    .map(
+      (item) => `
+        <button
+          class="support-card${active === item.value ? " is-active" : ""}"
+          type="button"
+          data-support-shortcut="${escapeHtml(item.value)}"
+          aria-pressed="${active === item.value ? "true" : "false"}"
+        >
+          <span class="support-value">${Number(item.count).toLocaleString()}</span>
+          <span class="support-label">${escapeHtml(item.label)}</span>
+          <span class="support-note">${escapeHtml(item.note)}</span>
+        </button>
+      `
+    )
+    .join("");
 }
 
 function renderRecordCard(record) {
@@ -454,7 +519,8 @@ function renderRecordCard(record) {
         ${record.pdfUrl ? `<a href="${escapeHtml(record.pdfUrl)}" rel="noreferrer">Open PDF</a>` : ""}
         <a href="${escapeHtml(record.catalogUrl)}" rel="noreferrer">Catalog</a>
         <a href="${escapeHtml(record.source?.url || record.catalogUrl)}" rel="noreferrer">Series</a>
-        <button type="button" data-copy-record="${escapeHtml(record.id)}">Copy source note</button>
+        <button type="button" data-copy-record-note="${escapeHtml(record.id)}">Copy source note</button>
+        <button type="button" data-copy-record-packet="${escapeHtml(record.id)}">Copy packet</button>
       </div>
       <div class="record-details">
         <div class="note-box">
@@ -989,6 +1055,87 @@ function exportVisibleSourceCandidates() {
   ]);
 }
 
+function compactList(items) {
+  return items.filter(Boolean).join("\n");
+}
+
+function packetLines(items) {
+  return items.filter((item) => item !== false && item !== null && item !== undefined).join("\n");
+}
+
+function sourceCandidatePacketLine(candidate, index) {
+  const parts = [
+    `${index + 1}. ${candidate.title}`,
+    candidate.date ? `Date: ${candidate.date}` : "",
+    candidate.lane ? `Lane: ${candidate.lane}` : "",
+    candidate.priority ? `Priority: ${candidate.priority}` : "",
+    candidate.sourceSeries ? `Series: ${candidate.sourceSeries}` : "",
+    candidate.collection ? `Collection: ${candidate.collection}` : "",
+    candidate.localIdentifier ? `Local ID: ${candidate.localIdentifier}` : "",
+    candidate.pageCount ? `Pages: ${candidate.pageCount}` : "",
+    candidate.sourceNote ? `Source note: ${candidate.sourceNote}` : "",
+    candidate.catalogUrl ? `Catalog: ${candidate.catalogUrl}` : "",
+    candidate.digitalObjectUrl ? `Digital object: ${candidate.digitalObjectUrl}` : "",
+    candidate.evidenceSnippets?.length ? `Evidence: ${candidate.evidenceSnippets.slice(0, 2).join(" / ")}` : ""
+  ];
+  return compactList(parts);
+}
+
+function buildRecordCompilerPacket(record) {
+  const relatedSourceCandidates = linkedSourceCandidatesForRecord(record);
+  const publicChronologyLinks = record.publicChronologyLinks || [];
+  const shownCandidates = relatedSourceCandidates.slice(0, 10);
+  const hiddenCandidateCount = relatedSourceCandidates.length - shownCandidates.length;
+  const sourceSupport = [
+    relatedSourceCandidates.length ? `${relatedSourceCandidates.length} linked source candidates` : "No linked source candidates",
+    hasDailyDiaryCandidate(record) ? "Daily Diary/Backup linked" : "",
+    publicChronologyLinks.length ? `${publicChronologyLinks.length} public chronology links` : ""
+  ]
+    .filter(Boolean)
+    .join("; ");
+
+  return packetLines([
+    "FRUS Compiler Packet",
+    record.title,
+    `${formatDate(record.date)} | ${record.documentType || "Document type pending"} | ${record.chapter?.name || "Unassigned track"}`,
+    `Selection value: ${record.selectionValue || "Unassigned"}`,
+    `NAID: ${record.naid || "Pending"}`,
+    `Source support: ${sourceSupport}`,
+    "",
+    "FRUS-style source note draft:",
+    record.frusSourceNote || record.sourceNote || "Source note pending.",
+    "",
+    "Catalog trail:",
+    record.catalogTrail || "Catalog trail pending.",
+    "",
+    "Core links:",
+    record.pdfUrl ? `PDF: ${record.pdfUrl}` : "",
+    record.catalogUrl ? `NARA catalog: ${record.catalogUrl}` : "",
+    record.source?.url ? `Series: ${record.source.url}` : "",
+    "",
+    "PDF review markers:",
+    pdfReviewSummary(record),
+    "",
+    "Compiler note:",
+    record.compilerNote || "Compiler note pending.",
+    "",
+    publicChronologyLinks.length ? "Related public chronology:" : "",
+    ...publicChronologyLinks
+      .slice(0, 6)
+      .map((link, index) => `${index + 1}. ${formatDate(link.date)}: ${link.title}${link.pdfPageUrl ? ` (${link.pdfPageUrl})` : ""}`),
+    publicChronologyLinks.length > 6 ? `${publicChronologyLinks.length - 6} more public chronology links on the record card.` : "",
+    publicChronologyLinks.length ? "" : "",
+    shownCandidates.length ? "Related source candidates:" : "Related source candidates: None linked yet.",
+    ...shownCandidates.map(sourceCandidatePacketLine),
+    hiddenCandidateCount ? `${hiddenCandidateCount} more related source candidates in the candidates section.` : "",
+    "",
+    "Verification checklist:",
+    "- Verify date, place/time, participants, classification, drafting, distribution, attachments, and excisions against the PDF scan.",
+    "- Compare private record against any Daily Diary/Backup entry and public chronology references.",
+    "- Decide whether the record is an anchor, contextual note, or exclusion for the printed volume."
+  ]);
+}
+
 async function copyText(value, trigger) {
   try {
     await navigator.clipboard.writeText(value);
@@ -1062,10 +1209,25 @@ function bindEvents() {
       return;
     }
 
-    const copyRecordButton = event.target.closest("[data-copy-record]");
-    if (copyRecordButton) {
-      const record = recordById.get(copyRecordButton.dataset.copyRecord);
-      if (record) copyText(record.frusSourceNote || record.sourceNote || "", copyRecordButton);
+    const supportShortcut = event.target.closest("[data-support-shortcut]");
+    if (supportShortcut) {
+      const value = supportShortcut.dataset.supportShortcut;
+      selectors.supportFilter.value = selectors.supportFilter.value === value ? "" : value;
+      renderRecords();
+      return;
+    }
+
+    const copyRecordNoteButton = event.target.closest("[data-copy-record-note]");
+    if (copyRecordNoteButton) {
+      const record = recordById.get(copyRecordNoteButton.dataset.copyRecordNote);
+      if (record) copyText(record.frusSourceNote || record.sourceNote || "", copyRecordNoteButton);
+      return;
+    }
+
+    const copyRecordPacketButton = event.target.closest("[data-copy-record-packet]");
+    if (copyRecordPacketButton) {
+      const record = recordById.get(copyRecordPacketButton.dataset.copyRecordPacket);
+      if (record) copyText(buildRecordCompilerPacket(record), copyRecordPacketButton);
       return;
     }
 

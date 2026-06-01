@@ -604,6 +604,48 @@ select:focus {
   min-height: 34px;
 }
 
+.support-summary {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 10px;
+}
+
+.support-card {
+  display: grid;
+  gap: 4px;
+  min-height: 112px;
+  padding: 14px;
+  text-align: left;
+  background: #f9fbf8;
+  border: 1px solid #d7e0d9;
+  border-radius: 7px;
+}
+
+.support-card:hover,
+.support-card.is-active {
+  border-color: var(--green);
+  box-shadow: 0 8px 18px rgba(31, 94, 74, 0.12);
+}
+
+.support-value {
+  color: var(--red);
+  font-size: 1.75rem;
+  font-weight: 900;
+  line-height: 1;
+}
+
+.support-label {
+  color: var(--ink);
+  font-size: 0.9rem;
+  font-weight: 850;
+}
+
+.support-note {
+  color: var(--muted);
+  font-size: 0.8rem;
+  line-height: 1.35;
+}
+
 .record-details {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(245px, 1fr));
