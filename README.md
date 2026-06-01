@@ -17,6 +17,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Browser-saved record decisions for Include, Maybe, and Exclude, with filters and portable workspace-state support
 - Batch copy/download of visible chronology and source-candidate compiler packets
 - Compiler action dashboard for one-click anchor/high, unsupported, public-crosswalk, digital-candidate, and shortlisted-source queues
+- Copy/download compiler action worklist covering unresolved record queues, source-candidate queues, and open gap follow-up
 - Local working notes saved in the browser, plus full dataset copy/download as JSON
 - Portable workspace-state copy/download/import for browser-saved notes, record review state, and source-candidate triage
 - Source-candidate triage by lane group, linkage to presidential meetings/calls, and digital-object status, with copyable candidate packets

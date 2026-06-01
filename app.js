@@ -125,6 +125,8 @@ const selectors = {
   reviewedListSummary: document.querySelector("#reviewed-list-summary"),
   recordDecisionSummary: document.querySelector("#record-decision-summary"),
   sourceCandidateReviewSummary: document.querySelector("#source-candidate-review-summary"),
+  copyActionWorklist: document.querySelector("#copy-action-worklist"),
+  downloadActionWorklist: document.querySelector("#download-action-worklist"),
   compilerNotes: document.querySelector("#compiler-notes"),
   notesStatus: document.querySelector("#notes-status"),
   copyVolumeTitle: document.querySelector("#copy-volume-title"),
@@ -1571,6 +1573,134 @@ function packetBundle(title, items, renderPacket) {
   ]);
 }
 
+function compareRecordsForWorklist(a, b) {
+  const valueRank = { Anchor: 0, High: 1, Context: 2 };
+  return (
+    (valueRank[a.selectionValue] ?? 9) - (valueRank[b.selectionValue] ?? 9) ||
+    a.sortDate.localeCompare(b.sortDate) ||
+    a.title.localeCompare(b.title)
+  );
+}
+
+function compareSourceCandidatesForWorklist(a, b) {
+  const priorityRank = { High: 0, Medium: 1, Review: 2 };
+  return (
+    (priorityRank[a.priority] ?? 9) - (priorityRank[b.priority] ?? 9) ||
+    Number(Boolean(a.relatedRecordIds?.length)) - Number(Boolean(b.relatedRecordIds?.length)) ||
+    String(a.chapter || "").localeCompare(String(b.chapter || "")) ||
+    candidateLaneGroup(a).localeCompare(candidateLaneGroup(b)) ||
+    a.title.localeCompare(b.title)
+  );
+}
+
+function worklistSection(title, items, renderItem, limit = 20) {
+  const shown = items.slice(0, limit);
+  return packetLines([
+    title,
+    `Count: ${items.length.toLocaleString()}`,
+    shown.length ? shown.map(renderItem).join("\n\n") : "No current items.",
+    items.length > shown.length ? `${(items.length - shown.length).toLocaleString()} more items remain in this queue.` : ""
+  ]);
+}
+
+function worklistRecordLine(record, index) {
+  const relatedSourceCandidates = linkedSourceCandidatesForRecord(record);
+  const support = [
+    relatedSourceCandidates.length ? `${relatedSourceCandidates.length} linked source candidates` : "No linked source candidates",
+    hasDailyDiaryCandidate(record) ? "Daily Diary/Backup linked" : "",
+    record.publicChronologyLinks?.length ? `${record.publicChronologyLinks.length} public chronology links` : "No public chronology link"
+  ]
+    .filter(Boolean)
+    .join("; ");
+
+  return compactList([
+    `${index + 1}. ${formatDate(record.date)} - ${record.title}`,
+    [record.selectionValue, RECORD_DECISION_LABELS[recordDecision(record)] || "Undecided", record.chapter?.name, record.documentType, `NAID ${record.naid}`]
+      .filter(Boolean)
+      .join(" | "),
+    `Source support: ${support}`,
+    record.compilerNote ? `Compiler note: ${record.compilerNote}` : "",
+    record.pdfUrl ? `PDF: ${record.pdfUrl}` : "",
+    record.catalogUrl ? `Catalog: ${record.catalogUrl}` : ""
+  ]);
+}
+
+function worklistCandidateLine(candidate, index) {
+  return compactList([
+    `${index + 1}. ${candidate.title}`,
+    [candidate.priority, candidate.chapter, candidateLaneGroup(candidate), candidate.lane, candidate.level].filter(Boolean).join(" | "),
+    `Local state: ${shortlistedSourceCandidates.has(candidate.id) ? "shortlisted" : "not shortlisted"}; ${
+      reviewedSourceCandidates.has(candidate.id) ? "reviewed" : "open review"
+    }`,
+    `Linkage: ${candidate.relatedRecordIds?.length ? `${candidate.relatedRecordIds.length} related FRUS records` : "unlinked"}`,
+    `Digital object: ${candidateHasDigitalObject(candidate) ? "yes" : "no"}`,
+    candidate.reason ? `Reason: ${candidate.reason}` : "",
+    candidate.catalogUrl ? `Catalog: ${candidate.catalogUrl}` : "",
+    candidate.digitalObjectUrl ? `Digital object URL: ${candidate.digitalObjectUrl}` : ""
+  ]);
+}
+
+function worklistGapLine(gap, index) {
+  return compactList([
+    `${index + 1}. ${gap.title}`,
+    [gap.priority, gap.category, gap.chapter].filter(Boolean).join(" | "),
+    gap.evidence ? `Evidence: ${gap.evidence}` : "",
+    gap.nextStep ? `Next step: ${gap.nextStep}` : "",
+    gap.status ? `Status: ${gap.status}` : ""
+  ]);
+}
+
+function buildCompilerActionWorklist() {
+  const counts = actionQueueCounts();
+  const decisionCounts = recordDecisionCounts();
+  const anchorHighOpen = records.filter((record) => isAnchorOrHigh(record) && !reviewedRecords.has(record.id)).sort(compareRecordsForWorklist);
+  const anchorHighUnsupported = records
+    .filter((record) => isAnchorOrHigh(record) && !linkedSourceCandidatesForRecord(record).length)
+    .sort(compareRecordsForWorklist);
+  const anchorHighNoPublic = records
+    .filter((record) => isAnchorOrHigh(record) && !record.publicChronologyLinks?.length)
+    .sort(compareRecordsForWorklist);
+  const highDigitalUnlinkedCandidates = sourceCandidates
+    .filter((candidate) => candidate.priority === "High" && candidateHasDigitalObject(candidate) && !candidate.relatedRecordIds?.length)
+    .sort(compareSourceCandidatesForWorklist);
+  const openShortlistedCandidates = [...shortlistedSourceCandidates]
+    .map((id) => sourceCandidateById.get(id))
+    .filter((candidate) => candidate && !reviewedSourceCandidates.has(candidate.id))
+    .sort(compareSourceCandidatesForWorklist);
+  const openCompilerGaps = compilerGaps
+    .filter((gap) => gap.priority !== "Low")
+    .sort((a, b) => {
+      const priorityRank = { Critical: 0, High: 1, Medium: 2, Low: 3 };
+      return (priorityRank[a.priority] ?? 9) - (priorityRank[b.priority] ?? 9) || a.title.localeCompare(b.title);
+    });
+
+  return packetLines([
+    "FRUS MEPP Compiler Action Worklist",
+    `Generated: ${new Date().toISOString()}`,
+    `Live site: https://therealjameswilson.github.io/Bush41-MEPP/`,
+    "",
+    "Queue Summary",
+    `Anchor/High open review: ${counts.anchorHighOpen.toLocaleString()}`,
+    `Anchor/High without linked sources: ${counts.anchorHighUnsupported.toLocaleString()}`,
+    `Anchor/High without public crosswalk: ${counts.anchorHighNoPublic.toLocaleString()}`,
+    `High digital candidates unlinked: ${counts.highDigitalUnlinkedCandidates.toLocaleString()}`,
+    `Shortlisted candidates open: ${counts.openShortlistedCandidates.toLocaleString()}`,
+    `Record decisions: ${decisionCounts.include.toLocaleString()} include / ${decisionCounts.maybe.toLocaleString()} maybe / ${decisionCounts.exclude.toLocaleString()} exclude / ${decisionCounts.undecided.toLocaleString()} undecided`,
+    "",
+    worklistSection("Anchor/High Open Review", anchorHighOpen, worklistRecordLine),
+    "",
+    worklistSection("Anchor/High Without Linked Source Candidates", anchorHighUnsupported, worklistRecordLine),
+    "",
+    worklistSection("Anchor/High Without Public Chronology Crosswalk", anchorHighNoPublic, worklistRecordLine),
+    "",
+    worklistSection("High Digital Source Candidates Not Linked To FRUS Records", highDigitalUnlinkedCandidates, worklistCandidateLine),
+    "",
+    worklistSection("Shortlisted Source Candidates Still Open", openShortlistedCandidates, worklistCandidateLine),
+    "",
+    worklistSection("Open Compiler Gaps", openCompilerGaps, worklistGapLine)
+  ]);
+}
+
 function sourceNoteVerificationFlags(note) {
   const flags = [];
   if (!note) flags.push("Source note pending");
@@ -1884,6 +2014,11 @@ function bindEvents() {
 
   [selectors.gapSearch, selectors.gapPriority, selectors.gapCategory].forEach((control) => control?.addEventListener("input", renderGaps));
   selectors.exportGaps?.addEventListener("click", exportVisibleGaps);
+
+  selectors.copyActionWorklist?.addEventListener("click", () => copyText(buildCompilerActionWorklist(), selectors.copyActionWorklist));
+  selectors.downloadActionWorklist?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-compiler-action-worklist.txt", `${buildCompilerActionWorklist()}\n`);
+  });
 
   [
     selectors.candidateSearch,
