@@ -7,6 +7,8 @@ const sourceLeads = window.MEPP_SOURCE_LEADS || [];
 const sourceCandidates = window.MEPP_SOURCE_CANDIDATES || [];
 
 const REVIEW_STORAGE_KEY = "bush41-mepp-reviewed-records";
+const NOTES_STORAGE_KEY = "bush41-mepp-compiler-notes";
+const VOLUME_TITLE = "Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Israeli Dispute";
 
 const CHAPTER_INFO = {
   "Israel Track": {
@@ -97,7 +99,12 @@ const selectors = {
   exportGaps: document.querySelector("#export-gaps-csv"),
   reviewRoot: document.querySelector("#review-root"),
   openReviewCount: document.querySelector("#open-review-count"),
-  reviewedListSummary: document.querySelector("#reviewed-list-summary")
+  reviewedListSummary: document.querySelector("#reviewed-list-summary"),
+  compilerNotes: document.querySelector("#compiler-notes"),
+  notesStatus: document.querySelector("#notes-status"),
+  copyVolumeTitle: document.querySelector("#copy-volume-title"),
+  copyDatasetJson: document.querySelector("#copy-dataset-json"),
+  downloadDatasetJson: document.querySelector("#download-dataset-json")
 };
 
 let reviewedRecords = new Set(readReviewedRecords());
@@ -121,6 +128,23 @@ function readReviewedRecords() {
 
 function saveReviewedRecords() {
   localStorage.setItem(REVIEW_STORAGE_KEY, JSON.stringify([...reviewedRecords]));
+}
+
+function readLocalValue(key) {
+  try {
+    return localStorage.getItem(key) || "";
+  } catch {
+    return "";
+  }
+}
+
+function saveLocalValue(key, value) {
+  try {
+    localStorage.setItem(key, value);
+    return true;
+  } catch {
+    return false;
+  }
 }
 
 function escapeHtml(value) {
@@ -950,6 +974,47 @@ function exportRows(filename, rows) {
   URL.revokeObjectURL(url);
 }
 
+function downloadTextFile(filename, value, type = "text/plain;charset=utf-8") {
+  const blob = new Blob([value], { type });
+  const url = URL.createObjectURL(blob);
+  const link = document.createElement("a");
+  link.href = url;
+  link.download = filename;
+  link.click();
+  URL.revokeObjectURL(url);
+}
+
+function buildDatasetExport() {
+  return {
+    title: VOLUME_TITLE,
+    frusUrl: "https://history.state.gov/historicaldocuments/frus1989-92v14",
+    liveSiteUrl: "https://therealjameswilson.github.io/Bush41-MEPP/",
+    exportedAt: new Date().toISOString(),
+    stats: {
+      records: records.length,
+      publicStatements: publicStatements.length,
+      persons: persons.length,
+      events: events.length,
+      compilerGaps: compilerGaps.length,
+      sourceLeads: sourceLeads.length,
+      sourceCandidates: sourceCandidates.length,
+      pages: records.reduce((sum, record) => sum + (Number(record.pageCount) || 0), 0),
+      sourceSupport: sourceSupportCounts()
+    },
+    records,
+    publicStatements,
+    persons,
+    events,
+    compilerGaps,
+    sourceLeads,
+    sourceCandidates
+  };
+}
+
+function datasetExportJson() {
+  return JSON.stringify(buildDatasetExport(), null, 2);
+}
+
 function exportVisibleRecords() {
   exportRows("bush41-mepp-visible-records.csv", [
     [
@@ -1154,6 +1219,22 @@ async function copyText(value, trigger) {
   }
 }
 
+function initCompilerDesk() {
+  if (selectors.compilerNotes) {
+    selectors.compilerNotes.value = readLocalValue(NOTES_STORAGE_KEY);
+    selectors.compilerNotes.addEventListener("input", () => {
+      const saved = saveLocalValue(NOTES_STORAGE_KEY, selectors.compilerNotes.value);
+      if (selectors.notesStatus) selectors.notesStatus.textContent = saved ? "Notes saved locally." : "Unable to save notes locally.";
+    });
+  }
+
+  selectors.copyVolumeTitle?.addEventListener("click", () => copyText(VOLUME_TITLE, selectors.copyVolumeTitle));
+  selectors.copyDatasetJson?.addEventListener("click", () => copyText(datasetExportJson(), selectors.copyDatasetJson));
+  selectors.downloadDatasetJson?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-dataset.json", `${datasetExportJson()}\n`, "application/json;charset=utf-8");
+  });
+}
+
 function bindEvents() {
   [
     selectors.searchInput,
@@ -1240,6 +1321,7 @@ function bindEvents() {
 }
 
 function init() {
+  initCompilerDesk();
   initOptions();
   renderStats();
   renderChapterGrid();

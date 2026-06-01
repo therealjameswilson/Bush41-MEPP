@@ -185,6 +185,13 @@ h3 {
   margin-top: 24px;
 }
 
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: 8px;
+}
+
 .button,
 .small-button,
 button {
@@ -862,6 +869,35 @@ select:focus {
   border-left: 5px solid var(--blue);
 }
 
+.desk-section {
+  display: grid;
+  gap: 12px;
+}
+
+.note-area {
+  width: 100%;
+  min-height: 210px;
+  padding: 14px;
+  color: var(--ink);
+  font: inherit;
+  line-height: 1.5;
+  resize: vertical;
+  background: #fbfcf8;
+  border: 1px solid var(--line);
+  border-radius: 7px;
+}
+
+.note-area:focus {
+  outline: 3px solid rgba(31, 94, 74, 0.18);
+  border-color: var(--green);
+}
+
+.notes-status {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.88rem;
+}
+
 code {
   padding: 2px 5px;
   color: #24444d;
@@ -883,6 +919,10 @@ code {
   }
 
   nav {
+    justify-content: flex-start;
+  }
+
+  .button-row {
     justify-content: flex-start;
   }
 

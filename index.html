@@ -28,6 +28,7 @@
         <a href="#gaps">Gaps</a>
         <a href="#review">Review</a>
         <a href="#ingest">Ingest</a>
+        <a href="#desk">Desk</a>
       </nav>
     </header>
 
@@ -427,6 +428,26 @@
             <p>Primary anchors: the <a href="https://history.state.gov/historicaldocuments/frus1989-92v14" rel="noreferrer">FRUS Volume XIV page</a>, NARA Catalog, GovInfo Public Papers, and George H.W. Bush Library declassified PDFs.</p>
           </article>
         </div>
+      </section>
+
+      <section class="section desk-section" id="desk" aria-labelledby="desk-title">
+        <div class="section-heading">
+          <div>
+            <p class="kicker">Compiler Desk</p>
+            <h2 id="desk-title">Local Working Notes and Dataset Export</h2>
+          </div>
+          <div class="button-row">
+            <button id="copy-volume-title" type="button" class="small-button">Copy title</button>
+            <button id="copy-dataset-json" type="button" class="small-button">Copy dataset JSON</button>
+            <button id="download-dataset-json" type="button" class="small-button">Download dataset JSON</button>
+          </div>
+        </div>
+        <textarea
+          id="compiler-notes"
+          class="note-area"
+          placeholder="Draft pull notes, search strings, unresolved source questions, file requests, and next actions. Saved locally in this browser."
+        ></textarea>
+        <p id="notes-status" class="notes-status">Notes are saved locally in this browser.</p>
       </section>
     </main>
 
