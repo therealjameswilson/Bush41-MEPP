@@ -80,6 +80,9 @@ const selectors = {
   downloadRecordPackets: document.querySelector("#download-record-packets"),
   supportSummary: document.querySelector("#support-summary"),
   actionDashboard: document.querySelector("#action-dashboard"),
+  coverageMatrix: document.querySelector("#coverage-matrix"),
+  copyCoverageSummary: document.querySelector("#copy-coverage-summary"),
+  downloadCoverageSummary: document.querySelector("#download-coverage-summary"),
   chapterGrid: document.querySelector("#chapter-grid"),
   eventsRoot: document.querySelector("#events-root"),
   personsRoot: document.querySelector("#persons-root"),
@@ -569,6 +572,7 @@ function renderRecords() {
     : `<p class="empty-state">No presidential records match the current filters.</p>`;
   renderSupportSummary();
   renderActionDashboard();
+  renderCoverageMatrix();
 }
 
 function renderSupportSummary() {
@@ -678,6 +682,106 @@ function renderActionDashboard() {
       `
     )
     .join("");
+}
+
+function coverageRows() {
+  const statementCounts = publicStatements.reduce((counts, statement) => {
+    const name = statement.chapter?.name || "Unassigned";
+    counts[name] = (counts[name] || 0) + 1;
+    return counts;
+  }, {});
+  const candidateCounts = sourceCandidates.reduce((counts, candidate) => {
+    const name = candidate.chapter || "Unassigned";
+    counts[name] = (counts[name] || 0) + 1;
+    return counts;
+  }, {});
+
+  return chapterNames().map((name) => {
+    const chapterRecords = records.filter((record) => record.chapter?.name === name);
+    const anchorHighRecords = chapterRecords.filter(isAnchorOrHigh);
+    const linkedSourceRecords = chapterRecords.filter((record) => linkedSourceCandidatesForRecord(record).length);
+    const unsupportedAnchorHigh = anchorHighRecords.filter((record) => !linkedSourceCandidatesForRecord(record).length).length;
+    const noPublicAnchorHigh = anchorHighRecords.filter((record) => !record.publicChronologyLinks?.length).length;
+    const undecidedAnchorHigh = anchorHighRecords.filter((record) => !recordDecision(record)).length;
+    const openReviewAnchorHigh = anchorHighRecords.filter((record) => !reviewedRecords.has(record.id)).length;
+    const highDigitalUnlinked = sourceCandidates.filter(
+      (candidate) =>
+        candidate.chapter === name && candidate.priority === "High" && candidateHasDigitalObject(candidate) && !candidate.relatedRecordIds?.length
+    ).length;
+    const riskScore = unsupportedAnchorHigh + noPublicAnchorHigh + undecidedAnchorHigh + openReviewAnchorHigh + highDigitalUnlinked;
+
+    return {
+      name,
+      number: CHAPTER_INFO[name]?.number || 99,
+      short: CHAPTER_INFO[name]?.short || name,
+      records: chapterRecords.length,
+      anchorHigh: anchorHighRecords.length,
+      linkedSourceRecords: linkedSourceRecords.length,
+      dailyDiaryRecords: chapterRecords.filter(hasDailyDiaryCandidate).length,
+      publicRefs: statementCounts[name] || 0,
+      sourceCandidates: candidateCounts[name] || 0,
+      unsupportedAnchorHigh,
+      noPublicAnchorHigh,
+      undecidedAnchorHigh,
+      openReviewAnchorHigh,
+      highDigitalUnlinked,
+      riskScore
+    };
+  });
+}
+
+function formatCoverageRatio(count, total) {
+  if (!total) return "0 / 0";
+  return `${Number(count).toLocaleString()} / ${Number(total).toLocaleString()}`;
+}
+
+function renderCoverageMatrix() {
+  if (!selectors.coverageMatrix) return;
+  const rows = coverageRows();
+  selectors.coverageMatrix.innerHTML = `
+    <table>
+      <thead>
+        <tr>
+          <th scope="col">Track</th>
+          <th scope="col">Records</th>
+          <th scope="col">Anchor/High</th>
+          <th scope="col">Source gaps</th>
+          <th scope="col">Public gaps</th>
+          <th scope="col">Undecided</th>
+          <th scope="col">Open review</th>
+          <th scope="col">Candidate pool</th>
+          <th scope="col">Risk</th>
+          <th scope="col">Open</th>
+        </tr>
+      </thead>
+      <tbody>
+        ${rows
+          .map(
+            (row) => `
+              <tr>
+                <th scope="row">
+                  <span class="matrix-track">Track ${escapeHtml(row.number)}: ${escapeHtml(row.short)}</span>
+                  <span class="matrix-subtext">${escapeHtml(row.name)}</span>
+                </th>
+                <td>${row.records.toLocaleString()}</td>
+                <td>${row.anchorHigh.toLocaleString()}</td>
+                <td>${formatCoverageRatio(row.unsupportedAnchorHigh, row.anchorHigh)}</td>
+                <td>${formatCoverageRatio(row.noPublicAnchorHigh, row.anchorHigh)}</td>
+                <td>${formatCoverageRatio(row.undecidedAnchorHigh, row.anchorHigh)}</td>
+                <td>${formatCoverageRatio(row.openReviewAnchorHigh, row.anchorHigh)}</td>
+                <td>
+                  ${row.sourceCandidates.toLocaleString()}
+                  <span class="matrix-subtext">${row.highDigitalUnlinked.toLocaleString()} high digital unlinked</span>
+                </td>
+                <td><span class="risk-badge">${row.riskScore.toLocaleString()}</span></td>
+                <td><button type="button" data-coverage-track="${escapeHtml(row.name)}">Track</button></td>
+              </tr>
+            `
+          )
+          .join("")}
+      </tbody>
+    </table>
+  `;
 }
 
 function renderRecordCard(record) {
@@ -1573,6 +1677,27 @@ function packetBundle(title, items, renderPacket) {
   ]);
 }
 
+function coverageSummaryLine(row, index) {
+  return compactList([
+    `${index + 1}. Track ${row.number}: ${row.short}`,
+    `Records: ${row.records.toLocaleString()}; Anchor/High: ${row.anchorHigh.toLocaleString()}; Public refs: ${row.publicRefs.toLocaleString()}; Source candidates: ${row.sourceCandidates.toLocaleString()}`,
+    `Weak spots: ${row.unsupportedAnchorHigh.toLocaleString()} Anchor/High without linked source candidates; ${row.noPublicAnchorHigh.toLocaleString()} Anchor/High without public chronology; ${row.undecidedAnchorHigh.toLocaleString()} Anchor/High undecided locally; ${row.openReviewAnchorHigh.toLocaleString()} Anchor/High open review`,
+    `Source pool: ${row.linkedSourceRecords.toLocaleString()} records with linked candidates; ${row.dailyDiaryRecords.toLocaleString()} Daily Diary/Backup links; ${row.highDigitalUnlinked.toLocaleString()} high digital candidates not linked to FRUS records`,
+    `Risk score: ${row.riskScore.toLocaleString()}`
+  ]);
+}
+
+function buildCoverageSummary() {
+  const rows = coverageRows();
+  return packetLines([
+    "FRUS MEPP Track Coverage Summary",
+    `Generated: ${new Date().toISOString()}`,
+    `Live site: https://therealjameswilson.github.io/Bush41-MEPP/`,
+    "",
+    rows.map(coverageSummaryLine).join("\n\n")
+  ]);
+}
+
 function compareRecordsForWorklist(a, b) {
   const valueRank = { Anchor: 0, High: 1, Context: 2 };
   return (
@@ -1998,6 +2123,10 @@ function bindEvents() {
   selectors.downloadRecordSourceNotes?.addEventListener("click", () => {
     downloadTextFile("bush41-mepp-visible-record-source-notes.txt", `${buildRecordSourceNoteRegister()}\n`);
   });
+  selectors.copyCoverageSummary?.addEventListener("click", () => copyText(buildCoverageSummary(), selectors.copyCoverageSummary));
+  selectors.downloadCoverageSummary?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-track-coverage-summary.txt", `${buildCoverageSummary()}\n`);
+  });
   selectors.copyRecordPackets?.addEventListener("click", () => copyText(visibleRecordPacketsText(), selectors.copyRecordPackets));
   selectors.downloadRecordPackets?.addEventListener("click", () => {
     downloadTextFile("bush41-mepp-visible-record-packets.txt", `${visibleRecordPacketsText()}\n`);
@@ -2057,6 +2186,16 @@ function bindEvents() {
     const actionQueue = event.target.closest("[data-action-queue]");
     if (actionQueue) {
       applyActionQueue(actionQueue.dataset.actionQueue);
+      return;
+    }
+
+    const coverageTrack = event.target.closest("[data-coverage-track]");
+    if (coverageTrack) {
+      resetRecordFilters();
+      selectors.chapterFilter.value = coverageTrack.dataset.coverageTrack;
+      selectors.sortRecords.value = "chapter-date";
+      renderRecords();
+      scrollToSection("#records");
       return;
     }
 

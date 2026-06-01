@@ -33,6 +33,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Princeton James A. Baker III Papers candidates from the MC197 EAD finding aid
 - Source-candidate review metadata, including page/image counts where practical and explicit large-PDF/manual-review flags
 - Source-support summary cards in the opening chronology for linked candidates, Daily Diary/Backup corroboration, public chronology links, and unsupported records
+- Track coverage matrix and exportable coverage summary for source-support, public-crosswalk, undecided-selection, and review-risk triage
 - FRUS-style source note generation and audit checks for presidential records and source candidates
 - GitHub Actions validation and GitHub Pages deployment workflow
 - Reproducible harvest scripts and JSON/JS data bundles for GitHub Pages
