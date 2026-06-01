@@ -88,6 +88,9 @@ const selectors = {
   candidateChapter: document.querySelector("#candidate-chapter"),
   candidatePriority: document.querySelector("#candidate-priority"),
   candidateLevel: document.querySelector("#candidate-level"),
+  candidateLaneGroup: document.querySelector("#candidate-lane-group"),
+  candidateLinkage: document.querySelector("#candidate-linkage"),
+  candidateAccess: document.querySelector("#candidate-access"),
   candidateCount: document.querySelector("#candidate-count"),
   resetSourceCandidates: document.querySelector("#reset-source-candidates"),
   exportSourceCandidates: document.querySelector("#export-source-candidates-csv"),
@@ -116,6 +119,7 @@ let visibleSourceCandidates = [];
 
 const recordById = new Map(records.map((record) => [record.id, record]));
 const statementById = new Map(publicStatements.map((statement) => [statement.id, statement]));
+const sourceCandidateById = new Map(sourceCandidates.map((candidate) => [candidate.id, candidate]));
 const sourceCandidatesByRecordId = buildSourceCandidatesByRecordId();
 
 function readReviewedRecords() {
@@ -221,6 +225,26 @@ function hasDailyDiaryCandidate(record) {
   return linkedSourceCandidatesForRecord(record).some((candidate) => candidate.lane === "Presidential Daily Diary/Backup");
 }
 
+function candidateLaneGroup(candidate) {
+  const lane = normalize(candidate.lane);
+  const repository = normalize(candidate.repository);
+  const series = normalize(candidate.sourceSeries);
+  if (lane.includes("daily diary") || series.includes("daily diary")) return "Presidential Daily Diary/Backup";
+  if (lane.includes("baker princeton") || repository.includes("princeton")) return "Baker Princeton Papers";
+  if (lane.includes("haass") || series.includes("haass")) return "Richard Haass Files";
+  if (lane.includes("state/baker/ross")) return "State/Baker/Ross Leads";
+  if (lane.includes("nsc") || lane.includes("whorm") || lane.includes("briefing books")) return "NSC/WHORM/Briefing Leads";
+  if (repository.includes("bush library") || repository.includes("national archives")) return "Bush Library/NARA Leads";
+  if (lane.includes("israel") || lane.includes("palestinian") || lane.includes("syria") || lane.includes("egypt") || lane.includes("madrid")) {
+    return "Track Issue Leads";
+  }
+  return "Other Source Leads";
+}
+
+function candidateHasDigitalObject(candidate) {
+  return Boolean(candidate.digitalObjectUrl || candidate.hasDigitalObject);
+}
+
 function sourceSupportCounts(items = records) {
   return items.reduce(
     (counts, record) => {
@@ -323,6 +347,7 @@ function sourceCandidateSearchText(candidate) {
     candidate.sourceSeries,
     candidate.collection,
     candidate.localIdentifier,
+    candidateLaneGroup(candidate),
     candidate.scopeAndContentNote,
     candidate.reason,
     candidate.sourceNote,
@@ -760,6 +785,9 @@ function renderSourceCandidates() {
   const chapter = selectors.candidateChapter?.value || "";
   const priority = selectors.candidatePriority?.value || "";
   const level = selectors.candidateLevel?.value || "";
+  const laneGroup = selectors.candidateLaneGroup?.value || "";
+  const linkage = selectors.candidateLinkage?.value || "";
+  const access = selectors.candidateAccess?.value || "";
   const priorityRank = { High: 0, Medium: 1, Review: 2 };
   visibleSourceCandidates = sourceCandidates
     .filter((candidate) => {
@@ -767,6 +795,11 @@ function renderSourceCandidates() {
       if (chapter && candidate.chapter !== chapter) return false;
       if (priority && candidate.priority !== priority) return false;
       if (level && candidate.level !== level) return false;
+      if (laneGroup && candidateLaneGroup(candidate) !== laneGroup) return false;
+      if (linkage === "linked" && !candidate.relatedRecordIds?.length) return false;
+      if (linkage === "unlinked" && candidate.relatedRecordIds?.length) return false;
+      if (access === "digital" && !candidateHasDigitalObject(candidate)) return false;
+      if (access === "no-digital" && candidateHasDigitalObject(candidate)) return false;
       return true;
     })
     .sort(
@@ -790,6 +823,7 @@ function renderSourceCandidateCard(candidate) {
       <p>${escapeHtml(candidate.reason || "")}</p>
       <div class="tag-list">
         <span class="pill">${escapeHtml(candidate.chapter || "Unassigned")}</span>
+        <span class="pill">${escapeHtml(candidateLaneGroup(candidate))}</span>
         <span class="pill">${escapeHtml(candidate.lane || "Source lane")}</span>
         ${candidate.documentType ? `<span class="pill">${escapeHtml(candidate.documentType)}</span>` : ""}
         ${candidate.hasDigitalObject ? `<span class="pill">digital object</span>` : ""}
@@ -817,8 +851,10 @@ function renderSourceCandidateCard(candidate) {
           ? `<div class="note-box"><h4>Related FRUS Meetings/Calls</h4><ul class="note-list">${candidate.relatedRecords
               .slice(0, 8)
               .map(
-                (record) =>
-                  `<li>${escapeHtml([record.date, record.title, record.chapter].filter(Boolean).join(" - "))}</li>`
+                (record) => {
+                  const label = escapeHtml([record.date, record.title, record.chapter].filter(Boolean).join(" - "));
+                  return record.id ? `<li><a href="#${escapeHtml(record.id)}">${label}</a></li>` : `<li>${label}</li>`;
+                }
               )
               .join("")}</ul></div>`
           : ""
@@ -827,6 +863,8 @@ function renderSourceCandidateCard(candidate) {
       <div class="record-links">
         <a href="${escapeHtml(candidate.catalogUrl)}" rel="noreferrer">Catalog</a>
         ${candidate.digitalObjectUrl ? `<a href="${escapeHtml(candidate.digitalObjectUrl)}" rel="noreferrer">Digital object</a>` : ""}
+        <button type="button" data-copy-candidate-note="${escapeHtml(candidate.id)}">Copy source note</button>
+        <button type="button" data-copy-candidate-packet="${escapeHtml(candidate.id)}">Copy packet</button>
       </div>
     </article>
   `;
@@ -921,6 +959,7 @@ function initOptions() {
   setOptions(selectors.candidateChapter, chapterNames(), "All tracks");
   setOptions(selectors.candidatePriority, uniqueValues(sourceCandidates, (candidate) => candidate.priority), "All priorities");
   setOptions(selectors.candidateLevel, uniqueValues(sourceCandidates, (candidate) => candidate.level), "All levels");
+  setOptions(selectors.candidateLaneGroup, uniqueValues(sourceCandidates, candidateLaneGroup), "All lane groups");
   setOptions(selectors.gapPriority, uniqueValues(compilerGaps, (gap) => gap.priority), "All priorities");
   setOptions(selectors.gapCategory, uniqueValues(compilerGaps, (gap) => gap.category), "All categories");
 }
@@ -951,7 +990,15 @@ function resetStatementFilters() {
 }
 
 function resetSourceCandidateFilters() {
-  [selectors.candidateSearch, selectors.candidateChapter, selectors.candidatePriority, selectors.candidateLevel].forEach((control) => {
+  [
+    selectors.candidateSearch,
+    selectors.candidateChapter,
+    selectors.candidatePriority,
+    selectors.candidateLevel,
+    selectors.candidateLaneGroup,
+    selectors.candidateLinkage,
+    selectors.candidateAccess
+  ].forEach((control) => {
     if (control) control.value = "";
   });
   renderSourceCandidates();
@@ -1086,6 +1133,7 @@ function exportVisibleSourceCandidates() {
     [
       "priority",
       "track",
+      "lane_group",
       "lane",
       "level",
       "title",
@@ -1095,6 +1143,8 @@ function exportVisibleSourceCandidates() {
       "repository",
       "catalog_url",
       "digital_object_url",
+      "linkage",
+      "digital_object_status",
       "source_note",
       "evidence_snippets",
       "related_frus_records",
@@ -1103,6 +1153,7 @@ function exportVisibleSourceCandidates() {
     ...visibleSourceCandidates.map((candidate) => [
       candidate.priority,
       candidate.chapter,
+      candidateLaneGroup(candidate),
       candidate.lane,
       candidate.level,
       candidate.title,
@@ -1112,6 +1163,8 @@ function exportVisibleSourceCandidates() {
       candidate.repository,
       candidate.catalogUrl,
       candidate.digitalObjectUrl,
+      candidate.relatedRecordIds?.length ? "linked" : "unlinked",
+      candidateHasDigitalObject(candidate) ? "digital object" : "no digital object",
       candidate.sourceNote,
       (candidate.evidenceSnippets || []).join(" ... "),
       (candidate.relatedRecordTitles || []).join("; "),
@@ -1144,6 +1197,54 @@ function sourceCandidatePacketLine(candidate, index) {
     candidate.evidenceSnippets?.length ? `Evidence: ${candidate.evidenceSnippets.slice(0, 2).join(" / ")}` : ""
   ];
   return compactList(parts);
+}
+
+function buildSourceCandidateCompilerPacket(candidate) {
+  return packetLines([
+    "FRUS Source Candidate Packet",
+    candidate.title,
+    `${candidate.priority || "Priority pending"} | ${candidate.level || "Catalog level pending"} | ${candidate.chapter || "Unassigned track"}`,
+    `Lane group: ${candidateLaneGroup(candidate)}`,
+    candidate.lane ? `Lane: ${candidate.lane}` : "",
+    candidate.naid ? `NAID: ${candidate.naid}` : "",
+    candidate.externalId ? `External ID: ${candidate.externalId}` : "",
+    candidate.date ? `Date: ${candidate.date}` : "",
+    "",
+    "Why this may matter:",
+    candidate.reason || "Reason pending.",
+    "",
+    "Source note draft:",
+    candidate.sourceNote || "Source note pending.",
+    "",
+    "Catalog context:",
+    [candidate.repository, candidate.collection, candidate.sourceSeries, candidate.localIdentifier].filter(Boolean).join(", ") ||
+      "Catalog context pending.",
+    "",
+    "Links:",
+    candidate.catalogUrl ? `Catalog: ${candidate.catalogUrl}` : "",
+    candidate.digitalObjectUrl ? `Digital object: ${candidate.digitalObjectUrl}` : "Digital object: not currently linked",
+    "",
+    candidate.scopeAndContentNote ? "Scope note:" : "",
+    candidate.scopeAndContentNote || "",
+    candidate.evidenceSnippets?.length ? "" : "",
+    candidate.evidenceSnippets?.length ? "Evidence snippets:" : "",
+    ...(candidate.evidenceSnippets || []).slice(0, 6).map((snippet, index) => `${index + 1}. ${snippet}`),
+    candidate.evidenceSnippets?.length > 6 ? `${candidate.evidenceSnippets.length - 6} more snippets on the candidate card/data export.` : "",
+    "",
+    candidate.relatedRecords?.length ? "Related FRUS meetings/calls:" : "Related FRUS meetings/calls: None linked yet.",
+    ...(candidate.relatedRecords || []).slice(0, 10).map((record, index) =>
+      `${index + 1}. ${[record.date, record.title, record.chapter].filter(Boolean).join(" - ")}${record.catalogUrl ? ` (${record.catalogUrl})` : ""}`
+    ),
+    candidate.relatedRecords?.length > 10 ? `${candidate.relatedRecords.length - 10} more related records in the data export.` : "",
+    "",
+    "Review metadata:",
+    sourceCandidateReviewSummary(candidate),
+    "",
+    "Verification checklist:",
+    "- Open the catalog record and digital object, if present.",
+    "- Confirm date, folder title, series, container/local identifier, classification, and review markings.",
+    "- Compare against linked presidential meetings/calls and public chronology entries before selecting for annotation or source-note support."
+  ]);
 }
 
 function buildRecordCompilerPacket(record) {
@@ -1263,9 +1364,15 @@ function bindEvents() {
   [selectors.gapSearch, selectors.gapPriority, selectors.gapCategory].forEach((control) => control?.addEventListener("input", renderGaps));
   selectors.exportGaps?.addEventListener("click", exportVisibleGaps);
 
-  [selectors.candidateSearch, selectors.candidateChapter, selectors.candidatePriority, selectors.candidateLevel].forEach((control) =>
-    control?.addEventListener("input", renderSourceCandidates)
-  );
+  [
+    selectors.candidateSearch,
+    selectors.candidateChapter,
+    selectors.candidatePriority,
+    selectors.candidateLevel,
+    selectors.candidateLaneGroup,
+    selectors.candidateLinkage,
+    selectors.candidateAccess
+  ].forEach((control) => control?.addEventListener("input", renderSourceCandidates));
   selectors.resetSourceCandidates?.addEventListener("click", resetSourceCandidateFilters);
   selectors.exportSourceCandidates?.addEventListener("click", exportVisibleSourceCandidates);
 
@@ -1309,6 +1416,20 @@ function bindEvents() {
     if (copyRecordPacketButton) {
       const record = recordById.get(copyRecordPacketButton.dataset.copyRecordPacket);
       if (record) copyText(buildRecordCompilerPacket(record), copyRecordPacketButton);
+      return;
+    }
+
+    const copyCandidateNoteButton = event.target.closest("[data-copy-candidate-note]");
+    if (copyCandidateNoteButton) {
+      const candidate = sourceCandidateById.get(copyCandidateNoteButton.dataset.copyCandidateNote);
+      if (candidate) copyText(candidate.sourceNote || "", copyCandidateNoteButton);
+      return;
+    }
+
+    const copyCandidatePacketButton = event.target.closest("[data-copy-candidate-packet]");
+    if (copyCandidatePacketButton) {
+      const candidate = sourceCandidateById.get(copyCandidatePacketButton.dataset.copyCandidatePacket);
+      if (candidate) copyText(buildSourceCandidateCompilerPacket(candidate), copyCandidatePacketButton);
       return;
     }
 

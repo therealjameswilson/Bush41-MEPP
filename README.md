@@ -13,6 +13,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Track-based arrangement for Israel, Palestinian/Jordanian, Syria/Lebanon, Egypt/Arab regional, and Madrid/multilateral materials
 - Search, filters, local review state, source-note and compiler-packet copy buttons, and CSV export
 - Local working notes saved in the browser, plus full dataset copy/download as JSON
+- Source-candidate triage by lane group, linkage to presidential meetings/calls, and digital-object status, with copyable candidate packets
 - Persons list, event dossiers, source-series leads, and a compiler gap register
 - PDF page-count/review-marker enrichment for the current presidential corpus
 - Date/track/term-based public/private chronology linkage
