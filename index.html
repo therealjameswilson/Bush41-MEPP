@@ -383,7 +383,10 @@
             <p class="kicker">Editorial Front Matter</p>
             <h2 id="persons-title">Persons</h2>
           </div>
-          <button id="export-persons-csv" type="button" class="small-button">Export persons CSV</button>
+          <div class="button-row">
+            <button id="copy-person-view-link" type="button" class="small-button">Copy person view link</button>
+            <button id="export-persons-csv" type="button" class="small-button">Export persons CSV</button>
+          </div>
         </div>
         <div class="mini-tools">
           <label>
@@ -665,7 +668,7 @@
     <script src="data/compiler-gaps.js"></script>
     <script src="data/source-leads.js"></script>
     <script src="data/source-candidates.js"></script>
-    <script src="app.js?v=20260602-gap-view"></script>
+    <script src="app.js?v=20260602-person-view"></script>
     <script id="compiler-network-script">
       (() => {
         const button = document.querySelector("[data-compiler-handoff]");

@@ -102,6 +102,7 @@ const selectors = {
   personSearch: document.querySelector("#person-search"),
   personChapter: document.querySelector("#person-chapter"),
   personCount: document.querySelector("#person-count"),
+  copyPersonViewLink: document.querySelector("#copy-person-view-link"),
   exportPersons: document.querySelector("#export-persons-csv"),
   statementsRoot: document.querySelector("#statements-root"),
   statementSearch: document.querySelector("#statement-search"),
@@ -1528,6 +1529,34 @@ function buildStatementViewUrl() {
     if (value) base.searchParams.set(param, value);
   }
   base.hash = "statements";
+  return base.toString();
+}
+
+const PERSON_VIEW_PARAMS = [
+  ["personq", "personSearch"],
+  ["persontrack", "personChapter"]
+];
+
+function applyPersonViewFromUrl() {
+  if (!window.location?.search) return false;
+  const params = new URLSearchParams(window.location.search);
+  let applied = false;
+  for (const [param, selectorName] of PERSON_VIEW_PARAMS) {
+    const control = selectors[selectorName];
+    if (!control || !params.has(param)) continue;
+    control.value = params.get(param) || "";
+    applied = true;
+  }
+  return applied;
+}
+
+function buildPersonViewUrl() {
+  const base = new URL(window.location?.pathname || "/", window.location?.origin || "https://therealjameswilson.github.io");
+  for (const [param, selectorName] of PERSON_VIEW_PARAMS) {
+    const value = selectors[selectorName]?.value || "";
+    if (value) base.searchParams.set(param, value);
+  }
+  base.hash = "persons";
   return base.toString();
 }
 
@@ -3228,6 +3257,7 @@ function bindEvents() {
   selectors.exportStatements?.addEventListener("click", exportVisibleStatements);
 
   [selectors.personSearch, selectors.personChapter].forEach((control) => control?.addEventListener("input", renderPersons));
+  selectors.copyPersonViewLink?.addEventListener("click", () => copyText(buildPersonViewUrl(), selectors.copyPersonViewLink));
   selectors.exportPersons?.addEventListener("click", exportVisiblePersons);
 
   [selectors.gapSearch, selectors.gapPriority, selectors.gapCategory].forEach((control) => control?.addEventListener("input", renderGaps));
@@ -3399,6 +3429,7 @@ function init() {
   applyRecordViewFromUrl();
   applySourceCandidateViewFromUrl();
   applyStatementViewFromUrl();
+  applyPersonViewFromUrl();
   applyGapViewFromUrl();
   renderStats();
   renderChapterGrid();
