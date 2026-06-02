@@ -76,6 +76,8 @@ const selectors = {
   exportCsv: document.querySelector("#export-csv"),
   copyRecordSourceNotes: document.querySelector("#copy-record-source-notes"),
   downloadRecordSourceNotes: document.querySelector("#download-record-source-notes"),
+  copyMeetingCrosswalk: document.querySelector("#copy-meeting-crosswalk"),
+  downloadMeetingCrosswalk: document.querySelector("#download-meeting-crosswalk"),
   copyRecordPackets: document.querySelector("#copy-record-packets"),
   downloadRecordPackets: document.querySelector("#download-record-packets"),
   supportSummary: document.querySelector("#support-summary"),
@@ -1975,6 +1977,63 @@ function buildRecordSourceNoteRegister() {
   ]);
 }
 
+function crosswalkCandidateLine(candidate, index) {
+  return `${index + 1}. ${[candidate.title, candidate.lane, candidate.sourceSeries, candidate.localIdentifier].filter(Boolean).join(" | ")}${
+    candidate.catalogUrl ? ` (${candidate.catalogUrl})` : ""
+  }`;
+}
+
+function publicChronologyLine(link, index) {
+  return `${index + 1}. ${formatDate(link.date)} - ${link.title}${link.pdfPageUrl ? ` (${link.pdfPageUrl})` : ""}`;
+}
+
+function meetingCrosswalkRecordLine(record, index) {
+  const relatedSourceCandidates = linkedSourceCandidatesForRecord(record);
+  const diaryCandidates = relatedSourceCandidates.filter((candidate) => candidate.lane === "Presidential Daily Diary/Backup");
+  const nonDiaryCandidates = relatedSourceCandidates.filter((candidate) => candidate.lane !== "Presidential Daily Diary/Backup");
+  const publicChronologyLinks = record.publicChronologyLinks || [];
+  const gaps = [
+    diaryCandidates.length ? "" : "No Daily Diary/Backup candidate linked",
+    publicChronologyLinks.length ? "" : "No public chronology link",
+    relatedSourceCandidates.length ? "" : "No source candidates linked"
+  ].filter(Boolean);
+
+  return compactList([
+    `${index + 1}. ${formatDate(record.date)} - ${record.title}`,
+    [record.selectionValue, RECORD_DECISION_LABELS[recordDecision(record)] || "Undecided", record.chapter?.name, record.documentType, `NAID ${record.naid}`]
+      .filter(Boolean)
+      .join(" | "),
+    record.compilerNote ? `Compiler note: ${record.compilerNote}` : "",
+    diaryCandidates.length ? "Daily Diary/Backup:" : "",
+    ...diaryCandidates.slice(0, 4).map(crosswalkCandidateLine),
+    diaryCandidates.length > 4 ? `${diaryCandidates.length - 4} more Daily Diary/Backup candidates on the record card.` : "",
+    publicChronologyLinks.length ? "Public chronology:" : "",
+    ...publicChronologyLinks.slice(0, 4).map(publicChronologyLine),
+    publicChronologyLinks.length > 4 ? `${publicChronologyLinks.length - 4} more public chronology links on the record card.` : "",
+    nonDiaryCandidates.length ? "Other source candidates:" : "",
+    ...nonDiaryCandidates.slice(0, 6).map(crosswalkCandidateLine),
+    nonDiaryCandidates.length > 6 ? `${nonDiaryCandidates.length - 6} more source candidates on the record card.` : "",
+    gaps.length ? `Open support gaps: ${gaps.join("; ")}` : "Open support gaps: none flagged by current crosswalk.",
+    record.pdfUrl ? `PDF: ${record.pdfUrl}` : "",
+    record.catalogUrl ? `Catalog: ${record.catalogUrl}` : ""
+  ]);
+}
+
+function buildVisibleMeetingCrosswalk() {
+  return packetLines([
+    "FRUS MEPP Visible Meeting/Call Crosswalk",
+    `Generated: ${new Date().toISOString()}`,
+    `Live site: https://therealjameswilson.github.io/Bush41-MEPP/`,
+    `Visible presidential records: ${visibleRecords.length.toLocaleString()}`,
+    "",
+    "Compiler use:",
+    "- Compare each declassified presidential meeting/call against Daily Diary/Backup, public chronology, and source-candidate support.",
+    "- Treat open support gaps as prompts for source-note verification or further archival pulls.",
+    "",
+    visibleRecords.length ? visibleRecords.map(meetingCrosswalkRecordLine).join("\n\n---\n\n") : "No visible presidential records."
+  ]);
+}
+
 function buildSourceCandidateSourceNoteRegister() {
   const candidateEntries = visibleSourceCandidates.map((candidate) => ({
     title: candidate.title,
@@ -2275,6 +2334,10 @@ function bindEvents() {
   selectors.copyRecordSourceNotes?.addEventListener("click", () => copyText(buildRecordSourceNoteRegister(), selectors.copyRecordSourceNotes));
   selectors.downloadRecordSourceNotes?.addEventListener("click", () => {
     downloadTextFile("bush41-mepp-visible-record-source-notes.txt", `${buildRecordSourceNoteRegister()}\n`);
+  });
+  selectors.copyMeetingCrosswalk?.addEventListener("click", () => copyText(buildVisibleMeetingCrosswalk(), selectors.copyMeetingCrosswalk));
+  selectors.downloadMeetingCrosswalk?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-visible-meeting-call-crosswalk.txt", `${buildVisibleMeetingCrosswalk()}\n`);
   });
   selectors.copyCoverageSummary?.addEventListener("click", () => copyText(buildCoverageSummary(), selectors.copyCoverageSummary));
   selectors.downloadCoverageSummary?.addEventListener("click", () => {
