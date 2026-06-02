@@ -14,6 +14,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Track-based arrangement for Israel, Palestinian/Jordanian, Syria/Lebanon, Egypt/Arab regional, and Madrid/multilateral materials
 - Search, filters, local review state, source-note and compiler-packet copy buttons, and CSV export
 - Filter-aware source-note registers for the visible chronology and source-candidate queues, with copy/download actions
+- Filter-aware meeting/call crosswalk comparing visible presidential records against Daily Diary/Backup, public chronology, and source-candidate support
 - Browser-saved record decisions for Include, Maybe, and Exclude, with filters and portable workspace-state support
 - Copy/download selection slate for browser-marked Include and Maybe records, grouped by track with source support and source-note context
 - Batch copy/download of visible chronology and source-candidate compiler packets
