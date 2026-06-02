@@ -1374,7 +1374,17 @@ function scrollToCurrentHash() {
   }
   const target = document.getElementById(id);
   if (!target) return;
-  const scroll = () => target.scrollIntoView({ block: "start" });
+  const scroll = () => {
+    const top = Math.max(0, target.getBoundingClientRect().top + (window.scrollY || window.pageYOffset || 0));
+    if (typeof window.scrollTo === "function") {
+      window.scrollTo(0, top);
+      window.scrollTo({ top, behavior: "auto" });
+    }
+    if (document.scrollingElement) document.scrollingElement.scrollTop = top;
+    document.documentElement.scrollTop = top;
+    document.body.scrollTop = top;
+    target.scrollIntoView({ block: "start" });
+  };
   scroll();
   if (typeof window.requestAnimationFrame === "function") {
     window.requestAnimationFrame(() => window.requestAnimationFrame(scroll));
@@ -1386,8 +1396,12 @@ function scrollToCurrentHash() {
 
 function scheduleCurrentHashScroll() {
   scrollToCurrentHash();
-  if (typeof window.addEventListener === "function" && document.readyState !== "complete") {
+  if (typeof window.addEventListener === "function") {
     window.addEventListener("load", scrollToCurrentHash, { once: true });
+    window.addEventListener("pageshow", scrollToCurrentHash, { once: true });
+  }
+  if (document.fonts?.ready) {
+    document.fonts.ready.then(scrollToCurrentHash).catch(() => {});
   }
 }
 
