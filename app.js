@@ -111,6 +111,7 @@ const selectors = {
   sortStatements: document.querySelector("#sort-statements"),
   statementCount: document.querySelector("#statement-count"),
   resetStatements: document.querySelector("#reset-statements"),
+  copyStatementViewLink: document.querySelector("#copy-statement-view-link"),
   exportStatements: document.querySelector("#export-statements-csv"),
   sourceLeadsRoot: document.querySelector("#source-leads-root"),
   sourceCandidatesRoot: document.querySelector("#source-candidates-root"),
@@ -1467,6 +1468,37 @@ function buildSourceCandidateViewUrl() {
     if (value) base.searchParams.set(param, value);
   }
   base.hash = "source-candidates";
+  return base.toString();
+}
+
+const STATEMENT_VIEW_PARAMS = [
+  ["pq", "statementSearch"],
+  ["ptrack", "statementChapter"],
+  ["pyear", "statementYear"],
+  ["prelevance", "statementRelevance"],
+  ["psort", "sortStatements"]
+];
+
+function applyStatementViewFromUrl() {
+  if (!window.location?.search) return false;
+  const params = new URLSearchParams(window.location.search);
+  let applied = false;
+  for (const [param, selectorName] of STATEMENT_VIEW_PARAMS) {
+    const control = selectors[selectorName];
+    if (!control || !params.has(param)) continue;
+    control.value = params.get(param) || "";
+    applied = true;
+  }
+  return applied;
+}
+
+function buildStatementViewUrl() {
+  const base = new URL(window.location?.pathname || "/", window.location?.origin || "https://therealjameswilson.github.io");
+  for (const [param, selectorName] of STATEMENT_VIEW_PARAMS) {
+    const value = selectors[selectorName]?.value || "";
+    if (value) base.searchParams.set(param, value);
+  }
+  base.hash = "statements";
   return base.toString();
 }
 
@@ -3134,6 +3166,7 @@ function bindEvents() {
     (control) => control?.addEventListener("input", renderStatements)
   );
   selectors.resetStatements?.addEventListener("click", resetStatementFilters);
+  selectors.copyStatementViewLink?.addEventListener("click", () => copyText(buildStatementViewUrl(), selectors.copyStatementViewLink));
   selectors.exportStatements?.addEventListener("click", exportVisibleStatements);
 
   [selectors.personSearch, selectors.personChapter].forEach((control) => control?.addEventListener("input", renderPersons));
@@ -3306,6 +3339,7 @@ function init() {
   initOptions();
   applyRecordViewFromUrl();
   applySourceCandidateViewFromUrl();
+  applyStatementViewFromUrl();
   renderStats();
   renderChapterGrid();
   renderRecords();
