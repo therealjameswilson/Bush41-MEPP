@@ -76,6 +76,8 @@ const selectors = {
   exportCsv: document.querySelector("#export-csv"),
   copyRecordDocumentList: document.querySelector("#copy-record-document-list"),
   downloadRecordDocumentList: document.querySelector("#download-record-document-list"),
+  copyRecordAnnotationPlanner: document.querySelector("#copy-record-annotation-planner"),
+  downloadRecordAnnotationPlanner: document.querySelector("#download-record-annotation-planner"),
   copyRecordSourceNotes: document.querySelector("#copy-record-source-notes"),
   downloadRecordSourceNotes: document.querySelector("#download-record-source-notes"),
   copyMeetingCrosswalk: document.querySelector("#copy-meeting-crosswalk"),
@@ -2438,6 +2440,120 @@ function buildVisibleRecordIssueRegister() {
   ]);
 }
 
+function annotationTopicHooks(record) {
+  const terms = [
+    ...(record.matchedQueries || []),
+    ...Object.values(record.topicTerms || {}).flat(),
+    record.eventLabel,
+    ...(record.countries || [])
+  ];
+  return [...new Set(terms.filter(Boolean))].slice(0, 14);
+}
+
+function annotationPosture(record) {
+  const posture = [
+    record.selectionValue ? `${record.selectionValue} document` : "Unassigned selection value",
+    recordDecision(record) ? `locally marked ${RECORD_DECISION_LABELS[recordDecision(record)]}` : "local selection undecided",
+    linkedSourceCandidatesForRecord(record).length ? "source-candidate support available" : "source support gap",
+    hasDailyDiaryCandidate(record) ? "schedule/call corroboration available" : "schedule/call corroboration open",
+    record.publicChronologyLinks?.length ? "public-private chronology available" : "public chronology open"
+  ];
+  return posture.join("; ");
+}
+
+function annotationTaskLines(record, issueSummary) {
+  const relatedSourceCandidates = linkedSourceCandidatesForRecord(record);
+  const publicChronologyLinks = record.publicChronologyLinks || [];
+  const tasks = [
+    "Verify document date, time/place, participants, classification, distribution, drafting, attachments, and excisions against the PDF scan.",
+    record.people?.length ? `Check first-reference treatment for ${record.people.slice(0, 6).join("; ")}.` : "",
+    publicChronologyLinks.length
+      ? "Compare the private record with same-day or adjacent Public Papers material before drafting annotation text."
+      : "Search for a public statement, press guidance, or chronology entry around this date if annotation context is needed.",
+    relatedSourceCandidates.length
+      ? "Review linked source candidates for corroborating schedule, policy-process, or briefing-file evidence."
+      : "Use the source-candidate lanes to locate corroborating State, NSC, Baker, Daily Diary/Backup, or briefing-file material.",
+    annotationTopicHooks(record).length ? `Consider topical cross-references: ${annotationTopicHooks(record).slice(0, 8).join("; ")}.` : "",
+    issueSummary.issues.length ? `Resolve open issue-register prompts before treating the annotation as final: ${issueSummary.issues.slice(0, 3).join("; ")}.` : ""
+  ];
+  return tasks.filter(Boolean);
+}
+
+function annotationCandidateEvidenceLine(candidate, index) {
+  return compactList([
+    `${index + 1}. ${[candidate.title, candidateLaneGroup(candidate), candidate.priority, candidate.sourceSeries].filter(Boolean).join(" | ")}`,
+    candidate.reason ? `Use: ${candidate.reason}` : "",
+    candidate.evidenceSnippets?.length ? `Evidence: ${candidate.evidenceSnippets.slice(0, 2).join(" / ")}` : "",
+    candidate.catalogUrl ? `Catalog: ${candidate.catalogUrl}` : "",
+    candidate.digitalObjectUrl ? `Digital object: ${candidate.digitalObjectUrl}` : ""
+  ]);
+}
+
+function annotationPlannerEntry(record, index) {
+  const relatedSourceCandidates = linkedSourceCandidatesForRecord(record).slice(0, 5);
+  const publicChronologyLinks = record.publicChronologyLinks || [];
+  const topicHooks = annotationTopicHooks(record);
+  const issueSummary = visibleRecordIssueSummary(record);
+  const tasks = annotationTaskLines(record, issueSummary);
+
+  return compactList([
+    `${String(index + 1).padStart(3, "0")}. ${formatDate(record.date)} - ${record.title}`,
+    [
+      record.chapter?.name,
+      record.documentType,
+      record.selectionValue || "Unassigned value",
+      RECORD_DECISION_LABELS[recordDecision(record)] || "Undecided",
+      issueSummary.severity !== "None" ? `Issue severity: ${issueSummary.severity}` : "",
+      record.naid ? `NAID ${record.naid}` : ""
+    ]
+      .filter(Boolean)
+      .join(" | "),
+    `Annotation posture: ${annotationPosture(record)}`,
+    record.people?.length ? `People/entities to verify: ${record.people.join("; ")}` : "",
+    topicHooks.length ? `Topic hooks: ${topicHooks.join("; ")}` : "",
+    record.compilerNote ? `Compiler note: ${record.compilerNote}` : "",
+    publicChronologyLinks.length ? "Public chronology to consider:" : "Public chronology to consider: none linked yet.",
+    ...publicChronologyLinks.slice(0, 4).map(publicChronologyLine),
+    publicChronologyLinks.length > 4 ? `${publicChronologyLinks.length - 4} more public chronology links on the record card.` : "",
+    relatedSourceCandidates.length ? "Source-candidate evidence to check:" : "Source-candidate evidence to check: none linked yet.",
+    ...relatedSourceCandidates.map(annotationCandidateEvidenceLine),
+    linkedSourceCandidatesForRecord(record).length > relatedSourceCandidates.length
+      ? `${linkedSourceCandidatesForRecord(record).length - relatedSourceCandidates.length} more linked source candidates on the record card.`
+      : "",
+    "Draft annotation tasks:",
+    tasks.map((task) => `- ${task}`).join("\n"),
+    issueSummary.verificationPrompts.length ? "Verification prompts:" : "",
+    issueSummary.verificationPrompts.map((prompt) => `- ${prompt}`).join("\n"),
+    record.pdfUrl ? `PDF: ${record.pdfUrl}` : "",
+    record.catalogUrl ? `Catalog: ${record.catalogUrl}` : ""
+  ]);
+}
+
+function buildVisibleAnnotationPlanner() {
+  const anchorHighCount = visibleRecords.filter(isAnchorOrHigh).length;
+  const publicLinkedCount = visibleRecords.filter((record) => record.publicChronologyLinks?.length).length;
+  const sourceLinkedCount = visibleRecords.filter((record) => linkedSourceCandidatesForRecord(record).length).length;
+  const peopleCount = visibleRecords.filter((record) => record.people?.length).length;
+
+  return packetLines([
+    "FRUS MEPP Visible Annotation Planner",
+    `Generated: ${new Date().toISOString()}`,
+    `Live site: https://therealjameswilson.github.io/Bush41-MEPP/`,
+    `Visible presidential records: ${visibleRecords.length.toLocaleString()}`,
+    `Anchor/High visible records: ${anchorHighCount.toLocaleString()}`,
+    `Records with linked source candidates: ${sourceLinkedCount.toLocaleString()}`,
+    `Records with linked public chronology: ${publicLinkedCount.toLocaleString()}`,
+    `Records with named people/entities: ${peopleCount.toLocaleString()}`,
+    "",
+    "Compiler use:",
+    "- Use this as an annotation planning aid, not final annotation prose.",
+    "- Start from the visible filter state, then verify every hook against the PDF scan and repository context.",
+    "- Compare public chronology and linked source candidates before drafting annotation text or cross-references.",
+    "",
+    visibleRecords.length ? visibleRecords.map(annotationPlannerEntry).join("\n\n---\n\n") : "No visible presidential records."
+  ]);
+}
+
 function buildSourceCandidateSourceNoteRegister() {
   const candidateEntries = visibleSourceCandidates.map((candidate) => ({
     title: candidate.title,
@@ -2738,6 +2854,12 @@ function bindEvents() {
   selectors.copyRecordDocumentList?.addEventListener("click", () => copyText(buildVisibleDraftDocumentList(), selectors.copyRecordDocumentList));
   selectors.downloadRecordDocumentList?.addEventListener("click", () => {
     downloadTextFile("bush41-mepp-visible-draft-document-list.txt", `${buildVisibleDraftDocumentList()}\n`);
+  });
+  selectors.copyRecordAnnotationPlanner?.addEventListener("click", () =>
+    copyText(buildVisibleAnnotationPlanner(), selectors.copyRecordAnnotationPlanner)
+  );
+  selectors.downloadRecordAnnotationPlanner?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-visible-annotation-planner.txt", `${buildVisibleAnnotationPlanner()}\n`);
   });
   selectors.copyRecordSourceNotes?.addEventListener("click", () => copyText(buildRecordSourceNoteRegister(), selectors.copyRecordSourceNotes));
   selectors.downloadRecordSourceNotes?.addEventListener("click", () => {
