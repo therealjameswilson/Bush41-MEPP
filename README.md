@@ -22,6 +22,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Local working notes saved in the browser, plus full dataset copy/download as JSON
 - Portable workspace-state copy/download/import for browser-saved notes, record review state, and source-candidate triage
 - Source-candidate triage by lane group, linkage to presidential meetings/calls, and digital-object status, with copyable candidate packets
+- Filter-aware source-candidate pull list for archive requests/checklists, grouped by repository, lane, and source series
 - Browser-saved source-candidate shortlist and reviewed-state queue for multi-session compiler triage
 - Persons list, event dossiers, source-series leads, and a compiler gap register
 - PDF page-count/review-marker enrichment for the current presidential corpus

@@ -112,6 +112,8 @@ const selectors = {
   candidateCount: document.querySelector("#candidate-count"),
   resetSourceCandidates: document.querySelector("#reset-source-candidates"),
   exportSourceCandidates: document.querySelector("#export-source-candidates-csv"),
+  copySourceCandidatePullList: document.querySelector("#copy-source-candidate-pull-list"),
+  downloadSourceCandidatePullList: document.querySelector("#download-source-candidate-pull-list"),
   copySourceCandidateNotes: document.querySelector("#copy-source-candidate-notes"),
   downloadSourceCandidateNotes: document.querySelector("#download-source-candidate-notes"),
   copySourceCandidatePackets: document.querySelector("#copy-source-candidate-packets"),
@@ -1992,6 +1994,75 @@ function buildSourceCandidateSourceNoteRegister() {
   ]);
 }
 
+function pullListGroupKey(candidate) {
+  return [candidate.repository || "Repository not specified", candidateLaneGroup(candidate), candidate.sourceSeries || "Series not specified"].join(" / ");
+}
+
+function sourceCandidatePullListLine(candidate, index) {
+  const relatedRecords = candidate.relatedRecords || [];
+  const requestDetails = [
+    candidate.collection,
+    candidate.sourceSeries,
+    candidate.localIdentifier,
+    candidate.date,
+    candidate.naid ? `NAID ${candidate.naid}` : candidate.externalId
+  ].filter(Boolean);
+
+  return compactList([
+    `${index + 1}. ${candidate.title}`,
+    [candidate.priority, candidate.chapter, candidate.lane, candidate.level].filter(Boolean).join(" | "),
+    requestDetails.length ? `Request details: ${requestDetails.join("; ")}` : "Request details: verify container/folder details in catalog.",
+    `Access: ${candidateHasDigitalObject(candidate) ? "Digital object linked" : "No digital object linked"}${
+      candidate.reviewStatus ? `; ${candidate.reviewStatus}` : ""
+    }`,
+    `Local triage: ${shortlistedSourceCandidates.has(candidate.id) ? "shortlisted" : "not shortlisted"}; ${
+      reviewedSourceCandidates.has(candidate.id) ? "reviewed" : "open review"
+    }`,
+    candidate.reason ? `Why pull: ${candidate.reason}` : "",
+    candidate.scopeAndContentNote ? `Scope note: ${candidate.scopeAndContentNote}` : "",
+    relatedRecords.length ? "Related FRUS meetings/calls:" : "Related FRUS meetings/calls: none linked yet.",
+    ...relatedRecords
+      .slice(0, 6)
+      .map((record, relatedIndex) => `${relatedIndex + 1}. ${[record.date, record.title, record.chapter].filter(Boolean).join(" - ")}`),
+    relatedRecords.length > 6 ? `${relatedRecords.length - 6} more related records in the candidate card/data export.` : "",
+    candidate.catalogUrl ? `Catalog: ${candidate.catalogUrl}` : "",
+    candidate.digitalObjectUrl ? `Digital object: ${candidate.digitalObjectUrl}` : ""
+  ]);
+}
+
+function buildSourceCandidatePullList() {
+  const groups = new Map();
+  for (const candidate of visibleSourceCandidates) {
+    const key = pullListGroupKey(candidate);
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(candidate);
+  }
+
+  const groupSections = [...groups.entries()]
+    .sort(([a], [b]) => a.localeCompare(b))
+    .map(([key, candidates]) =>
+      packetLines([
+        key,
+        `Count: ${candidates.length.toLocaleString()}`,
+        candidates.sort(compareSourceCandidatesForWorklist).map(sourceCandidatePullListLine).join("\n\n")
+      ])
+    );
+
+  return packetLines([
+    "FRUS MEPP Visible Source Candidate Pull List",
+    `Generated: ${new Date().toISOString()}`,
+    `Live site: https://therealjameswilson.github.io/Bush41-MEPP/`,
+    `Visible candidates: ${visibleSourceCandidates.length.toLocaleString()}`,
+    "",
+    "Compiler use:",
+    "- Use this as an archive request/checklist for the currently filtered source-candidate queue.",
+    "- Confirm container, folder, document title, date, classification, and access conditions against the catalog and scan.",
+    "- Compare candidate material against linked FRUS meetings/calls before selecting for annotation or source-note support.",
+    "",
+    groupSections.length ? groupSections.join("\n\n---\n\n") : "No visible source candidates."
+  ]);
+}
+
 function sourceCandidatePacketLine(candidate, index) {
   const parts = [
     `${index + 1}. ${candidate.title}`,
@@ -2247,6 +2318,12 @@ function bindEvents() {
   ].forEach((control) => control?.addEventListener("input", renderSourceCandidates));
   selectors.resetSourceCandidates?.addEventListener("click", resetSourceCandidateFilters);
   selectors.exportSourceCandidates?.addEventListener("click", exportVisibleSourceCandidates);
+  selectors.copySourceCandidatePullList?.addEventListener("click", () =>
+    copyText(buildSourceCandidatePullList(), selectors.copySourceCandidatePullList)
+  );
+  selectors.downloadSourceCandidatePullList?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-visible-source-candidate-pull-list.txt", `${buildSourceCandidatePullList()}\n`);
+  });
   selectors.copySourceCandidateNotes?.addEventListener("click", () =>
     copyText(buildSourceCandidateSourceNoteRegister(), selectors.copySourceCandidateNotes)
   );
