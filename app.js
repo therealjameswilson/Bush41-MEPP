@@ -125,6 +125,7 @@ const selectors = {
   candidateCount: document.querySelector("#candidate-count"),
   resetSourceCandidates: document.querySelector("#reset-source-candidates"),
   exportSourceCandidates: document.querySelector("#export-source-candidates-csv"),
+  copySourceCandidateViewLink: document.querySelector("#copy-source-candidate-view-link"),
   copySourceCandidatePullList: document.querySelector("#copy-source-candidate-pull-list"),
   downloadSourceCandidatePullList: document.querySelector("#download-source-candidate-pull-list"),
   copySourceCandidateNotes: document.querySelector("#copy-source-candidate-notes"),
@@ -1432,6 +1433,40 @@ function buildRecordViewUrl() {
     if (value) base.searchParams.set(param, value);
   }
   base.hash = "records";
+  return base.toString();
+}
+
+const SOURCE_CANDIDATE_VIEW_PARAMS = [
+  ["cq", "candidateSearch"],
+  ["ctrack", "candidateChapter"],
+  ["cpriority", "candidatePriority"],
+  ["clevel", "candidateLevel"],
+  ["clane", "candidateLaneGroup"],
+  ["clinkage", "candidateLinkage"],
+  ["caccess", "candidateAccess"],
+  ["ctriage", "candidateTriage"]
+];
+
+function applySourceCandidateViewFromUrl() {
+  if (!window.location?.search) return false;
+  const params = new URLSearchParams(window.location.search);
+  let applied = false;
+  for (const [param, selectorName] of SOURCE_CANDIDATE_VIEW_PARAMS) {
+    const control = selectors[selectorName];
+    if (!control || !params.has(param)) continue;
+    control.value = params.get(param) || "";
+    applied = true;
+  }
+  return applied;
+}
+
+function buildSourceCandidateViewUrl() {
+  const base = new URL(window.location?.pathname || "/", window.location?.origin || "https://therealjameswilson.github.io");
+  for (const [param, selectorName] of SOURCE_CANDIDATE_VIEW_PARAMS) {
+    const value = selectors[selectorName]?.value || "";
+    if (value) base.searchParams.set(param, value);
+  }
+  base.hash = "source-candidates";
   return base.toString();
 }
 
@@ -3128,6 +3163,9 @@ function bindEvents() {
   ].forEach((control) => control?.addEventListener("input", renderSourceCandidates));
   selectors.resetSourceCandidates?.addEventListener("click", resetSourceCandidateFilters);
   selectors.exportSourceCandidates?.addEventListener("click", exportVisibleSourceCandidates);
+  selectors.copySourceCandidateViewLink?.addEventListener("click", () =>
+    copyText(buildSourceCandidateViewUrl(), selectors.copySourceCandidateViewLink)
+  );
   selectors.copySourceCandidatePullList?.addEventListener("click", () =>
     copyText(buildSourceCandidatePullList(), selectors.copySourceCandidatePullList)
   );
@@ -3267,6 +3305,7 @@ function init() {
   initCompilerDesk();
   initOptions();
   applyRecordViewFromUrl();
+  applySourceCandidateViewFromUrl();
   renderStats();
   renderChapterGrid();
   renderRecords();
