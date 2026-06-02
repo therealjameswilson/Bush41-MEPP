@@ -1372,11 +1372,20 @@ function scrollToCurrentHash() {
   const target = document.getElementById(id);
   if (!target) return;
   const scroll = () => target.scrollIntoView({ block: "start" });
+  scroll();
   if (typeof window.requestAnimationFrame === "function") {
     window.requestAnimationFrame(() => window.requestAnimationFrame(scroll));
-    return;
   }
-  scroll();
+  if (typeof window.setTimeout === "function") {
+    [250, 800, 1600].forEach((delay) => window.setTimeout(scroll, delay));
+  }
+}
+
+function scheduleCurrentHashScroll() {
+  scrollToCurrentHash();
+  if (typeof window.addEventListener === "function" && document.readyState !== "complete") {
+    window.addEventListener("load", scrollToCurrentHash, { once: true });
+  }
 }
 
 function applyActionQueue(target) {
@@ -3402,7 +3411,7 @@ function init() {
   renderGaps();
   renderReviewQueue();
   bindEvents();
-  scrollToCurrentHash();
+  scheduleCurrentHashScroll();
 }
 
 init();
