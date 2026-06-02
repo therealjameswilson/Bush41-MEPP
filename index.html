@@ -454,8 +454,14 @@
 
       <section class="section" id="source-leads" aria-labelledby="source-leads-title">
         <div class="section-heading">
-          <p class="kicker">Research Lanes</p>
-          <h2 id="source-leads-title">Source Series and Next Harvests</h2>
+          <div>
+            <p class="kicker">Research Lanes</p>
+            <h2 id="source-leads-title">Source Series and Next Harvests</h2>
+          </div>
+          <div class="button-row">
+            <button id="copy-source-leads-plan" type="button" class="small-button">Copy harvest plan</button>
+            <button id="download-source-leads-plan" type="button" class="small-button">Download harvest plan</button>
+          </div>
         </div>
         <div id="source-leads-root" class="source-grid" aria-live="polite"></div>
       </section>
@@ -668,7 +674,7 @@
     <script src="data/compiler-gaps.js"></script>
     <script src="data/source-leads.js"></script>
     <script src="data/source-candidates.js"></script>
-    <script src="app.js?v=20260602-person-view"></script>
+    <script src="app.js?v=20260602-source-leads"></script>
     <script id="compiler-network-script">
       (() => {
         const button = document.querySelector("[data-compiler-handoff]");

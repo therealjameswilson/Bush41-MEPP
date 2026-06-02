@@ -31,6 +31,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Persons list, event dossiers, source-series leads, and a compiler gap register
 - Shareable Persons view links for exact filtered front-matter and participant-verification handoffs
 - Shareable Gap Register view links for exact filtered risk-review handoffs
+- Copy/download source-leads harvest plan for archive-request and next-search handoffs
 - PDF page-count/review-marker enrichment for the current presidential corpus
 - Date/track/term-based public/private chronology linkage
 - Public NARA source-candidate harvests for unfilled State, NSC, WHORM, and post-Madrid lanes

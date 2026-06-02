@@ -115,6 +115,8 @@ const selectors = {
   copyStatementViewLink: document.querySelector("#copy-statement-view-link"),
   exportStatements: document.querySelector("#export-statements-csv"),
   sourceLeadsRoot: document.querySelector("#source-leads-root"),
+  copySourceLeadsPlan: document.querySelector("#copy-source-leads-plan"),
+  downloadSourceLeadsPlan: document.querySelector("#download-source-leads-plan"),
   sourceCandidatesRoot: document.querySelector("#source-candidates-root"),
   candidateSearch: document.querySelector("#candidate-search"),
   candidateChapter: document.querySelector("#candidate-chapter"),
@@ -1924,6 +1926,33 @@ function buildCoverageSummary() {
   ]);
 }
 
+function sourceLeadPlanEntry(source, index) {
+  return compactList([
+    `${index + 1}. ${source.title}`,
+    `Status: ${source.status || "Status pending"}`,
+    `Repository: ${source.repository || "Repository pending"}`,
+    `Track: ${source.chapter || "Unassigned"}`,
+    source.naid ? `NAID: ${source.naid}` : "",
+    source.candidateCount ? `Candidate records: ${Number(source.candidateCount).toLocaleString()}` : "",
+    source.whyItMatters ? `Compiler use: ${source.whyItMatters}` : "",
+    source.searchTerms?.length ? `Search terms: ${source.searchTerms.join("; ")}` : "",
+    source.url ? `Catalog/source lane: ${source.url}` : ""
+  ]);
+}
+
+function buildSourceLeadHarvestPlan() {
+  return packetLines([
+    "FRUS MEPP Source Leads Harvest Plan",
+    `Generated: ${new Date().toISOString()}`,
+    `Live site: https://therealjameswilson.github.io/Bush41-MEPP/#source-leads`,
+    `Source lanes: ${sourceLeads.length.toLocaleString()}`,
+    "",
+    "Use this as the next-harvest checklist. Verify each catalog series scope, digital-object availability, folder title, classification status, and source-note wording against the scans or repository finding aid before citation.",
+    "",
+    sourceLeads.length ? sourceLeads.map(sourceLeadPlanEntry).join("\n\n") : "No source leads are loaded."
+  ]);
+}
+
 function compareRecordsForWorklist(a, b) {
   const valueRank = { Anchor: 0, High: 1, Context: 2 };
   return (
@@ -3255,6 +3284,12 @@ function bindEvents() {
   selectors.resetStatements?.addEventListener("click", resetStatementFilters);
   selectors.copyStatementViewLink?.addEventListener("click", () => copyText(buildStatementViewUrl(), selectors.copyStatementViewLink));
   selectors.exportStatements?.addEventListener("click", exportVisibleStatements);
+  selectors.copySourceLeadsPlan?.addEventListener("click", () =>
+    copyText(buildSourceLeadHarvestPlan(), selectors.copySourceLeadsPlan)
+  );
+  selectors.downloadSourceLeadsPlan?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-source-leads-harvest-plan.txt", `${buildSourceLeadHarvestPlan()}\n`);
+  });
 
   [selectors.personSearch, selectors.personChapter].forEach((control) => control?.addEventListener("input", renderPersons));
   selectors.copyPersonViewLink?.addEventListener("click", () => copyText(buildPersonViewUrl(), selectors.copyPersonViewLink));
