@@ -73,6 +73,7 @@ const selectors = {
   decisionFilter: document.querySelector("#filter-decision"),
   sortRecords: document.querySelector("#sort-records"),
   resetFilters: document.querySelector("#reset-filters"),
+  copyRecordViewLink: document.querySelector("#copy-record-view-link"),
   exportCsv: document.querySelector("#export-csv"),
   copyRecordDocumentList: document.querySelector("#copy-record-document-list"),
   downloadRecordDocumentList: document.querySelector("#download-record-document-list"),
@@ -1396,6 +1397,42 @@ function resetRecordFilters() {
   });
   if (selectors.sortRecords) selectors.sortRecords.value = "date";
   renderRecords();
+}
+
+const RECORD_VIEW_PARAMS = [
+  ["q", "searchInput"],
+  ["track", "chapterFilter"],
+  ["type", "typeFilter"],
+  ["year", "yearFilter"],
+  ["source", "sourceFilter"],
+  ["support", "supportFilter"],
+  ["value", "valueFilter"],
+  ["review", "reviewFilter"],
+  ["decision", "decisionFilter"],
+  ["sort", "sortRecords"]
+];
+
+function applyRecordViewFromUrl() {
+  if (!window.location?.search) return false;
+  const params = new URLSearchParams(window.location.search);
+  let applied = false;
+  for (const [param, selectorName] of RECORD_VIEW_PARAMS) {
+    const control = selectors[selectorName];
+    if (!control || !params.has(param)) continue;
+    control.value = params.get(param) || "";
+    applied = true;
+  }
+  return applied;
+}
+
+function buildRecordViewUrl() {
+  const base = new URL(window.location?.pathname || "/", window.location?.origin || "https://therealjameswilson.github.io");
+  for (const [param, selectorName] of RECORD_VIEW_PARAMS) {
+    const value = selectors[selectorName]?.value || "";
+    if (value) base.searchParams.set(param, value);
+  }
+  base.hash = "records";
+  return base.toString();
 }
 
 function resetStatementFilters() {
@@ -3015,6 +3052,7 @@ function bindEvents() {
   ].forEach((control) => control?.addEventListener("input", renderRecords));
 
   selectors.resetFilters?.addEventListener("click", resetRecordFilters);
+  selectors.copyRecordViewLink?.addEventListener("click", () => copyText(buildRecordViewUrl(), selectors.copyRecordViewLink));
   selectors.exportCsv?.addEventListener("click", exportVisibleRecords);
   selectors.copyRecordDocumentList?.addEventListener("click", () => copyText(buildVisibleDraftDocumentList(), selectors.copyRecordDocumentList));
   selectors.downloadRecordDocumentList?.addEventListener("click", () => {
@@ -3228,6 +3266,7 @@ function bindEvents() {
 function init() {
   initCompilerDesk();
   initOptions();
+  applyRecordViewFromUrl();
   renderStats();
   renderChapterGrid();
   renderRecords();
