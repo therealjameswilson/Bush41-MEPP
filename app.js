@@ -80,6 +80,8 @@ const selectors = {
   downloadMeetingCrosswalk: document.querySelector("#download-meeting-crosswalk"),
   copyRecordPeopleIndex: document.querySelector("#copy-record-people-index"),
   downloadRecordPeopleIndex: document.querySelector("#download-record-people-index"),
+  copyRecordIssueRegister: document.querySelector("#copy-record-issue-register"),
+  downloadRecordIssueRegister: document.querySelector("#download-record-issue-register"),
   copyRecordPackets: document.querySelector("#copy-record-packets"),
   downloadRecordPackets: document.querySelector("#download-record-packets"),
   supportSummary: document.querySelector("#support-summary"),
@@ -2205,6 +2207,149 @@ function buildVisibleRecordPeopleIndex() {
   ]);
 }
 
+function visibleRecordVerificationPrompts(record) {
+  const note = record.frusSourceNote || record.sourceNote || "";
+  return [
+    /No classification marking\./i.test(note) ? "Confirm absence of classification marking against the scan" : "",
+    /Distribution, drafting, and place\/time data require PDF verification/i.test(note)
+      ? "Verify place/time, drafting, distribution, participants, attachments, and excisions"
+      : "",
+    record.pdfReview?.participantLine ? `Check PDF participant/subject marker: ${record.pdfReview.participantLine}` : ""
+  ].filter(Boolean);
+}
+
+function visibleRecordIssueSummary(record) {
+  const relatedSourceCandidates = linkedSourceCandidatesForRecord(record);
+  const sourceNoteFlags = sourceNoteVerificationFlags(record.frusSourceNote || record.sourceNote || "");
+  const issues = [];
+  const verificationPrompts = visibleRecordVerificationPrompts(record);
+  let score = 0;
+
+  if (!relatedSourceCandidates.length) {
+    issues.push(isAnchorOrHigh(record) ? "Anchor/High record has no linked source candidates" : "No linked source candidates");
+    score += isAnchorOrHigh(record) ? 30 : 12;
+  }
+  if (!hasDailyDiaryCandidate(record)) {
+    issues.push(isAnchorOrHigh(record) ? "Anchor/High record lacks Daily Diary/Backup corroboration" : "No Daily Diary/Backup candidate linked");
+    score += isAnchorOrHigh(record) ? 12 : 4;
+  }
+  if (!record.publicChronologyLinks?.length) {
+    issues.push(isAnchorOrHigh(record) ? "Anchor/High record lacks public chronology crosswalk" : "No public chronology crosswalk");
+    score += isAnchorOrHigh(record) ? 12 : 4;
+  }
+  if (!recordDecision(record)) {
+    issues.push("Local Include/Maybe/Exclude decision pending");
+    score += isAnchorOrHigh(record) ? 10 : 4;
+  }
+  if (!reviewedRecords.has(record.id)) {
+    issues.push("Local record review pending");
+    score += isAnchorOrHigh(record) ? 8 : 3;
+  }
+  if (!record.pdfUrl) {
+    issues.push("No direct PDF link");
+    score += 25;
+  }
+  if (!record.pageCount) {
+    issues.push("PDF page count not captured");
+    score += 10;
+  }
+  if (record.pdfReview?.status === "enrichment-error") {
+    issues.push(`PDF enrichment error: ${record.pdfReview.error || "review required"}`);
+    score += 20;
+  }
+  if (record.sourceConfidence?.label === "Review candidate") {
+    issues.push(`Source confidence requires review: ${record.sourceConfidence.basis || record.sourceConfidence.label}`);
+    score += 6;
+  }
+  for (const flag of sourceNoteFlags) {
+    if (flag === "Confirm absence of classification marking against scan") continue;
+    issues.push(`Source note: ${flag}`);
+    score += flag === "Source note pending" ? 20 : 8;
+  }
+
+  const severity = score >= 45 ? "Critical" : score >= 25 ? "High" : score >= 10 ? "Medium" : score > 0 ? "Low" : "None";
+  return { record, issues, verificationPrompts, score, severity };
+}
+
+function compareRecordIssueSummaries(a, b) {
+  const severityRank = { Critical: 0, High: 1, Medium: 2, Low: 3, None: 4 };
+  return (
+    (severityRank[a.severity] ?? 9) - (severityRank[b.severity] ?? 9) ||
+    b.score - a.score ||
+    compareRecordsForWorklist(a.record, b.record)
+  );
+}
+
+function visibleRecordIssueLine(summary, index) {
+  const record = summary.record;
+  const relatedSourceCandidates = linkedSourceCandidatesForRecord(record);
+  const publicChronologyLinks = record.publicChronologyLinks || [];
+  const support = [
+    relatedSourceCandidates.length ? `${relatedSourceCandidates.length.toLocaleString()} linked source candidates` : "No linked source candidates",
+    hasDailyDiaryCandidate(record) ? "Daily Diary/Backup linked" : "No Daily Diary/Backup candidate linked",
+    publicChronologyLinks.length ? `${publicChronologyLinks.length.toLocaleString()} public chronology links` : "No public chronology crosswalk"
+  ].join("; ");
+  const shownCandidates = relatedSourceCandidates.slice(0, 4);
+
+  return compactList([
+    `${index + 1}. ${formatDate(record.date)} - ${record.title}`,
+    [
+      `Severity: ${summary.severity}`,
+      `Score: ${summary.score}`,
+      record.selectionValue || "Unassigned value",
+      RECORD_DECISION_LABELS[recordDecision(record)] || "Undecided",
+      reviewedRecords.has(record.id) ? "Reviewed locally" : "Open review",
+      record.chapter?.name,
+      record.documentType,
+      record.naid ? `NAID ${record.naid}` : ""
+    ]
+      .filter(Boolean)
+      .join(" | "),
+    `Source support: ${support}`,
+    summary.issues.length ? "Open issues:" : "Open issues: none from current filters/local state.",
+    summary.issues.map((issue) => `- ${issue}`).join("\n"),
+    summary.verificationPrompts.length ? "Verification prompts:" : "",
+    summary.verificationPrompts.map((prompt) => `- ${prompt}`).join("\n"),
+    record.compilerNote ? `Compiler note: ${record.compilerNote}` : "",
+    record.frusSourceNote || record.sourceNote ? `Source note: ${record.frusSourceNote || record.sourceNote}` : "",
+    shownCandidates.length ? "Linked source candidates:" : "",
+    ...shownCandidates.map(crosswalkCandidateLine),
+    relatedSourceCandidates.length > shownCandidates.length
+      ? `${relatedSourceCandidates.length - shownCandidates.length} more linked source candidates on the record card.`
+      : "",
+    publicChronologyLinks.length ? "Public chronology:" : "",
+    ...publicChronologyLinks.slice(0, 3).map(publicChronologyLine),
+    publicChronologyLinks.length > 3 ? `${publicChronologyLinks.length - 3} more public chronology links on the record card.` : "",
+    record.pdfUrl ? `PDF: ${record.pdfUrl}` : "",
+    record.catalogUrl ? `Catalog: ${record.catalogUrl}` : ""
+  ]);
+}
+
+function buildVisibleRecordIssueRegister() {
+  const summaries = visibleRecords.map(visibleRecordIssueSummary).filter((summary) => summary.issues.length || summary.verificationPrompts.length);
+  const rankedSummaries = summaries.sort(compareRecordIssueSummaries);
+  const severityCounts = rankedSummaries.reduce((counts, summary) => {
+    counts[summary.severity] = (counts[summary.severity] || 0) + 1;
+    return counts;
+  }, {});
+
+  return packetLines([
+    "FRUS MEPP Visible Chronology Issue Register",
+    `Generated: ${new Date().toISOString()}`,
+    `Live site: https://therealjameswilson.github.io/Bush41-MEPP/`,
+    `Visible presidential records: ${visibleRecords.length.toLocaleString()}`,
+    `Records with open issues or verification prompts: ${rankedSummaries.length.toLocaleString()}`,
+    `Severity counts: ${["Critical", "High", "Medium", "Low"].map((level) => `${level} ${(severityCounts[level] || 0).toLocaleString()}`).join(" / ")}`,
+    "",
+    "Compiler use:",
+    "- Use after filtering the chronology to create a source-support and editorial verification queue for the exact visible subset.",
+    "- Start with Critical and High records before resolving lower-risk verification prompts.",
+    "- Treat local review and decision lines as browser-local state, not shared repository state.",
+    "",
+    rankedSummaries.length ? rankedSummaries.map(visibleRecordIssueLine).join("\n\n---\n\n") : "No visible issue prompts."
+  ]);
+}
+
 function buildSourceCandidateSourceNoteRegister() {
   const candidateEntries = visibleSourceCandidates.map((candidate) => ({
     title: candidate.title,
@@ -2513,6 +2658,12 @@ function bindEvents() {
   selectors.copyRecordPeopleIndex?.addEventListener("click", () => copyText(buildVisibleRecordPeopleIndex(), selectors.copyRecordPeopleIndex));
   selectors.downloadRecordPeopleIndex?.addEventListener("click", () => {
     downloadTextFile("bush41-mepp-visible-record-people-index.txt", `${buildVisibleRecordPeopleIndex()}\n`);
+  });
+  selectors.copyRecordIssueRegister?.addEventListener("click", () =>
+    copyText(buildVisibleRecordIssueRegister(), selectors.copyRecordIssueRegister)
+  );
+  selectors.downloadRecordIssueRegister?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-visible-record-issue-register.txt", `${buildVisibleRecordIssueRegister()}\n`);
   });
   selectors.copyCoverageSummary?.addEventListener("click", () => copyText(buildCoverageSummary(), selectors.copyCoverageSummary));
   selectors.downloadCoverageSummary?.addEventListener("click", () => {
