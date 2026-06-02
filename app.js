@@ -74,6 +74,8 @@ const selectors = {
   sortRecords: document.querySelector("#sort-records"),
   resetFilters: document.querySelector("#reset-filters"),
   exportCsv: document.querySelector("#export-csv"),
+  copyRecordDocumentList: document.querySelector("#copy-record-document-list"),
+  downloadRecordDocumentList: document.querySelector("#download-record-document-list"),
   copyRecordSourceNotes: document.querySelector("#copy-record-source-notes"),
   downloadRecordSourceNotes: document.querySelector("#download-record-source-notes"),
   copyMeetingCrosswalk: document.querySelector("#copy-meeting-crosswalk"),
@@ -2000,6 +2002,92 @@ function buildRecordSourceNoteRegister() {
   ]);
 }
 
+function visibleDecisionCounts(items) {
+  return items.reduce(
+    (counts, record) => {
+      const decision = recordDecision(record);
+      if (decision) counts[decision] += 1;
+      else counts.undecided += 1;
+      return counts;
+    },
+    { include: 0, maybe: 0, exclude: 0, undecided: 0 }
+  );
+}
+
+function documentListSupportSummary(record) {
+  const relatedSourceCandidates = linkedSourceCandidatesForRecord(record);
+  return [
+    relatedSourceCandidates.length ? `${relatedSourceCandidates.length.toLocaleString()} linked source candidates` : "No linked source candidates",
+    hasDailyDiaryCandidate(record) ? "Daily Diary/Backup linked" : "No Daily Diary/Backup candidate linked",
+    record.publicChronologyLinks?.length
+      ? `${record.publicChronologyLinks.length.toLocaleString()} public chronology links`
+      : "No public chronology crosswalk"
+  ].join("; ");
+}
+
+function draftDocumentListEntry(record, index) {
+  const relatedSourceCandidates = linkedSourceCandidatesForRecord(record);
+  const publicChronologyLinks = record.publicChronologyLinks || [];
+  const people = (record.people || []).slice(0, 8).join("; ");
+  const shownCandidates = relatedSourceCandidates.slice(0, 3);
+
+  return compactList([
+    `${String(index + 1).padStart(3, "0")}. ${formatDate(record.date)} - ${record.title}`,
+    [
+      record.chapter?.name,
+      record.documentType,
+      record.selectionValue || "Unassigned value",
+      `Decision: ${RECORD_DECISION_LABELS[recordDecision(record)] || "Undecided"}`,
+      reviewedRecords.has(record.id) ? "Reviewed locally" : "Open review",
+      record.naid ? `NAID ${record.naid}` : ""
+    ]
+      .filter(Boolean)
+      .join(" | "),
+    people ? `People: ${people}` : "",
+    record.countries?.length ? `Countries/entities: ${record.countries.join("; ")}` : "",
+    `Source support: ${documentListSupportSummary(record)}`,
+    `Source note: ${record.frusSourceNote || record.sourceNote || "Source note pending."}`,
+    record.compilerNote ? `Compiler note: ${record.compilerNote}` : "",
+    shownCandidates.length ? `Top source candidates: ${shownCandidates.map((candidate) => candidate.title).join("; ")}` : "",
+    relatedSourceCandidates.length > shownCandidates.length
+      ? `${relatedSourceCandidates.length - shownCandidates.length} more linked source candidates on the record card.`
+      : "",
+    publicChronologyLinks.length
+      ? `Public chronology: ${publicChronologyLinks
+          .slice(0, 2)
+          .map((link) => `${formatDate(link.date)} - ${link.title}`)
+          .join("; ")}`
+      : "",
+    publicChronologyLinks.length > 2 ? `${publicChronologyLinks.length - 2} more public chronology links on the record card.` : "",
+    record.pdfUrl ? `PDF: ${record.pdfUrl}` : "",
+    record.catalogUrl ? `Catalog: ${record.catalogUrl}` : ""
+  ]);
+}
+
+function buildVisibleDraftDocumentList() {
+  const decisionCounts = visibleDecisionCounts(visibleRecords);
+  const anchorHighCount = visibleRecords.filter(isAnchorOrHigh).length;
+  const supportCounts = sourceSupportCounts(visibleRecords);
+
+  return packetLines([
+    "FRUS MEPP Visible Draft Document List",
+    `Generated: ${new Date().toISOString()}`,
+    `Live site: https://therealjameswilson.github.io/Bush41-MEPP/`,
+    `FRUS volume: ${VOLUME_TITLE}`,
+    `Visible presidential records: ${visibleRecords.length.toLocaleString()}`,
+    `Anchor/High visible records: ${anchorHighCount.toLocaleString()}`,
+    `Local decisions: ${decisionCounts.include.toLocaleString()} include / ${decisionCounts.maybe.toLocaleString()} maybe / ${decisionCounts.exclude.toLocaleString()} exclude / ${decisionCounts.undecided.toLocaleString()} undecided`,
+    `Source support: ${supportCounts.linkedSource.toLocaleString()} linked / ${supportCounts.dailyDiary.toLocaleString()} Daily Diary/Backup / ${supportCounts.publicChronology.toLocaleString()} public chronology / ${supportCounts.unsupported.toLocaleString()} unsupported`,
+    "",
+    "Compiler use:",
+    "- Use after filtering or sorting the chronology to create a working FRUS document table for the visible subset.",
+    "- Treat numbers as temporary working sequence numbers, not final FRUS document numbers.",
+    "- Verify date, title, source note, participant data, and selection state against the scan before final assembly.",
+    "",
+    visibleRecords.length ? visibleRecords.map(draftDocumentListEntry).join("\n\n---\n\n") : "No visible presidential records."
+  ]);
+}
+
 function crosswalkCandidateLine(candidate, index) {
   return `${index + 1}. ${[candidate.title, candidate.lane, candidate.sourceSeries, candidate.localIdentifier].filter(Boolean).join(" | ")}${
     candidate.catalogUrl ? ` (${candidate.catalogUrl})` : ""
@@ -2647,6 +2735,10 @@ function bindEvents() {
 
   selectors.resetFilters?.addEventListener("click", resetRecordFilters);
   selectors.exportCsv?.addEventListener("click", exportVisibleRecords);
+  selectors.copyRecordDocumentList?.addEventListener("click", () => copyText(buildVisibleDraftDocumentList(), selectors.copyRecordDocumentList));
+  selectors.downloadRecordDocumentList?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-visible-draft-document-list.txt", `${buildVisibleDraftDocumentList()}\n`);
+  });
   selectors.copyRecordSourceNotes?.addEventListener("click", () => copyText(buildRecordSourceNoteRegister(), selectors.copyRecordSourceNotes));
   selectors.downloadRecordSourceNotes?.addEventListener("click", () => {
     downloadTextFile("bush41-mepp-visible-record-source-notes.txt", `${buildRecordSourceNoteRegister()}\n`);
