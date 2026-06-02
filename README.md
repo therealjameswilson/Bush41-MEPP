@@ -38,6 +38,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Source-support summary cards in the opening chronology for linked candidates, Daily Diary/Backup corroboration, public chronology links, and unsupported records
 - Track coverage matrix and exportable coverage summary for source-support, public-crosswalk, undecided-selection, and review-risk triage
 - FRUS-style source note generation and audit checks for presidential records and source candidates
+- Filter-aware people index export from the opening chronology for front-matter and participant verification
 - GitHub Actions validation and GitHub Pages deployment workflow
 - Compiler-network handoff copy button for moving page context into pull requests, source-note checks, or cross-tool review
 - Reproducible harvest scripts and JSON/JS data bundles for GitHub Pages

@@ -78,6 +78,8 @@ const selectors = {
   downloadRecordSourceNotes: document.querySelector("#download-record-source-notes"),
   copyMeetingCrosswalk: document.querySelector("#copy-meeting-crosswalk"),
   downloadMeetingCrosswalk: document.querySelector("#download-meeting-crosswalk"),
+  copyRecordPeopleIndex: document.querySelector("#copy-record-people-index"),
+  downloadRecordPeopleIndex: document.querySelector("#download-record-people-index"),
   copyRecordPackets: document.querySelector("#copy-record-packets"),
   downloadRecordPackets: document.querySelector("#download-record-packets"),
   supportSummary: document.querySelector("#support-summary"),
@@ -160,6 +162,7 @@ const recordById = new Map(records.map((record) => [record.id, record]));
 const statementById = new Map(publicStatements.map((statement) => [statement.id, statement]));
 const sourceCandidateById = new Map(sourceCandidates.map((candidate) => [candidate.id, candidate]));
 const sourceCandidatesByRecordId = buildSourceCandidatesByRecordId();
+const personByAlias = buildPersonByAlias();
 recordDecisions = cleanRecordDecisions(recordDecisions);
 
 function readReviewedRecords() {
@@ -248,6 +251,13 @@ function normalize(value) {
   return String(value || "").toLowerCase();
 }
 
+function normalizedPersonKey(value) {
+  return String(value || "")
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, " ")
+    .trim();
+}
+
 function uniqueValues(items, selector) {
   return [...new Set(items.map(selector).filter(Boolean))].sort((a, b) => String(a).localeCompare(String(b)));
 }
@@ -275,6 +285,17 @@ function buildSourceCandidatesByRecordId() {
         String(a.date || "").localeCompare(String(b.date || "")) ||
         String(a.title).localeCompare(String(b.title))
     );
+  }
+  return map;
+}
+
+function buildPersonByAlias() {
+  const map = new Map();
+  for (const person of persons) {
+    for (const name of [person.name, ...(person.aliases || [])]) {
+      const key = normalizedPersonKey(name);
+      if (key && !map.has(key)) map.set(key, person);
+    }
   }
   return map;
 }
@@ -2034,6 +2055,156 @@ function buildVisibleMeetingCrosswalk() {
   ]);
 }
 
+function escapeRegExp(value) {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+
+function recordPeopleMatchText(record) {
+  return [
+    record.title,
+    record.documentTitle,
+    record.eventLabel,
+    record.compilerNote,
+    ...(record.people || []),
+    ...(record.matchedQueries || []),
+    ...Object.values(record.topicTerms || {}).flat(),
+    record.pdfReview?.participantLine
+  ]
+    .filter(Boolean)
+    .join(" ");
+}
+
+function personAliases(person) {
+  return [...new Set([person.name, ...(person.aliases || [])].filter(Boolean))];
+}
+
+function textContainsPersonAlias(text, person) {
+  return personAliases(person).some((alias) => {
+    const normalizedAlias = normalizedPersonKey(alias);
+    if (normalizedAlias.length < 3) return false;
+    const pattern = new RegExp(`(^|[^A-Za-z0-9])${escapeRegExp(alias)}([^A-Za-z0-9]|$)`, "i");
+    return pattern.test(text);
+  });
+}
+
+function visiblePeopleRecordLine(record, index) {
+  return compactList([
+    `${index + 1}. ${formatDate(record.date)} - ${record.title}`,
+    [record.chapter?.name, record.selectionValue, RECORD_DECISION_LABELS[recordDecision(record)] || "Undecided", record.documentType, record.naid ? `NAID ${record.naid}` : ""]
+      .filter(Boolean)
+      .join(" | "),
+    record.catalogUrl ? `Catalog: ${record.catalogUrl}` : "",
+    record.pdfUrl ? `PDF: ${record.pdfUrl}` : ""
+  ]);
+}
+
+function personIndexEntryLine(entry, index) {
+  const recordsForEntry = [...entry.records].sort((a, b) => String(a.sortDate || a.date || "").localeCompare(String(b.sortDate || b.date || "")));
+  const firstRecord = recordsForEntry[0];
+  const lastRecord = recordsForEntry[recordsForEntry.length - 1];
+  const basisCounts = [...entry.basisByRecord.values()].reduce(
+    (counts, bases) => {
+      if (bases.has("explicit")) counts.explicit += 1;
+      if (bases.has("alias")) counts.alias += 1;
+      if (bases.has("baseline")) counts.baseline += 1;
+      return counts;
+    },
+    { explicit: 0, alias: 0, baseline: 0 }
+  );
+  const basis = [
+    basisCounts.explicit ? `${basisCounts.explicit.toLocaleString()} explicit record.people` : "",
+    basisCounts.alias ? `${basisCounts.alias.toLocaleString()} alias/title/topic matches` : "",
+    basisCounts.baseline ? `${basisCounts.baseline.toLocaleString()} presidential-record baseline` : ""
+  ].filter(Boolean);
+  const anchorHighCount = recordsForEntry.filter(isAnchorOrHigh).length;
+  const shownRecords = recordsForEntry.slice(0, 12);
+
+  return compactList([
+    `${index + 1}. ${entry.name}`,
+    `Visible record hits: ${recordsForEntry.length.toLocaleString()}`,
+    `Front-matter match: ${entry.person ? "yes" : "no"}`,
+    entry.person?.role ? `Front-matter role: ${entry.person.role}` : "",
+    entry.person?.country ? `Country/entity: ${entry.person.country}` : "",
+    entry.person?.chapter ? `Front-matter track: ${entry.person.chapter}` : "",
+    entry.person?.compilerUse ? `Compiler use: ${entry.person.compilerUse}` : "",
+    basis.length ? `Match basis: ${basis.join("; ")}` : "",
+    `Tracks: ${[...entry.tracks].sort().join("; ") || "Unassigned"}`,
+    firstRecord && lastRecord ? `Visible span: ${formatDate(firstRecord.date)} to ${formatDate(lastRecord.date)}` : "",
+    `Anchor/High visible records: ${anchorHighCount.toLocaleString()}`,
+    shownRecords.length ? "Record examples:" : "",
+    shownRecords.map(visiblePeopleRecordLine).join("\n\n"),
+    recordsForEntry.length > shownRecords.length ? `${recordsForEntry.length - shownRecords.length} more visible records in the current filter.` : ""
+  ]);
+}
+
+function addPersonIndexHit(entries, record, person, displayName, basis) {
+  const name = person?.name || displayName;
+  if (!name) return;
+  const key = person ? normalizedPersonKey(person.name) : normalizedPersonKey(name);
+  if (!key) return;
+  if (!entries.has(key)) {
+    entries.set(key, {
+      name,
+      person,
+      tracks: new Set(),
+      records: [],
+      recordIds: new Set(),
+      basisByRecord: new Map()
+    });
+  }
+  const entry = entries.get(key);
+  if (!entry.recordIds.has(record.id)) {
+    entry.records.push(record);
+    entry.recordIds.add(record.id);
+  }
+  if (record.chapter?.name) entry.tracks.add(record.chapter.name);
+  if (!entry.basisByRecord.has(record.id)) entry.basisByRecord.set(record.id, new Set());
+  entry.basisByRecord.get(record.id).add(basis);
+}
+
+function collectVisiblePeopleIndexEntries() {
+  const entries = new Map();
+  for (const record of visibleRecords) {
+    for (const name of record.people || []) {
+      addPersonIndexHit(entries, record, personByAlias.get(normalizedPersonKey(name)), name, "explicit");
+    }
+
+    const matchText = recordPeopleMatchText(record);
+    for (const person of persons) {
+      if (person.name === "George H.W. Bush") {
+        addPersonIndexHit(entries, record, person, person.name, "baseline");
+      } else if (textContainsPersonAlias(matchText, person)) {
+        addPersonIndexHit(entries, record, person, person.name, "alias");
+      }
+    }
+  }
+
+  return [...entries.values()].sort((a, b) => b.records.length - a.records.length || a.name.localeCompare(b.name));
+}
+
+function buildVisibleRecordPeopleIndex() {
+  const entries = collectVisiblePeopleIndexEntries();
+  const frontMatterHits = entries.filter((entry) => entry.person).length;
+  const unlistedNames = entries.filter((entry) => !entry.person).map((entry) => entry.name);
+
+  return packetLines([
+    "FRUS MEPP Visible Chronology People Index",
+    `Generated: ${new Date().toISOString()}`,
+    `Live site: https://therealjameswilson.github.io/Bush41-MEPP/`,
+    `Visible presidential records: ${visibleRecords.length.toLocaleString()}`,
+    `People/name entries: ${entries.length.toLocaleString()}`,
+    `Front-matter names represented: ${frontMatterHits.toLocaleString()} of ${persons.length.toLocaleString()}`,
+    `Names not yet in front-matter list: ${unlistedNames.length ? unlistedNames.join("; ") : "none detected from visible records"}`,
+    "",
+    "Compiler use:",
+    "- Use after filtering the chronology by track, year, source support, or local decision.",
+    "- Treat alias/title/topic matches as a prompt for name and participant verification against the PDF scan.",
+    "- Use names without front-matter matches as candidates for the volume persons list or annotation checks.",
+    "",
+    entries.length ? entries.map(personIndexEntryLine).join("\n\n---\n\n") : "No visible people/name matches."
+  ]);
+}
+
 function buildSourceCandidateSourceNoteRegister() {
   const candidateEntries = visibleSourceCandidates.map((candidate) => ({
     title: candidate.title,
@@ -2338,6 +2509,10 @@ function bindEvents() {
   selectors.copyMeetingCrosswalk?.addEventListener("click", () => copyText(buildVisibleMeetingCrosswalk(), selectors.copyMeetingCrosswalk));
   selectors.downloadMeetingCrosswalk?.addEventListener("click", () => {
     downloadTextFile("bush41-mepp-visible-meeting-call-crosswalk.txt", `${buildVisibleMeetingCrosswalk()}\n`);
+  });
+  selectors.copyRecordPeopleIndex?.addEventListener("click", () => copyText(buildVisibleRecordPeopleIndex(), selectors.copyRecordPeopleIndex));
+  selectors.downloadRecordPeopleIndex?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-visible-record-people-index.txt", `${buildVisibleRecordPeopleIndex()}\n`);
   });
   selectors.copyCoverageSummary?.addEventListener("click", () => copyText(buildCoverageSummary(), selectors.copyCoverageSummary));
   selectors.downloadCoverageSummary?.addEventListener("click", () => {
