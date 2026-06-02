@@ -130,6 +130,8 @@ const selectors = {
   sourceCandidateReviewSummary: document.querySelector("#source-candidate-review-summary"),
   copyActionWorklist: document.querySelector("#copy-action-worklist"),
   downloadActionWorklist: document.querySelector("#download-action-worklist"),
+  copySelectionSlate: document.querySelector("#copy-selection-slate"),
+  downloadSelectionSlate: document.querySelector("#download-selection-slate"),
   compilerNotes: document.querySelector("#compiler-notes"),
   notesStatus: document.querySelector("#notes-status"),
   copyVolumeTitle: document.querySelector("#copy-volume-title"),
@@ -1826,6 +1828,86 @@ function buildCompilerActionWorklist() {
   ]);
 }
 
+function selectionSlateRecordLine(record, index) {
+  const relatedSourceCandidates = linkedSourceCandidatesForRecord(record);
+  const publicChronologyLinks = record.publicChronologyLinks || [];
+  const support = [
+    relatedSourceCandidates.length ? `${relatedSourceCandidates.length} linked source candidates` : "No linked source candidates",
+    hasDailyDiaryCandidate(record) ? "Daily Diary/Backup linked" : "",
+    publicChronologyLinks.length ? `${publicChronologyLinks.length} public chronology links` : "No public chronology link"
+  ]
+    .filter(Boolean)
+    .join("; ");
+
+  return compactList([
+    `${index + 1}. ${formatDate(record.date)} - ${record.title}`,
+    [
+      `Decision: ${RECORD_DECISION_LABELS[recordDecision(record)]}`,
+      `Value: ${record.selectionValue || "Unassigned"}`,
+      record.chapter?.name,
+      record.documentType,
+      `NAID ${record.naid || "Pending"}`
+    ]
+      .filter(Boolean)
+      .join(" | "),
+    `Source support: ${support}`,
+    `Source note: ${record.frusSourceNote || record.sourceNote || "Source note pending."}`,
+    record.compilerNote ? `Compiler note: ${record.compilerNote}` : "",
+    relatedSourceCandidates.length ? "Related source candidates:" : "",
+    ...relatedSourceCandidates.slice(0, 5).map(sourceCandidatePacketLine),
+    relatedSourceCandidates.length > 5 ? `${relatedSourceCandidates.length - 5} more linked source candidates on the record card.` : "",
+    publicChronologyLinks.length ? "Related public chronology:" : "",
+    ...publicChronologyLinks
+      .slice(0, 3)
+      .map((link, publicIndex) => `${publicIndex + 1}. ${formatDate(link.date)}: ${link.title}${link.pdfPageUrl ? ` (${link.pdfPageUrl})` : ""}`),
+    publicChronologyLinks.length > 3 ? `${publicChronologyLinks.length - 3} more public chronology links on the record card.` : "",
+    record.pdfUrl ? `PDF: ${record.pdfUrl}` : "",
+    record.catalogUrl ? `Catalog: ${record.catalogUrl}` : ""
+  ]);
+}
+
+function selectionSlateDecisionSection(label, items) {
+  return packetLines([
+    label,
+    `Count: ${items.length.toLocaleString()}`,
+    items.length ? chapterNames().map((name) => selectionSlateTrackSection(name, items)).filter(Boolean).join("\n\n") : "No records in this decision state."
+  ]);
+}
+
+function selectionSlateTrackSection(trackName, items) {
+  const trackRecords = items.filter((record) => record.chapter?.name === trackName).sort(compareRecordsForWorklist);
+  if (!trackRecords.length) return "";
+  const info = CHAPTER_INFO[trackName];
+  return packetLines([
+    `Track ${info?.number || ""}: ${info?.short || trackName}`,
+    trackRecords.map(selectionSlateRecordLine).join("\n\n")
+  ]);
+}
+
+function buildSelectionSlate() {
+  const decisionCounts = recordDecisionCounts();
+  const includeRecords = records.filter((record) => recordDecision(record) === "include").sort(compareRecordsForWorklist);
+  const maybeRecords = records.filter((record) => recordDecision(record) === "maybe").sort(compareRecordsForWorklist);
+  const selectedRecords = [...includeRecords, ...maybeRecords];
+
+  return packetLines([
+    "FRUS MEPP Selection Slate",
+    `Generated: ${new Date().toISOString()}`,
+    `Live site: https://therealjameswilson.github.io/Bush41-MEPP/`,
+    "",
+    "Decision Summary",
+    `${decisionCounts.include.toLocaleString()} include / ${decisionCounts.maybe.toLocaleString()} maybe / ${decisionCounts.exclude.toLocaleString()} exclude / ${decisionCounts.undecided.toLocaleString()} undecided`,
+    "",
+    selectedRecords.length
+      ? [
+          selectionSlateDecisionSection("Include", includeRecords),
+          "",
+          selectionSlateDecisionSection("Maybe", maybeRecords)
+        ].join("\n")
+      : "No Include or Maybe records are marked in this browser yet."
+  ]);
+}
+
 function sourceNoteVerificationFlags(note) {
   const flags = [];
   if (!note) flags.push("Source note pending");
@@ -2147,6 +2229,10 @@ function bindEvents() {
   selectors.copyActionWorklist?.addEventListener("click", () => copyText(buildCompilerActionWorklist(), selectors.copyActionWorklist));
   selectors.downloadActionWorklist?.addEventListener("click", () => {
     downloadTextFile("bush41-mepp-compiler-action-worklist.txt", `${buildCompilerActionWorklist()}\n`);
+  });
+  selectors.copySelectionSlate?.addEventListener("click", () => copyText(buildSelectionSlate(), selectors.copySelectionSlate));
+  selectors.downloadSelectionSlate?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-selection-slate.txt", `${buildSelectionSlate()}\n`);
   });
 
   [

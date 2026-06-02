@@ -15,6 +15,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Search, filters, local review state, source-note and compiler-packet copy buttons, and CSV export
 - Filter-aware source-note registers for the visible chronology and source-candidate queues, with copy/download actions
 - Browser-saved record decisions for Include, Maybe, and Exclude, with filters and portable workspace-state support
+- Copy/download selection slate for browser-marked Include and Maybe records, grouped by track with source support and source-note context
 - Batch copy/download of visible chronology and source-candidate compiler packets
 - Compiler action dashboard for one-click anchor/high, unsupported, public-crosswalk, digital-candidate, and shortlisted-source queues
 - Copy/download compiler action worklist covering unresolved record queues, source-candidate queues, and open gap follow-up
@@ -36,6 +37,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Track coverage matrix and exportable coverage summary for source-support, public-crosswalk, undecided-selection, and review-risk triage
 - FRUS-style source note generation and audit checks for presidential records and source candidates
 - GitHub Actions validation and GitHub Pages deployment workflow
+- Compiler-network handoff copy button for moving page context into pull requests, source-note checks, or cross-tool review
 - Reproducible harvest scripts and JSON/JS data bundles for GitHub Pages
 
 ## Run Locally
