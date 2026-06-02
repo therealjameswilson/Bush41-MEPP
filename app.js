@@ -80,6 +80,8 @@ const selectors = {
   downloadRecordAnnotationPlanner: document.querySelector("#download-record-annotation-planner"),
   copyRecordSourceNotes: document.querySelector("#copy-record-source-notes"),
   downloadRecordSourceNotes: document.querySelector("#download-record-source-notes"),
+  copyRecordSourceMap: document.querySelector("#copy-record-source-map"),
+  downloadRecordSourceMap: document.querySelector("#download-record-source-map"),
   copyMeetingCrosswalk: document.querySelector("#copy-meeting-crosswalk"),
   downloadMeetingCrosswalk: document.querySelector("#download-meeting-crosswalk"),
   copyRecordPeopleIndex: document.querySelector("#copy-record-people-index"),
@@ -2004,6 +2006,169 @@ function buildRecordSourceNoteRegister() {
   ]);
 }
 
+function sourceMapKey(parts) {
+  return parts.map((part) => String(part || "")).join("\u001f");
+}
+
+function recordSourceMapLine(record, index) {
+  return compactList([
+    `${index + 1}. ${formatDate(record.date)} - ${record.title}`,
+    [record.documentType, record.selectionValue, RECORD_DECISION_LABELS[recordDecision(record)] || "Undecided", record.chapter?.name, `NAID ${record.naid}`]
+      .filter(Boolean)
+      .join(" | "),
+    record.catalogUrl ? `Catalog: ${record.catalogUrl}` : "",
+    record.pdfUrl ? `PDF: ${record.pdfUrl}` : ""
+  ]);
+}
+
+function candidateSourceMapLine(candidate, index, visibleRecordIds) {
+  const relatedVisibleRecords = (candidate.relatedRecords || []).filter((record) => visibleRecordIds.has(record.id));
+  return compactList([
+    `${index + 1}. ${candidate.title}`,
+    [candidate.priority, candidate.lane, candidate.level, candidate.localIdentifier, candidate.date].filter(Boolean).join(" | "),
+    relatedVisibleRecords.length
+      ? `Visible FRUS links: ${relatedVisibleRecords.map((record) => [record.date, record.title].filter(Boolean).join(" - ")).join("; ")}`
+      : "",
+    candidate.catalogUrl ? `Catalog: ${candidate.catalogUrl}` : "",
+    candidate.digitalObjectUrl ? `Digital object: ${candidate.digitalObjectUrl}` : ""
+  ]);
+}
+
+function buildVisibleSourceMapGroups() {
+  const recordGroups = new Map();
+  const candidateGroups = new Map();
+  const visibleRecordIds = new Set(visibleRecords.map((record) => record.id));
+
+  for (const record of visibleRecords) {
+    const source = record.source || {};
+    const key = sourceMapKey(["presidential", source.naid, source.shortName || source.title, source.url]);
+    if (!recordGroups.has(key)) {
+      recordGroups.set(key, {
+        source,
+        records: [],
+        notes: new Set()
+      });
+    }
+    const group = recordGroups.get(key);
+    group.records.push(record);
+    if (record.sourceNoteLocation) group.notes.add(record.sourceNoteLocation);
+    else if (record.frusSourceNote || record.sourceNote) group.notes.add(record.frusSourceNote || record.sourceNote);
+
+    for (const candidate of linkedSourceCandidatesForRecord(record)) {
+      const laneGroup = candidateLaneGroup(candidate);
+      const candidateKey = sourceMapKey([
+        "candidate",
+        candidate.repository,
+        candidate.collection,
+        candidate.sourceSeries,
+        laneGroup,
+        candidate.sourceSeriesNaid
+      ]);
+      if (!candidateGroups.has(candidateKey)) {
+        candidateGroups.set(candidateKey, {
+          repository: candidate.repository || "Repository not specified",
+          collection: candidate.collection || "Collection not specified",
+          sourceSeries: candidate.sourceSeries || "Series not specified",
+          sourceSeriesNaid: candidate.sourceSeriesNaid || "",
+          laneGroup,
+          candidates: new Map(),
+          notes: new Set(),
+          visibleRecordIds: new Set()
+        });
+      }
+      const candidateGroup = candidateGroups.get(candidateKey);
+      candidateGroup.candidates.set(candidate.id, candidate);
+      candidateGroup.visibleRecordIds.add(record.id);
+      if (candidate.sourceNote) candidateGroup.notes.add(candidate.sourceNote);
+    }
+  }
+
+  return { recordGroups: [...recordGroups.values()], candidateGroups: [...candidateGroups.values()], visibleRecordIds };
+}
+
+function sourceMapRecordGroupSection(group, index) {
+  const recordsForGroup = group.records.sort(compareRecordsForWorklist);
+  const source = group.source || {};
+  return packetLines([
+    `${index + 1}. Presidential record series: ${source.shortName || source.title || "Series not specified"}`,
+    `Repository: George H.W. Bush Library / National Archives Catalog`,
+    source.naid ? `Series NAID: ${source.naid}` : "",
+    source.url ? `Series catalog: ${source.url}` : "",
+    `Visible records: ${recordsForGroup.length.toLocaleString()}`,
+    `Anchor/High records: ${recordsForGroup.filter(isAnchorOrHigh).length.toLocaleString()}`,
+    `Open local review: ${recordsForGroup.filter((record) => !reviewedRecords.has(record.id)).length.toLocaleString()}`,
+    "",
+    "Source-note examples:",
+    [...group.notes].slice(0, 3).map((note, noteIndex) => `${noteIndex + 1}. ${note}`).join("\n") || "No source-note examples.",
+    group.notes.size > 3 ? `${group.notes.size - 3} more source-note variants in visible record source notes.` : "",
+    "",
+    "Visible record examples:",
+    recordsForGroup.slice(0, 10).map(recordSourceMapLine).join("\n\n"),
+    recordsForGroup.length > 10 ? `${recordsForGroup.length - 10} more visible records in this series.` : ""
+  ]);
+}
+
+function sourceMapCandidateGroupSection(group, index, visibleRecordIds) {
+  const candidates = [...group.candidates.values()].sort(compareSourceCandidatesForWorklist);
+  const digitalCount = candidates.filter(candidateHasDigitalObject).length;
+  return packetLines([
+    `${index + 1}. Linked source candidate series: ${group.sourceSeries}`,
+    `Repository: ${group.repository}`,
+    `Collection: ${group.collection}`,
+    `Lane group: ${group.laneGroup}`,
+    group.sourceSeriesNaid ? `Series NAID: ${group.sourceSeriesNaid}` : "",
+    `Linked candidates: ${candidates.length.toLocaleString()}`,
+    `Linked visible presidential records: ${group.visibleRecordIds.size.toLocaleString()}`,
+    `Digital objects: ${digitalCount.toLocaleString()} of ${candidates.length.toLocaleString()}`,
+    "",
+    "Source-note examples:",
+    [...group.notes].slice(0, 2).map((note, noteIndex) => `${noteIndex + 1}. ${note}`).join("\n") || "No source-note examples.",
+    group.notes.size > 2 ? `${group.notes.size - 2} more source-note variants in linked candidate notes.` : "",
+    "",
+    "Candidate examples:",
+    candidates.slice(0, 10).map((candidate, candidateIndex) => candidateSourceMapLine(candidate, candidateIndex, visibleRecordIds)).join("\n\n"),
+    candidates.length > 10 ? `${candidates.length - 10} more linked candidates in this source series.` : ""
+  ]);
+}
+
+function buildVisibleSourceMap() {
+  const { recordGroups, candidateGroups, visibleRecordIds } = buildVisibleSourceMapGroups();
+  const linkedCandidateCount = candidateGroups.reduce((sum, group) => sum + group.candidates.size, 0);
+
+  return packetLines([
+    "FRUS MEPP Visible Source Map",
+    `Generated: ${new Date().toISOString()}`,
+    `Live site: https://therealjameswilson.github.io/Bush41-MEPP/`,
+    `Visible presidential records: ${visibleRecords.length.toLocaleString()}`,
+    `Presidential record series represented: ${recordGroups.length.toLocaleString()}`,
+    `Linked source-candidate series represented: ${candidateGroups.length.toLocaleString()}`,
+    `Linked source candidates represented: ${linkedCandidateCount.toLocaleString()}`,
+    "",
+    "Compiler use:",
+    "- Use this after filtering the chronology to see the repositories, collections, and source series implicated by that subset.",
+    "- Use source-note examples as drafting aids only; verify exact folder, item, classification, distribution, and digital-object details against scans and catalog records.",
+    "- Compare linked source-candidate series against presidential record series before preparing archive requests or final source notes.",
+    "",
+    "Presidential Record Series",
+    recordGroups.length
+      ? recordGroups.sort((a, b) => String(a.source?.shortName || a.source?.title || "").localeCompare(String(b.source?.shortName || b.source?.title || ""))).map(sourceMapRecordGroupSection).join("\n\n---\n\n")
+      : "No presidential record series in the visible chronology.",
+    "",
+    "Linked Source Candidate Series",
+    candidateGroups.length
+      ? candidateGroups
+          .sort(
+            (a, b) =>
+              a.repository.localeCompare(b.repository) ||
+              a.laneGroup.localeCompare(b.laneGroup) ||
+              a.sourceSeries.localeCompare(b.sourceSeries)
+          )
+          .map((group, index) => sourceMapCandidateGroupSection(group, index, visibleRecordIds))
+          .join("\n\n---\n\n")
+      : "No linked source-candidate series for the visible chronology."
+  ]);
+}
+
 function visibleDecisionCounts(items) {
   return items.reduce(
     (counts, record) => {
@@ -2864,6 +3029,10 @@ function bindEvents() {
   selectors.copyRecordSourceNotes?.addEventListener("click", () => copyText(buildRecordSourceNoteRegister(), selectors.copyRecordSourceNotes));
   selectors.downloadRecordSourceNotes?.addEventListener("click", () => {
     downloadTextFile("bush41-mepp-visible-record-source-notes.txt", `${buildRecordSourceNoteRegister()}\n`);
+  });
+  selectors.copyRecordSourceMap?.addEventListener("click", () => copyText(buildVisibleSourceMap(), selectors.copyRecordSourceMap));
+  selectors.downloadRecordSourceMap?.addEventListener("click", () => {
+    downloadTextFile("bush41-mepp-visible-source-map.txt", `${buildVisibleSourceMap()}\n`);
   });
   selectors.copyMeetingCrosswalk?.addEventListener("click", () => copyText(buildVisibleMeetingCrosswalk(), selectors.copyMeetingCrosswalk));
   selectors.downloadMeetingCrosswalk?.addEventListener("click", () => {

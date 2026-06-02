@@ -40,6 +40,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - FRUS-style source note generation and audit checks for presidential records and source candidates
 - Filter-aware draft document-list export from the opening chronology for working volume assembly
 - Filter-aware annotation planner from visible records, public chronology links, people/entities, issues, and source-candidate evidence
+- Filter-aware source map grouping visible presidential records and linked candidates by repository, collection, and source series
 - Filter-aware people index export from the opening chronology for front-matter and participant verification
 - Filter-aware chronology issue register for source-support gaps, local review state, and PDF/source-note verification prompts
 - GitHub Actions validation and GitHub Pages deployment workflow
