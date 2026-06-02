@@ -138,6 +138,7 @@ const selectors = {
   gapPriority: document.querySelector("#gap-priority"),
   gapCategory: document.querySelector("#gap-category"),
   gapCount: document.querySelector("#gap-count"),
+  copyGapViewLink: document.querySelector("#copy-gap-view-link"),
   exportGaps: document.querySelector("#export-gaps-csv"),
   reviewRoot: document.querySelector("#review-root"),
   sourceReviewRoot: document.querySelector("#source-review-root"),
@@ -1359,6 +1360,25 @@ function scrollToSection(id) {
   document.querySelector(id)?.scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
+function scrollToCurrentHash() {
+  const hash = window.location?.hash || "";
+  if (hash.length < 2) return;
+  let id = hash.slice(1);
+  try {
+    id = decodeURIComponent(id);
+  } catch {
+    id = hash.slice(1);
+  }
+  const target = document.getElementById(id);
+  if (!target) return;
+  const scroll = () => target.scrollIntoView({ block: "start" });
+  if (typeof window.requestAnimationFrame === "function") {
+    window.requestAnimationFrame(() => window.requestAnimationFrame(scroll));
+    return;
+  }
+  scroll();
+}
+
 function applyActionQueue(target) {
   if (target.startsWith("anchor-high")) {
     resetRecordFilters();
@@ -1499,6 +1519,35 @@ function buildStatementViewUrl() {
     if (value) base.searchParams.set(param, value);
   }
   base.hash = "statements";
+  return base.toString();
+}
+
+const GAP_VIEW_PARAMS = [
+  ["gq", "gapSearch"],
+  ["gpriority", "gapPriority"],
+  ["gcategory", "gapCategory"]
+];
+
+function applyGapViewFromUrl() {
+  if (!window.location?.search) return false;
+  const params = new URLSearchParams(window.location.search);
+  let applied = false;
+  for (const [param, selectorName] of GAP_VIEW_PARAMS) {
+    const control = selectors[selectorName];
+    if (!control || !params.has(param)) continue;
+    control.value = params.get(param) || "";
+    applied = true;
+  }
+  return applied;
+}
+
+function buildGapViewUrl() {
+  const base = new URL(window.location?.pathname || "/", window.location?.origin || "https://therealjameswilson.github.io");
+  for (const [param, selectorName] of GAP_VIEW_PARAMS) {
+    const value = selectors[selectorName]?.value || "";
+    if (value) base.searchParams.set(param, value);
+  }
+  base.hash = "gaps";
   return base.toString();
 }
 
@@ -3173,6 +3222,7 @@ function bindEvents() {
   selectors.exportPersons?.addEventListener("click", exportVisiblePersons);
 
   [selectors.gapSearch, selectors.gapPriority, selectors.gapCategory].forEach((control) => control?.addEventListener("input", renderGaps));
+  selectors.copyGapViewLink?.addEventListener("click", () => copyText(buildGapViewUrl(), selectors.copyGapViewLink));
   selectors.exportGaps?.addEventListener("click", exportVisibleGaps);
 
   selectors.copyActionWorklist?.addEventListener("click", () => copyText(buildCompilerActionWorklist(), selectors.copyActionWorklist));
@@ -3340,6 +3390,7 @@ function init() {
   applyRecordViewFromUrl();
   applySourceCandidateViewFromUrl();
   applyStatementViewFromUrl();
+  applyGapViewFromUrl();
   renderStats();
   renderChapterGrid();
   renderRecords();
@@ -3351,6 +3402,7 @@ function init() {
   renderGaps();
   renderReviewQueue();
   bindEvents();
+  scrollToCurrentHash();
 }
 
 init();

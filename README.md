@@ -29,6 +29,7 @@ Scope: *Foreign Relations of the United States, 1989-1992, Volume XIV, Arab-Isra
 - Filter-aware source-candidate pull list for archive requests/checklists, grouped by repository, lane, and source series
 - Browser-saved source-candidate shortlist and reviewed-state queue for multi-session compiler triage
 - Persons list, event dossiers, source-series leads, and a compiler gap register
+- Shareable Gap Register view links for exact filtered risk-review handoffs
 - PDF page-count/review-marker enrichment for the current presidential corpus
 - Date/track/term-based public/private chronology linkage
 - Public NARA source-candidate harvests for unfilled State, NSC, WHORM, and post-Madrid lanes
