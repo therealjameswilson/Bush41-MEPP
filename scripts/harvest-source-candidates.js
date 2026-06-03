@@ -169,7 +169,7 @@ function toCandidate(record, queryInfo) {
     collection: collection?.title || "",
     collectionNaid: collection?.naid || "",
     reason: `Candidate from ${queryInfo.lane}; verify scope, date range, and availability before treating as compiler evidence.`,
-    sourceNote: `${sourceNoteParts.join(", ")}. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review. Catalog control: NAID ${record.naId}.`
+    sourceNote: `${sourceNoteParts.join(", ")}. Folder-level source candidate; document-level classification, distribution, drafting, and place/time data require review.`
   };
 }
 
